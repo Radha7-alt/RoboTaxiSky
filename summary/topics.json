@@ -1,434 +1,35 @@
 {
-  "topic_7": {
-    "label": [
-      "therapy",
-      "need",
-      "men",
-      "2025",
-      "therapist"
-    ],
-    "count": 1604,
-    "daily": {
-      "2025-05-31": 197,
-      "2025-06-01": 224,
-      "2025-06-02": 308,
-      "2025-06-03": 123,
-      "2025-06-04": 372,
-      "2025-06-05": 310,
-      "2025-06-06": 70
-    },
-    "sentiment": {
-      "negative": 546,
-      "positive": 391,
-      "neutral": 667
-    },
-    "emotion": {
-      "anger": 132,
-      "neutral": 458,
-      "joy": 210,
-      "fear": 400,
-      "sadness": 277,
-      "disgust": 55,
-      "surprise": 72
-    },
-    "hashtags": [
-      "#stress",
-      "#strategy",
-      "#healthcare",
-      "#competitiveintelligence",
-      "#marketing",
-      "#biotech",
-      "#pharmaceutical",
-      "#pharma",
-      "#competitivemarketing",
-      "#art"
-    ],
-    "emojis": [
-      "😭",
-      "🏻",
-      "😂",
-      "🙏",
-      "💔",
-      "👉",
-      "♀",
-      "👇",
-      "🔥",
-      "🔗"
-    ]
-  },
-  "topic_1": {
-    "label": [
-      "check",
-      "washing",
-      "arizona",
-      "revitalize",
-      "shock"
-    ],
-    "count": 3618,
-    "daily": {
-      "2025-05-31": 84,
-      "2025-06-01": 311,
-      "2025-06-02": 1877,
-      "2025-06-03": 162,
-      "2025-06-04": 565,
-      "2025-06-05": 522,
-      "2025-06-06": 97
-    },
-    "sentiment": {
-      "positive": 781,
-      "negative": 1722,
-      "neutral": 1115
-    },
-    "emotion": {
-      "sadness": 742,
-      "anger": 290,
-      "neutral": 668,
-      "surprise": 232,
-      "fear": 1222,
-      "joy": 311,
-      "disgust": 153
-    },
-    "hashtags": [
-      "#MentalHealthMatters",
-      "#CelebrityConfessions",
-      "#art",
-      "#MentalHealth",
-      "#ADHD",
-      "#MentalHealthAwareness",
-      "#adhd",
-      "#mentalhealth",
-      "#CelebrityMeltdown",
-      "#CelebrityNews"
-    ],
-    "emojis": [
-      "😭",
-      "😂",
-      "💙",
-      "💔",
-      "💜",
-      "♀",
-      "👉",
-      "💚",
-      "🔗",
-      "🌈"
-    ]
-  },
-  "topic_2": {
-    "label": [
-      "loss",
-      "new",
-      "stop",
-      "love",
-      "life"
-    ],
-    "count": 2524,
-    "daily": {
-      "2025-05-31": 199,
-      "2025-06-01": 363,
-      "2025-06-02": 415,
-      "2025-06-03": 202,
-      "2025-06-04": 363,
-      "2025-06-05": 894,
-      "2025-06-06": 88
-    },
-    "sentiment": {
-      "positive": 441,
-      "neutral": 1045,
-      "negative": 1038
-    },
-    "emotion": {
-      "fear": 725,
-      "sadness": 610,
-      "anger": 234,
-      "neutral": 562,
-      "joy": 188,
-      "surprise": 118,
-      "disgust": 87
-    },
-    "hashtags": [
-      "#news",
-      "#ADHD",
-      "#DubNation",
-      "#News",
-      "#MentalHealthMatters",
-      "#AI",
-      "#mentalhealth",
-      "#musicsky",
-      "#musicfeed",
-      "#jazzsky"
-    ],
-    "emojis": [
-      "💔",
-      "🙏",
-      "😭",
-      "🕊",
-      "💞",
-      "🖼",
-      "💙",
-      "🔗",
-      "👉",
-      "🔥"
-    ]
-  },
-  "topic_0": {
-    "label": [
-      "im",
-      "just",
-      "like",
-      "time",
-      "crying"
-    ],
-    "count": 7453,
-    "daily": {
-      "2025-05-31": 296,
-      "2025-06-01": 1671,
-      "2025-06-02": 469,
-      "2025-06-03": 832,
-      "2025-06-04": 2086,
-      "2025-06-05": 1581,
-      "2025-06-06": 518
-    },
-    "sentiment": {
-      "negative": 4078,
-      "neutral": 1982,
-      "positive": 1393
-    },
-    "emotion": {
-      "fear": 2203,
-      "surprise": 523,
-      "neutral": 1336,
-      "joy": 531,
-      "anger": 602,
-      "sadness": 1838,
-      "disgust": 420
-    },
-    "hashtags": [
-      "#art",
-      "#depression",
-      "#ADHD",
-      "#adhd",
-      "#mentalhealth",
-      "#sketch",
-      "#photography",
-      "#painting",
-      "#poetry",
-      "#drawing"
-    ],
-    "emojis": [
-      "😭",
-      "😂",
-      "🙏",
-      "🏻",
-      "😅",
-      "💔",
-      "💙",
-      "🙃",
-      "💀",
-      "🔥"
-    ]
-  },
-  "topic_3": {
+  "topic_4": {
     "label": [
       "health",
       "mental",
-      "struggles",
-      "stars",
-      "trauma"
+      "new",
+      "support",
+      "month"
     ],
-    "count": 2048,
+    "count": 2812,
     "daily": {
-      "2025-05-31": 99,
-      "2025-06-01": 480,
-      "2025-06-02": 491,
-      "2025-06-03": 154,
-      "2025-06-04": 434,
-      "2025-06-05": 273,
-      "2025-06-06": 117
-    },
-    "sentiment": {
-      "negative": 952,
-      "positive": 516,
-      "neutral": 580
-    },
-    "emotion": {
-      "sadness": 451,
-      "fear": 465,
-      "joy": 287,
-      "neutral": 452,
-      "surprise": 107,
-      "disgust": 96,
-      "anger": 190
-    },
-    "hashtags": [
-      "#MentalHealth",
-      "#mentalhealth",
-      "#CelebrityTransformations",
-      "#news",
-      "#CitizenPortal",
-      "#DubNation",
-      "#CelebrityMakeovers",
-      "#art",
-      "#TransformationTuesday",
-      "#hiring"
-    ],
-    "emojis": [
-      "😭",
-      "🏳",
-      "🌈",
-      "⚧",
-      "😂",
-      "🌿",
-      "⚠",
-      "💔",
-      "💙",
-      "💜"
-    ]
-  },
-  "topic_5": {
-    "label": [
-      "stress",
-      "dont",
-      "like",
-      "anxiety",
-      "worry"
-    ],
-    "count": 2396,
-    "daily": {
-      "2025-05-31": 133,
-      "2025-06-01": 293,
-      "2025-06-02": 752,
-      "2025-06-03": 315,
-      "2025-06-04": 509,
-      "2025-06-05": 340,
-      "2025-06-06": 54
-    },
-    "sentiment": {
-      "neutral": 892,
-      "positive": 492,
-      "negative": 1012
-    },
-    "emotion": {
-      "fear": 864,
-      "sadness": 453,
-      "joy": 197,
-      "disgust": 63,
-      "anger": 180,
-      "neutral": 534,
-      "surprise": 105
-    },
-    "hashtags": [
-      "#poetry",
-      "#news",
-      "#recovery",
-      "#nowplaying",
-      "#art",
-      "#AI",
-      "#uknews",
-      "#transistor",
-      "#Semiconductors",
-      "#diode"
-    ],
-    "emojis": [
-      "💔",
-      "🙏",
-      "🏻",
-      "😂",
-      "🚨",
-      "💙",
-      "🔗",
-      "😭",
-      "👉",
-      "🖖"
-    ]
-  },
-  "topic_6": {
-    "label": [
-      "crying",
-      "cutting",
-      "stress",
-      "trump",
-      "musk"
-    ],
-    "count": 2127,
-    "daily": {
-      "2025-05-31": 83,
-      "2025-06-01": 446,
-      "2025-06-02": 478,
-      "2025-06-03": 204,
-      "2025-06-04": 383,
-      "2025-06-05": 453,
-      "2025-06-06": 80
-    },
-    "sentiment": {
-      "neutral": 604,
-      "positive": 518,
-      "negative": 1005
-    },
-    "emotion": {
-      "fear": 1023,
-      "sadness": 246,
-      "anger": 168,
-      "joy": 121,
-      "neutral": 380,
-      "disgust": 102,
-      "surprise": 87
-    },
-    "hashtags": [
-      "#dpdi",
-      "#AI",
-      "#art",
-      "#findom",
-      "#RespectTheAmazon",
-      "#nsfw",
-      "#femdom",
-      "#modernrock",
-      "#radio",
-      "#nowplaying"
-    ],
-    "emojis": [
-      "😭",
-      "💙",
-      "⚠",
-      "😉",
-      "😅",
-      "🚨",
-      "🌈",
-      "😂",
-      "💜",
-      "🏳"
-    ]
-  },
-  "topic_4": {
-    "label": [
-      "cutting",
-      "worry",
-      "dont",
-      "trump",
-      "musk"
-    ],
-    "count": 2516,
-    "daily": {
-      "2025-05-31": 42,
       "2025-06-01": 633,
       "2025-06-02": 263,
       "2025-06-03": 102,
       "2025-06-04": 934,
       "2025-06-05": 365,
-      "2025-06-06": 177
+      "2025-06-06": 177,
+      "2025-06-07": 338
     },
     "sentiment": {
-      "positive": 450,
-      "negative": 971,
-      "neutral": 1095
+      "positive": 502,
+      "neutral": 1200,
+      "negative": 1110
     },
     "emotion": {
-      "neutral": 537,
+      "fear": 892,
+      "neutral": 563,
+      "joy": 244,
+      "anger": 276,
+      "sadness": 620,
       "disgust": 86,
-      "fear": 814,
-      "joy": 184,
-      "sadness": 543,
-      "anger": 229,
-      "surprise": 123
+      "surprise": 131
     },
     "hashtags": [
       "#news",
@@ -445,14 +46,413 @@
     "emojis": [
       "😭",
       "👉",
-      "👇",
-      "🔗",
       "🙏",
-      "😂",
-      "🔥",
-      "🏳",
+      "🔗",
+      "👇",
       "💔",
-      "★"
+      "😂",
+      "🏻",
+      "💙",
+      "🔥"
+    ]
+  },
+  "topic_6": {
+    "label": [
+      "therapy",
+      "therapist",
+      "music",
+      "need",
+      "crying"
+    ],
+    "count": 2373,
+    "daily": {
+      "2025-06-01": 446,
+      "2025-06-02": 478,
+      "2025-06-03": 204,
+      "2025-06-04": 383,
+      "2025-06-05": 453,
+      "2025-06-06": 81,
+      "2025-06-07": 328
+    },
+    "sentiment": {
+      "negative": 1088,
+      "positive": 554,
+      "neutral": 731
+    },
+    "emotion": {
+      "fear": 1080,
+      "surprise": 106,
+      "anger": 201,
+      "neutral": 443,
+      "joy": 169,
+      "sadness": 276,
+      "disgust": 98
+    },
+    "hashtags": [
+      "#dpdi",
+      "#art",
+      "#AI",
+      "#findom",
+      "#poetry",
+      "#RespectTheAmazon",
+      "#nsfw",
+      "#modernrock",
+      "#radio",
+      "#nowplaying"
+    ],
+    "emojis": [
+      "😭",
+      "💔",
+      "🏻",
+      "🙏",
+      "💙",
+      "⚠",
+      "😉",
+      "🇺",
+      "🏳",
+      "🚨"
+    ]
+  },
+  "topic_0": {
+    "label": [
+      "bskysocial",
+      "meds",
+      "food",
+      "children",
+      "check"
+    ],
+    "count": 7750,
+    "daily": {
+      "2025-06-01": 1671,
+      "2025-06-02": 469,
+      "2025-06-03": 832,
+      "2025-06-04": 2086,
+      "2025-06-05": 1581,
+      "2025-06-06": 519,
+      "2025-06-07": 592
+    },
+    "sentiment": {
+      "negative": 4257,
+      "neutral": 2103,
+      "positive": 1390
+    },
+    "emotion": {
+      "joy": 562,
+      "fear": 2241,
+      "neutral": 1342,
+      "disgust": 408,
+      "sadness": 2054,
+      "surprise": 527,
+      "anger": 616
+    },
+    "hashtags": [
+      "#art",
+      "#ADHD",
+      "#adhd",
+      "#depression",
+      "#mentalhealth",
+      "#photography",
+      "#painting",
+      "#anxiety",
+      "#sketch",
+      "#poetry"
+    ],
+    "emojis": [
+      "😭",
+      "😂",
+      "🙏",
+      "🏻",
+      "💔",
+      "😅",
+      "💙",
+      "🙃",
+      "💀",
+      "🌈"
+    ]
+  },
+  "topic_3": {
+    "label": [
+      "crying",
+      "im",
+      "loss",
+      "stop",
+      "right"
+    ],
+    "count": 2264,
+    "daily": {
+      "2025-06-01": 480,
+      "2025-06-02": 491,
+      "2025-06-03": 154,
+      "2025-06-04": 434,
+      "2025-06-05": 274,
+      "2025-06-06": 118,
+      "2025-06-07": 313
+    },
+    "sentiment": {
+      "negative": 1101,
+      "positive": 547,
+      "neutral": 616
+    },
+    "emotion": {
+      "fear": 484,
+      "anger": 232,
+      "neutral": 435,
+      "joy": 314,
+      "sadness": 576,
+      "surprise": 136,
+      "disgust": 87
+    },
+    "hashtags": [
+      "#MentalHealth",
+      "#news",
+      "#mentalhealth",
+      "#CelebrityTransformations",
+      "#art",
+      "#DubNation",
+      "#CelebrityMakeovers",
+      "#hiring",
+      "#jobalert",
+      "#jobsearch"
+    ],
+    "emojis": [
+      "😭",
+      "🏳",
+      "🌈",
+      "😂",
+      "⚧",
+      "💔",
+      "⚠",
+      "🙏",
+      "🏻",
+      "🌿"
+    ]
+  },
+  "topic_7": {
+    "label": [
+      "stress",
+      "just",
+      "work",
+      "break",
+      "know"
+    ],
+    "count": 1664,
+    "daily": {
+      "2025-06-01": 224,
+      "2025-06-02": 308,
+      "2025-06-03": 123,
+      "2025-06-04": 372,
+      "2025-06-05": 310,
+      "2025-06-06": 70,
+      "2025-06-07": 257
+    },
+    "sentiment": {
+      "neutral": 737,
+      "negative": 529,
+      "positive": 398
+    },
+    "emotion": {
+      "neutral": 434,
+      "anger": 138,
+      "fear": 424,
+      "surprise": 81,
+      "joy": 243,
+      "sadness": 299,
+      "disgust": 45
+    },
+    "hashtags": [
+      "#stress",
+      "#art",
+      "#mentalhealth",
+      "#strategy",
+      "#news",
+      "#meditation",
+      "#healthcare",
+      "#nowplaying",
+      "#MentalHealth",
+      "#ChakraJewelry"
+    ],
+    "emojis": [
+      "😭",
+      "🙏",
+      "🏻",
+      "💔",
+      "😂",
+      "👉",
+      "💚",
+      "🔗",
+      "😘",
+      "💀"
+    ]
+  },
+  "topic_5": {
+    "label": [
+      "worry",
+      "dont",
+      "crying",
+      "mental",
+      "health"
+    ],
+    "count": 2526,
+    "daily": {
+      "2025-06-01": 293,
+      "2025-06-02": 752,
+      "2025-06-03": 315,
+      "2025-06-04": 509,
+      "2025-06-05": 340,
+      "2025-06-06": 54,
+      "2025-06-07": 263
+    },
+    "sentiment": {
+      "negative": 1055,
+      "positive": 515,
+      "neutral": 956
+    },
+    "emotion": {
+      "anger": 180,
+      "fear": 983,
+      "sadness": 455,
+      "neutral": 520,
+      "joy": 213,
+      "disgust": 58,
+      "surprise": 117
+    },
+    "hashtags": [
+      "#poetry",
+      "#news",
+      "#recovery",
+      "#nowplaying",
+      "#depression",
+      "#art",
+      "#AI",
+      "#uknews",
+      "#transistor",
+      "#Semiconductors"
+    ],
+    "emojis": [
+      "💔",
+      "🙏",
+      "🏻",
+      "😂",
+      "🚨",
+      "💙",
+      "🔗",
+      "😭",
+      "👇",
+      "👉"
+    ]
+  },
+  "topic_2": {
+    "label": [
+      "loss",
+      "weight",
+      "game",
+      "open",
+      "trump"
+    ],
+    "count": 2694,
+    "daily": {
+      "2025-06-01": 363,
+      "2025-06-02": 415,
+      "2025-06-03": 202,
+      "2025-06-04": 363,
+      "2025-06-05": 894,
+      "2025-06-06": 88,
+      "2025-06-07": 369
+    },
+    "sentiment": {
+      "negative": 1136,
+      "positive": 474,
+      "neutral": 1084
+    },
+    "emotion": {
+      "fear": 738,
+      "sadness": 724,
+      "surprise": 127,
+      "neutral": 539,
+      "anger": 246,
+      "joy": 236,
+      "disgust": 84
+    },
+    "hashtags": [
+      "#news",
+      "#DubNation",
+      "#MentalHealthMatters",
+      "#mentalhealth",
+      "#ADHD",
+      "#recovery",
+      "#News",
+      "#NBA",
+      "#MentalHealth",
+      "#AI"
+    ],
+    "emojis": [
+      "💔",
+      "🙏",
+      "😭",
+      "🕊",
+      "💞",
+      "🖼",
+      "💙",
+      "🏻",
+      "😂",
+      "👉"
+    ]
+  },
+  "topic_1": {
+    "label": [
+      "im",
+      "just",
+      "like",
+      "dont",
+      "time"
+    ],
+    "count": 5749,
+    "daily": {
+      "2025-06-01": 311,
+      "2025-06-02": 1877,
+      "2025-06-03": 162,
+      "2025-06-04": 565,
+      "2025-06-05": 522,
+      "2025-06-06": 99,
+      "2025-06-07": 2213
+    },
+    "sentiment": {
+      "negative": 2904,
+      "positive": 1149,
+      "neutral": 1696
+    },
+    "emotion": {
+      "neutral": 826,
+      "sadness": 1329,
+      "fear": 1963,
+      "anger": 515,
+      "surprise": 407,
+      "joy": 546,
+      "disgust": 163
+    },
+    "hashtags": [
+      "#MentalHealthMatters",
+      "#CelebrityConfessions",
+      "#art",
+      "#MentalHealth",
+      "#ADHD",
+      "#adhd",
+      "#mentalhealth",
+      "#MentalHealthAwareness",
+      "#booksky",
+      "#oc"
+    ],
+    "emojis": [
+      "😭",
+      "💔",
+      "🏻",
+      "🙏",
+      "💕",
+      "😂",
+      "💙",
+      "👉",
+      "💜",
+      "♀"
     ]
   }
 }
