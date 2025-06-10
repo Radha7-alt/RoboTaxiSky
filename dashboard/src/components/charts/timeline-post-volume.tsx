@@ -90,7 +90,7 @@ export default function TimelinePostVolumeChart() {
               tickLine={false}
               axisLine={false}
               tickFormatter={(value) => value.toLocaleString()}
-              domain={[0, "dataMax + 10"]}
+              // domain={[0, "dataMax + 10"]}
               allowDecimals={false}
               tickCount={5}
             />

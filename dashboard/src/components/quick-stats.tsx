@@ -42,7 +42,9 @@ const StatCard = ({
     <div className="flex items-start justify-between">
       <div>
         <h3 className="text-lg font-semibold text-gray-700">{title}</h3>
-        <p className="text-3xl font-bold mt-2 text-gray-900">{value}</p>
+        <p className="text-3xl font-bold mt-2 text-gray-900 break-all">
+          {value}
+        </p>
 
         {trend !== undefined && (
           <div
