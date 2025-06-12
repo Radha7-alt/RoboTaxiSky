@@ -1,63 +1,4 @@
 {
-  "2025-06-04": {
-    "volume": 5646,
-    "sentiment": {
-      "negative": 2536,
-      "neutral": 1931,
-      "positive": 1179
-    },
-    "emotion": {
-      "fear": 1836,
-      "sadness": 1136,
-      "neutral": 1179,
-      "joy": 457,
-      "anger": 486,
-      "disgust": 239,
-      "surprise": 313
-    },
-    "language": {
-      "en": 4669,
-      "ar": 37,
-      "de": 37,
-      "sv": 6,
-      "en-US": 40,
-      "fr": 34,
-      "af": 1,
-      "ak": 2,
-      "es": 33,
-      "nb": 3,
-      "pt": 34,
-      "en-GB": 4,
-      "ja": 19,
-      "ko": 7,
-      "hy": 1,
-      "sq": 1,
-      "eu": 1,
-      "ru": 3,
-      "zh-CN": 1,
-      "zh-HK": 1,
-      "zh-TW": 1,
-      "id": 4,
-      "am": 2,
-      "nl": 11,
-      "jp": 3,
-      "it": 6,
-      "cs": 2,
-      "da": 1,
-      "no": 1,
-      "zh": 3,
-      "pl": 1,
-      "el": 1,
-      "en-AU": 4,
-      "pa": 1,
-      "fi": 3,
-      "tl": 1,
-      "tr": 1,
-      "ro": 1,
-      "uk": 1,
-      "hu": 1
-    }
-  },
   "2025-06-05": {
     "volume": 4739,
     "sentiment": {
@@ -320,23 +261,23 @@
     }
   },
   "2025-06-10": {
-    "volume": 5354,
+    "volume": 5359,
     "sentiment": {
       "neutral": 1847,
-      "negative": 2590,
-      "positive": 917
+      "negative": 2594,
+      "positive": 918
     },
     "emotion": {
-      "sadness": 1529,
-      "joy": 670,
+      "sadness": 1530,
+      "joy": 671,
       "neutral": 547,
-      "fear": 1671,
+      "fear": 1674,
       "anger": 516,
       "disgust": 40,
       "surprise": 381
     },
     "language": {
-      "en": 4292,
+      "en": 4294,
       "ar": 207,
       "en-US": 33,
       "ja": 18,
@@ -373,6 +314,40 @@
       "Angika": 1,
       "ce": 1,
       "ro": 1
+    }
+  },
+  "2025-06-11": {
+    "volume": 1288,
+    "sentiment": {
+      "negative": 660,
+      "positive": 199,
+      "neutral": 429
+    },
+    "emotion": {
+      "sadness": 335,
+      "fear": 417,
+      "surprise": 105,
+      "neutral": 134,
+      "anger": 124,
+      "joy": 154,
+      "disgust": 19
+    },
+    "language": {
+      "en": 1090,
+      "ar": 22,
+      "pt": 8,
+      "es": 4,
+      "ja": 5,
+      "en-GB": 1,
+      "en-US": 17,
+      "fr": 7,
+      "de": 4,
+      "zh": 1,
+      "th": 1,
+      "tr": 1,
+      "fi": 1,
+      "cs": 1,
+      "vi": 1
     }
   }
 }
