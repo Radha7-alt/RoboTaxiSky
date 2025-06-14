@@ -1,46 +1,4 @@
 {
-  "2025-06-06": {
-    "volume": 1208,
-    "sentiment": {
-      "positive": 208,
-      "neutral": 486,
-      "negative": 514
-    },
-    "emotion": {
-      "surprise": 106,
-      "fear": 428,
-      "anger": 110,
-      "joy": 150,
-      "sadness": 303,
-      "neutral": 101,
-      "disgust": 10
-    },
-    "language": {
-      "en": 1061,
-      "pt": 7,
-      "en-US": 10,
-      "ja": 7,
-      "en-GB": 2,
-      "el": 1,
-      "fr-FR": 1,
-      "ko": 1,
-      "zh-CN": 1,
-      "zh-HK": 1,
-      "zh-TW": 1,
-      "es": 2,
-      "zh": 1,
-      "de": 4,
-      "fr": 1,
-      "ar": 5,
-      "it": 1,
-      "as": 1,
-      "av": 1,
-      "id": 1,
-      "an": 1,
-      "sv": 1,
-      "en-AU": 1
-    }
-  },
   "2025-06-07": {
     "volume": 4678,
     "sentiment": {
@@ -291,23 +249,23 @@
     }
   },
   "2025-06-12": {
-    "volume": 4489,
+    "volume": 4492,
     "sentiment": {
-      "negative": 2164,
+      "negative": 2165,
       "neutral": 1501,
-      "positive": 824
+      "positive": 826
     },
     "emotion": {
-      "fear": 1477,
+      "fear": 1479,
       "sadness": 1287,
       "anger": 395,
       "surprise": 328,
-      "neutral": 393,
+      "neutral": 394,
       "joy": 580,
       "disgust": 29
     },
     "language": {
-      "en": 3657,
+      "en": 3658,
       "en-US": 37,
       "de": 33,
       "ja": 28,
@@ -345,6 +303,69 @@
       "ca": 1,
       "av": 1,
       "bs": 1
+    }
+  },
+  "2025-06-13": {
+    "volume": 5036,
+    "sentiment": {
+      "positive": 939,
+      "neutral": 1658,
+      "negative": 2439
+    },
+    "emotion": {
+      "anger": 512,
+      "fear": 1602,
+      "joy": 684,
+      "sadness": 1403,
+      "surprise": 373,
+      "disgust": 34,
+      "neutral": 428
+    },
+    "language": {
+      "en": 4240,
+      "ja": 21,
+      "es": 21,
+      "de": 37,
+      "de-DE": 2,
+      "en-US": 39,
+      "pt": 28,
+      "en-GB": 11,
+      "fr": 30,
+      "nl": 5,
+      "pl": 3,
+      "it": 7,
+      "ru": 2,
+      "an": 1,
+      "as": 1,
+      "he": 2,
+      "zh-CN": 1,
+      "zh-HK": 1,
+      "zh-TW": 1,
+      "af": 1,
+      "fi": 2,
+      "is": 2,
+      "sq": 1,
+      "ar": 31,
+      "am": 1,
+      "zh": 1,
+      "fr-FR": 3,
+      "sv": 2,
+      "cs": 1,
+      "el": 2,
+      "tr": 2,
+      "da": 2,
+      "it-IT": 1,
+      "ko": 1,
+      "ab": 1,
+      "Angika": 1,
+      "hu": 1,
+      "hy": 1,
+      "nb": 2,
+      "ht": 1,
+      "en-AU": 1,
+      "la": 1,
+      "jp": 2,
+      "mk": 1
     }
   }
 }
