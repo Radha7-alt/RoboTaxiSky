@@ -1,61 +1,4 @@
 {
-  "2025-06-09": {
-    "volume": 5303,
-    "sentiment": {
-      "neutral": 1864,
-      "negative": 2525,
-      "positive": 914
-    },
-    "emotion": {
-      "joy": 662,
-      "fear": 1651,
-      "neutral": 551,
-      "surprise": 381,
-      "sadness": 1441,
-      "disgust": 40,
-      "anger": 577
-    },
-    "language": {
-      "en": 4342,
-      "es": 24,
-      "ar": 92,
-      "ak": 2,
-      "am": 2,
-      "pt": 32,
-      "en-US": 52,
-      "fr": 25,
-      "ja": 19,
-      "de": 54,
-      "nb": 4,
-      "av": 1,
-      "la": 1,
-      "id": 2,
-      "is": 1,
-      "nl": 4,
-      "it": 4,
-      "hu": 2,
-      "lt": 1,
-      "th": 1,
-      "tr": 4,
-      "ko": 7,
-      "af": 1,
-      "sv": 8,
-      "ca": 1,
-      "zh": 3,
-      "en-GB": 2,
-      "tl": 3,
-      "an": 1,
-      "en-AU": 1,
-      "sq": 1,
-      "ru": 3,
-      "fr-CA": 1,
-      "el": 1,
-      "uk": 1,
-      "ro": 1,
-      "hy": 1,
-      "no": 1
-    }
-  },
   "2025-06-10": {
     "volume": 5359,
     "sentiment": {
@@ -309,14 +252,14 @@
     }
   },
   "2025-06-15": {
-    "volume": 4616,
+    "volume": 4617,
     "sentiment": {
       "negative": 2243,
-      "neutral": 1499,
+      "neutral": 1500,
       "positive": 874
     },
     "emotion": {
-      "fear": 1355,
+      "fear": 1356,
       "surprise": 391,
       "sadness": 1454,
       "anger": 416,
@@ -325,7 +268,7 @@
       "disgust": 56
     },
     "language": {
-      "en": 3908,
+      "en": 3909,
       "fr": 21,
       "de": 34,
       "ar": 30,
@@ -363,6 +306,63 @@
       "tl": 1,
       "hu": 1,
       "pl": 1
+    }
+  },
+  "2025-06-16": {
+    "volume": 4167,
+    "sentiment": {
+      "positive": 754,
+      "negative": 2053,
+      "neutral": 1360
+    },
+    "emotion": {
+      "joy": 561,
+      "fear": 1352,
+      "sadness": 1178,
+      "neutral": 359,
+      "surprise": 294,
+      "anger": 399,
+      "disgust": 24
+    },
+    "language": {
+      "en": 3458,
+      "de": 21,
+      "en-US": 35,
+      "ko": 6,
+      "fr": 26,
+      "ar": 40,
+      "ak": 2,
+      "sq": 2,
+      "pl": 1,
+      "ja": 13,
+      "pt": 17,
+      "jp": 1,
+      "sv": 5,
+      "es": 5,
+      "nl": 9,
+      "it-IT": 1,
+      "it": 2,
+      "vi": 1,
+      "nb": 4,
+      "fr-FR": 1,
+      "an": 2,
+      "tr": 1,
+      "da": 1,
+      "en-GB": 5,
+      "id": 1,
+      "uk": 1,
+      "fi": 1,
+      "ht": 1,
+      "no": 1,
+      "gl": 2,
+      "en-AU": 2,
+      "zh": 1,
+      "av": 1,
+      "as": 2,
+      "hy": 1,
+      "ru": 5,
+      "Angika": 1,
+      "ce": 1
     }
   }
 }
