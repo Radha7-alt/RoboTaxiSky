@@ -1,38 +1,4 @@
 {
-  "2025-06-11": {
-    "volume": 1292,
-    "sentiment": {
-      "negative": 661,
-      "positive": 199,
-      "neutral": 432
-    },
-    "emotion": {
-      "sadness": 335,
-      "fear": 419,
-      "surprise": 105,
-      "neutral": 135,
-      "anger": 125,
-      "joy": 154,
-      "disgust": 19
-    },
-    "language": {
-      "en": 1090,
-      "ar": 22,
-      "pt": 8,
-      "es": 4,
-      "ja": 5,
-      "en-GB": 1,
-      "en-US": 17,
-      "fr": 7,
-      "de": 4,
-      "zh": 1,
-      "th": 1,
-      "tr": 1,
-      "fi": 1,
-      "cs": 1,
-      "vi": 1
-    }
-  },
   "2025-06-12": {
     "volume": 4492,
     "sentiment": {
@@ -310,17 +276,17 @@
     }
   },
   "2025-06-17": {
-    "volume": 5246,
+    "volume": 5247,
     "sentiment": {
       "positive": 924,
-      "negative": 2540,
+      "negative": 2541,
       "neutral": 1782
     },
     "emotion": {
       "fear": 1710,
       "sadness": 1488,
       "neutral": 493,
-      "anger": 493,
+      "anger": 494,
       "joy": 640,
       "surprise": 380,
       "disgust": 42
@@ -360,6 +326,63 @@
       "an": 1,
       "ht": 1,
       "hu": 1
+    }
+  },
+  "2025-06-18": {
+    "volume": 5329,
+    "sentiment": {
+      "positive": 918,
+      "negative": 2777,
+      "neutral": 1634
+    },
+    "emotion": {
+      "fear": 1668,
+      "disgust": 45,
+      "sadness": 1549,
+      "anger": 566,
+      "joy": 654,
+      "surprise": 373,
+      "neutral": 474
+    },
+    "language": {
+      "en": 4369,
+      "pt": 29,
+      "en-US": 55,
+      "ar": 118,
+      "es": 20,
+      "de": 32,
+      "ja": 17,
+      "ru": 4,
+      "fr": 29,
+      "en-AU": 2,
+      "en-us": 2,
+      "fr-FR": 5,
+      "it": 4,
+      "ko": 3,
+      "am": 4,
+      "av": 1,
+      "af": 2,
+      "ak": 1,
+      "zh": 1,
+      "fi": 1,
+      "nl": 9,
+      "da": 2,
+      "ca": 4,
+      "he": 1,
+      "uk": 2,
+      "en-GB": 1,
+      "no": 1,
+      "tr": 3,
+      "nb": 3,
+      "sv": 3,
+      "id": 1,
+      "sq": 3,
+      "th": 1,
+      "cs": 2,
+      "ga": 1,
+      "nl-NL": 1,
+      "sk": 1,
+      "as": 1
     }
   }
 }
