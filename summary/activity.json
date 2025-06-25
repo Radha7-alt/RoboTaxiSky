@@ -1,57 +1,4 @@
 {
-  "2025-06-17": {
-    "volume": 5247,
-    "sentiment": {
-      "positive": 924,
-      "negative": 2541,
-      "neutral": 1782
-    },
-    "emotion": {
-      "fear": 1710,
-      "sadness": 1488,
-      "neutral": 493,
-      "anger": 494,
-      "joy": 640,
-      "surprise": 380,
-      "disgust": 42
-    },
-    "language": {
-      "en": 4315,
-      "es": 19,
-      "ar": 50,
-      "de": 31,
-      "fr": 44,
-      "pt": 21,
-      "nl": 11,
-      "zh": 4,
-      "en-US": 34,
-      "cs": 1,
-      "id": 1,
-      "uk": 1,
-      "zh-CN": 2,
-      "zh-HK": 2,
-      "zh-TW": 2,
-      "ja": 15,
-      "en-GB": 3,
-      "fi": 18,
-      "as": 1,
-      "en-AU": 2,
-      "ko": 3,
-      "fr-FR": 2,
-      "pa": 1,
-      "sv": 1,
-      "ak": 3,
-      "sq": 7,
-      "pl": 2,
-      "ru": 2,
-      "tl": 1,
-      "ga": 1,
-      "am": 1,
-      "an": 1,
-      "ht": 1,
-      "hu": 1
-    }
-  },
   "2025-06-18": {
     "volume": 5338,
     "sentiment": {
@@ -316,14 +263,14 @@
     }
   },
   "2025-06-23": {
-    "volume": 5441,
+    "volume": 5443,
     "sentiment": {
-      "negative": 2752,
+      "negative": 2753,
       "neutral": 1756,
-      "positive": 933
+      "positive": 934
     },
     "emotion": {
-      "sadness": 1608,
+      "sadness": 1610,
       "anger": 510,
       "fear": 1831,
       "neutral": 453,
@@ -374,6 +321,48 @@
       "am": 1,
       "jp": 1,
       "ab": 1
+    }
+  },
+  "2025-06-24": {
+    "volume": 1490,
+    "sentiment": {
+      "negative": 754,
+      "neutral": 464,
+      "positive": 272
+    },
+    "emotion": {
+      "sadness": 436,
+      "fear": 468,
+      "neutral": 133,
+      "joy": 196,
+      "surprise": 110,
+      "anger": 139,
+      "disgust": 8
+    },
+    "language": {
+      "en": 1228,
+      "en-US": 21,
+      "ar": 65,
+      "ce": 1,
+      "ru": 2,
+      "pt": 6,
+      "sq": 1,
+      "ja": 8,
+      "nl": 1,
+      "fr": 4,
+      "an": 1,
+      "de": 3,
+      "bg": 1,
+      "zh-CN": 1,
+      "zh-HK": 1,
+      "zh-TW": 1,
+      "es": 1,
+      "fr-FR": 1,
+      "sv": 1,
+      "id": 1,
+      "ko": 1,
+      "it": 1,
+      "en-GB": 1
     }
   }
 }
