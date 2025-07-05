@@ -1,53 +1,4 @@
 {
-  "2025-06-27": {
-    "volume": 3265,
-    "sentiment": {
-      "negative": 1509,
-      "positive": 703,
-      "neutral": 1053
-    },
-    "emotion": {
-      "fear": 1051,
-      "sadness": 923,
-      "surprise": 251,
-      "anger": 288,
-      "joy": 436,
-      "neutral": 289,
-      "disgust": 27
-    },
-    "language": {
-      "en": 2605,
-      "fr-CA": 1,
-      "ar": 92,
-      "pt": 23,
-      "de": 13,
-      "nl": 3,
-      "fi": 2,
-      "fr": 17,
-      "it": 6,
-      "en-US": 20,
-      "aa": 1,
-      "es": 9,
-      "da": 3,
-      "ja": 4,
-      "fr-FR": 1,
-      "nb": 2,
-      "sv": 1,
-      "vi": 2,
-      "is": 1,
-      "en-AU": 1,
-      "an": 1,
-      "as": 1,
-      "en-us": 1,
-      "es-ES": 1,
-      "hy": 1,
-      "en-GB": 1,
-      "de-DE": 1,
-      "zh-CN": 1,
-      "zh-HK": 1,
-      "zh-TW": 1
-    }
-  },
   "2025-06-28": {
     "volume": 5345,
     "sentiment": {
@@ -277,23 +228,23 @@
     }
   },
   "2025-07-03": {
-    "volume": 6518,
+    "volume": 6525,
     "sentiment": {
-      "neutral": 1953,
-      "negative": 3552,
-      "positive": 1013
+      "neutral": 1955,
+      "negative": 3555,
+      "positive": 1015
     },
     "emotion": {
-      "fear": 1995,
-      "sadness": 1923,
-      "neutral": 555,
+      "fear": 1998,
+      "sadness": 1924,
+      "neutral": 556,
       "anger": 809,
-      "surprise": 452,
+      "surprise": 453,
       "disgust": 47,
-      "joy": 737
+      "joy": 738
     },
     "language": {
-      "en": 5495,
+      "en": 5498,
       "ja": 20,
       "en-US": 51,
       "pt": 31,
@@ -336,6 +287,59 @@
       "Angika": 1,
       "ca": 1,
       "uk": 1
+    }
+  },
+  "2025-07-04": {
+    "volume": 4422,
+    "sentiment": {
+      "neutral": 1413,
+      "positive": 819,
+      "negative": 2190
+    },
+    "emotion": {
+      "fear": 1395,
+      "sadness": 1282,
+      "disgust": 30,
+      "joy": 628,
+      "neutral": 382,
+      "surprise": 287,
+      "anger": 418
+    },
+    "language": {
+      "en": 3559,
+      "en-US": 29,
+      "es": 21,
+      "ja": 23,
+      "de": 29,
+      "pt": 22,
+      "sv": 2,
+      "fr": 28,
+      "en-AU": 2,
+      "ru": 2,
+      "fr-FR": 2,
+      "uk": 2,
+      "id": 2,
+      "nl": 12,
+      "it": 6,
+      "ko": 7,
+      "ar": 25,
+      "el": 2,
+      "af": 1,
+      "ak": 2,
+      "vi": 1,
+      "nb": 2,
+      "am": 4,
+      "fi": 1,
+      "zh": 1,
+      "da": 1,
+      "ab": 1,
+      "Angika": 1,
+      "en-GB": 2,
+      "pl": 1,
+      "av": 1,
+      "tl": 1,
+      "sk": 1,
+      "ur": 1
     }
   }
 }
