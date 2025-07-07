@@ -1,29 +1,4 @@
 {
-  "2025-06-29": {
-    "volume": 621,
-    "sentiment": {
-      "neutral": 213,
-      "negative": 290,
-      "positive": 118
-    },
-    "emotion": {
-      "fear": 188,
-      "sadness": 181,
-      "joy": 74,
-      "disgust": 7,
-      "neutral": 59,
-      "anger": 63,
-      "surprise": 49
-    },
-    "language": {
-      "en": 533,
-      "pt": 5,
-      "en-US": 10,
-      "ja": 4,
-      "en-GB": 1,
-      "es": 1
-    }
-  },
   "2025-06-30": {
     "volume": 5508,
     "sentiment": {
@@ -132,16 +107,16 @@
     }
   },
   "2025-07-02": {
-    "volume": 1944,
+    "volume": 1945,
     "sentiment": {
-      "negative": 896,
+      "negative": 897,
       "neutral": 700,
       "positive": 348
     },
     "emotion": {
       "sadness": 522,
       "fear": 568,
-      "anger": 195,
+      "anger": 196,
       "joy": 330,
       "surprise": 138,
       "neutral": 174,
@@ -289,26 +264,26 @@
     }
   },
   "2025-07-05": {
-    "volume": 1920,
+    "volume": 1926,
     "sentiment": {
-      "negative": 911,
-      "positive": 396,
-      "neutral": 613
+      "negative": 914,
+      "positive": 397,
+      "neutral": 615
     },
     "emotion": {
-      "sadness": 578,
-      "fear": 587,
-      "joy": 279,
-      "anger": 185,
+      "sadness": 579,
+      "fear": 588,
+      "joy": 280,
+      "anger": 187,
       "surprise": 125,
-      "neutral": 142,
+      "neutral": 143,
       "disgust": 24
     },
     "language": {
-      "en": 1585,
+      "en": 1586,
       "ar": 28,
       "fr": 9,
-      "pt": 13,
+      "pt": 14,
       "es": 3,
       "en-US": 12,
       "ab": 1,
@@ -324,6 +299,69 @@
       "zh": 1,
       "la": 1,
       "en-GB": 1
+    }
+  },
+  "2025-07-06": {
+    "volume": 5834,
+    "sentiment": {
+      "neutral": 1858,
+      "negative": 2778,
+      "positive": 1198
+    },
+    "emotion": {
+      "fear": 1788,
+      "anger": 517,
+      "surprise": 405,
+      "neutral": 456,
+      "sadness": 1812,
+      "joy": 806,
+      "disgust": 50
+    },
+    "language": {
+      "pt": 28,
+      "en": 4793,
+      "zh": 3,
+      "en-US": 65,
+      "ja": 24,
+      "es": 10,
+      "ar": 108,
+      "de": 37,
+      "fr": 30,
+      "nl": 11,
+      "ko": 6,
+      "ru": 3,
+      "sv": 8,
+      "aa": 1,
+      "da": 2,
+      "tr": 4,
+      "ca": 2,
+      "en-GB": 4,
+      "ae": 1,
+      "as": 1,
+      "id": 3,
+      "uk": 3,
+      "nb": 1,
+      "ga": 1,
+      "la": 1,
+      "zh-CN": 1,
+      "zh-HK": 1,
+      "zh-TW": 1,
+      "en-AU": 1,
+      "sv-FI": 1,
+      "sv-SE": 1,
+      "it": 1,
+      "fi": 1,
+      "en-us": 2,
+      "af": 1,
+      "av": 1,
+      "pl": 1,
+      "ht": 1,
+      "jp": 2,
+      "ak": 1,
+      "hi": 1,
+      "am": 1,
+      "fr-FR": 1,
+      "ab": 1
     }
   }
 }
