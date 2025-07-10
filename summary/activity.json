@@ -1,46 +1,4 @@
 {
-  "2025-07-02": {
-    "volume": 1945,
-    "sentiment": {
-      "negative": 897,
-      "neutral": 700,
-      "positive": 348
-    },
-    "emotion": {
-      "sadness": 522,
-      "fear": 568,
-      "anger": 196,
-      "joy": 330,
-      "surprise": 138,
-      "neutral": 174,
-      "disgust": 17
-    },
-    "language": {
-      "en": 1727,
-      "fr-FR": 2,
-      "ja": 5,
-      "pt": 12,
-      "id": 1,
-      "en-GB": 2,
-      "en-US": 15,
-      "ja-JP": 1,
-      "ar": 4,
-      "de": 7,
-      "es": 2,
-      "it": 2,
-      "fi": 2,
-      "ko": 2,
-      "fr": 4,
-      "aa": 1,
-      "sv": 2,
-      "an": 1,
-      "hy": 1,
-      "nl": 1,
-      "da": 2,
-      "am": 1,
-      "jp": 1
-    }
-  },
   "2025-07-03": {
     "volume": 6526,
     "sentiment": {
@@ -316,10 +274,10 @@
     }
   },
   "2025-07-08": {
-    "volume": 4158,
+    "volume": 4159,
     "sentiment": {
       "negative": 1932,
-      "neutral": 1456,
+      "neutral": 1457,
       "positive": 770
     },
     "emotion": {
@@ -327,7 +285,7 @@
       "neutral": 385,
       "joy": 493,
       "surprise": 293,
-      "fear": 1376,
+      "fear": 1377,
       "anger": 347,
       "disgust": 34
     },
@@ -366,6 +324,55 @@
       "fa": 1,
       "aa": 1,
       "hy": 1
+    }
+  },
+  "2025-07-09": {
+    "volume": 3996,
+    "sentiment": {
+      "negative": 1674,
+      "neutral": 1298,
+      "positive": 1024
+    },
+    "emotion": {
+      "surprise": 252,
+      "fear": 1247,
+      "sadness": 1143,
+      "neutral": 306,
+      "joy": 728,
+      "anger": 300,
+      "disgust": 20
+    },
+    "language": {
+      "en": 3204,
+      "it": 5,
+      "de": 25,
+      "ar": 30,
+      "sv": 2,
+      "en-US": 44,
+      "ru": 2,
+      "da": 2,
+      "nb": 2,
+      "tr": 1,
+      "pl": 1,
+      "es": 12,
+      "en-GB": 3,
+      "ja": 11,
+      "pt": 7,
+      "uk": 1,
+      "fr": 15,
+      "fr-FR": 1,
+      "nl": 5,
+      "ko": 1,
+      "en-AU": 1,
+      "aa": 1,
+      "af": 1,
+      "ak": 1,
+      "sq": 1,
+      "is": 1,
+      "pt-BR": 1,
+      "de-DE": 1,
+      "el": 1,
+      "eu": 1
     }
   }
 }
