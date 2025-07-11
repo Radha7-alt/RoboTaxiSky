@@ -1,47 +1,47 @@
 {
   "topic_0": {
     "label": [
-      "help",
-      "hope",
-      "bskysocial",
-      "just",
-      "isnt"
+      "read",
+      "kindly",
+      "stress",
+      "justpasteitfqfcl",
+      "health"
     ],
-    "count": 15468,
+    "count": 14112,
     "daily": {
-      "2025-07-03": 3345,
       "2025-07-04": 2396,
       "2025-07-05": 897,
       "2025-07-06": 2864,
       "2025-07-07": 3089,
       "2025-07-08": 2076,
-      "2025-07-09": 801
+      "2025-07-09": 805,
+      "2025-07-10": 1985
     },
     "sentiment": {
-      "neutral": 4691,
-      "positive": 2632,
-      "negative": 8145
+      "neutral": 4310,
+      "negative": 6737,
+      "positive": 3065
     },
     "emotion": {
-      "fear": 5111,
-      "neutral": 1122,
-      "sadness": 4834,
-      "anger": 1364,
-      "disgust": 148,
-      "joy": 1722,
-      "surprise": 1167
+      "fear": 4385,
+      "sadness": 4088,
+      "neutral": 1082,
+      "surprise": 1030,
+      "joy": 2292,
+      "anger": 1118,
+      "disgust": 117
     },
     "hashtags": [
-      "#news",
-      "#art",
-      "#mentalhealth",
+      "#ParentingTips",
       "#MentalHealth",
+      "#mentalhealth",
+      "#art",
+      "#news",
       "#ADHD",
-      "#CitizenPortal",
-      "#poetry",
-      "#depression",
+      "#US",
       "#adhd",
-      "#booksky"
+      "#CitizenPortal",
+      "#UK"
     ],
     "emojis": [
       "💔",
@@ -56,219 +56,276 @@
       "💰"
     ]
   },
-  "topic_7": {
-    "label": [
-      "recovery",
-      "new",
-      "texas",
-      "cutting",
-      "just"
-    ],
-    "count": 2553,
-    "daily": {
-      "2025-07-03": 599,
-      "2025-07-04": 176,
-      "2025-07-05": 121,
-      "2025-07-06": 615,
-      "2025-07-07": 416,
-      "2025-07-08": 329,
-      "2025-07-09": 297
-    },
-    "sentiment": {
-      "negative": 1030,
-      "positive": 529,
-      "neutral": 994
-    },
-    "emotion": {
-      "sadness": 694,
-      "fear": 795,
-      "anger": 175,
-      "joy": 430,
-      "neutral": 317,
-      "surprise": 124,
-      "disgust": 18
-    },
-    "hashtags": [
-      "#trauma",
-      "#MentalHealth",
-      "#news",
-      "#mentalhealth",
-      "#FinancialFreedom",
-      "#adhd",
-      "#anxiety",
-      "#nowplaying",
-      "#ADHD",
-      "#depression"
-    ],
-    "emojis": [
-      "💔",
-      "🙏",
-      "🕊",
-      "💞",
-      "😭",
-      "🔥",
-      "🚨",
-      "👇",
-      "😂",
-      "🏻"
-    ]
-  },
-  "topic_1": {
-    "label": [
-      "read",
-      "stress",
-      "kindly",
-      "justpasteitfqfcl",
-      "health"
-    ],
-    "count": 2980,
-    "daily": {
-      "2025-07-03": 531,
-      "2025-07-04": 349,
-      "2025-07-05": 139,
-      "2025-07-06": 483,
-      "2025-07-07": 474,
-      "2025-07-08": 296,
-      "2025-07-09": 708
-    },
-    "sentiment": {
-      "negative": 1273,
-      "neutral": 938,
-      "positive": 769
-    },
-    "emotion": {
-      "neutral": 249,
-      "surprise": 169,
-      "sadness": 876,
-      "anger": 408,
-      "joy": 528,
-      "fear": 733,
-      "disgust": 17
-    },
-    "hashtags": [
-      "#depression",
-      "#ParentingTips",
-      "#mentalhealth",
-      "#bipolar",
-      "#art",
-      "#news",
-      "#CitizenPortal",
-      "#MentalHealth",
-      "#booksky",
-      "#HealthyLiving"
-    ],
-    "emojis": [
-      "💔",
-      "🕊",
-      "🙏",
-      "😭",
-      "💞",
-      "🇺",
-      "🚨",
-      "🏻",
-      "🇸",
-      "👉"
-    ]
-  },
-  "topic_5": {
-    "label": [
-      "therapy",
-      "new",
-      "im",
-      "trauma",
-      "recovery"
-    ],
-    "count": 2030,
-    "daily": {
-      "2025-07-03": 364,
-      "2025-07-04": 266,
-      "2025-07-05": 124,
-      "2025-07-06": 329,
-      "2025-07-07": 418,
-      "2025-07-08": 341,
-      "2025-07-09": 188
-    },
-    "sentiment": {
-      "negative": 1134,
-      "positive": 312,
-      "neutral": 584
-    },
-    "emotion": {
-      "anger": 268,
-      "sadness": 680,
-      "fear": 514,
-      "joy": 226,
-      "surprise": 165,
-      "disgust": 23,
-      "neutral": 154
-    },
-    "hashtags": [
-      "#MentalHealth",
-      "#art",
-      "#news",
-      "#mentalhealth",
-      "#ADHD",
-      "#PTSD",
-      "#Healthcare",
-      "#DubNation",
-      "#booksky",
-      "#furry"
-    ],
-    "emojis": [
-      "💔",
-      "🙏",
-      "🕊",
-      "💞",
-      "💀",
-      "😭",
-      "🚨",
-      "🏻",
-      "💰",
-      "🇦"
-    ]
-  },
   "topic_3": {
     "label": [
       "loss",
-      "life",
-      "trump",
-      "new",
-      "read"
+      "people",
+      "did",
+      "stress",
+      "like"
     ],
-    "count": 2552,
+    "count": 2641,
     "daily": {
-      "2025-07-03": 436,
       "2025-07-04": 318,
       "2025-07-05": 142,
       "2025-07-06": 326,
       "2025-07-07": 690,
       "2025-07-08": 296,
-      "2025-07-09": 344
+      "2025-07-09": 344,
+      "2025-07-10": 525
     },
     "sentiment": {
-      "positive": 687,
-      "neutral": 840,
-      "negative": 1025
+      "positive": 654,
+      "neutral": 939,
+      "negative": 1048
     },
     "emotion": {
-      "surprise": 148,
-      "neutral": 222,
-      "sadness": 736,
-      "fear": 718,
-      "anger": 200,
-      "joy": 514,
-      "disgust": 14
+      "fear": 746,
+      "sadness": 764,
+      "joy": 505,
+      "surprise": 152,
+      "anger": 231,
+      "neutral": 226,
+      "disgust": 17
     },
     "hashtags": [
+      "#ParentingTips",
+      "#Parenting",
       "#ADHD",
       "#CitizenPortal",
+      "#booksky",
       "#MentalHealth",
-      "#bipolar",
+      "#SelfCare",
+      "#news",
       "#CA",
+      "#therapy"
+    ],
+    "emojis": [
+      "💔",
+      "🕊",
+      "💞",
+      "😭",
+      "🙏",
+      "🚨",
+      "💡",
+      "🔥",
+      "♀",
+      "💪"
+    ]
+  },
+  "topic_5": {
+    "label": [
+      "worry",
+      "dont",
+      "need",
+      "people",
+      "want"
+    ],
+    "count": 2107,
+    "daily": {
+      "2025-07-04": 266,
+      "2025-07-05": 124,
+      "2025-07-06": 329,
+      "2025-07-07": 418,
+      "2025-07-08": 341,
+      "2025-07-09": 188,
+      "2025-07-10": 441
+    },
+    "sentiment": {
+      "negative": 1110,
+      "neutral": 653,
+      "positive": 344
+    },
+    "emotion": {
+      "disgust": 22,
+      "fear": 740,
+      "neutral": 156,
+      "sadness": 591,
+      "anger": 232,
+      "joy": 213,
+      "surprise": 153
+    },
+    "hashtags": [
+      "#MentalHealth",
+      "#news",
+      "#mentalhealth",
+      "#ADHD",
+      "#art",
+      "#Parenting",
+      "#ParentingTips",
+      "#HealthyLiving",
+      "#FamilyHealth",
+      "#VTuber"
+    ],
+    "emojis": [
+      "💔",
+      "🕊",
+      "💞",
+      "🙏",
+      "💀",
+      "😭",
+      "💪",
+      "🚨",
+      "🔥",
+      "💰"
+    ]
+  },
+  "topic_1": {
+    "label": [
+      "just",
+      "help",
+      "hope",
+      "bskysocial",
+      "loss"
+    ],
+    "count": 3180,
+    "daily": {
+      "2025-07-04": 349,
+      "2025-07-05": 139,
+      "2025-07-06": 483,
+      "2025-07-07": 474,
+      "2025-07-08": 296,
+      "2025-07-09": 710,
+      "2025-07-10": 729
+    },
+    "sentiment": {
+      "negative": 1176,
+      "positive": 981,
+      "neutral": 1023
+    },
+    "emotion": {
+      "joy": 547,
+      "sadness": 1085,
+      "fear": 932,
+      "anger": 206,
+      "disgust": 19,
+      "surprise": 175,
+      "neutral": 216
+    },
+    "hashtags": [
+      "#ParentingTips",
+      "#HealthyLiving",
+      "#Parenting",
+      "#bipolar",
+      "#MentalHealth",
+      "#mentalhealth",
+      "#news",
+      "#art",
+      "#Semiconductors",
+      "#diode"
+    ],
+    "emojis": [
+      "💔",
+      "🕊",
+      "💞",
+      "🙏",
+      "😭",
+      "💪",
+      "🚨",
+      "🏻",
+      "🇺",
+      "🍉"
+    ]
+  },
+  "topic_6": {
+    "label": [
+      "recovery",
+      "new",
+      "support",
+      "texas",
+      "cutting"
+    ],
+    "count": 2431,
+    "daily": {
+      "2025-07-04": 369,
+      "2025-07-05": 253,
+      "2025-07-06": 390,
+      "2025-07-07": 435,
+      "2025-07-08": 297,
+      "2025-07-09": 190,
+      "2025-07-10": 497
+    },
+    "sentiment": {
+      "neutral": 980,
+      "negative": 1023,
+      "positive": 428
+    },
+    "emotion": {
+      "fear": 857,
+      "sadness": 519,
+      "joy": 349,
+      "surprise": 133,
+      "neutral": 288,
+      "anger": 267,
+      "disgust": 18
+    },
+    "hashtags": [
+      "#ParentingTips",
+      "#Parenting",
+      "#MentalHealth",
+      "#FinancialFreedom",
       "#DubNation",
-      "#therapy",
-      "#transistor",
-      "#examples",
+      "#ADHD",
+      "#news",
+      "#art",
+      "#AI",
+      "#Innovation"
+    ],
+    "emojis": [
+      "💔",
+      "🕊",
+      "🙏",
+      "💞",
+      "😭",
+      "♀",
+      "🌟",
+      "😂",
+      "🏻",
+      "💪"
+    ]
+  },
+  "topic_2": {
+    "label": [
+      "im",
+      "crying",
+      "like",
+      "dont",
+      "worry"
+    ],
+    "count": 4373,
+    "daily": {
+      "2025-07-04": 282,
+      "2025-07-05": 89,
+      "2025-07-06": 456,
+      "2025-07-07": 366,
+      "2025-07-08": 305,
+      "2025-07-09": 1188,
+      "2025-07-10": 1687
+    },
+    "sentiment": {
+      "negative": 2106,
+      "positive": 1027,
+      "neutral": 1240
+    },
+    "emotion": {
+      "sadness": 1226,
+      "anger": 360,
+      "joy": 783,
+      "fear": 1358,
+      "surprise": 327,
+      "neutral": 303,
+      "disgust": 16
+    },
+    "hashtags": [
+      "#ParentingTips",
+      "#ParentingHacks",
+      "#MentalHealthMatters",
+      "#Parenting",
+      "#ADHD",
+      "#SelfCare",
+      "#UK",
+      "#MentalHealth",
+      "#ParentCare",
       "#Semiconductors"
     ],
     "emojis": [
@@ -277,68 +334,11 @@
       "💞",
       "🙏",
       "😭",
-      "🔥",
-      "💡",
-      "💰",
-      "🚨",
-      "🚀"
-    ]
-  },
-  "topic_2": {
-    "label": [
-      "im",
-      "like",
-      "crying",
-      "dont",
-      "worry"
-    ],
-    "count": 3226,
-    "daily": {
-      "2025-07-03": 540,
-      "2025-07-04": 282,
-      "2025-07-05": 89,
-      "2025-07-06": 456,
-      "2025-07-07": 366,
-      "2025-07-08": 305,
-      "2025-07-09": 1188
-    },
-    "sentiment": {
-      "negative": 1425,
-      "neutral": 1006,
-      "positive": 795
-    },
-    "emotion": {
-      "fear": 898,
-      "neutral": 281,
-      "joy": 626,
-      "sadness": 921,
-      "surprise": 224,
-      "anger": 264,
-      "disgust": 12
-    },
-    "hashtags": [
-      "#news",
-      "#bipolar",
-      "#mentalhealth",
-      "#adhd",
-      "#ADHD",
-      "#Parenting",
-      "#art",
-      "#Semiconductors",
-      "#diode",
-      "#mosfet"
-    ],
-    "emojis": [
-      "💔",
-      "🕊",
-      "💞",
-      "🙏",
-      "😭",
+      "💪",
+      "🌟",
       "😂",
       "🏻",
-      "🚨",
-      "👇",
-      "💪"
+      "🚨"
     ]
   },
   "topic_4": {
@@ -346,44 +346,44 @@
       "mental",
       "health",
       "support",
-      "people",
-      "wellbeing"
+      "care",
+      "loss"
     ],
-    "count": 2078,
+    "count": 2214,
     "daily": {
-      "2025-07-03": 294,
       "2025-07-04": 267,
       "2025-07-05": 162,
       "2025-07-06": 373,
       "2025-07-07": 483,
       "2025-07-08": 219,
-      "2025-07-09": 280
+      "2025-07-09": 280,
+      "2025-07-10": 430
     },
     "sentiment": {
-      "neutral": 757,
-      "negative": 871,
-      "positive": 450
+      "neutral": 734,
+      "negative": 981,
+      "positive": 499
     },
     "emotion": {
-      "neutral": 198,
-      "joy": 293,
-      "sadness": 656,
-      "surprise": 108,
-      "disgust": 8,
-      "anger": 170,
-      "fear": 645
+      "sadness": 734,
+      "fear": 688,
+      "surprise": 103,
+      "neutral": 170,
+      "joy": 324,
+      "anger": 182,
+      "disgust": 13
     },
     "hashtags": [
-      "#news",
-      "#booksky",
-      "#mentalhealth",
       "#ParentingTips",
+      "#news",
+      "#mentalhealth",
+      "#UK",
+      "#art",
       "#MentalHealth",
+      "#US",
       "#ADHD",
       "#AI",
-      "#books",
-      "#poetry",
-      "#art"
+      "#booksky"
     ],
     "emojis": [
       "💔",
@@ -394,65 +394,65 @@
       "🚨",
       "🏻",
       "🔥",
-      "😂",
-      "👉"
+      "💪",
+      "🌟"
     ]
   },
-  "topic_6": {
+  "topic_7": {
     "label": [
-      "worry",
-      "dont",
       "therapy",
-      "need",
-      "know"
+      "cutting",
+      "like",
+      "suicide",
+      "anxiety"
     ],
-    "count": 2351,
+    "count": 2628,
     "daily": {
-      "2025-07-03": 417,
-      "2025-07-04": 369,
-      "2025-07-05": 253,
-      "2025-07-06": 390,
-      "2025-07-07": 435,
-      "2025-07-08": 297,
-      "2025-07-09": 190
+      "2025-07-04": 176,
+      "2025-07-05": 121,
+      "2025-07-06": 615,
+      "2025-07-07": 416,
+      "2025-07-08": 329,
+      "2025-07-09": 297,
+      "2025-07-10": 674
     },
     "sentiment": {
-      "positive": 393,
-      "negative": 1100,
-      "neutral": 858
+      "neutral": 1052,
+      "positive": 549,
+      "negative": 1027
     },
     "emotion": {
-      "fear": 955,
-      "surprise": 148,
-      "anger": 272,
-      "joy": 281,
-      "sadness": 470,
-      "neutral": 209,
-      "disgust": 16
+      "fear": 708,
+      "joy": 452,
+      "anger": 221,
+      "sadness": 692,
+      "surprise": 151,
+      "neutral": 369,
+      "disgust": 35
     },
     "hashtags": [
-      "#ADHD",
-      "#FinancialFreedom",
-      "#DubNation",
-      "#Innovation",
-      "#news",
+      "#ParentingTips",
       "#MentalHealth",
-      "#art",
-      "#grief",
-      "#MAGA",
-      "#poetry"
+      "#Parenting",
+      "#news",
+      "#mentalhealth",
+      "#anxiety",
+      "#HealthyLiving",
+      "#ShowBiz",
+      "#US",
+      "#UK"
     ],
     "emojis": [
       "💔",
-      "🙏",
       "🕊",
       "💞",
+      "🙏",
       "😭",
-      "🏻",
-      "♀",
+      "🔥",
+      "💪",
+      "🚨",
       "😂",
-      "🇺",
-      "🔥"
+      "👇"
     ]
   }
 }
