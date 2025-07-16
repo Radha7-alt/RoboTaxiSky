@@ -1,33 +1,33 @@
 {
-  "date": "2025-07-15",
+  "date": "2025-07-16",
   "complete": {
-    "total_posts": 199016,
+    "total_posts": 204618,
     "total_sentiments": 3,
     "total_emotions": 7,
-    "total_languages": 109,
+    "total_languages": 110,
     "total_topics": 8,
-    "total_hashtags": 48157,
-    "total_emojis": 866
+    "total_hashtags": 49185,
+    "total_emojis": 868
   },
   "last_week": {
-    "total_posts": 31987,
+    "total_posts": 33429,
     "total_sentiments": 3,
     "total_emotions": 7,
-    "total_languages": 71,
+    "total_languages": 72,
     "total_topics": 8,
-    "total_hashtags": 11029,
-    "total_emojis": 623
+    "total_hashtags": 11361,
+    "total_emojis": 642
   },
   "averages": {
-    "avg_posts_per_day": 4569.57,
-    "avg_hashtags_per_day": 3133.71,
-    "avg_emojis_per_day": 2543.0
+    "avg_posts_per_day": 4775.57,
+    "avg_hashtags_per_day": 3371.71,
+    "avg_emojis_per_day": 2882.29
   },
   "top": {
     "sentiment": "negative",
     "emotion": "fear",
     "language": "en",
-    "hashtag": "#art",
+    "hashtag": "#MentalHealth",
     "emoji": "💔"
   }
 }
