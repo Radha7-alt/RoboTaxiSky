@@ -1,33 +1,33 @@
 {
-  "date": "2025-07-20",
+  "date": "2025-07-21",
   "complete": {
-    "total_posts": 230587,
+    "total_posts": 236896,
     "total_sentiments": 3,
     "total_emotions": 7,
-    "total_languages": 112,
+    "total_languages": 113,
     "total_topics": 8,
-    "total_hashtags": 53744,
-    "total_emojis": 879
+    "total_hashtags": 54774,
+    "total_emojis": 880
   },
   "last_week": {
-    "total_posts": 44145,
+    "total_posts": 44791,
     "total_sentiments": 3,
     "total_emotions": 7,
-    "total_languages": 81,
+    "total_languages": 84,
     "total_topics": 8,
-    "total_hashtags": 13893,
-    "total_emojis": 674
+    "total_hashtags": 14100,
+    "total_emojis": 671
   },
   "averages": {
-    "avg_posts_per_day": 6306.43,
-    "avg_hashtags_per_day": 4551.86,
-    "avg_emojis_per_day": 3471.43
+    "avg_posts_per_day": 6398.71,
+    "avg_hashtags_per_day": 4679.71,
+    "avg_emojis_per_day": 3491.29
   },
   "top": {
     "sentiment": "negative",
     "emotion": "fear",
     "language": "en",
-    "hashtag": "#MentalHealth",
+    "hashtag": "#ParentingTips",
     "emoji": "💔"
   }
 }
