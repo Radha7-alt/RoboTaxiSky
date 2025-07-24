@@ -1,22 +1,4 @@
 {
-  "2025-07-16": {
-    "volume": 6935,
-    "sentiment": {
-      "negative": 2753,
-      "neutral": 2205,
-      "positive": 1977
-    },
-    "emotion": {
-      "sadness": 1891,
-      "surprise": 414,
-      "fear": 2069,
-      "joy": 1408,
-      "anger": 557,
-      "neutral": 560,
-      "disgust": 36
-    },
-    "language": {}
-  },
   "2025-07-17": {
     "volume": 6361,
     "sentiment": {
@@ -54,9 +36,9 @@
     "language": {}
   },
   "2025-07-19": {
-    "volume": 6022,
+    "volume": 6023,
     "sentiment": {
-      "positive": 1707,
+      "positive": 1708,
       "negative": 2606,
       "neutral": 1709
     },
@@ -65,7 +47,7 @@
       "fear": 1740,
       "sadness": 1680,
       "anger": 470,
-      "joy": 1195,
+      "joy": 1196,
       "surprise": 437,
       "disgust": 37
     },
@@ -93,9 +75,9 @@
     }
   },
   "2025-07-21": {
-    "volume": 1506,
+    "volume": 1507,
     "sentiment": {
-      "neutral": 485,
+      "neutral": 486,
       "positive": 347,
       "negative": 674
     },
@@ -103,13 +85,13 @@
       "neutral": 135,
       "joy": 292,
       "sadness": 482,
-      "fear": 387,
+      "fear": 388,
       "surprise": 89,
       "anger": 113,
       "disgust": 8
     },
     "language": {
-      "en": 1277,
+      "en": 1278,
       "pt": 7,
       "ar": 45,
       "zh-CN": 1,
@@ -126,25 +108,25 @@
     }
   },
   "2025-07-22": {
-    "volume": 6357,
+    "volume": 6361,
     "sentiment": {
-      "neutral": 2118,
-      "negative": 2764,
-      "positive": 1475
+      "neutral": 2120,
+      "negative": 2765,
+      "positive": 1476
     },
     "emotion": {
-      "neutral": 608,
+      "neutral": 609,
       "anger": 450,
       "joy": 1116,
-      "fear": 1758,
-      "sadness": 1972,
+      "fear": 1760,
+      "sadness": 1973,
       "surprise": 410,
       "disgust": 43
     },
     "language": {
-      "en": 4847,
+      "en": 4848,
       "fr": 36,
-      "ar": 404,
+      "ar": 405,
       "en-US": 90,
       "tr": 6,
       "de": 44,
@@ -181,6 +163,59 @@
       "th": 1,
       "fr-FR": 1,
       "hi": 1
+    }
+  },
+  "2025-07-23": {
+    "volume": 7897,
+    "sentiment": {
+      "negative": 3329,
+      "neutral": 2708,
+      "positive": 1860
+    },
+    "emotion": {
+      "fear": 2451,
+      "joy": 1409,
+      "anger": 530,
+      "sadness": 2205,
+      "neutral": 746,
+      "disgust": 51,
+      "surprise": 505
+    },
+    "language": {
+      "en": 5936,
+      "ar": 311,
+      "en-US": 79,
+      "es": 26,
+      "el": 3,
+      "ko": 8,
+      "pt": 31,
+      "pl": 2,
+      "de": 49,
+      "fr": 32,
+      "sv": 6,
+      "ja": 24,
+      "it": 6,
+      "nl": 9,
+      "id": 1,
+      "ay": 1,
+      "en-GB": 7,
+      "tr": 4,
+      "hy": 2,
+      "zh": 3,
+      "th": 1,
+      "da": 1,
+      "ga": 1,
+      "ms": 1,
+      "ku": 1,
+      "uk": 1,
+      "en-us": 2,
+      "am": 1,
+      "fr-FR": 1,
+      "ak": 1,
+      "sq": 1,
+      "cy": 1,
+      "nb": 1,
+      "an": 1
     }
   }
 }
