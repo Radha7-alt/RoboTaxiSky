@@ -1,32 +1,14 @@
 {
-  "2025-07-18": {
-    "volume": 6648,
-    "sentiment": {
-      "neutral": 2174,
-      "negative": 2773,
-      "positive": 1701
-    },
-    "emotion": {
-      "sadness": 1899,
-      "anger": 531,
-      "fear": 2000,
-      "neutral": 556,
-      "joy": 1223,
-      "surprise": 391,
-      "disgust": 48
-    },
-    "language": {}
-  },
   "2025-07-19": {
-    "volume": 6023,
+    "volume": 6024,
     "sentiment": {
       "positive": 1708,
-      "negative": 2606,
+      "negative": 2607,
       "neutral": 1709
     },
     "emotion": {
       "neutral": 463,
-      "fear": 1740,
+      "fear": 1741,
       "sadness": 1680,
       "anger": 470,
       "joy": 1196,
@@ -201,23 +183,23 @@
     }
   },
   "2025-07-24": {
-    "volume": 2865,
+    "volume": 2870,
     "sentiment": {
       "neutral": 881,
-      "negative": 1393,
-      "positive": 591
+      "negative": 1396,
+      "positive": 593
     },
     "emotion": {
-      "fear": 762,
-      "sadness": 975,
+      "fear": 764,
+      "sadness": 976,
       "anger": 227,
-      "joy": 450,
-      "neutral": 240,
+      "joy": 451,
+      "neutral": 241,
       "surprise": 189,
       "disgust": 22
     },
     "language": {
-      "en": 2269,
+      "en": 2270,
       "ar": 175,
       "pt": 21,
       "en-US": 27,
@@ -235,6 +217,66 @@
       "as": 1,
       "he": 1,
       "ko": 2
+    }
+  },
+  "2025-07-25": {
+    "volume": 7733,
+    "sentiment": {
+      "neutral": 2349,
+      "positive": 1965,
+      "negative": 3419
+    },
+    "emotion": {
+      "sadness": 2105,
+      "surprise": 520,
+      "anger": 551,
+      "disgust": 36,
+      "fear": 2367,
+      "neutral": 635,
+      "joy": 1519
+    },
+    "language": {
+      "en": 5887,
+      "ja": 28,
+      "ar": 366,
+      "pt": 28,
+      "fr": 28,
+      "en-US": 83,
+      "es": 17,
+      "ko": 5,
+      "nl": 9,
+      "de": 48,
+      "en-AU": 2,
+      "en-GB": 4,
+      "da": 1,
+      "eu": 1,
+      "sv": 3,
+      "as": 1,
+      "hy": 2,
+      "tl": 2,
+      "zh-CN": 3,
+      "zh-HK": 3,
+      "zh-TW": 3,
+      "it-IT": 1,
+      "it": 8,
+      "ru": 4,
+      "hu": 1,
+      "ca": 2,
+      "el": 1,
+      "th": 3,
+      "tr": 3,
+      "de-DE": 1,
+      "cy": 1,
+      "id": 3,
+      "jp": 2,
+      "pl": 1,
+      "yi": 1,
+      "ars": 1,
+      "nb": 2,
+      "av": 1,
+      "fi": 1,
+      "ro": 1,
+      "ae": 1
     }
   }
 }
