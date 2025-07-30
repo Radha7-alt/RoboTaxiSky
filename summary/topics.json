@@ -1,15 +1,71 @@
 {
+  "topic_3": {
+    "label": [
+      "away",
+      "cutting",
+      "know",
+      "really",
+      "immediately"
+    ],
+    "count": 3325,
+    "daily": {
+      "2025-07-23": 507,
+      "2025-07-24": 189,
+      "2025-07-25": 453,
+      "2025-07-26": 495,
+      "2025-07-27": 131,
+      "2025-07-28": 1549,
+      "2025-07-29": 1
+    },
+    "sentiment": {
+      "negative": 1526,
+      "neutral": 1086,
+      "positive": 713
+    },
+    "emotion": {
+      "fear": 1125,
+      "neutral": 274,
+      "sadness": 1049,
+      "joy": 380,
+      "surprise": 220,
+      "disgust": 21,
+      "anger": 256
+    },
+    "hashtags": [
+      "#ParentingTips",
+      "#HealthyAging",
+      "#SelfCare",
+      "#ParentingHacks",
+      "#MentalHealthMatters",
+      "#Ga",
+      "#Climate",
+      "#AmazonDeals",
+      "#Longevity",
+      "#art"
+    ],
+    "emojis": [
+      "🙏",
+      "💔",
+      "😭",
+      "🏻",
+      "😢",
+      "🕊",
+      "🍉",
+      "👋",
+      "☺",
+      "💞"
+    ]
+  },
   "topic_0": {
     "label": [
-      "flour",
-      "hunger",
-      "stomachs",
-      "unbearable",
-      "sleep"
+      "fda",
+      "patients",
+      "dystrophy",
+      "sarepta",
+      "therapeutics"
     ],
-    "count": 8778,
+    "count": 7368,
     "daily": {
-      "2025-07-22": 1410,
       "2025-07-23": 2641,
       "2025-07-24": 642,
       "2025-07-25": 1933,
@@ -18,18 +74,18 @@
       "2025-07-28": 464
     },
     "sentiment": {
-      "neutral": 2949,
-      "negative": 3165,
-      "positive": 2664
+      "neutral": 2428,
+      "negative": 2529,
+      "positive": 2411
     },
     "emotion": {
-      "neutral": 652,
-      "fear": 2615,
-      "sadness": 2380,
-      "surprise": 515,
-      "joy": 1992,
-      "anger": 586,
-      "disgust": 38
+      "fear": 2196,
+      "neutral": 524,
+      "sadness": 1879,
+      "joy": 1804,
+      "surprise": 437,
+      "anger": 501,
+      "disgust": 27
     },
     "hashtags": [
       "#ParentingTips",
@@ -37,11 +93,11 @@
       "#HealthyAging",
       "#ParentingHacks",
       "#HeartHealth",
-      "#Parenting",
       "#SelfCare",
-      "#Longevity",
+      "#WellnessForParents",
       "#bb27",
-      "#news"
+      "#Longevity",
+      "#ParentWellness"
     ],
     "emojis": [
       "💔",
@@ -51,337 +107,109 @@
       "🕊",
       "😢",
       "☺",
-      "👋",
       "🍉",
-      "😂"
-    ]
-  },
-  "topic_3": {
-    "label": [
-      "im",
-      "like",
-      "just",
-      "crying",
-      "time"
-    ],
-    "count": 5603,
-    "daily": {
-      "2025-07-22": 2279,
-      "2025-07-23": 507,
-      "2025-07-24": 189,
-      "2025-07-25": 453,
-      "2025-07-26": 495,
-      "2025-07-27": 131,
-      "2025-07-28": 1549
-    },
-    "sentiment": {
-      "negative": 2694,
-      "neutral": 1794,
-      "positive": 1115
-    },
-    "emotion": {
-      "anger": 460,
-      "joy": 626,
-      "fear": 1928,
-      "sadness": 1678,
-      "neutral": 466,
-      "surprise": 407,
-      "disgust": 38
-    },
-    "hashtags": [
-      "#ParentingTips",
-      "#MentalHealthMatters",
-      "#ParentingHacks",
-      "#SelfCare",
-      "#Parenting",
-      "#Climate",
-      "#HealthyAging",
-      "#mentalhealth",
-      "#art",
-      "#MentalHealth"
-    ],
-    "emojis": [
-      "💔",
-      "🙏",
-      "😭",
-      "🏻",
-      "😢",
-      "🕊",
-      "👋",
-      "🍉",
-      "☺",
-      "😂"
+      "😂",
+      "👋"
     ]
   },
   "topic_1": {
     "label": [
-      "meds",
-      "theres",
-      "shelter",
-      "bskyappprofileuiyotrpewbskysocialpost3luqtpf3jts2m",
-      "begging"
+      "energy",
+      "plans",
+      "tasks",
+      "study",
+      "follow"
     ],
-    "count": 4264,
+    "count": 3550,
     "daily": {
-      "2025-07-22": 715,
       "2025-07-23": 1030,
       "2025-07-24": 450,
       "2025-07-25": 1193,
       "2025-07-26": 408,
       "2025-07-27": 219,
-      "2025-07-28": 249
+      "2025-07-28": 249,
+      "2025-07-29": 1
     },
     "sentiment": {
-      "positive": 1617,
-      "neutral": 1083,
-      "negative": 1564
+      "positive": 1137,
+      "neutral": 910,
+      "negative": 1503
     },
     "emotion": {
-      "joy": 1432,
-      "fear": 994,
-      "anger": 189,
-      "sadness": 1091,
-      "neutral": 274,
-      "surprise": 266,
-      "disgust": 18
+      "joy": 975,
+      "neutral": 218,
+      "fear": 926,
+      "sadness": 1016,
+      "anger": 169,
+      "surprise": 230,
+      "disgust": 16
     },
     "hashtags": [
       "#ParentingTips",
       "#MentalHealthMatters",
-      "#ParentingHacks",
       "#HealthyAging",
+      "#ParentingHacks",
       "#SelfCare",
-      "#Parenting",
       "#ParentWellness",
-      "#MentalHealth",
+      "#Parenting",
       "#art",
-      "#ADHD"
+      "#Wellness",
+      "#Longevity"
     ],
     "emojis": [
       "🙏",
       "💔",
       "😭",
       "🏻",
-      "😢",
       "🕊",
+      "😢",
       "👋",
       "😂",
-      "🍉",
-      "☺"
-    ]
-  },
-  "topic_6": {
-    "label": [
-      "stress",
-      "read",
-      "justpasteitfqfcl",
-      "kindly",
-      "parents"
-    ],
-    "count": 3348,
-    "daily": {
-      "2025-07-22": 411,
-      "2025-07-23": 420,
-      "2025-07-24": 308,
-      "2025-07-25": 473,
-      "2025-07-26": 1253,
-      "2025-07-27": 109,
-      "2025-07-28": 374
-    },
-    "sentiment": {
-      "neutral": 912,
-      "negative": 1839,
-      "positive": 597
-    },
-    "emotion": {
-      "fear": 753,
-      "sadness": 1231,
-      "surprise": 221,
-      "neutral": 299,
-      "joy": 501,
-      "anger": 313,
-      "disgust": 30
-    },
-    "hashtags": [
-      "#ParentingTips",
-      "#MentalHealthMatters",
-      "#SelfCare",
-      "#Ga",
-      "#HealthyAging",
-      "#Longevity",
-      "#ParentingHacks",
-      "#Wellness",
-      "#ParentWellness",
-      "#Parenting"
-    ],
-    "emojis": [
-      "💔",
-      "🙏",
-      "😭",
-      "🕊",
-      "😢",
-      "🏻",
-      "🍉",
-      "☺",
-      "😁",
-      "👋"
-    ]
-  },
-  "topic_7": {
-    "label": [
-      "worry",
-      "dont",
-      "want",
-      "know",
-      "people"
-    ],
-    "count": 3741,
-    "daily": {
-      "2025-07-22": 360,
-      "2025-07-23": 634,
-      "2025-07-24": 303,
-      "2025-07-25": 1775,
-      "2025-07-26": 211,
-      "2025-07-27": 186,
-      "2025-07-28": 272
-    },
-    "sentiment": {
-      "negative": 1795,
-      "neutral": 1226,
-      "positive": 720
-    },
-    "emotion": {
-      "sadness": 1201,
-      "fear": 1015,
-      "joy": 493,
-      "neutral": 406,
-      "surprise": 278,
-      "anger": 319,
-      "disgust": 29
-    },
-    "hashtags": [
-      "#ParentingTips",
-      "#ParentingHacks",
-      "#MentalHealthMatters",
-      "#HealthyAging",
-      "#SelfCare",
-      "#mentalhealth",
-      "#Wellness",
-      "#ParentWellness",
-      "#Parenting",
-      "#poetry"
-    ],
-    "emojis": [
-      "💔",
-      "🙏",
-      "😭",
-      "🏻",
-      "🕊",
-      "😢",
-      "👋",
-      "☺",
       "🍉",
       "💞"
     ]
   },
-  "topic_5": {
-    "label": [
-      "bskysocial",
-      "help",
-      "support",
-      "rebuild",
-      "hope"
-    ],
-    "count": 2308,
-    "daily": {
-      "2025-07-22": 256,
-      "2025-07-23": 440,
-      "2025-07-24": 139,
-      "2025-07-25": 563,
-      "2025-07-26": 271,
-      "2025-07-27": 92,
-      "2025-07-28": 547
-    },
-    "sentiment": {
-      "neutral": 780,
-      "negative": 919,
-      "positive": 609
-    },
-    "emotion": {
-      "joy": 276,
-      "fear": 831,
-      "sadness": 655,
-      "neutral": 255,
-      "surprise": 108,
-      "anger": 176,
-      "disgust": 7
-    },
-    "hashtags": [
-      "#ParentingTips",
-      "#MentalHealthMatters",
-      "#SelfCare",
-      "#Parenting",
-      "#bb27",
-      "#ParentingHacks",
-      "#Longevity",
-      "#AmazonDeals",
-      "#ADHD",
-      "#HealthyAging"
-    ],
-    "emojis": [
-      "💔",
-      "🙏",
-      "😭",
-      "😢",
-      "🕊",
-      "🏻",
-      "🍉",
-      "😂",
-      "👋",
-      "💵"
-    ]
-  },
   "topic_4": {
     "label": [
-      "mental",
-      "health",
-      "read",
-      "parents",
-      "kindly"
+      "gene",
+      "said",
+      "muscular",
+      "duchenne",
+      "resume"
     ],
-    "count": 3844,
+    "count": 3532,
     "daily": {
-      "2025-07-22": 313,
       "2025-07-23": 1658,
       "2025-07-24": 119,
       "2025-07-25": 584,
       "2025-07-26": 356,
       "2025-07-27": 584,
-      "2025-07-28": 230
+      "2025-07-28": 230,
+      "2025-07-29": 1
     },
     "sentiment": {
-      "negative": 2043,
-      "neutral": 1132,
-      "positive": 669
+      "neutral": 1033,
+      "negative": 1911,
+      "positive": 588
     },
     "emotion": {
-      "fear": 1420,
-      "anger": 398,
-      "joy": 455,
-      "surprise": 283,
-      "sadness": 938,
-      "neutral": 316,
-      "disgust": 34
+      "fear": 1320,
+      "anger": 375,
+      "sadness": 854,
+      "surprise": 271,
+      "joy": 388,
+      "neutral": 294,
+      "disgust": 30
     },
     "hashtags": [
       "#HealthyAging",
-      "#ParentingTips",
       "#MentalHealthMatters",
       "#SelfCare",
+      "#ParentingTips",
       "#Longevity",
-      "#ParentingHacks",
       "#Parenting",
       "#art",
+      "#ParentingHacks",
       "#bb27",
       "#Ga"
     ],
@@ -393,54 +221,111 @@
       "😢",
       "🕊",
       "☺",
-      "👋",
       "🍉",
+      "👋",
       "😂"
+    ]
+  },
+  "topic_6": {
+    "label": [
+      "specialty",
+      "lieutenant",
+      "guess",
+      "hey",
+      "surveillance"
+    ],
+    "count": 2938,
+    "daily": {
+      "2025-07-23": 420,
+      "2025-07-24": 308,
+      "2025-07-25": 473,
+      "2025-07-26": 1253,
+      "2025-07-27": 109,
+      "2025-07-28": 374,
+      "2025-07-29": 1
+    },
+    "sentiment": {
+      "negative": 1568,
+      "neutral": 818,
+      "positive": 552
+    },
+    "emotion": {
+      "sadness": 991,
+      "joy": 466,
+      "fear": 697,
+      "surprise": 205,
+      "neutral": 282,
+      "anger": 269,
+      "disgust": 28
+    },
+    "hashtags": [
+      "#ParentingTips",
+      "#MentalHealthMatters",
+      "#Ga",
+      "#SelfCare",
+      "#HealthyAging",
+      "#Wellness",
+      "#Longevity",
+      "#ParentWellness",
+      "#ParentingHacks",
+      "#news"
+    ],
+    "emojis": [
+      "💔",
+      "🙏",
+      "😭",
+      "🕊",
+      "🍉",
+      "😢",
+      "🏻",
+      "☺",
+      "😁",
+      "💞"
     ]
   },
   "topic_2": {
     "label": [
-      "loss",
-      "fear",
-      "surrounded",
-      "weight",
-      "make"
+      "relationship",
+      "specific",
+      "basically",
+      "possibly",
+      "created"
     ],
-    "count": 3981,
+    "count": 3365,
     "daily": {
-      "2025-07-22": 617,
       "2025-07-23": 571,
       "2025-07-24": 720,
       "2025-07-25": 765,
       "2025-07-26": 706,
       "2025-07-27": 301,
-      "2025-07-28": 301
+      "2025-07-28": 301,
+      "2025-07-29": 1
     },
     "sentiment": {
-      "neutral": 1409,
-      "negative": 1676,
-      "positive": 896
+      "neutral": 1147,
+      "positive": 769,
+      "negative": 1449
     },
     "emotion": {
-      "neutral": 407,
-      "sadness": 1139,
-      "disgust": 28,
-      "joy": 640,
-      "surprise": 256,
-      "fear": 1232,
-      "anger": 279
+      "anger": 237,
+      "surprise": 219,
+      "fear": 1021,
+      "neutral": 360,
+      "sadness": 930,
+      "joy": 575,
+      "disgust": 23
     },
     "hashtags": [
       "#MentalHealthMatters",
-      "#ParentingTips",
       "#SelfCare",
+      "#ParentingTips",
       "#Parenting",
       "#art",
-      "#ADHD",
       "#HealthyAging",
+      "#ADHD",
       "#ParentingHacks",
       "#Ga",
-      "#MentalHealth"
+      "#Wellness"
     ],
     "emojis": [
       "💔",
@@ -449,10 +334,123 @@
       "😢",
       "🕊",
       "🏻",
-      "👋",
       "🍉",
+      "👋",
+      "☺",
+      "💞"
+    ]
+  },
+  "topic_5": {
+    "label": [
+      "loved",
+      "right",
+      "love",
+      "dreamless",
+      "friends"
+    ],
+    "count": 2053,
+    "daily": {
+      "2025-07-23": 440,
+      "2025-07-24": 139,
+      "2025-07-25": 563,
+      "2025-07-26": 271,
+      "2025-07-27": 92,
+      "2025-07-28": 547,
+      "2025-07-29": 1
+    },
+    "sentiment": {
+      "positive": 570,
+      "negative": 867,
+      "neutral": 616
+    },
+    "emotion": {
+      "joy": 251,
+      "sadness": 616,
+      "neutral": 141,
+      "anger": 164,
+      "fear": 789,
+      "surprise": 86,
+      "disgust": 6
+    },
+    "hashtags": [
+      "#ParentingTips",
+      "#MentalHealthMatters",
+      "#SelfCare",
+      "#bb27",
+      "#Parenting",
+      "#ParentingHacks",
+      "#ADHD",
+      "#HealthyAging",
+      "#Longevity",
+      "#AmazonDeals"
+    ],
+    "emojis": [
+      "💔",
+      "🙏",
+      "😭",
+      "😢",
+      "🕊",
+      "🏻",
+      "🍉",
+      "💵",
       "☺",
       "😂"
+    ]
+  },
+  "topic_7": {
+    "label": [
+      "fda",
+      "sarepta",
+      "resume",
+      "way",
+      "dystrophy"
+    ],
+    "count": 3381,
+    "daily": {
+      "2025-07-23": 634,
+      "2025-07-24": 303,
+      "2025-07-25": 1775,
+      "2025-07-26": 211,
+      "2025-07-27": 186,
+      "2025-07-28": 272
+    },
+    "sentiment": {
+      "neutral": 1131,
+      "negative": 1578,
+      "positive": 672
+    },
+    "emotion": {
+      "anger": 299,
+      "disgust": 28,
+      "fear": 956,
+      "joy": 462,
+      "sadness": 1005,
+      "neutral": 373,
+      "surprise": 258
+    },
+    "hashtags": [
+      "#ParentingTips",
+      "#ParentingHacks",
+      "#MentalHealthMatters",
+      "#SelfCare",
+      "#HealthyAging",
+      "#Wellness",
+      "#Parenting",
+      "#MentalHealth",
+      "#mentalhealth",
+      "#ParentWellness"
+    ],
+    "emojis": [
+      "💔",
+      "🙏",
+      "😭",
+      "🕊",
+      "🏻",
+      "😢",
+      "👋",
+      "☺",
+      "🍉",
+      "💞"
     ]
   }
 }
