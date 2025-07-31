@@ -1,57 +1,4 @@
 {
-  "2025-07-23": {
-    "volume": 7901,
-    "sentiment": {
-      "negative": 3329,
-      "neutral": 2711,
-      "positive": 1861
-    },
-    "emotion": {
-      "fear": 2454,
-      "joy": 1409,
-      "anger": 530,
-      "sadness": 2205,
-      "neutral": 746,
-      "disgust": 51,
-      "surprise": 506
-    },
-    "language": {
-      "en": 5936,
-      "ar": 311,
-      "en-US": 79,
-      "es": 26,
-      "el": 3,
-      "ko": 8,
-      "pt": 31,
-      "pl": 2,
-      "de": 49,
-      "fr": 32,
-      "sv": 6,
-      "ja": 24,
-      "it": 6,
-      "nl": 9,
-      "id": 1,
-      "ay": 1,
-      "en-GB": 7,
-      "tr": 4,
-      "hy": 2,
-      "zh": 3,
-      "th": 1,
-      "da": 1,
-      "ga": 1,
-      "ms": 1,
-      "ku": 1,
-      "uk": 1,
-      "en-us": 2,
-      "am": 1,
-      "fr-FR": 1,
-      "ak": 1,
-      "sq": 1,
-      "cy": 1,
-      "nb": 1,
-      "an": 1
-    }
-  },
   "2025-07-24": {
     "volume": 2870,
     "sentiment": {
@@ -290,19 +237,68 @@
     }
   },
   "2025-07-29": {
-    "volume": 6,
+    "volume": 7,
     "sentiment": {
       "positive": 1,
-      "neutral": 4,
+      "neutral": 5,
       "negative": 1
     },
     "emotion": {
       "fear": 2,
-      "joy": 2,
+      "joy": 3,
       "surprise": 2
     },
     "language": {
       "en": 6
+    }
+  },
+  "2025-07-30": {
+    "volume": 4533,
+    "sentiment": {
+      "negative": 1538,
+      "positive": 1774,
+      "neutral": 1221
+    },
+    "emotion": {
+      "surprise": 273,
+      "fear": 1456,
+      "sadness": 1587,
+      "joy": 612,
+      "anger": 261,
+      "neutral": 325,
+      "disgust": 19
+    },
+    "language": {
+      "en": 2796,
+      "en-US": 29,
+      "fr": 25,
+      "ja": 11,
+      "pt": 16,
+      "ar": 15,
+      "de": 22,
+      "tl": 1,
+      "en-us": 1,
+      "sq": 2,
+      "ca": 1,
+      "it": 3,
+      "fi": 2,
+      "sv": 3,
+      "id": 1,
+      "zh": 2,
+      "es": 10,
+      "en-GB": 4,
+      "rn": 1,
+      "ru": 2,
+      "he": 1,
+      "am": 1,
+      "nl": 5,
+      "da": 1,
+      "nb": 1,
+      "th": 1,
+      "as": 1,
+      "av": 1,
+      "aa": 1,
+      "ce": 1
     }
   }
 }
