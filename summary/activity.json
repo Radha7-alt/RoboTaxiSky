@@ -1,20 +1,4 @@
 {
-  "2025-07-29": {
-    "volume": 7,
-    "sentiment": {
-      "positive": 1,
-      "neutral": 5,
-      "negative": 1
-    },
-    "emotion": {
-      "fear": 2,
-      "joy": 3,
-      "surprise": 2
-    },
-    "language": {
-      "en": 6
-    }
-  },
   "2025-07-30": {
     "volume": 4537,
     "sentiment": {
@@ -65,14 +49,14 @@
     }
   },
   "2025-07-31": {
-    "volume": 4489,
+    "volume": 4490,
     "sentiment": {
       "negative": 1854,
       "positive": 1240,
-      "neutral": 1395
+      "neutral": 1396
     },
     "emotion": {
-      "sadness": 1516,
+      "sadness": 1517,
       "fear": 1479,
       "neutral": 308,
       "surprise": 294,
@@ -247,15 +231,15 @@
     }
   },
   "2025-08-04": {
-    "volume": 6406,
+    "volume": 6408,
     "sentiment": {
       "negative": 2940,
       "positive": 1168,
-      "neutral": 2298
+      "neutral": 2300
     },
     "emotion": {
-      "sadness": 2414,
-      "fear": 1875,
+      "sadness": 2415,
+      "fear": 1876,
       "neutral": 513,
       "anger": 482,
       "joy": 686,
@@ -303,6 +287,60 @@
       "ca": 1,
       "de-DE": 1,
       "zh": 1
+    }
+  },
+  "2025-08-05": {
+    "volume": 5506,
+    "sentiment": {
+      "neutral": 1827,
+      "negative": 2722,
+      "positive": 957
+    },
+    "emotion": {
+      "neutral": 440,
+      "sadness": 1985,
+      "disgust": 45,
+      "surprise": 308,
+      "fear": 1715,
+      "joy": 602,
+      "anger": 411
+    },
+    "language": {
+      "en": 3816,
+      "ar": 234,
+      "fr": 30,
+      "ga": 3,
+      "en-US": 62,
+      "zh-CN": 1,
+      "zh-HK": 1,
+      "zh-TW": 1,
+      "en-GB": 4,
+      "es": 12,
+      "ko": 1,
+      "fr-FR": 1,
+      "ja": 20,
+      "de": 28,
+      "pt": 14,
+      "id": 1,
+      "hu": 2,
+      "vi": 1,
+      "ru": 4,
+      "nl": 9,
+      "fa": 1,
+      "it": 2,
+      "sq": 1,
+      "uk": 1,
+      "sv": 2,
+      "pl": 2,
+      "fi": 1,
+      "tl": 1,
+      "zh": 2,
+      "en-us": 1,
+      "lv": 1,
+      "he": 1,
+      "fil": 1,
+      "th": 1,
+      "tr": 1
     }
   }
 }
