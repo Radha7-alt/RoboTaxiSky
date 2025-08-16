@@ -1,39 +1,4 @@
 {
-  "2025-08-08": {
-    "volume": 2502,
-    "sentiment": {
-      "neutral": 714,
-      "positive": 670,
-      "negative": 1118
-    },
-    "emotion": {
-      "sadness": 895,
-      "joy": 323,
-      "fear": 783,
-      "anger": 200,
-      "neutral": 147,
-      "disgust": 16,
-      "surprise": 138
-    },
-    "language": {
-      "en": 1649,
-      "ar": 37,
-      "de": 14,
-      "ja": 4,
-      "es": 6,
-      "pt": 14,
-      "fr": 4,
-      "en-GB": 3,
-      "ru": 1,
-      "en-US": 14,
-      "fr-FR": 2,
-      "nl": 3,
-      "th": 1,
-      "sq": 1,
-      "en-AU": 1,
-      "tr": 1
-    }
-  },
   "2025-08-09": {
     "volume": 6540,
     "sentiment": {
@@ -295,19 +260,19 @@
     }
   },
   "2025-08-14": {
-    "volume": 6111,
+    "volume": 6120,
     "sentiment": {
-      "positive": 1436,
-      "negative": 2836,
+      "positive": 1439,
+      "negative": 2842,
       "neutral": 1839
     },
     "emotion": {
-      "fear": 2152,
-      "joy": 733,
-      "sadness": 1901,
+      "fear": 2154,
+      "joy": 734,
+      "sadness": 1904,
       "neutral": 475,
       "surprise": 346,
-      "anger": 473,
+      "anger": 476,
       "disgust": 31
     },
     "language": {
@@ -350,6 +315,62 @@
       "en-AU": 1,
       "am": 1,
       "id": 1
+    }
+  },
+  "2025-08-15": {
+    "volume": 6631,
+    "sentiment": {
+      "neutral": 1900,
+      "positive": 1902,
+      "negative": 2829
+    },
+    "emotion": {
+      "fear": 2229,
+      "sadness": 2219,
+      "surprise": 359,
+      "joy": 853,
+      "neutral": 487,
+      "anger": 433,
+      "disgust": 51
+    },
+    "language": {
+      "en": 4165,
+      "de": 28,
+      "ar": 368,
+      "tl": 1,
+      "pt": 25,
+      "en-US": 79,
+      "ja": 24,
+      "fr": 25,
+      "en-GB": 5,
+      "zh": 2,
+      "es": 17,
+      "ak": 2,
+      "sq": 2,
+      "de-DE": 1,
+      "tr": 3,
+      "la": 1,
+      "nb": 3,
+      "yi": 1,
+      "sk": 1,
+      "hy": 1,
+      "sv": 4,
+      "an": 1,
+      "as": 1,
+      "ru": 2,
+      "fi": 2,
+      "aa": 1,
+      "et": 1,
+      "ab": 1,
+      "Angika": 1,
+      "ko": 1,
+      "it": 1,
+      "cy": 1,
+      "uk": 1,
+      "pl": 1,
+      "bg": 1,
+      "av": 2,
+      "af": 1
     }
   }
 }
