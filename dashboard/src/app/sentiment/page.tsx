@@ -49,47 +49,22 @@ export default function SentimentPage() {
   ];
 
   // Dynamically prepare sentiment time series keys from data
-  const sentimentTimeSeriesKeys = chartData?.sentimentTimeSeries?.length
-    ? Array.from(
-        new Set(
-          chartData.sentimentTimeSeries.flatMap((item) =>
-            Object.keys(item).filter(
-              (key) => key !== "date" && key !== "timestamp"
-            )
-          )
-        )
-      ).map((key, index) => ({
-        key,
-        color: colorPalette[index % colorPalette.length],
-        name: key.charAt(0).toUpperCase() + key.slice(1),
-      }))
-    : [
-        { key: "positive", color: colorPalette[0], name: "Positive" },
-        { key: "neutral", color: colorPalette[1], name: "Neutral" },
-        { key: "negative", color: colorPalette[2], name: "Negative" },
-      ];
+  const sentimentTimeSeriesKeys = [
+    { key: "positive", color: colorPalette[0], name: "Positive" },
+    { key: "neutral", color: colorPalette[1], name: "Neutral" },
+    { key: "negative", color: colorPalette[2], name: "Negative" },
+  ];
 
   // Dynamically prepare emotion time series keys from data
-  const emotionTimeSeriesKeys = chartData?.emotionTimeSeries?.length
-    ? Array.from(
-        new Set(
-          chartData.emotionTimeSeries.flatMap((item) =>
-            Object.keys(item).filter(
-              (key) => key !== "date" && key !== "timestamp"
-            )
-          )
-        )
-      ).map((key, index) => ({
-        key,
-        color: colorPalette[index % colorPalette.length],
-        name: key.charAt(0).toUpperCase() + key.slice(1),
-      }))
-    : [
-        { key: "joy", color: colorPalette[0], name: "Joy" },
-        { key: "sadness", color: colorPalette[1], name: "Sadness" },
-        { key: "fear", color: colorPalette[2], name: "Fear" },
-        { key: "neutral", color: colorPalette[3], name: "Neutral" },
-      ];
+  const emotionTimeSeriesKeys = [
+    { key: "joy", color: colorPalette[0], name: "Joy" },
+    { key: "sadness", color: colorPalette[1], name: "Sadness" },
+    { key: "fear", color: colorPalette[2], name: "Fear" },
+    { key: "neutral", color: colorPalette[3], name: "Neutral" },
+    { key: "anger", color: colorPalette[4], name: "Anger" },
+    { key: "disgust", color: colorPalette[5], name: "Disgust" },
+    { key: "surprise", color: colorPalette[6], name: "Surprise" },
+  ];
 
   // Prepare emoji sentiment data
   const emojiSentimentData = chartData?.emojiSentimentBars
