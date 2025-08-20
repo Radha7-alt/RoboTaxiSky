@@ -1,47 +1,104 @@
 {
-  "topic_1": {
+  "topic_0": {
     "label": [
       "im",
       "just",
       "like",
-      "dont",
-      "time"
+      "need",
+      "dont"
     ],
-    "count": 5683,
+    "count": 13131,
     "daily": {
-      "2025-08-12": 315,
+      "2025-08-13": 3040,
+      "2025-08-14": 1822,
+      "2025-08-15": 1801,
+      "2025-08-16": 106,
+      "2025-08-17": 1762,
+      "2025-08-18": 2027,
+      "2025-08-19": 2573
+    },
+    "sentiment": {
+      "negative": 5543,
+      "neutral": 3746,
+      "positive": 3842
+    },
+    "emotion": {
+      "disgust": 72,
+      "joy": 1525,
+      "sadness": 5028,
+      "fear": 4187,
+      "surprise": 645,
+      "anger": 815,
+      "neutral": 859
+    },
+    "hashtags": [
+      "#bb27",
+      "#art",
+      "#trauma",
+      "#nsfw",
+      "#abuse",
+      "#mentalhealth",
+      "#ADHD",
+      "#news",
+      "#cnc",
+      "#freeuse"
+    ],
+    "emojis": [
+      "🙏",
+      "💔",
+      "🚨",
+      "🏻",
+      "😭",
+      "🕊",
+      "💞",
+      "😢",
+      "☺",
+      "😂"
+    ]
+  },
+  "topic_1": {
+    "label": [
+      "children",
+      "hunger",
+      "food",
+      "link",
+      "ravaging"
+    ],
+    "count": 5746,
+    "daily": {
       "2025-08-13": 341,
       "2025-08-14": 2043,
       "2025-08-15": 537,
       "2025-08-16": 539,
       "2025-08-17": 394,
-      "2025-08-18": 1514
+      "2025-08-18": 1515,
+      "2025-08-19": 377
     },
     "sentiment": {
-      "neutral": 1467,
-      "positive": 872,
-      "negative": 3344
+      "negative": 3564,
+      "neutral": 1408,
+      "positive": 774
     },
     "emotion": {
-      "fear": 2109,
-      "joy": 593,
-      "sadness": 1690,
-      "neutral": 370,
-      "anger": 469,
-      "surprise": 419,
+      "fear": 2148,
+      "sadness": 1751,
+      "anger": 470,
+      "neutral": 360,
+      "surprise": 417,
+      "joy": 567,
       "disgust": 33
     },
     "hashtags": [
       "#bb27",
+      "#ADHD",
       "#BB27",
+      "#poetry",
       "#news",
       "#MentalHealth",
-      "#ADHD",
-      "#poetry",
       "#trauma",
       "#dpdi",
-      "#nsfw",
-      "#art"
+      "#art",
+      "#nsfw"
     ],
     "emojis": [
       "🙏",
@@ -56,113 +113,56 @@
       "😢"
     ]
   },
-  "topic_0": {
-    "label": [
-      "help",
-      "bskysocial",
-      "support",
-      "im",
-      "hope"
-    ],
-    "count": 12046,
-    "daily": {
-      "2025-08-12": 1491,
-      "2025-08-13": 3040,
-      "2025-08-14": 1822,
-      "2025-08-15": 1801,
-      "2025-08-16": 106,
-      "2025-08-17": 1762,
-      "2025-08-18": 2024
-    },
-    "sentiment": {
-      "negative": 5001,
-      "neutral": 3428,
-      "positive": 3617
-    },
-    "emotion": {
-      "surprise": 534,
-      "neutral": 789,
-      "fear": 3893,
-      "sadness": 4640,
-      "joy": 1400,
-      "anger": 735,
-      "disgust": 55
-    },
-    "hashtags": [
-      "#bb27",
-      "#art",
-      "#trauma",
-      "#nsfw",
-      "#abuse",
-      "#ADHD",
-      "#BB27",
-      "#cnc",
-      "#mentalhealth",
-      "#freeuse"
-    ],
-    "emojis": [
-      "🙏",
-      "💔",
-      "🚨",
-      "🏻",
-      "😭",
-      "🕊",
-      "💞",
-      "☺",
-      "😢",
-      "😂"
-    ]
-  },
   "topic_2": {
     "label": [
       "loss",
+      "weight",
+      "fear",
       "hope",
-      "unimaginable",
-      "generosity",
-      "wake"
+      "support"
     ],
-    "count": 6011,
+    "count": 6234,
     "daily": {
-      "2025-08-12": 249,
       "2025-08-13": 612,
       "2025-08-14": 489,
       "2025-08-15": 1953,
       "2025-08-16": 114,
       "2025-08-17": 2169,
-      "2025-08-18": 425
+      "2025-08-18": 426,
+      "2025-08-19": 471
     },
     "sentiment": {
-      "positive": 1351,
-      "negative": 2880,
-      "neutral": 1780
+      "neutral": 1906,
+      "positive": 1392,
+      "negative": 2936
     },
     "emotion": {
-      "joy": 791,
-      "fear": 2115,
-      "sadness": 1666,
-      "surprise": 416,
-      "neutral": 423,
-      "anger": 550,
-      "disgust": 50
+      "fear": 2179,
+      "anger": 553,
+      "joy": 805,
+      "sadness": 1765,
+      "surprise": 439,
+      "neutral": 441,
+      "disgust": 52
     },
     "hashtags": [
       "#bb27",
       "#BB27",
       "#art",
       "#trauma",
-      "#photography",
-      "#poetry",
       "#news",
-      "#abuse",
+      "#photography",
       "#ADHD",
-      "#music"
+      "#poetry",
+      "#abuse",
+      "#ai"
     ],
     "emojis": [
       "🙏",
       "💔",
+      "🚨",
       "🕊",
       "🏻",
-      "🚨",
       "😭",
       "😢",
       "💞",
@@ -170,220 +170,163 @@
       "🍞"
     ]
   },
-  "topic_5": {
+  "topic_6": {
     "label": [
-      "worry",
-      "dont",
-      "children",
-      "food",
-      "need"
+      "support",
+      "help",
+      "bskysocial",
+      "day",
+      "survive"
     ],
-    "count": 2237,
+    "count": 2601,
     "daily": {
-      "2025-08-12": 468,
-      "2025-08-13": 317,
-      "2025-08-14": 403,
-      "2025-08-15": 315,
-      "2025-08-16": 84,
-      "2025-08-17": 286,
-      "2025-08-18": 364
+      "2025-08-13": 396,
+      "2025-08-14": 400,
+      "2025-08-15": 348,
+      "2025-08-16": 48,
+      "2025-08-17": 241,
+      "2025-08-18": 278,
+      "2025-08-19": 890
     },
     "sentiment": {
-      "negative": 988,
-      "positive": 499,
-      "neutral": 750
+      "negative": 936,
+      "positive": 599,
+      "neutral": 1066
     },
     "emotion": {
-      "fear": 640,
-      "sadness": 783,
-      "joy": 320,
-      "surprise": 131,
-      "neutral": 185,
-      "anger": 165,
-      "disgust": 13
+      "fear": 1095,
+      "sadness": 713,
+      "neutral": 190,
+      "anger": 174,
+      "joy": 304,
+      "surprise": 113,
+      "disgust": 12
     },
     "hashtags": [
-      "#poetry",
-      "#grief",
       "#art",
       "#bb27",
+      "#healthcare",
+      "#mentalhealth",
+      "#AI",
+      "#booksky",
       "#trauma",
-      "#MentalHealth",
-      "#bamboo",
-      "#nsfw",
-      "#news",
-      "#therapy"
+      "#depression",
+      "#digitalart",
+      "#ADHD"
     ],
     "emojis": [
       "🙏",
       "💔",
+      "🚨",
       "🏻",
       "🕊",
       "😭",
-      "🚨",
-      "💞",
-      "☺",
       "😢",
-      "👉"
+      "🔥",
+      "💞",
+      "😂"
     ]
   },
   "topic_3": {
     "label": [
       "mental",
       "health",
-      "loss",
       "care",
-      "children"
+      "support",
+      "new"
     ],
-    "count": 2201,
+    "count": 2314,
     "daily": {
-      "2025-08-12": 261,
       "2025-08-13": 429,
       "2025-08-14": 353,
       "2025-08-15": 348,
       "2025-08-16": 87,
       "2025-08-17": 417,
-      "2025-08-18": 306
+      "2025-08-18": 306,
+      "2025-08-19": 374
     },
     "sentiment": {
-      "negative": 1112,
-      "positive": 391,
-      "neutral": 698
+      "negative": 1189,
+      "neutral": 721,
+      "positive": 404
     },
     "emotion": {
-      "sadness": 702,
+      "anger": 224,
+      "fear": 601,
+      "joy": 355,
+      "sadness": 792,
       "surprise": 127,
-      "fear": 685,
-      "joy": 315,
-      "neutral": 172,
-      "anger": 189,
-      "disgust": 11
+      "neutral": 200,
+      "disgust": 15
     },
     "hashtags": [
       "#bb27",
       "#DubNation",
-      "#ADHD",
       "#art",
-      "#mentalhealth",
-      "#adhd",
+      "#ADHD",
       "#trauma",
       "#abuse",
       "#PTSD",
-      "#MentalHealth"
+      "#MentalHealth",
+      "#BB27",
+      "#MusicChallenge"
     ],
     "emojis": [
       "🙏",
       "💔",
-      "🏻",
-      "🕊",
       "😭",
       "🚨",
-      "💞",
-      "☺",
-      "😢",
-      "😂"
-    ]
-  },
-  "topic_6": {
-    "label": [
-      "stress",
-      "like",
-      "children",
-      "just",
-      "need"
-    ],
-    "count": 1878,
-    "daily": {
-      "2025-08-12": 169,
-      "2025-08-13": 396,
-      "2025-08-14": 400,
-      "2025-08-15": 348,
-      "2025-08-16": 48,
-      "2025-08-17": 241,
-      "2025-08-18": 276
-    },
-    "sentiment": {
-      "negative": 713,
-      "positive": 398,
-      "neutral": 767
-    },
-    "emotion": {
-      "surprise": 99,
-      "fear": 824,
-      "neutral": 163,
-      "anger": 151,
-      "sadness": 368,
-      "joy": 264,
-      "disgust": 9
-    },
-    "hashtags": [
-      "#bb27",
-      "#art",
-      "#trauma",
-      "#nsfw",
-      "#booksky",
-      "#mentalhealth",
-      "#poetry",
-      "#healthcare",
-      "#AI",
-      "#ai"
-    ],
-    "emojis": [
-      "🙏",
-      "💔",
       "🏻",
-      "🚨",
       "🕊",
-      "😭",
       "💞",
-      "🔥",
+      "😂",
       "😢",
       "☺"
     ]
   },
-  "topic_7": {
+  "topic_5": {
     "label": [
-      "little",
-      "comes",
-      "aid",
-      "hands",
-      "wed"
+      "stress",
+      "crying",
+      "im",
+      "say",
+      "help"
     ],
-    "count": 2679,
+    "count": 2150,
     "daily": {
-      "2025-08-12": 231,
-      "2025-08-13": 356,
-      "2025-08-14": 283,
-      "2025-08-15": 884,
-      "2025-08-16": 92,
-      "2025-08-17": 290,
-      "2025-08-18": 543
+      "2025-08-13": 317,
+      "2025-08-14": 403,
+      "2025-08-15": 315,
+      "2025-08-16": 84,
+      "2025-08-17": 286,
+      "2025-08-18": 365,
+      "2025-08-19": 380
     },
     "sentiment": {
-      "neutral": 1033,
-      "negative": 1012,
-      "positive": 634
+      "neutral": 781,
+      "negative": 983,
+      "positive": 386
     },
     "emotion": {
-      "neutral": 350,
-      "fear": 729,
-      "joy": 473,
-      "sadness": 750,
-      "surprise": 133,
-      "anger": 225,
-      "disgust": 19
+      "joy": 335,
+      "anger": 186,
+      "sadness": 662,
+      "fear": 624,
+      "surprise": 130,
+      "neutral": 198,
+      "disgust": 15
     },
     "hashtags": [
       "#bb27",
-      "#trauma",
-      "#abuse",
       "#art",
-      "#BB27",
+      "#grief",
+      "#bamboo",
       "#nsfw",
-      "#ai",
-      "#ADHD",
-      "#dpdi",
-      "#music"
+      "#poetry",
+      "#DubNation",
+      "#MentalHealth",
+      "#trauma",
+      "#CitizenPortal"
     ],
     "emojis": [
       "🙏",
@@ -395,39 +338,39 @@
       "💞",
       "😢",
       "☺",
-      "😂"
+      "🍉"
     ]
   },
   "topic_4": {
     "label": [
-      "crying",
-      "loss",
-      "children",
-      "im",
-      "food"
+      "worry",
+      "dont",
+      "stress",
+      "day",
+      "help"
     ],
-    "count": 2147,
+    "count": 2393,
     "daily": {
-      "2025-08-12": 129,
       "2025-08-13": 482,
       "2025-08-14": 327,
       "2025-08-15": 448,
       "2025-08-16": 122,
       "2025-08-17": 321,
-      "2025-08-18": 318
+      "2025-08-18": 318,
+      "2025-08-19": 375
     },
     "sentiment": {
-      "negative": 981,
-      "neutral": 739,
-      "positive": 427
+      "neutral": 849,
+      "negative": 1031,
+      "positive": 513
     },
     "emotion": {
-      "sadness": 501,
-      "anger": 154,
-      "fear": 943,
-      "joy": 234,
-      "neutral": 172,
-      "surprise": 135,
+      "fear": 1181,
+      "joy": 254,
+      "neutral": 180,
+      "surprise": 145,
+      "anger": 163,
+      "sadness": 462,
       "disgust": 8
     },
     "hashtags": [
@@ -438,9 +381,9 @@
       "#abuse",
       "#ADHD",
       "#adhd",
-      "#nsfw",
-      "#photography",
-      "#poetry"
+      "#art",
+      "#CitizenPortal",
+      "#nsfw"
     ],
     "emojis": [
       "🙏",
@@ -451,8 +394,65 @@
       "😭",
       "😢",
       "💞",
+      "💙",
+      "☺"
+    ]
+  },
+  "topic_7": {
+    "label": [
+      "therapy",
+      "like",
+      "just",
+      "anxiety",
+      "today"
+    ],
+    "count": 3215,
+    "daily": {
+      "2025-08-13": 356,
+      "2025-08-14": 283,
+      "2025-08-15": 884,
+      "2025-08-16": 92,
+      "2025-08-17": 290,
+      "2025-08-18": 543,
+      "2025-08-19": 767
+    },
+    "sentiment": {
+      "neutral": 1263,
+      "positive": 732,
+      "negative": 1220
+    },
+    "emotion": {
+      "joy": 549,
+      "fear": 929,
+      "neutral": 411,
+      "anger": 264,
+      "disgust": 28,
+      "sadness": 872,
+      "surprise": 162
+    },
+    "hashtags": [
+      "#bb27",
+      "#trauma",
+      "#art",
+      "#abuse",
+      "#nsfw",
+      "#BB27",
+      "#ADHD",
+      "#news",
+      "#ai",
+      "#music"
+    ],
+    "emojis": [
+      "🙏",
+      "💔",
+      "🏻",
+      "😭",
+      "🚨",
+      "🕊",
+      "💞",
+      "😢",
       "☺",
-      "💙"
+      "🔥"
     ]
   }
 }
