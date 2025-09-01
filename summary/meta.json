@@ -1,31 +1,31 @@
 {
-  "date": "2025-08-31",
+  "date": "2025-09-01",
   "complete": {
-    "total_posts": 381834,
+    "total_posts": 386606,
     "total_sentiments": 3,
     "total_emotions": 7,
     "total_languages": 104,
     "total_topics": 8,
-    "total_hashtags": 74572,
-    "total_emojis": 904
+    "total_hashtags": 75221,
+    "total_emojis": 906
   },
   "last_week": {
-    "total_posts": 1830,
+    "total_posts": 6602,
     "total_sentiments": 3,
     "total_emotions": 7,
-    "total_languages": 23,
+    "total_languages": 50,
     "total_topics": 8,
-    "total_hashtags": 913,
-    "total_emojis": 171
+    "total_hashtags": 2684,
+    "total_emojis": 337
   },
   "averages": {
-    "avg_posts_per_day": 261.43,
-    "avg_hashtags_per_day": 156.0,
-    "avg_emojis_per_day": 75.86
+    "avg_posts_per_day": 943.14,
+    "avg_hashtags_per_day": 562.43,
+    "avg_emojis_per_day": 263.86
   },
   "top": {
     "sentiment": "negative",
-    "emotion": "sadness",
+    "emotion": "fear",
     "language": "en",
     "hashtag": "#ParentingTips",
     "emoji": "🙏"
