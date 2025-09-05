@@ -214,10 +214,10 @@
     }
   },
   "2025-09-03": {
-    "volume": 5140,
+    "volume": 5142,
     "sentiment": {
-      "negative": 2271,
-      "neutral": 1952,
+      "negative": 2272,
+      "neutral": 1953,
       "positive": 917
     },
     "emotion": {
@@ -226,7 +226,7 @@
       "sadness": 1357,
       "anger": 434,
       "joy": 665,
-      "surprise": 352,
+      "surprise": 354,
       "disgust": 36
     },
     "language": {
@@ -266,6 +266,68 @@
       "tl": 1,
       "en-us": 1,
       "sq": 1
+    }
+  },
+  "2025-09-04": {
+    "volume": 5381,
+    "sentiment": {
+      "positive": 920,
+      "negative": 2544,
+      "neutral": 1917
+    },
+    "emotion": {
+      "joy": 680,
+      "sadness": 1549,
+      "fear": 1765,
+      "anger": 466,
+      "neutral": 510,
+      "surprise": 366,
+      "disgust": 45
+    },
+    "language": {
+      "en": 4327,
+      "lt": 1,
+      "ar": 16,
+      "en-US": 100,
+      "ja": 32,
+      "zh-CN": 4,
+      "zh-HK": 4,
+      "zh-TW": 4,
+      "pt": 24,
+      "sv": 4,
+      "rn": 1,
+      "ru": 4,
+      "fr": 27,
+      "af": 3,
+      "el": 1,
+      "da": 2,
+      "ab": 1,
+      "Angika": 1,
+      "nl": 9,
+      "es": 18,
+      "hu": 2,
+      "de": 42,
+      "sq": 3,
+      "tr": 2,
+      "en-GB": 6,
+      "fr-FR": 1,
+      "fo": 1,
+      "is": 1,
+      "am": 2,
+      "th": 1,
+      "ak": 1,
+      "it": 3,
+      "en-AU": 1,
+      "id": 3,
+      "ko": 4,
+      "hr": 1,
+      "pt-BR": 1,
+      "fi": 2,
+      "cs": 2,
+      "ae": 1,
+      "ay": 1,
+      "zh": 3,
+      "en-us": 1
     }
   }
 }
