@@ -2,46 +2,46 @@
   "topic_0": {
     "label": [
       "im",
-      "just",
       "like",
-      "feel",
-      "time"
+      "loss",
+      "time",
+      "anxiety"
     ],
-    "count": 14007,
+    "count": 13764,
     "daily": {
-      "2025-09-06": 2442,
       "2025-09-07": 836,
       "2025-09-08": 938,
       "2025-09-09": 3112,
       "2025-09-10": 2528,
       "2025-09-11": 2194,
-      "2025-09-12": 1957
+      "2025-09-12": 1961,
+      "2025-09-13": 2195
     },
     "sentiment": {
-      "neutral": 4489,
-      "negative": 7194,
-      "positive": 2324
+      "neutral": 4505,
+      "positive": 2323,
+      "negative": 6936
     },
     "emotion": {
-      "neutral": 1193,
-      "sadness": 4315,
-      "fear": 4367,
-      "anger": 1276,
-      "joy": 1696,
-      "surprise": 1046,
+      "sadness": 4154,
+      "fear": 4213,
+      "surprise": 1008,
+      "joy": 1751,
+      "anger": 1312,
+      "neutral": 1212,
       "disgust": 114
     },
     "hashtags": [
       "#bb27",
-      "#BB27",
       "#WorldSuicidePreventionDay",
       "#art",
-      "#mentalhealth",
+      "#BB27",
       "#ADHD",
+      "#mentalhealth",
       "#MentalHealth",
-      "#news",
       "#DubNation",
-      "#adhd"
+      "#news",
+      "#poetry"
     ],
     "emojis": [
       "😭",
@@ -50,397 +50,283 @@
       "🏻",
       "😂",
       "👉",
-      "💙",
-      "🔥",
       "🚨",
-      "👇"
+      "🔥",
+      "👇",
+      "🔗"
     ]
   },
   "topic_1": {
     "label": [
       "loss",
-      "trump",
-      "new",
-      "friend",
-      "kirk"
+      "game",
+      "weight",
+      "season",
+      "new"
     ],
-    "count": 7208,
+    "count": 7102,
     "daily": {
-      "2025-09-06": 469,
       "2025-09-07": 2553,
       "2025-09-08": 2348,
       "2025-09-09": 516,
       "2025-09-10": 515,
       "2025-09-11": 476,
-      "2025-09-12": 331
+      "2025-09-12": 333,
+      "2025-09-13": 361
     },
     "sentiment": {
-      "neutral": 2367,
-      "negative": 3690,
-      "positive": 1151
+      "neutral": 2311,
+      "positive": 1117,
+      "negative": 3674
     },
     "emotion": {
-      "disgust": 58,
-      "sadness": 2277,
-      "neutral": 614,
-      "anger": 702,
-      "joy": 829,
-      "fear": 2199,
-      "surprise": 529
+      "sadness": 2283,
+      "fear": 2163,
+      "surprise": 524,
+      "anger": 703,
+      "neutral": 569,
+      "joy": 803,
+      "disgust": 57
     },
     "hashtags": [
-      "#bb27",
       "#news",
+      "#bb27",
       "#art",
       "#ADHD",
-      "#BB27",
       "#DubNation",
-      "#therapy",
+      "#adhd",
       "#depression",
       "#mentalhealth",
-      "#anxiety"
+      "#MentalHealth",
+      "#therapy"
     ],
     "emojis": [
       "😭",
-      "👉",
       "😂",
-      "💙",
+      "👉",
       "💔",
       "🙏",
       "🏻",
-      "🎶",
+      "💙",
       "💚",
-      "🚨"
+      "🚨",
+      "🎶"
     ]
   },
   "topic_5": {
     "label": [
-      "stress",
-      "need",
       "crying",
+      "im",
+      "dont",
       "worry",
-      "work"
+      "time"
     ],
-    "count": 2210,
+    "count": 2196,
     "daily": {
-      "2025-09-06": 261,
       "2025-09-07": 294,
       "2025-09-08": 299,
       "2025-09-09": 254,
       "2025-09-10": 649,
       "2025-09-11": 256,
-      "2025-09-12": 197
+      "2025-09-12": 197,
+      "2025-09-13": 247
     },
     "sentiment": {
-      "negative": 769,
-      "neutral": 1058,
-      "positive": 383
+      "negative": 819,
+      "neutral": 976,
+      "positive": 401
     },
     "emotion": {
-      "sadness": 451,
-      "neutral": 313,
-      "joy": 365,
-      "fear": 734,
-      "anger": 210,
-      "surprise": 123,
-      "disgust": 14
+      "sadness": 508,
+      "neutral": 267,
+      "joy": 357,
+      "fear": 721,
+      "anger": 200,
+      "surprise": 130,
+      "disgust": 13
     },
     "hashtags": [
-      "#bb27",
       "#art",
-      "#ADHD",
+      "#bb27",
       "#WorldSuicidePreventionDay",
-      "#mentalhealth",
+      "#ADHD",
       "#depression",
       "#DubNation",
-      "#CitizenPortal",
-      "#BB27",
-      "#MentalHealth"
-    ],
-    "emojis": [
-      "😭",
-      "🙏",
-      "💔",
-      "🏻",
-      "😂",
-      "👉",
-      "💜",
-      "👇",
-      "🔥",
-      "💙"
-    ]
-  },
-  "topic_4": {
-    "label": [
-      "crying",
-      "worry",
-      "dont",
-      "mental",
-      "health"
-    ],
-    "count": 2437,
-    "daily": {
-      "2025-09-06": 641,
-      "2025-09-07": 266,
-      "2025-09-08": 328,
-      "2025-09-09": 254,
-      "2025-09-10": 380,
-      "2025-09-11": 309,
-      "2025-09-12": 259
-    },
-    "sentiment": {
-      "neutral": 924,
-      "positive": 436,
-      "negative": 1077
-    },
-    "emotion": {
-      "anger": 234,
-      "joy": 285,
-      "neutral": 208,
-      "fear": 916,
-      "sadness": 604,
-      "surprise": 182,
-      "disgust": 8
-    },
-    "hashtags": [
-      "#bb27",
       "#mentalhealth",
-      "#art",
-      "#MentalHealth",
-      "#BB27",
-      "#WorldSuicidePreventionDay",
-      "#adhd",
-      "#MentalHealthAwareness",
+      "#CitizenPortal",
       "#news",
-      "#trauma"
+      "#AI"
     ],
     "emojis": [
       "😭",
       "🙏",
-      "🎶",
+      "😂",
+      "🏻",
+      "💔",
+      "💜",
       "👉",
-      "💚",
-      "🏻",
-      "😂",
-      "🔥",
-      "💔",
-      "🚨"
-    ]
-  },
-  "topic_7": {
-    "label": [
-      "trauma",
-      "recovery",
-      "therapy",
-      "bskysocial",
-      "new"
-    ],
-    "count": 2578,
-    "daily": {
-      "2025-09-06": 277,
-      "2025-09-07": 218,
-      "2025-09-08": 363,
-      "2025-09-09": 267,
-      "2025-09-10": 371,
-      "2025-09-11": 820,
-      "2025-09-12": 262
-    },
-    "sentiment": {
-      "neutral": 1066,
-      "positive": 513,
-      "negative": 999
-    },
-    "emotion": {
-      "neutral": 305,
-      "fear": 972,
-      "sadness": 547,
-      "joy": 404,
-      "surprise": 149,
-      "anger": 184,
-      "disgust": 17
-    },
-    "hashtags": [
-      "#bb27",
-      "#poetry",
-      "#ADHD",
-      "#art",
-      "#BB27",
-      "#WorldSuicidePreventionDay",
-      "#depression",
-      "#MentalHealthAwareness",
-      "#news",
-      "#booksky"
-    ],
-    "emojis": [
-      "😭",
-      "🙄",
-      "🏻",
-      "🙏",
-      "💖",
-      "🖕",
-      "😂",
-      "💔",
-      "🏼",
-      "👉"
+      "👇",
+      "😅",
+      "🔥"
     ]
   },
   "topic_6": {
     "label": [
-      "kirk",
-      "charlie",
-      "mourning",
       "grief",
-      "trump"
+      "mourning",
+      "charlie",
+      "kirk",
+      "kirks"
     ],
-    "count": 2475,
+    "count": 2795,
     "daily": {
-      "2025-09-06": 240,
       "2025-09-07": 344,
       "2025-09-08": 484,
       "2025-09-09": 309,
       "2025-09-10": 331,
       "2025-09-11": 272,
-      "2025-09-12": 495
+      "2025-09-12": 495,
+      "2025-09-13": 560
     },
     "sentiment": {
-      "positive": 396,
-      "negative": 1061,
-      "neutral": 1018
+      "neutral": 1084,
+      "negative": 1346,
+      "positive": 365
     },
     "emotion": {
-      "joy": 400,
-      "sadness": 699,
-      "anger": 206,
-      "fear": 754,
-      "neutral": 271,
-      "surprise": 126,
-      "disgust": 19
+      "fear": 795,
+      "anger": 251,
+      "joy": 351,
+      "neutral": 275,
+      "sadness": 947,
+      "surprise": 143,
+      "disgust": 33
     },
     "hashtags": [
       "#bb27",
       "#mentalhealth",
-      "#news",
-      "#art",
       "#anxiety",
       "#depression",
-      "#ADHD",
+      "#art",
+      "#MentalHealth",
       "#Recovery",
-      "#NowPlaying",
-      "#poetry"
+      "#BB27",
+      "#Trump",
+      "#DubNation"
     ],
     "emojis": [
-      "👏",
       "😭",
+      "👏",
       "🏻",
       "🙏",
-      "😂",
       "💔",
+      "😂",
       "👉",
       "🚨",
-      "👀",
-      "🔥"
+      "🔥",
+      "👀"
     ]
   },
-  "topic_2": {
+  "topic_7": {
     "label": [
-      "mental",
-      "health",
-      "illness",
-      "support",
-      "bskysocial"
+      "just",
+      "people",
+      "suicide",
+      "crying",
+      "charlie"
     ],
-    "count": 2708,
+    "count": 2622,
     "daily": {
-      "2025-09-06": 376,
-      "2025-09-07": 361,
-      "2025-09-08": 377,
-      "2025-09-09": 370,
-      "2025-09-10": 454,
-      "2025-09-11": 423,
-      "2025-09-12": 347
+      "2025-09-07": 218,
+      "2025-09-08": 363,
+      "2025-09-09": 267,
+      "2025-09-10": 371,
+      "2025-09-11": 820,
+      "2025-09-12": 262,
+      "2025-09-13": 321
     },
     "sentiment": {
-      "negative": 1187,
-      "neutral": 1009,
-      "positive": 512
+      "neutral": 983,
+      "negative": 1130,
+      "positive": 509
     },
     "emotion": {
-      "surprise": 144,
-      "fear": 834,
-      "disgust": 18,
-      "joy": 419,
-      "sadness": 808,
-      "anger": 216,
-      "neutral": 269
+      "fear": 1003,
+      "neutral": 250,
+      "sadness": 588,
+      "joy": 372,
+      "surprise": 177,
+      "anger": 211,
+      "disgust": 21
     },
     "hashtags": [
+      "#poetry",
       "#bb27",
-      "#news",
+      "#art",
+      "#WorldSuicidePreventionDay",
+      "#booksky",
       "#ADHD",
-      "#mentalhealth",
-      "#DubNation",
-      "#MentalHealthMatters",
       "#BB27",
-      "#recovery",
-      "#NowPlaying",
-      "#adhd"
+      "#grief",
+      "#MentalHealth",
+      "#books"
     ],
     "emojis": [
       "😭",
+      "🙏",
       "🏻",
       "💔",
-      "🙏",
       "😂",
-      "💨",
-      "🚨",
+      "💖",
+      "🖕",
+      "🏼",
       "👉",
-      "🔗",
-      "👇"
+      "💙"
     ]
   },
   "topic_3": {
     "label": [
-      "worry",
-      "dont",
-      "ill",
-      "know",
-      "theyre"
+      "meds",
+      "shelter",
+      "food",
+      "hunger",
+      "bskysocial"
     ],
-    "count": 2540,
+    "count": 2470,
     "daily": {
-      "2025-09-06": 292,
       "2025-09-07": 279,
       "2025-09-08": 353,
       "2025-09-09": 307,
       "2025-09-10": 414,
       "2025-09-11": 621,
-      "2025-09-12": 274
+      "2025-09-12": 274,
+      "2025-09-13": 222
     },
     "sentiment": {
-      "negative": 1246,
-      "positive": 360,
-      "neutral": 934
+      "negative": 1216,
+      "neutral": 917,
+      "positive": 337
     },
     "emotion": {
-      "surprise": 159,
-      "sadness": 706,
-      "anger": 324,
-      "joy": 373,
-      "fear": 651,
-      "neutral": 302,
-      "disgust": 25
+      "surprise": 139,
+      "neutral": 295,
+      "anger": 301,
+      "sadness": 640,
+      "joy": 362,
+      "fear": 713,
+      "disgust": 20
     },
     "hashtags": [
-      "#bb27",
       "#WorldSuicidePreventionDay",
+      "#bb27",
       "#mentalhealth",
-      "#recovery",
-      "#grief",
       "#MentalHealth",
-      "#news",
+      "#recovery",
+      "#depression",
+      "#Recovery",
+      "#physicaltherapy",
       "#DubNation",
-      "#art",
-      "#depression"
+      "#grief"
     ],
     "emojis": [
       "😭",
@@ -449,10 +335,124 @@
       "🏻",
       "👉",
       "😩",
-      "😂",
+      "🔥",
       "💔",
+      "😂",
+      "👇"
+    ]
+  },
+  "topic_2": {
+    "label": [
+      "mental",
+      "health",
+      "illness",
+      "people",
+      "care"
+    ],
+    "count": 2675,
+    "daily": {
+      "2025-09-07": 361,
+      "2025-09-08": 377,
+      "2025-09-09": 370,
+      "2025-09-10": 454,
+      "2025-09-11": 423,
+      "2025-09-12": 347,
+      "2025-09-13": 343
+    },
+    "sentiment": {
+      "negative": 1237,
+      "positive": 467,
+      "neutral": 971
+    },
+    "emotion": {
+      "fear": 820,
+      "surprise": 125,
+      "joy": 392,
+      "sadness": 807,
+      "neutral": 283,
+      "anger": 230,
+      "disgust": 18
+    },
+    "hashtags": [
+      "#bb27",
+      "#mentalhealth",
+      "#poetry",
+      "#NBA",
+      "#fitness",
+      "#adhd",
+      "#stressrelief",
+      "#BB27",
+      "#DubNation",
+      "#ADHD"
+    ],
+    "emojis": [
+      "😭",
+      "💔",
+      "🏻",
+      "🙏",
+      "😂",
+      "👉",
       "👇",
-      "🔥"
+      "👍",
+      "🚨",
+      "💜"
+    ]
+  },
+  "topic_4": {
+    "label": [
+      "worry",
+      "dont",
+      "theres",
+      "bskysocial",
+      "food"
+    ],
+    "count": 2129,
+    "daily": {
+      "2025-09-07": 266,
+      "2025-09-08": 328,
+      "2025-09-09": 254,
+      "2025-09-10": 380,
+      "2025-09-11": 309,
+      "2025-09-12": 260,
+      "2025-09-13": 332
+    },
+    "sentiment": {
+      "neutral": 713,
+      "negative": 981,
+      "positive": 435
+    },
+    "emotion": {
+      "sadness": 470,
+      "anger": 191,
+      "joy": 238,
+      "surprise": 179,
+      "fear": 929,
+      "neutral": 117,
+      "disgust": 5
+    },
+    "hashtags": [
+      "#mentalhealth",
+      "#bb27",
+      "#WorldSuicidePreventionDay",
+      "#recovery",
+      "#news",
+      "#trauma",
+      "#MentalHealth",
+      "#art",
+      "#healing",
+      "#booksky"
+    ],
+    "emojis": [
+      "😭",
+      "🙏",
+      "🏻",
+      "👉",
+      "😂",
+      "🔥",
+      "💔",
+      "🎶",
+      "🚨",
+      "💚"
     ]
   }
 }
