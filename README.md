@@ -5,6 +5,11 @@
 [![MIT License](https://img.shields.io/badge/license-MIT-blue)](./LICENSE)
 [![Daily Labeling and Summary Export](https://github.com/gauravfs-14/CognitiveSky/actions/workflows/data-labeling.yml/badge.svg)](https://github.com/gauravfs-14/CognitiveSky/actions/workflows/data-labeling.yml)
 
+> [!NOTE]
+> 📢 **Announcement:** Our paper is now available on [arXiv](https://arxiv.org/abs/2509.11444)!  
+> **Title:** *CognitiveSky: Scalable Sentiment and Narrative Analysis for Decentralized Social Media*  
+> If you use this project, please consider citing our work. Thank you for your support!
+
 **CognitiveSky** is an open-source research infrastructure and dashboard for analyzing mental health narratives on the Bluesky social platform. Inspired by [TwiXplorer](https://github.com/smash-edin/twixplorer), it integrates real-time data ingestion, robust NLP processing, and interactive visualization to empower researchers, advocates, and developers with actionable social insights.
 
 > **Live Dashboard:** [CognitiveSky Dashboard](https://cognitivesky.gaurabchhetri.com.np/)
@@ -266,6 +271,22 @@ We welcome contributions from researchers, developers, and mental health advocat
 ## 📄 License
 
 This project is licensed under the **MIT License**. See [`LICENSE`](./LICENSE) for details.
+
+### BibTex Citation
+
+If you decide to use our project, code, and artifacts in any way, please consider citing our paper.
+
+```bibtex
+@misc{chhetri2025cognitiveskyscalablesentimentnarrative,
+      title={CognitiveSky: Scalable Sentiment and Narrative Analysis for Decentralized Social Media}, 
+      author={Gaurab Chhetri and Anandi Dutta and Subasish Das},
+      year={2025},
+      eprint={2509.11444},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2509.11444}, 
+}
+```
 
 ## Acknowledgements
 
