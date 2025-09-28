@@ -1,57 +1,4 @@
 {
-  "2025-09-20": {
-    "volume": 4566,
-    "sentiment": {
-      "positive": 738,
-      "negative": 2214,
-      "neutral": 1614
-    },
-    "emotion": {
-      "fear": 1381,
-      "sadness": 1274,
-      "neutral": 374,
-      "surprise": 336,
-      "joy": 607,
-      "anger": 548,
-      "disgust": 46
-    },
-    "language": {
-      "en": 3692,
-      "ja": 13,
-      "en-US": 90,
-      "fr-FR": 2,
-      "fr": 30,
-      "de": 34,
-      "es": 20,
-      "bg": 1,
-      "pt": 15,
-      "nl": 9,
-      "en-GB": 6,
-      "uk": 3,
-      "ar": 10,
-      "ko": 1,
-      "sv": 4,
-      "nb": 1,
-      "fi": 2,
-      "it": 4,
-      "da": 1,
-      "yi": 1,
-      "bi": 1,
-      "sq": 1,
-      "zh": 2,
-      "jp": 2,
-      "sv-SE": 1,
-      "fr-BE": 1,
-      "fa": 1,
-      "de-DE": 1,
-      "th": 1,
-      "aa": 1,
-      "id": 1,
-      "ro": 1,
-      "en-AU": 1,
-      "it-IT": 1
-    }
-  },
   "2025-09-21": {
     "volume": 4679,
     "sentiment": {
@@ -308,15 +255,15 @@
     }
   },
   "2025-09-26": {
-    "volume": 3468,
+    "volume": 3469,
     "sentiment": {
-      "negative": 1591,
+      "negative": 1592,
       "neutral": 1265,
       "positive": 612
     },
     "emotion": {
       "sadness": 890,
-      "fear": 1142,
+      "fear": 1143,
       "neutral": 343,
       "anger": 373,
       "joy": 452,
@@ -350,6 +297,48 @@
       "ru": 1,
       "gu": 1,
       "pl": 2
+    }
+  },
+  "2025-09-27": {
+    "volume": 2399,
+    "sentiment": {
+      "negative": 1102,
+      "neutral": 882,
+      "positive": 415
+    },
+    "emotion": {
+      "sadness": 659,
+      "fear": 787,
+      "neutral": 240,
+      "anger": 215,
+      "surprise": 179,
+      "joy": 304,
+      "disgust": 15
+    },
+    "language": {
+      "en": 1946,
+      "pt": 11,
+      "ja": 15,
+      "en-US": 60,
+      "pl": 2,
+      "de": 16,
+      "fr": 13,
+      "es": 10,
+      "nl": 1,
+      "sv": 2,
+      "ko": 1,
+      "ar": 14,
+      "am": 1,
+      "hu": 1,
+      "fi": 3,
+      "id": 1,
+      "sl": 1,
+      "zh": 2,
+      "no": 1,
+      "it": 2,
+      "uk": 1,
+      "ru": 1,
+      "is": 1
     }
   }
 }
