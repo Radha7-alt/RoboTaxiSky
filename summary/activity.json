@@ -1,54 +1,4 @@
 {
-  "2025-09-22": {
-    "volume": 4422,
-    "sentiment": {
-      "neutral": 1505,
-      "negative": 2150,
-      "positive": 767
-    },
-    "emotion": {
-      "sadness": 1278,
-      "anger": 408,
-      "fear": 1414,
-      "surprise": 301,
-      "disgust": 33,
-      "neutral": 412,
-      "joy": 576
-    },
-    "language": {
-      "en": 3610,
-      "en-US": 107,
-      "ja": 26,
-      "de": 26,
-      "pt": 24,
-      "th": 1,
-      "fr": 24,
-      "ar": 31,
-      "en-GB": 5,
-      "fr-FR": 3,
-      "ga": 2,
-      "la": 1,
-      "da": 3,
-      "as": 1,
-      "es": 7,
-      "fi": 2,
-      "nl": 6,
-      "it": 5,
-      "it-IT": 1,
-      "de-DE": 1,
-      "sl": 1,
-      "nb": 1,
-      "id": 3,
-      "en-us": 1,
-      "pl": 1,
-      "aa": 1,
-      "ru": 2,
-      "he": 1,
-      "sa": 1,
-      "sq": 1,
-      "nl-NL": 1
-    }
-  },
   "2025-09-23": {
     "volume": 5068,
     "sentiment": {
@@ -286,23 +236,23 @@
     }
   },
   "2025-09-28": {
-    "volume": 3411,
+    "volume": 3413,
     "sentiment": {
       "negative": 1681,
-      "positive": 522,
-      "neutral": 1208
+      "positive": 523,
+      "neutral": 1209
     },
     "emotion": {
-      "fear": 1122,
+      "fear": 1123,
       "surprise": 228,
       "sadness": 1050,
       "anger": 315,
       "neutral": 299,
-      "joy": 370,
+      "joy": 371,
       "disgust": 27
     },
     "language": {
-      "en": 2780,
+      "en": 2781,
       "pt": 8,
       "en-US": 79,
       "de": 17,
@@ -328,6 +278,47 @@
       "zh": 1,
       "zh-CN": 1,
       "gu": 1
+    }
+  },
+  "2025-09-29": {
+    "volume": 1680,
+    "sentiment": {
+      "negative": 775,
+      "neutral": 622,
+      "positive": 283
+    },
+    "emotion": {
+      "sadness": 494,
+      "joy": 222,
+      "fear": 532,
+      "neutral": 150,
+      "surprise": 127,
+      "anger": 141,
+      "disgust": 14
+    },
+    "language": {
+      "en": 1373,
+      "ja": 13,
+      "en-US": 61,
+      "es": 3,
+      "pt": 7,
+      "de": 8,
+      "nb": 2,
+      "ak": 1,
+      "uk": 1,
+      "ar": 3,
+      "sv": 2,
+      "ga": 1,
+      "fr": 9,
+      "ko": 2,
+      "da": 1,
+      "it": 2,
+      "th": 1,
+      "nl": 2,
+      "zh": 1,
+      "tr": 1,
+      "fi": 1,
+      "it-IT": 1
     }
   }
 }
