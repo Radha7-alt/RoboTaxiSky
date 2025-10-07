@@ -1,45 +1,4 @@
 {
-  "2025-09-29": {
-    "volume": 1680,
-    "sentiment": {
-      "negative": 775,
-      "neutral": 622,
-      "positive": 283
-    },
-    "emotion": {
-      "sadness": 494,
-      "joy": 222,
-      "fear": 532,
-      "neutral": 150,
-      "surprise": 127,
-      "anger": 141,
-      "disgust": 14
-    },
-    "language": {
-      "en": 1373,
-      "ja": 13,
-      "en-US": 61,
-      "es": 3,
-      "pt": 7,
-      "de": 8,
-      "nb": 2,
-      "ak": 1,
-      "uk": 1,
-      "ar": 3,
-      "sv": 2,
-      "ga": 1,
-      "fr": 9,
-      "ko": 2,
-      "da": 1,
-      "it": 2,
-      "th": 1,
-      "nl": 2,
-      "zh": 1,
-      "tr": 1,
-      "fi": 1,
-      "it-IT": 1
-    }
-  },
   "2025-09-30": {
     "volume": 2793,
     "sentiment": {
@@ -289,18 +248,18 @@
     }
   },
   "2025-10-05": {
-    "volume": 3065,
+    "volume": 3067,
     "sentiment": {
-      "negative": 1494,
-      "positive": 551,
+      "negative": 1495,
+      "positive": 552,
       "neutral": 1020
     },
     "emotion": {
       "sadness": 905,
-      "fear": 967,
+      "fear": 968,
       "neutral": 281,
       "surprise": 220,
-      "joy": 374,
+      "joy": 375,
       "anger": 293,
       "disgust": 25
     },
@@ -331,6 +290,57 @@
       "fr-FR": 1,
       "fi": 1,
       "sl": 1
+    }
+  },
+  "2025-10-06": {
+    "volume": 3667,
+    "sentiment": {
+      "neutral": 1210,
+      "negative": 1658,
+      "positive": 799
+    },
+    "emotion": {
+      "sadness": 963,
+      "neutral": 322,
+      "joy": 564,
+      "fear": 1219,
+      "disgust": 30,
+      "surprise": 222,
+      "anger": 347
+    },
+    "language": {
+      "en": 2941,
+      "en-US": 89,
+      "fr": 21,
+      "pt": 24,
+      "de": 18,
+      "hu": 1,
+      "ja": 29,
+      "es": 15,
+      "ar": 17,
+      "nl": 4,
+      "fi-FI": 1,
+      "fi": 1,
+      "ja-JP": 1,
+      "ru": 2,
+      "ca": 1,
+      "es-ES": 1,
+      "zh": 1,
+      "en-AU": 1,
+      "af": 1,
+      "it": 6,
+      "vi": 1,
+      "sv": 1,
+      "am": 1,
+      "cy": 1,
+      "el": 1,
+      "nb": 2,
+      "ab": 2,
+      "id": 2,
+      "ko": 1,
+      "da": 1,
+      "my": 1,
+      "cs": 1
     }
   }
 }
