@@ -1,52 +1,4 @@
 {
-  "2025-10-03": {
-    "volume": 3123,
-    "sentiment": {
-      "neutral": 1113,
-      "negative": 1465,
-      "positive": 545
-    },
-    "emotion": {
-      "fear": 1004,
-      "anger": 286,
-      "sadness": 901,
-      "surprise": 202,
-      "joy": 404,
-      "neutral": 306,
-      "disgust": 20
-    },
-    "language": {
-      "en-US": 57,
-      "en": 2489,
-      "ja": 31,
-      "pt": 12,
-      "nl": 7,
-      "es": 13,
-      "en-GB": 5,
-      "it": 3,
-      "eu": 2,
-      "tr": 2,
-      "it-IT": 1,
-      "fr": 10,
-      "ko": 4,
-      "ar": 12,
-      "sv": 3,
-      "de": 23,
-      "en-AU": 1,
-      "th": 3,
-      "en-us": 1,
-      "pa": 1,
-      "fi": 3,
-      "el": 1,
-      "jp": 1,
-      "zh": 1,
-      "da": 2,
-      "nb": 1,
-      "am": 1,
-      "ak": 1,
-      "ca": 1
-    }
-  },
   "2025-10-04": {
     "volume": 2930,
     "sentiment": {
@@ -271,24 +223,24 @@
     }
   },
   "2025-10-09": {
-    "volume": 1462,
+    "volume": 1469,
     "sentiment": {
-      "negative": 591,
-      "neutral": 447,
-      "positive": 424
+      "negative": 593,
+      "neutral": 450,
+      "positive": 426
     },
     "emotion": {
-      "fear": 506,
-      "joy": 253,
-      "sadness": 357,
+      "fear": 510,
+      "joy": 254,
+      "sadness": 358,
       "anger": 123,
-      "neutral": 125,
+      "neutral": 126,
       "surprise": 89,
       "disgust": 9
     },
     "language": {
-      "en": 1257,
-      "pt": 6,
+      "en": 1259,
+      "pt": 7,
       "nl": 3,
       "en-US": 19,
       "de": 10,
@@ -303,6 +255,56 @@
       "as": 1,
       "en-GB": 1,
       "ga": 1
+    }
+  },
+  "2025-10-10": {
+    "volume": 4234,
+    "sentiment": {
+      "neutral": 1442,
+      "negative": 1507,
+      "positive": 1285
+    },
+    "emotion": {
+      "fear": 1478,
+      "sadness": 1014,
+      "joy": 804,
+      "surprise": 238,
+      "anger": 314,
+      "neutral": 363,
+      "disgust": 23
+    },
+    "language": {
+      "en": 3469,
+      "id": 7,
+      "en-US": 97,
+      "ja": 10,
+      "pt": 20,
+      "fr": 22,
+      "en-GB": 2,
+      "de": 29,
+      "ab": 1,
+      "Angika": 1,
+      "gd": 1,
+      "sa": 1,
+      "ar": 21,
+      "nl": 7,
+      "is": 1,
+      "zh": 1,
+      "ko": 4,
+      "it": 2,
+      "es": 13,
+      "as": 1,
+      "cy": 1,
+      "sv": 4,
+      "ca": 1,
+      "tr": 2,
+      "fi": 2,
+      "ru": 2,
+      "am": 2,
+      "ay": 1,
+      "ga": 1,
+      "en-us": 2,
+      "pt-PT": 1
     }
   }
 }
