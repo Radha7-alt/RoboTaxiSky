@@ -1,54 +1,4 @@
 {
-  "2025-10-10": {
-    "volume": 4238,
-    "sentiment": {
-      "neutral": 1442,
-      "negative": 1508,
-      "positive": 1288
-    },
-    "emotion": {
-      "fear": 1480,
-      "sadness": 1014,
-      "joy": 805,
-      "surprise": 239,
-      "anger": 314,
-      "neutral": 363,
-      "disgust": 23
-    },
-    "language": {
-      "en": 3470,
-      "id": 7,
-      "en-US": 97,
-      "ja": 10,
-      "pt": 20,
-      "fr": 22,
-      "en-GB": 2,
-      "de": 29,
-      "ab": 1,
-      "Angika": 1,
-      "gd": 1,
-      "sa": 1,
-      "ar": 21,
-      "nl": 7,
-      "is": 1,
-      "zh": 1,
-      "ko": 4,
-      "it": 2,
-      "es": 13,
-      "as": 1,
-      "cy": 1,
-      "sv": 4,
-      "ca": 1,
-      "tr": 2,
-      "fi": 2,
-      "ru": 2,
-      "am": 2,
-      "ay": 1,
-      "ga": 1,
-      "en-us": 2,
-      "pt-PT": 1
-    }
-  },
   "2025-10-11": {
     "volume": 3525,
     "sentiment": {
@@ -280,15 +230,15 @@
     }
   },
   "2025-10-16": {
-    "volume": 3355,
+    "volume": 3357,
     "sentiment": {
-      "positive": 671,
-      "negative": 1471,
+      "positive": 672,
+      "negative": 1472,
       "neutral": 1213
     },
     "emotion": {
-      "joy": 494,
-      "fear": 1074,
+      "joy": 495,
+      "fear": 1075,
       "sadness": 905,
       "surprise": 211,
       "anger": 319,
@@ -296,7 +246,7 @@
       "disgust": 31
     },
     "language": {
-      "en": 2791,
+      "en": 2792,
       "fr": 20,
       "pt": 18,
       "en-US": 71,
@@ -328,6 +278,51 @@
       "en-us": 1,
       "bg": 1,
       "af": 1
+    }
+  },
+  "2025-10-17": {
+    "volume": 3173,
+    "sentiment": {
+      "neutral": 1152,
+      "negative": 1432,
+      "positive": 589
+    },
+    "emotion": {
+      "fear": 1080,
+      "sadness": 845,
+      "neutral": 291,
+      "joy": 457,
+      "anger": 280,
+      "disgust": 23,
+      "surprise": 197
+    },
+    "language": {
+      "en": 2564,
+      "en-US": 87,
+      "pt": 16,
+      "en-us": 1,
+      "de": 19,
+      "ja": 19,
+      "es": 10,
+      "am": 1,
+      "ar": 5,
+      "th": 1,
+      "nl": 6,
+      "it": 2,
+      "fr": 19,
+      "ko": 4,
+      "id": 5,
+      "en-GB": 4,
+      "zh": 1,
+      "ga": 1,
+      "gl": 1,
+      "ru": 1,
+      "el": 1,
+      "sv": 3,
+      "av": 1,
+      "fr-FR": 1,
+      "fi": 2,
+      "pt-BR": 1
     }
   }
 }
