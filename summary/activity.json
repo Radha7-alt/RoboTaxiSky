@@ -1,49 +1,4 @@
 {
-  "2025-10-11": {
-    "volume": 3525,
-    "sentiment": {
-      "positive": 742,
-      "neutral": 1278,
-      "negative": 1505
-    },
-    "emotion": {
-      "neutral": 307,
-      "fear": 1085,
-      "sadness": 1015,
-      "joy": 534,
-      "surprise": 236,
-      "anger": 331,
-      "disgust": 17
-    },
-    "language": {
-      "en": 2921,
-      "pt": 16,
-      "en-US": 96,
-      "ja": 26,
-      "es": 14,
-      "hr": 1,
-      "fr": 13,
-      "de": 19,
-      "it": 4,
-      "ar": 8,
-      "nl": 8,
-      "fi": 5,
-      "sq": 1,
-      "en-GB": 3,
-      "sv": 4,
-      "fr-FR": 1,
-      "nb": 1,
-      "ko": 1,
-      "hu": 1,
-      "bs": 1,
-      "en-AU": 1,
-      "fa": 1,
-      "uk": 1,
-      "ce": 1,
-      "ru": 1,
-      "el": 1
-    }
-  },
   "2025-10-12": {
     "volume": 2926,
     "sentiment": {
@@ -281,14 +236,14 @@
     }
   },
   "2025-10-17": {
-    "volume": 3173,
+    "volume": 3174,
     "sentiment": {
       "neutral": 1152,
-      "negative": 1432,
+      "negative": 1433,
       "positive": 589
     },
     "emotion": {
-      "fear": 1080,
+      "fear": 1081,
       "sadness": 845,
       "neutral": 291,
       "joy": 457,
@@ -323,6 +278,51 @@
       "fr-FR": 1,
       "fi": 2,
       "pt-BR": 1
+    }
+  },
+  "2025-10-18": {
+    "volume": 2245,
+    "sentiment": {
+      "negative": 986,
+      "positive": 474,
+      "neutral": 785
+    },
+    "emotion": {
+      "fear": 773,
+      "sadness": 621,
+      "joy": 328,
+      "anger": 199,
+      "surprise": 144,
+      "neutral": 169,
+      "disgust": 11
+    },
+    "language": {
+      "en": 1843,
+      "de": 25,
+      "en-US": 58,
+      "pt": 13,
+      "ar": 8,
+      "hy": 1,
+      "cs": 3,
+      "fr": 10,
+      "id": 1,
+      "es": 5,
+      "fr-FR": 1,
+      "en-GB": 2,
+      "uk": 1,
+      "pl": 1,
+      "ko": 1,
+      "ja": 8,
+      "nl": 1,
+      "it": 3,
+      "fi": 2,
+      "la": 1,
+      "en-AU": 1,
+      "nl-NL": 1,
+      "jp": 1,
+      "ru": 2,
+      "en-us": 1,
+      "ce": 1
     }
   }
 }
