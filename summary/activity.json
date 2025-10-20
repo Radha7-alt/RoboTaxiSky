@@ -1,49 +1,4 @@
 {
-  "2025-10-12": {
-    "volume": 2926,
-    "sentiment": {
-      "negative": 1252,
-      "positive": 637,
-      "neutral": 1037
-    },
-    "emotion": {
-      "sadness": 815,
-      "neutral": 236,
-      "surprise": 206,
-      "fear": 943,
-      "joy": 489,
-      "anger": 219,
-      "disgust": 18
-    },
-    "language": {
-      "en": 2441,
-      "en-US": 82,
-      "ja": 15,
-      "pt": 12,
-      "de": 18,
-      "it": 1,
-      "en-GB": 2,
-      "ru": 2,
-      "es": 11,
-      "aa": 1,
-      "fi": 4,
-      "fr": 18,
-      "ce": 1,
-      "ar": 10,
-      "th": 2,
-      "nl": 6,
-      "zh": 2,
-      "sv": 4,
-      "cs": 1,
-      "id": 1,
-      "fr-FR": 2,
-      "jp": 3,
-      "da": 1,
-      "nb": 1,
-      "pt-PT": 1,
-      "en-AU": 1
-    }
-  },
   "2025-10-13": {
     "volume": 3720,
     "sentiment": {
@@ -139,16 +94,16 @@
     }
   },
   "2025-10-15": {
-    "volume": 3174,
+    "volume": 3175,
     "sentiment": {
       "neutral": 1102,
-      "negative": 1437,
+      "negative": 1438,
       "positive": 635
     },
     "emotion": {
       "anger": 257,
       "sadness": 859,
-      "fear": 1047,
+      "fear": 1048,
       "disgust": 26,
       "neutral": 292,
       "joy": 476,
@@ -323,6 +278,54 @@
       "ru": 2,
       "en-us": 1,
       "ce": 1
+    }
+  },
+  "2025-10-19": {
+    "volume": 2804,
+    "sentiment": {
+      "negative": 1313,
+      "neutral": 978,
+      "positive": 513
+    },
+    "emotion": {
+      "fear": 854,
+      "neutral": 256,
+      "surprise": 187,
+      "sadness": 832,
+      "joy": 396,
+      "anger": 255,
+      "disgust": 24
+    },
+    "language": {
+      "en": 2302,
+      "ga": 3,
+      "gl": 3,
+      "en-US": 123,
+      "de": 17,
+      "fr": 12,
+      "fr-FR": 1,
+      "es": 10,
+      "ja": 21,
+      "nb": 2,
+      "ko": 3,
+      "pt": 12,
+      "sv": 2,
+      "fi": 3,
+      "en-GB": 4,
+      "no": 1,
+      "ak": 1,
+      "sq": 1,
+      "it": 5,
+      "nl": 5,
+      "ar": 2,
+      "bs": 1,
+      "zh": 1,
+      "pl": 2,
+      "it-IT": 1,
+      "da": 2,
+      "th": 1,
+      "el": 1,
+      "uk": 1
     }
   }
 }
