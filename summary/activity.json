@@ -1,49 +1,4 @@
 {
-  "2025-10-17": {
-    "volume": 3174,
-    "sentiment": {
-      "neutral": 1152,
-      "negative": 1433,
-      "positive": 589
-    },
-    "emotion": {
-      "fear": 1081,
-      "sadness": 845,
-      "neutral": 291,
-      "joy": 457,
-      "anger": 280,
-      "disgust": 23,
-      "surprise": 197
-    },
-    "language": {
-      "en": 2564,
-      "en-US": 87,
-      "pt": 16,
-      "en-us": 1,
-      "de": 19,
-      "ja": 19,
-      "es": 10,
-      "am": 1,
-      "ar": 5,
-      "th": 1,
-      "nl": 6,
-      "it": 2,
-      "fr": 19,
-      "ko": 4,
-      "id": 5,
-      "en-GB": 4,
-      "zh": 1,
-      "ga": 1,
-      "gl": 1,
-      "ru": 1,
-      "el": 1,
-      "sv": 3,
-      "av": 1,
-      "fr-FR": 1,
-      "fi": 2,
-      "pt-BR": 1
-    }
-  },
   "2025-10-18": {
     "volume": 2245,
     "sentiment": {
@@ -285,23 +240,23 @@
     }
   },
   "2025-10-23": {
-    "volume": 3387,
+    "volume": 3390,
     "sentiment": {
-      "negative": 1523,
-      "positive": 618,
-      "neutral": 1246
+      "negative": 1524,
+      "positive": 619,
+      "neutral": 1247
     },
     "emotion": {
       "sadness": 908,
       "surprise": 251,
       "neutral": 314,
-      "fear": 1091,
+      "fear": 1093,
       "anger": 295,
-      "joy": 504,
+      "joy": 505,
       "disgust": 24
     },
     "language": {
-      "en": 2674,
+      "en": 2675,
       "en-US": 119,
       "pt": 23,
       "en-GB": 3,
@@ -332,6 +287,42 @@
       "an": 1,
       "hy": 1,
       "ro-RO": 1
+    }
+  },
+  "2025-10-24": {
+    "volume": 1334,
+    "sentiment": {
+      "neutral": 464,
+      "negative": 631,
+      "positive": 239
+    },
+    "emotion": {
+      "fear": 391,
+      "sadness": 401,
+      "anger": 121,
+      "neutral": 122,
+      "joy": 186,
+      "disgust": 14,
+      "surprise": 99
+    },
+    "language": {
+      "en": 1139,
+      "en-US": 55,
+      "ja": 5,
+      "zh": 1,
+      "pt": 8,
+      "es": 3,
+      "la": 1,
+      "aa": 1,
+      "ab": 1,
+      "fr": 7,
+      "fi": 1,
+      "cs": 1,
+      "ko": 1,
+      "fr-FR": 1,
+      "nl": 2,
+      "de": 1,
+      "it": 2
     }
   }
 }
