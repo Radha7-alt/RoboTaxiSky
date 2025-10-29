@@ -1,43 +1,442 @@
 {
   "topic_0": {
     "label": [
-      "loss",
       "im",
       "just",
-      "new",
-      "like"
+      "dont",
+      "like",
+      "worry"
     ],
-    "count": 7208,
+    "count": 7110,
     "daily": {
-      "2025-10-21": 1851,
       "2025-10-22": 1753,
       "2025-10-23": 1785,
       "2025-10-24": 285,
       "2025-10-25": 458,
       "2025-10-26": 551,
-      "2025-10-27": 525
+      "2025-10-27": 527,
+      "2025-10-28": 1751
     },
     "sentiment": {
-      "neutral": 2505,
-      "positive": 1163,
-      "negative": 3540
+      "negative": 3490,
+      "positive": 1125,
+      "neutral": 2495
     },
     "emotion": {
-      "fear": 2146,
-      "joy": 879,
-      "neutral": 709,
-      "surprise": 511,
-      "sadness": 2213,
-      "anger": 702,
-      "disgust": 48
+      "fear": 2144,
+      "joy": 859,
+      "anger": 659,
+      "sadness": 2198,
+      "neutral": 687,
+      "surprise": 513,
+      "disgust": 50
+    },
+    "hashtags": [
+      "#ADHD",
+      "#art",
+      "#MentalHealth",
+      "#mentalhealth",
+      "#depression",
+      "#news",
+      "#Bipolar",
+      "#musicsky",
+      "#DubNation",
+      "#poetry"
+    ],
+    "emojis": [
+      "😭",
+      "🙏",
+      "🏻",
+      "💔",
+      "👉",
+      "😂",
+      "💙",
+      "🚨",
+      "👇",
+      "🔥"
+    ]
+  },
+  "topic_1": {
+    "label": [
+      "loss",
+      "weight",
+      "game",
+      "new",
+      "2025"
+    ],
+    "count": 4374,
+    "daily": {
+      "2025-10-22": 269,
+      "2025-10-23": 266,
+      "2025-10-24": 131,
+      "2025-10-25": 976,
+      "2025-10-26": 1290,
+      "2025-10-27": 1074,
+      "2025-10-28": 368
+    },
+    "sentiment": {
+      "neutral": 1343,
+      "positive": 785,
+      "negative": 2246
+    },
+    "emotion": {
+      "anger": 456,
+      "sadness": 1328,
+      "neutral": 306,
+      "surprise": 330,
+      "joy": 518,
+      "fear": 1406,
+      "disgust": 30
+    },
+    "hashtags": [
+      "#MentalHealth",
+      "#BuddhaQuotes",
+      "#DubNation",
+      "#news",
+      "#CitizenPortal",
+      "#NBA",
+      "#AI",
+      "#poetry",
+      "#Mindfulness",
+      "#ADHD"
+    ],
+    "emojis": [
+      "💦",
+      "😭",
+      "🏻",
+      "😂",
+      "🙏",
+      "💔",
+      "💙",
+      "💀",
+      "👉",
+      "♀"
+    ]
+  },
+  "topic_3": {
+    "label": [
+      "stress",
+      "anxiety",
+      "im",
+      "new",
+      "crying"
+    ],
+    "count": 1413,
+    "daily": {
+      "2025-10-22": 268,
+      "2025-10-23": 175,
+      "2025-10-24": 97,
+      "2025-10-25": 243,
+      "2025-10-26": 179,
+      "2025-10-27": 223,
+      "2025-10-28": 228
+    },
+    "sentiment": {
+      "positive": 281,
+      "neutral": 532,
+      "negative": 600
+    },
+    "emotion": {
+      "fear": 543,
+      "joy": 200,
+      "surprise": 90,
+      "sadness": 314,
+      "anger": 143,
+      "neutral": 114,
+      "disgust": 9
+    },
+    "hashtags": [
+      "#art",
+      "#MentalHealth",
+      "#news",
+      "#poetry",
+      "#depression",
+      "#Autism",
+      "#NBA",
+      "#メンズエステ",
+      "#Warriors",
+      "#furryart"
+    ],
+    "emojis": [
+      "😭",
+      "🙏",
+      "🏻",
+      "💖",
+      "👉",
+      "💔",
+      "👇",
+      "😂",
+      "😅",
+      "💙"
+    ]
+  },
+  "topic_5": {
+    "label": [
+      "therapy",
+      "recovery",
+      "cutting",
+      "depression",
+      "people"
+    ],
+    "count": 1506,
+    "daily": {
+      "2025-10-22": 142,
+      "2025-10-23": 218,
+      "2025-10-24": 68,
+      "2025-10-25": 468,
+      "2025-10-26": 64,
+      "2025-10-27": 229,
+      "2025-10-28": 317
+    },
+    "sentiment": {
+      "negative": 550,
+      "positive": 302,
+      "neutral": 654
+    },
+    "emotion": {
+      "sadness": 358,
+      "joy": 274,
+      "anger": 141,
+      "fear": 461,
+      "surprise": 86,
+      "neutral": 177,
+      "disgust": 9
+    },
+    "hashtags": [
+      "#art",
+      "#MentalHealth",
+      "#NoKings",
+      "#DubNation",
+      "#news",
+      "#vss365",
+      "#CitizenPortal",
+      "#adhd",
+      "#grief",
+      "#mentalhealth"
+    ],
+    "emojis": [
+      "😭",
+      "💔",
+      "🙂",
+      "🙏",
+      "👇",
+      "😂",
+      "🎃",
+      "🚨",
+      "🏻",
+      "🌱"
+    ]
+  },
+  "topic_4": {
+    "label": [
+      "worry",
+      "dont",
+      "stress",
+      "health",
+      "mental"
+    ],
+    "count": 1280,
+    "daily": {
+      "2025-10-22": 193,
+      "2025-10-23": 231,
+      "2025-10-24": 125,
+      "2025-10-25": 186,
+      "2025-10-26": 172,
+      "2025-10-27": 216,
+      "2025-10-28": 157
+    },
+    "sentiment": {
+      "neutral": 543,
+      "negative": 428,
+      "positive": 309
+    },
+    "emotion": {
+      "neutral": 170,
+      "sadness": 229,
+      "anger": 106,
+      "joy": 207,
+      "fear": 480,
+      "surprise": 81,
+      "disgust": 7
+    },
+    "hashtags": [
+      "#art",
+      "#DubNation",
+      "#gamedev",
+      "#therapy",
+      "#recovery",
+      "#news",
+      "#trauma",
+      "#Lebanon",
+      "#HelpFolksLive2025",
+      "#nowplaying"
+    ],
+    "emojis": [
+      "🙏",
+      "🏻",
+      "💔",
+      "🚨",
+      "💀",
+      "😭",
+      "🔥",
+      "💨",
+      "💙",
+      "👇"
+    ]
+  },
+  "topic_2": {
+    "label": [
+      "mental",
+      "health",
+      "openai",
+      "illness",
+      "chatgpt"
+    ],
+    "count": 1629,
+    "daily": {
+      "2025-10-22": 219,
+      "2025-10-23": 211,
+      "2025-10-24": 312,
+      "2025-10-25": 188,
+      "2025-10-26": 176,
+      "2025-10-27": 262,
+      "2025-10-28": 261
+    },
+    "sentiment": {
+      "neutral": 509,
+      "negative": 799,
+      "positive": 321
+    },
+    "emotion": {
+      "surprise": 81,
+      "joy": 282,
+      "neutral": 157,
+      "fear": 486,
+      "anger": 145,
+      "sadness": 471,
+      "disgust": 7
+    },
+    "hashtags": [
+      "#ADHD",
+      "#booksky",
+      "#news",
+      "#NBA",
+      "#mentalhealth",
+      "#musicsky",
+      "#twitch",
+      "#depression",
+      "#vtuber",
+      "#Mindfulness"
+    ],
+    "emojis": [
+      "😭",
+      "🙏",
+      "🏻",
+      "💔",
+      "😂",
+      "👇",
+      "🖤",
+      "🔥",
+      "📚",
+      "🙃"
+    ]
+  },
+  "topic_7": {
+    "label": [
+      "crying",
+      "recovery",
+      "im",
+      "therapy",
+      "worry"
+    ],
+    "count": 1731,
+    "daily": {
+      "2025-10-22": 151,
+      "2025-10-23": 231,
+      "2025-10-24": 174,
+      "2025-10-25": 270,
+      "2025-10-26": 116,
+      "2025-10-27": 635,
+      "2025-10-28": 154
+    },
+    "sentiment": {
+      "neutral": 595,
+      "negative": 866,
+      "positive": 270
+    },
+    "emotion": {
+      "surprise": 115,
+      "fear": 533,
+      "neutral": 152,
+      "sadness": 512,
+      "anger": 200,
+      "joy": 208,
+      "disgust": 11
+    },
+    "hashtags": [
+      "#musicsky",
+      "#depression",
+      "#musicfeed",
+      "#jazzsky",
+      "#originalmusictracks",
+      "#selfproducedmusic",
+      "#musiciansky",
+      "#grief",
+      "#news",
+      "#art"
+    ],
+    "emojis": [
+      "😭",
+      "😂",
+      "🙏",
+      "💔",
+      "🏻",
+      "🚨",
+      "🙃",
+      "🌟",
+      "😬",
+      "🎶"
+    ]
+  },
+  "topic_6": {
+    "label": [
+      "cutting",
+      "recovery",
+      "people",
+      "trump",
+      "like"
+    ],
+    "count": 1877,
+    "daily": {
+      "2025-10-22": 155,
+      "2025-10-23": 276,
+      "2025-10-24": 149,
+      "2025-10-25": 309,
+      "2025-10-26": 449,
+      "2025-10-27": 264,
+      "2025-10-28": 275
+    },
+    "sentiment": {
+      "negative": 766,
+      "neutral": 681,
+      "positive": 430
+    },
+    "emotion": {
+      "fear": 613,
+      "neutral": 230,
+      "surprise": 104,
+      "sadness": 442,
+      "joy": 329,
+      "anger": 142,
+      "disgust": 17
     },
     "hashtags": [
       "#art",
       "#ADHD",
-      "#MentalHealth",
-      "#news",
       "#musicsky",
-      "#Bipolar",
+      "#news",
+      "#mentalhealth",
+      "#MentalHealthMatters",
       "#musicfeed",
       "#jazzsky",
       "#originalmusictracks",
@@ -46,413 +445,14 @@
     "emojis": [
       "😭",
       "💔",
-      "🙏",
       "🏻",
-      "😂",
-      "👉",
-      "🚨",
-      "💙",
-      "👇",
-      "🔥"
-    ]
-  },
-  "topic_3": {
-    "label": [
-      "stress",
-      "playing",
-      "buy",
-      "amazon",
-      "love"
-    ],
-    "count": 1350,
-    "daily": {
-      "2025-10-21": 165,
-      "2025-10-22": 268,
-      "2025-10-23": 175,
-      "2025-10-24": 97,
-      "2025-10-25": 243,
-      "2025-10-26": 179,
-      "2025-10-27": 223
-    },
-    "sentiment": {
-      "negative": 621,
-      "neutral": 465,
-      "positive": 264
-    },
-    "emotion": {
-      "sadness": 341,
-      "neutral": 100,
-      "surprise": 93,
-      "fear": 494,
-      "anger": 134,
-      "joy": 178,
-      "disgust": 10
-    },
-    "hashtags": [
-      "#MentalHealth",
-      "#news",
-      "#art",
-      "#depression",
-      "#poetry",
-      "#Autism",
-      "#NBA",
-      "#oc",
-      "#stress",
-      "#mentalhealth"
-    ],
-    "emojis": [
-      "😭",
-      "🙏",
-      "🏻",
-      "💔",
-      "👇",
-      "👉",
-      "😂",
-      "😅",
-      "💖",
-      "💸"
-    ]
-  },
-  "topic_4": {
-    "label": [
-      "cutting",
-      "trump",
-      "people",
-      "food",
-      "snap"
-    ],
-    "count": 1297,
-    "daily": {
-      "2025-10-21": 174,
-      "2025-10-22": 193,
-      "2025-10-23": 231,
-      "2025-10-24": 125,
-      "2025-10-25": 186,
-      "2025-10-26": 172,
-      "2025-10-27": 216
-    },
-    "sentiment": {
-      "positive": 333,
-      "neutral": 563,
-      "negative": 401
-    },
-    "emotion": {
-      "joy": 238,
-      "fear": 409,
-      "neutral": 200,
-      "sadness": 255,
-      "anger": 111,
-      "surprise": 77,
-      "disgust": 7
-    },
-    "hashtags": [
-      "#art",
-      "#nowplaying",
-      "#HelpFolksLive2025",
-      "#DubNation",
-      "#gamedev",
-      "#recovery",
-      "#love",
-      "#USA",
-      "#vtuber",
-      "#therapy"
-    ],
-    "emojis": [
-      "🏻",
-      "💔",
-      "🙏",
-      "💀",
-      "😭",
-      "💙",
-      "💨",
-      "👇",
-      "🔥",
-      "🚨"
-    ]
-  },
-  "topic_6": {
-    "label": [
-      "worry",
-      "dont",
-      "new",
-      "know",
-      "want"
-    ],
-    "count": 1794,
-    "daily": {
-      "2025-10-21": 193,
-      "2025-10-22": 155,
-      "2025-10-23": 276,
-      "2025-10-24": 149,
-      "2025-10-25": 309,
-      "2025-10-26": 449,
-      "2025-10-27": 263
-    },
-    "sentiment": {
-      "neutral": 673,
-      "negative": 689,
-      "positive": 432
-    },
-    "emotion": {
-      "neutral": 232,
-      "anger": 117,
-      "joy": 338,
-      "sadness": 409,
-      "fear": 585,
-      "surprise": 98,
-      "disgust": 15
-    },
-    "hashtags": [
-      "#mentalhealth",
-      "#ADHD",
-      "#musicsky",
-      "#anxiety",
-      "#recovery",
-      "#art",
-      "#MentalHealth",
-      "#MentalHealthMatters",
-      "#musicfeed",
-      "#jazzsky"
-    ],
-    "emojis": [
-      "😭",
-      "🏻",
-      "💔",
       "🙏",
       "🖤",
       "👉",
       "😂",
       "👇",
-      "📚",
-      "💙"
-    ]
-  },
-  "topic_7": {
-    "label": [
-      "like",
-      "anxiety",
-      "just",
-      "depression",
-      "feel"
-    ],
-    "count": 1838,
-    "daily": {
-      "2025-10-21": 261,
-      "2025-10-22": 151,
-      "2025-10-23": 231,
-      "2025-10-24": 174,
-      "2025-10-25": 270,
-      "2025-10-26": 116,
-      "2025-10-27": 635
-    },
-    "sentiment": {
-      "positive": 261,
-      "neutral": 626,
-      "negative": 951
-    },
-    "emotion": {
-      "joy": 204,
-      "sadness": 502,
-      "fear": 660,
-      "neutral": 144,
-      "anger": 202,
-      "surprise": 115,
-      "disgust": 11
-    },
-    "hashtags": [
-      "#musicsky",
-      "#news",
-      "#ADHD",
-      "#musicfeed",
-      "#jazzsky",
-      "#originalmusictracks",
-      "#selfproducedmusic",
-      "#musiciansky",
-      "#health",
-      "#horror"
-    ],
-    "emojis": [
-      "😭",
-      "🙏",
-      "💔",
-      "😂",
-      "🏻",
-      "🚨",
-      "🌟",
-      "🙃",
-      "👉",
-      "🔥"
-    ]
-  },
-  "topic_2": {
-    "label": [
-      "mental",
-      "health",
-      "illness",
-      "big",
-      "crisis"
-    ],
-    "count": 1584,
-    "daily": {
-      "2025-10-21": 216,
-      "2025-10-22": 219,
-      "2025-10-23": 211,
-      "2025-10-24": 312,
-      "2025-10-25": 188,
-      "2025-10-26": 176,
-      "2025-10-27": 262
-    },
-    "sentiment": {
-      "negative": 789,
-      "neutral": 468,
-      "positive": 327
-    },
-    "emotion": {
-      "anger": 142,
-      "neutral": 146,
-      "sadness": 469,
-      "fear": 455,
-      "joy": 289,
-      "surprise": 73,
-      "disgust": 10
-    },
-    "hashtags": [
-      "#ADHD",
-      "#mentalhealth",
-      "#news",
-      "#depression",
-      "#anxiety",
-      "#musicsky",
-      "#NBA",
-      "#digitalart",
-      "#therapy",
-      "#musicfeed"
-    ],
-    "emojis": [
-      "😭",
-      "💔",
-      "🙏",
-      "🏻",
-      "👇",
-      "😂",
-      "🚀",
       "💙",
-      "🔥",
-      "⚠"
-    ]
-  },
-  "topic_1": {
-    "label": [
-      "im",
-      "just",
-      "like",
-      "crying",
-      "dont"
-    ],
-    "count": 4344,
-    "daily": {
-      "2025-10-21": 338,
-      "2025-10-22": 269,
-      "2025-10-23": 266,
-      "2025-10-24": 131,
-      "2025-10-25": 976,
-      "2025-10-26": 1290,
-      "2025-10-27": 1074
-    },
-    "sentiment": {
-      "negative": 2235,
-      "neutral": 1316,
-      "positive": 793
-    },
-    "emotion": {
-      "fear": 1376,
-      "surprise": 328,
-      "sadness": 1341,
-      "joy": 524,
-      "neutral": 296,
-      "anger": 446,
-      "disgust": 33
-    },
-    "hashtags": [
-      "#MentalHealth",
-      "#BuddhaQuotes",
-      "#news",
-      "#DubNation",
-      "#CitizenPortal",
-      "#NBA",
-      "#AI",
-      "#Mindfulness",
-      "#adhd",
-      "#ADHD"
-    ],
-    "emojis": [
-      "💦",
-      "😭",
-      "🏻",
-      "💔",
-      "😂",
-      "🙏",
-      "💙",
-      "👇",
-      "👉",
-      "💀"
-    ]
-  },
-  "topic_5": {
-    "label": [
-      "therapy",
-      "new",
-      "recovery",
-      "bskysocial",
-      "2025"
-    ],
-    "count": 1347,
-    "daily": {
-      "2025-10-21": 158,
-      "2025-10-22": 142,
-      "2025-10-23": 218,
-      "2025-10-24": 68,
-      "2025-10-25": 468,
-      "2025-10-26": 64,
-      "2025-10-27": 229
-    },
-    "sentiment": {
-      "neutral": 580,
-      "negative": 475,
-      "positive": 292
-    },
-    "emotion": {
-      "fear": 409,
-      "neutral": 150,
-      "sadness": 314,
-      "joy": 261,
-      "surprise": 80,
-      "anger": 127,
-      "disgust": 6
-    },
-    "hashtags": [
-      "#art",
-      "#mentalhealth",
-      "#MentalHealth",
-      "#NoKings",
-      "#DubNation",
-      "#therapy",
-      "#depression",
-      "#vss365",
-      "#CitizenPortal",
-      "#adhd"
-    ],
-    "emojis": [
-      "😭",
-      "💔",
-      "🙂",
-      "🙏",
-      "👇",
-      "🏻",
-      "👉",
-      "🎃",
-      "🇺",
-      "👀"
+      "🚨"
     ]
   }
 }
