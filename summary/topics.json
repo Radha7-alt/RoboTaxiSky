@@ -1,453 +1,453 @@
 {
-  "topic_1": {
-    "label": [
-      "im",
-      "crying",
-      "like",
-      "just",
-      "time"
-    ],
-    "count": 6311,
-    "daily": {
-      "2025-10-29": 763,
-      "2025-10-30": 1437,
-      "2025-10-31": 1284,
-      "2025-11-01": 910,
-      "2025-11-02": 617,
-      "2025-11-04": 1298,
-      "2025-11-03": 2
-    },
-    "sentiment": {
-      "negative": 3453,
-      "neutral": 1702,
-      "positive": 1156
-    },
-    "emotion": {
-      "sadness": 1903,
-      "fear": 2251,
-      "joy": 742,
-      "surprise": 495,
-      "anger": 538,
-      "neutral": 328,
-      "disgust": 54
-    },
-    "hashtags": [
-      "#art",
-      "#news",
-      "#ADHD",
-      "#adhd",
-      "#MentalHealth",
-      "#mentalhealth",
-      "#grief",
-      "#DubNation",
-      "#depression",
-      "#booksky"
-    ],
-    "emojis": [
-      "😭",
-      "💔",
-      "🚨",
-      "💙",
-      "🔥",
-      "😂",
-      "👉",
-      "👇",
-      "🔗",
-      "🎃"
-    ]
-  },
-  "topic_0": {
-    "label": [
-      "loss",
-      "just",
-      "bskysocial",
-      "im",
-      "weight"
-    ],
-    "count": 3495,
-    "daily": {
-      "2025-10-29": 1015,
-      "2025-10-30": 488,
-      "2025-10-31": 498,
-      "2025-11-01": 563,
-      "2025-11-02": 505,
-      "2025-11-04": 426
-    },
-    "sentiment": {
-      "negative": 1391,
-      "neutral": 1596,
-      "positive": 508
-    },
-    "emotion": {
-      "sadness": 1197,
-      "fear": 824,
-      "anger": 293,
-      "surprise": 233,
-      "joy": 436,
-      "disgust": 26,
-      "neutral": 486
-    },
-    "hashtags": [
-      "#art",
-      "#news",
-      "#mentalhealth",
-      "#MentalHealth",
-      "#DubNation",
-      "#BlueJays",
-      "#therapy",
-      "#anxiety",
-      "#NBA",
-      "#Trump"
-    ],
-    "emojis": [
-      "😭",
-      "😂",
-      "☆",
-      "💙",
-      "👉",
-      "🎃",
-      "💔",
-      "😅",
-      "🚨",
-      "💜"
-    ]
-  },
-  "topic_5": {
-    "label": [
-      "recovery",
-      "support",
-      "new",
-      "hope",
-      "bskysocial"
-    ],
-    "count": 1298,
-    "daily": {
-      "2025-10-29": 169,
-      "2025-10-30": 191,
-      "2025-10-31": 110,
-      "2025-11-01": 564,
-      "2025-11-02": 132,
-      "2025-11-04": 132
-    },
-    "sentiment": {
-      "positive": 354,
-      "negative": 394,
-      "neutral": 550
-    },
-    "emotion": {
-      "joy": 249,
-      "surprise": 73,
-      "neutral": 172,
-      "sadness": 332,
-      "fear": 384,
-      "anger": 76,
-      "disgust": 12
-    },
-    "hashtags": [
-      "#news",
-      "#BlueJays",
-      "#DubNation",
-      "#MentalHealth",
-      "#LFC",
-      "#mentalhealth",
-      "#depression",
-      "#booksky",
-      "#art",
-      "#gay"
-    ],
-    "emojis": [
-      "😭",
-      "😂",
-      "🍂",
-      "👻",
-      "🎃",
-      "💀",
-      "💙",
-      "💥",
-      "📚",
-      "🙃"
-    ]
-  },
   "topic_4": {
     "label": [
-      "worry",
-      "dont",
-      "therapy",
-      "away",
-      "trump"
+      "crying",
+      "stress",
+      "groceries",
+      "cheap",
+      "new"
     ],
-    "count": 1550,
+    "count": 1369,
     "daily": {
-      "2025-10-29": 382,
       "2025-10-30": 247,
       "2025-10-31": 368,
       "2025-11-01": 178,
       "2025-11-02": 189,
-      "2025-11-04": 185,
-      "2025-11-03": 1
+      "2025-11-04": 186,
+      "2025-11-03": 1,
+      "2025-11-05": 200
     },
     "sentiment": {
-      "neutral": 670,
-      "negative": 590,
-      "positive": 290
+      "neutral": 541,
+      "negative": 580,
+      "positive": 248
     },
     "emotion": {
-      "neutral": 156,
-      "sadness": 360,
-      "joy": 240,
-      "fear": 573,
-      "surprise": 81,
+      "neutral": 107,
+      "sadness": 355,
       "anger": 130,
-      "disgust": 10
+      "fear": 464,
+      "surprise": 83,
+      "joy": 221,
+      "disgust": 9
     },
     "hashtags": [
-      "#ADHD",
-      "#news",
-      "#Halloween",
-      "#grief",
-      "#mentalhealth",
       "#poetry",
-      "#News",
-      "#1",
+      "#news",
+      "#mentalhealth",
+      "#Halloween",
       "#NBA",
-      "#MentalHealth"
+      "#grief",
+      "#1",
+      "#art",
+      "#depression",
+      "#nature"
     ],
     "emojis": [
       "😭",
-      "🎶",
       "🎃",
-      "🚨",
-      "👇",
-      "🙏",
+      "🎶",
       "😂",
+      "🚨",
+      "👉",
       "🏳",
       "🌈",
-      "👉"
+      "🙏",
+      "💖"
+    ]
+  },
+  "topic_1": {
+    "label": [
+      "loss",
+      "weight",
+      "season",
+      "trump",
+      "win"
+    ],
+    "count": 5821,
+    "daily": {
+      "2025-10-30": 1437,
+      "2025-10-31": 1284,
+      "2025-11-01": 910,
+      "2025-11-02": 617,
+      "2025-11-04": 1299,
+      "2025-11-03": 2,
+      "2025-11-05": 272
+    },
+    "sentiment": {
+      "negative": 3152,
+      "neutral": 1608,
+      "positive": 1061
+    },
+    "emotion": {
+      "fear": 2058,
+      "sadness": 1756,
+      "neutral": 325,
+      "joy": 674,
+      "surprise": 459,
+      "anger": 500,
+      "disgust": 49
+    },
+    "hashtags": [
+      "#news",
+      "#art",
+      "#ADHD",
+      "#DubNation",
+      "#mentalhealth",
+      "#MentalHealth",
+      "#adhd",
+      "#grief",
+      "#recovery",
+      "#depression"
+    ],
+    "emojis": [
+      "😭",
+      "💔",
+      "💙",
+      "🚨",
+      "👇",
+      "😂",
+      "🔥",
+      "🔗",
+      "👉",
+      "🎃"
     ]
   },
   "topic_3": {
     "label": [
-      "therapy",
-      "today",
-      "new",
-      "art",
-      "team"
+      "stress",
+      "day",
+      "just",
+      "awareness",
+      "today"
     ],
-    "count": 1338,
+    "count": 1276,
     "daily": {
-      "2025-10-29": 273,
       "2025-10-30": 275,
       "2025-10-31": 176,
       "2025-11-01": 256,
       "2025-11-02": 218,
-      "2025-11-04": 140
+      "2025-11-04": 140,
+      "2025-11-05": 211
     },
     "sentiment": {
-      "positive": 299,
-      "negative": 580,
-      "neutral": 459
+      "positive": 308,
+      "neutral": 456,
+      "negative": 512
     },
     "emotion": {
-      "fear": 625,
-      "anger": 89,
-      "sadness": 289,
-      "joy": 159,
-      "neutral": 75,
-      "surprise": 93,
-      "disgust": 8
+      "joy": 187,
+      "fear": 515,
+      "sadness": 302,
+      "anger": 91,
+      "surprise": 87,
+      "neutral": 85,
+      "disgust": 9
     },
     "hashtags": [
       "#art",
       "#news",
-      "#anxiety",
       "#NBA",
       "#BlueJays",
-      "#mentalhealth",
       "#adhd",
+      "#FantasyBasketball",
       "#DubNation",
       "#ADHD",
-      "#painting"
+      "#painting",
+      "#artist"
     ],
     "emojis": [
       "😭",
+      "🍂",
+      "🚨",
       "😂",
       "👉",
-      "🍂",
-      "💀",
       "😐",
-      "🖤",
       "🎧",
-      "🚨",
-      "🔥"
-    ]
-  },
-  "topic_7": {
-    "label": [
-      "stress",
-      "life",
-      "time",
-      "just",
-      "work"
-    ],
-    "count": 1046,
-    "daily": {
-      "2025-10-29": 251,
-      "2025-10-30": 156,
-      "2025-10-31": 113,
-      "2025-11-01": 162,
-      "2025-11-02": 156,
-      "2025-11-04": 208
-    },
-    "sentiment": {
-      "negative": 448,
-      "neutral": 428,
-      "positive": 170
-    },
-    "emotion": {
-      "anger": 142,
-      "fear": 246,
-      "joy": 156,
-      "surprise": 60,
-      "sadness": 306,
-      "neutral": 127,
-      "disgust": 9
-    },
-    "hashtags": [
-      "#NowPlaying",
-      "#art",
-      "#depression",
-      "#Baseball",
-      "#WWE",
-      "#sketch",
-      "#Halloween",
-      "#poetry",
-      "#WorldSeries",
-      "#Game7"
-    ],
-    "emojis": [
-      "😭",
-      "😡",
-      "💔",
-      "🙃",
-      "💙",
-      "🎃",
-      "🏾",
-      "🙄",
-      "🎵",
-      "🙏"
+      "💀",
+      "🖤",
+      "👇"
     ]
   },
   "topic_6": {
     "label": [
-      "cutting",
-      "people",
+      "recovery",
       "new",
-      "trump",
-      "news"
+      "groceries",
+      "cheap",
+      "postpartum"
     ],
-    "count": 1474,
+    "count": 1529,
     "daily": {
-      "2025-10-29": 133,
       "2025-10-30": 284,
       "2025-10-31": 212,
       "2025-11-01": 137,
       "2025-11-02": 536,
-      "2025-11-04": 172
+      "2025-11-04": 173,
+      "2025-11-05": 187
     },
     "sentiment": {
-      "negative": 683,
-      "positive": 226,
-      "neutral": 565
+      "negative": 629,
+      "positive": 261,
+      "neutral": 639
     },
     "emotion": {
-      "sadness": 398,
-      "fear": 347,
-      "anger": 243,
-      "joy": 190,
-      "surprise": 110,
-      "neutral": 174,
-      "disgust": 12
+      "fear": 408,
+      "disgust": 13,
+      "surprise": 102,
+      "sadness": 371,
+      "neutral": 196,
+      "joy": 210,
+      "anger": 229
     },
     "hashtags": [
-      "#art",
       "#news",
       "#NBA",
+      "#art",
+      "#CitizenPortal",
+      "#us",
+      "#usnews",
       "#DubNation",
-      "#marketing",
       "#Autism",
       "#ADHD",
-      "#drawing",
-      "#recovery",
-      "#Neurodivergent"
+      "#drawing"
     ],
     "emojis": [
       "😭",
       "😂",
       "🇺",
       "💔",
-      "💖",
-      "👉",
       "🔥",
+      "👉",
+      "💖",
       "🙏",
       "💀",
-      "👻"
+      "😅"
+    ]
+  },
+  "topic_5": {
+    "label": [
+      "therapy",
+      "crying",
+      "years",
+      "time",
+      "stress"
+    ],
+    "count": 1271,
+    "daily": {
+      "2025-10-30": 191,
+      "2025-10-31": 110,
+      "2025-11-01": 564,
+      "2025-11-02": 132,
+      "2025-11-04": 132,
+      "2025-11-05": 142
+    },
+    "sentiment": {
+      "neutral": 535,
+      "negative": 396,
+      "positive": 340
+    },
+    "emotion": {
+      "fear": 364,
+      "neutral": 171,
+      "sadness": 318,
+      "joy": 249,
+      "surprise": 80,
+      "anger": 75,
+      "disgust": 14
+    },
+    "hashtags": [
+      "#news",
+      "#BlueJays",
+      "#MentalHealth",
+      "#LFC",
+      "#DubNation",
+      "#grief",
+      "#gay",
+      "#mentalhealth",
+      "#depression",
+      "#NBA"
+    ],
+    "emojis": [
+      "😭",
+      "🍂",
+      "😂",
+      "👻",
+      "🎃",
+      "💀",
+      "💙",
+      "💥",
+      "📚",
+      "😉"
+    ]
+  },
+  "topic_0": {
+    "label": [
+      "im",
+      "like",
+      "just",
+      "loss",
+      "time"
+    ],
+    "count": 4052,
+    "daily": {
+      "2025-10-30": 488,
+      "2025-10-31": 498,
+      "2025-11-01": 563,
+      "2025-11-02": 505,
+      "2025-11-04": 436,
+      "2025-11-05": 1562
+    },
+    "sentiment": {
+      "negative": 1760,
+      "neutral": 1678,
+      "positive": 614
+    },
+    "emotion": {
+      "anger": 383,
+      "surprise": 258,
+      "sadness": 1362,
+      "joy": 480,
+      "neutral": 481,
+      "fear": 1059,
+      "disgust": 29
+    },
+    "hashtags": [
+      "#news",
+      "#art",
+      "#DubNation",
+      "#mentalhealth",
+      "#NBA",
+      "#anxiety",
+      "#grief",
+      "#us",
+      "#usnews",
+      "#photography"
+    ],
+    "emojis": [
+      "😭",
+      "😂",
+      "☆",
+      "😅",
+      "💙",
+      "🔥",
+      "🎃",
+      "🇺",
+      "👇",
+      "👉"
     ]
   },
   "topic_2": {
     "label": [
       "health",
       "mental",
-      "support",
-      "weeks",
-      "loss"
+      "groceries",
+      "cheap",
+      "new"
     ],
-    "count": 1377,
+    "count": 1364,
     "daily": {
-      "2025-10-29": 277,
       "2025-10-30": 247,
       "2025-10-31": 229,
       "2025-11-01": 278,
       "2025-11-02": 166,
-      "2025-11-04": 179,
-      "2025-11-03": 1
+      "2025-11-04": 181,
+      "2025-11-03": 3,
+      "2025-11-05": 260
     },
     "sentiment": {
-      "neutral": 486,
-      "negative": 599,
-      "positive": 292
+      "neutral": 498,
+      "negative": 552,
+      "positive": 314
     },
     "emotion": {
-      "joy": 226,
-      "sadness": 362,
-      "neutral": 124,
-      "fear": 465,
-      "anger": 120,
-      "disgust": 10,
-      "surprise": 70
+      "neutral": 121,
+      "sadness": 317,
+      "anger": 106,
+      "joy": 241,
+      "fear": 503,
+      "surprise": 65,
+      "disgust": 11
     },
     "hashtags": [
       "#Halloween",
+      "#news",
       "#art",
-      "#adhd",
-      "#depression",
-      "#anxiety",
+      "#News",
       "#NowPlaying",
       "#BlueJays",
-      "#news",
+      "#adhd",
       "#CitizenPortal",
-      "#MentalHealth"
+      "#anxiety",
+      "#depression"
     ],
     "emojis": [
       "😭",
-      "🎃",
+      "🌊",
       "💙",
-      "👉",
-      "🙏",
-      "👇",
-      "🔗",
       "💀",
-      "🏼",
-      "😂"
+      "🎃",
+      "😂",
+      "🙏",
+      "🏻",
+      "💔",
+      "👉"
+    ]
+  },
+  "topic_7": {
+    "label": [
+      "worry",
+      "dont",
+      "cutting",
+      "people",
+      "new"
+    ],
+    "count": 1105,
+    "daily": {
+      "2025-10-30": 156,
+      "2025-10-31": 113,
+      "2025-11-01": 162,
+      "2025-11-02": 156,
+      "2025-11-04": 210,
+      "2025-11-05": 308
+    },
+    "sentiment": {
+      "neutral": 450,
+      "negative": 439,
+      "positive": 216
+    },
+    "emotion": {
+      "neutral": 114,
+      "sadness": 288,
+      "joy": 159,
+      "anger": 112,
+      "fear": 361,
+      "surprise": 63,
+      "disgust": 8
+    },
+    "hashtags": [
+      "#poetry",
+      "#psychology",
+      "#NBA",
+      "#sketch",
+      "#WorldSeries",
+      "#Game7",
+      "#NowPlaying",
+      "#Stress",
+      "#MentalHealth",
+      "#A"
+    ],
+    "emojis": [
+      "😭",
+      "💙",
+      "😡",
+      "💔",
+      "🔥",
+      "👉",
+      "🔗",
+      "😘",
+      "👀",
+      "🙏"
     ]
   }
 }
