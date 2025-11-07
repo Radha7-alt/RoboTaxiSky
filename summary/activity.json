@@ -1,52 +1,4 @@
 {
-  "2025-10-30": {
-    "volume": 3325,
-    "sentiment": {
-      "neutral": 1251,
-      "negative": 1468,
-      "positive": 606
-    },
-    "emotion": {
-      "neutral": 314,
-      "fear": 1107,
-      "joy": 422,
-      "sadness": 940,
-      "disgust": 25,
-      "anger": 297,
-      "surprise": 220
-    },
-    "language": {
-      "en": 2679,
-      "en-US": 98,
-      "pt": 15,
-      "fr": 24,
-      "ja": 19,
-      "ko": 8,
-      "la": 1,
-      "de": 26,
-      "fa": 1,
-      "he": 1,
-      "es": 16,
-      "ca": 2,
-      "it": 2,
-      "aa": 1,
-      "el": 2,
-      "da": 2,
-      "ar": 3,
-      "ru": 3,
-      "jp": 1,
-      "nl": 5,
-      "zh": 1,
-      "nb": 2,
-      "tr": 1,
-      "fi": 3,
-      "en-GB": 3,
-      "am": 1,
-      "an": 1,
-      "sv": 1,
-      "vi": 1
-    }
-  },
   "2025-10-31": {
     "volume": 2990,
     "sentiment": {
@@ -260,16 +212,16 @@
     "language": {}
   },
   "2025-11-05": {
-    "volume": 3142,
+    "volume": 3143,
     "sentiment": {
       "negative": 1356,
       "neutral": 1121,
-      "positive": 665
+      "positive": 666
     },
     "emotion": {
       "anger": 290,
       "fear": 1049,
-      "joy": 467,
+      "joy": 468,
       "sadness": 846,
       "neutral": 262,
       "surprise": 206,
@@ -302,6 +254,52 @@
       "ru": 2,
       "sg": 1,
       "sa": 1
+    }
+  },
+  "2025-11-06": {
+    "volume": 3219,
+    "sentiment": {
+      "positive": 706,
+      "neutral": 1154,
+      "negative": 1359
+    },
+    "emotion": {
+      "fear": 1097,
+      "anger": 258,
+      "surprise": 213,
+      "joy": 503,
+      "neutral": 297,
+      "sadness": 829,
+      "disgust": 22
+    },
+    "language": {
+      "en": 2628,
+      "en-US": 96,
+      "nl": 8,
+      "pt": 11,
+      "de": 23,
+      "ja": 16,
+      "fr": 17,
+      "he": 1,
+      "ko": 10,
+      "fa": 1,
+      "it": 4,
+      "es": 5,
+      "en-AU": 1,
+      "en-GB": 1,
+      "ar": 5,
+      "pl": 2,
+      "sq": 1,
+      "hi": 1,
+      "ga": 1,
+      "gl": 1,
+      "fi": 1,
+      "nb": 1,
+      "tr": 1,
+      "cy": 1,
+      "en-UK": 1,
+      "as": 1,
+      "id": 2
     }
   }
 }
