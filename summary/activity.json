@@ -1,51 +1,4 @@
 {
-  "2025-11-02": {
-    "volume": 2519,
-    "sentiment": {
-      "positive": 443,
-      "negative": 1161,
-      "neutral": 915
-    },
-    "emotion": {
-      "joy": 316,
-      "fear": 763,
-      "sadness": 774,
-      "neutral": 239,
-      "anger": 234,
-      "surprise": 175,
-      "disgust": 18
-    },
-    "language": {
-      "en": 2069,
-      "en-US": 110,
-      "es": 15,
-      "ko": 4,
-      "lt-LT": 1,
-      "lt": 1,
-      "fr": 11,
-      "ja": 17,
-      "pt": 13,
-      "ru": 1,
-      "de": 20,
-      "ro-RO": 4,
-      "av": 1,
-      "en-us": 1,
-      "de-DE": 1,
-      "it": 4,
-      "ak": 1,
-      "km": 1,
-      "ga": 1,
-      "gl": 1,
-      "ar": 1,
-      "zh": 2,
-      "id": 1,
-      "nl": 3,
-      "jp": 1,
-      "en-AU": 1,
-      "el": 1,
-      "en-GB": 2
-    }
-  },
   "2025-11-04": {
     "volume": 2757,
     "sentiment": {
@@ -246,15 +199,15 @@
     }
   },
   "2025-11-08": {
-    "volume": 3101,
+    "volume": 3102,
     "sentiment": {
-      "negative": 1321,
+      "negative": 1322,
       "positive": 723,
       "neutral": 1057
     },
     "emotion": {
       "fear": 1082,
-      "sadness": 816,
+      "sadness": 817,
       "joy": 450,
       "neutral": 283,
       "surprise": 205,
@@ -262,7 +215,7 @@
       "disgust": 19
     },
     "language": {
-      "en": 2542,
+      "en": 2543,
       "es": 9,
       "fr-FR": 3,
       "en-US": 78,
@@ -291,6 +244,48 @@
       "ro-RO": 2,
       "am": 1,
       "ko": 1
+    }
+  },
+  "2025-11-09": {
+    "volume": 3018,
+    "sentiment": {
+      "negative": 1405,
+      "neutral": 980,
+      "positive": 633
+    },
+    "emotion": {
+      "anger": 249,
+      "sadness": 847,
+      "joy": 423,
+      "neutral": 235,
+      "fear": 1060,
+      "surprise": 191,
+      "disgust": 13
+    },
+    "language": {
+      "en": 2494,
+      "ja": 18,
+      "en-US": 101,
+      "de": 12,
+      "fr": 15,
+      "es": 7,
+      "ar": 86,
+      "nl": 3,
+      "en-GB": 6,
+      "sq": 1,
+      "en-AU": 1,
+      "pt": 10,
+      "ro-RO": 4,
+      "ru": 2,
+      "th": 1,
+      "zh": 4,
+      "rn": 1,
+      "sv": 2,
+      "ko": 2,
+      "it": 3,
+      "it-IT": 1,
+      "nb": 1,
+      "af": 1
     }
   }
 }
