@@ -47,20 +47,6 @@
       "la": 1
     }
   },
-  "2025-11-03": {
-    "volume": 6,
-    "sentiment": {
-      "positive": 3,
-      "negative": 2,
-      "neutral": 1
-    },
-    "emotion": {
-      "joy": 3,
-      "sadness": 2,
-      "surprise": 1
-    },
-    "language": {}
-  },
   "2025-11-05": {
     "volume": 3143,
     "sentiment": {
@@ -286,6 +272,30 @@
       "it-IT": 1,
       "nb": 1,
       "af": 1
+    }
+  },
+  "2025-11-10": {
+    "volume": 160,
+    "sentiment": {
+      "neutral": 41,
+      "negative": 86,
+      "positive": 33
+    },
+    "emotion": {
+      "sadness": 47,
+      "joy": 28,
+      "fear": 40,
+      "anger": 19,
+      "neutral": 14,
+      "surprise": 9,
+      "disgust": 3
+    },
+    "language": {
+      "en": 145,
+      "en-US": 5,
+      "zh": 1,
+      "ko": 1,
+      "ar": 1
     }
   }
 }
