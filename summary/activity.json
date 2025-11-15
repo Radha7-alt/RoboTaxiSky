@@ -1,50 +1,4 @@
 {
-  "2025-11-07": {
-    "volume": 3075,
-    "sentiment": {
-      "neutral": 1034,
-      "negative": 1416,
-      "positive": 625
-    },
-    "emotion": {
-      "fear": 1060,
-      "sadness": 815,
-      "neutral": 273,
-      "anger": 272,
-      "surprise": 185,
-      "joy": 442,
-      "disgust": 28
-    },
-    "language": {
-      "en": 2488,
-      "es": 9,
-      "en-US": 73,
-      "pt": 22,
-      "nl": 3,
-      "ar": 8,
-      "gd": 1,
-      "de": 19,
-      "fr": 13,
-      "ko": 4,
-      "th": 1,
-      "eo": 1,
-      "ca": 1,
-      "da": 1,
-      "tr": 2,
-      "fr-FR": 3,
-      "el": 1,
-      "en-GB": 4,
-      "sv": 2,
-      "ja": 9,
-      "it": 3,
-      "it-IT": 1,
-      "cy": 1,
-      "zh": 5,
-      "en-us": 1,
-      "zh-CN": 1,
-      "ru": 1
-    }
-  },
   "2025-11-08": {
     "volume": 3102,
     "sentiment": {
@@ -160,16 +114,16 @@
     }
   },
   "2025-11-11": {
-    "volume": 3734,
+    "volume": 3735,
     "sentiment": {
       "positive": 833,
-      "neutral": 1400,
+      "neutral": 1401,
       "negative": 1501
     },
     "emotion": {
       "joy": 595,
       "fear": 1224,
-      "neutral": 357,
+      "neutral": 358,
       "sadness": 901,
       "surprise": 276,
       "anger": 354,
@@ -215,20 +169,20 @@
     }
   },
   "2025-11-12": {
-    "volume": 3866,
+    "volume": 3870,
     "sentiment": {
-      "positive": 861,
-      "neutral": 1360,
-      "negative": 1645
+      "positive": 862,
+      "neutral": 1361,
+      "negative": 1647
     },
     "emotion": {
       "sadness": 1020,
-      "joy": 582,
-      "fear": 1354,
-      "anger": 298,
+      "joy": 583,
+      "fear": 1355,
+      "anger": 299,
       "surprise": 263,
       "neutral": 325,
-      "disgust": 24
+      "disgust": 25
     },
     "language": {
       "en": 3163,
@@ -264,23 +218,23 @@
     }
   },
   "2025-11-13": {
-    "volume": 2662,
+    "volume": 2675,
     "sentiment": {
-      "negative": 1099,
-      "positive": 626,
-      "neutral": 937
+      "negative": 1104,
+      "positive": 629,
+      "neutral": 942
     },
     "emotion": {
-      "neutral": 246,
-      "fear": 946,
+      "neutral": 248,
+      "fear": 949,
       "joy": 431,
-      "sadness": 654,
-      "surprise": 159,
-      "anger": 208,
+      "sadness": 659,
+      "surprise": 160,
+      "anger": 210,
       "disgust": 18
     },
     "language": {
-      "en": 2225,
+      "en": 2227,
       "sv-SE": 2,
       "sv": 2,
       "en-US": 86,
@@ -304,7 +258,60 @@
       "ru": 1,
       "cs": 2,
       "he": 1,
-      "el": 1
+      "el": 1,
+      "jp": 1
+    }
+  },
+  "2025-11-14": {
+    "volume": 3512,
+    "sentiment": {
+      "positive": 773,
+      "negative": 1513,
+      "neutral": 1226
+    },
+    "emotion": {
+      "sadness": 921,
+      "fear": 1230,
+      "anger": 254,
+      "joy": 520,
+      "neutral": 321,
+      "surprise": 237,
+      "disgust": 29
+    },
+    "language": {
+      "en": 2886,
+      "en-US": 91,
+      "en-GB": 4,
+      "pt": 24,
+      "de": 18,
+      "ko": 1,
+      "fr": 12,
+      "ht": 1,
+      "ja": 27,
+      "it": 5,
+      "pt-PT": 1,
+      "es": 16,
+      "th": 2,
+      "ru": 2,
+      "pl": 2,
+      "sv": 5,
+      "nb": 2,
+      "ber": 1,
+      "fi": 1,
+      "sv-SE": 2,
+      "jv": 1,
+      "id": 1,
+      "da": 1,
+      "tr": 1,
+      "ro-RO": 4,
+      "nl": 3,
+      "no": 1,
+      "zh": 2,
+      "uk": 1,
+      "am": 1,
+      "ar": 1,
+      "af": 2,
+      "en-EN": 1
     }
   }
 }
