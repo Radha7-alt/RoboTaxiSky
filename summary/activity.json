@@ -1,46 +1,4 @@
 {
-  "2025-11-09": {
-    "volume": 3018,
-    "sentiment": {
-      "negative": 1405,
-      "neutral": 980,
-      "positive": 633
-    },
-    "emotion": {
-      "anger": 249,
-      "sadness": 847,
-      "joy": 423,
-      "neutral": 235,
-      "fear": 1060,
-      "surprise": 191,
-      "disgust": 13
-    },
-    "language": {
-      "en": 2494,
-      "ja": 18,
-      "en-US": 101,
-      "de": 12,
-      "fr": 15,
-      "es": 7,
-      "ar": 86,
-      "nl": 3,
-      "en-GB": 6,
-      "sq": 1,
-      "en-AU": 1,
-      "pt": 10,
-      "ro-RO": 4,
-      "ru": 2,
-      "th": 1,
-      "zh": 4,
-      "rn": 1,
-      "sv": 2,
-      "ko": 2,
-      "it": 3,
-      "it-IT": 1,
-      "nb": 1,
-      "af": 1
-    }
-  },
   "2025-11-10": {
     "volume": 161,
     "sentiment": {
@@ -268,23 +226,23 @@
     }
   },
   "2025-11-15": {
-    "volume": 3025,
+    "volume": 3028,
     "sentiment": {
-      "neutral": 1049,
-      "negative": 1459,
-      "positive": 517
+      "neutral": 1050,
+      "negative": 1460,
+      "positive": 518
     },
     "emotion": {
-      "sadness": 854,
+      "sadness": 855,
       "fear": 968,
       "neutral": 291,
-      "joy": 374,
+      "joy": 376,
       "surprise": 238,
       "anger": 280,
       "disgust": 20
     },
     "language": {
-      "en": 2451,
+      "en": 2453,
       "en-US": 117,
       "mt": 1,
       "ja": 22,
@@ -312,6 +270,43 @@
       "id": 1,
       "fi": 1,
       "tl": 1
+    }
+  },
+  "2025-11-16": {
+    "volume": 1232,
+    "sentiment": {
+      "negative": 591,
+      "neutral": 423,
+      "positive": 218
+    },
+    "emotion": {
+      "anger": 96,
+      "sadness": 391,
+      "fear": 363,
+      "surprise": 104,
+      "joy": 149,
+      "neutral": 119,
+      "disgust": 10
+    },
+    "language": {
+      "en": 1036,
+      "fr": 2,
+      "ko": 1,
+      "en-US": 37,
+      "pt": 7,
+      "ja": 15,
+      "es": 5,
+      "tl": 1,
+      "en-GB": 2,
+      "de": 6,
+      "it": 1,
+      "ar": 3,
+      "lb": 1,
+      "nl": 1,
+      "ru": 1,
+      "af": 1,
+      "sq": 1,
+      "he": 1
     }
   }
 }
