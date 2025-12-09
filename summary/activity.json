@@ -1,54 +1,4 @@
 {
-  "2025-12-01": {
-    "volume": 3696,
-    "sentiment": {
-      "positive": 762,
-      "neutral": 1439,
-      "negative": 1495
-    },
-    "emotion": {
-      "fear": 1187,
-      "sadness": 1063,
-      "surprise": 252,
-      "anger": 311,
-      "neutral": 390,
-      "joy": 473,
-      "disgust": 20
-    },
-    "language": {
-      "en": 2849,
-      "de": 31,
-      "pt": 32,
-      "en-US": 112,
-      "ja": 26,
-      "en-GB": 1,
-      "fr": 23,
-      "nl": 10,
-      "ko": 6,
-      "el": 1,
-      "es": 15,
-      "sv-FI": 1,
-      "sv-SE": 3,
-      "da": 3,
-      "hu": 1,
-      "sv": 6,
-      "tr": 1,
-      "pl": 1,
-      "it": 3,
-      "en-AU": 1,
-      "th": 1,
-      "nb": 1,
-      "no": 1,
-      "uk": 1,
-      "af": 1,
-      "fi": 2,
-      "av": 2,
-      "gu": 1,
-      "he": 1,
-      "en-us": 1,
-      "sq": 1
-    }
-  },
   "2025-12-02": {
     "volume": 2750,
     "sentiment": {
@@ -189,35 +139,35 @@
     }
   },
   "2025-12-06": {
-    "volume": 2717,
+    "volume": 3183,
     "sentiment": {
-      "positive": 469,
-      "negative": 1213,
-      "neutral": 1035
+      "positive": 569,
+      "negative": 1425,
+      "neutral": 1189
     },
     "emotion": {
-      "fear": 841,
-      "anger": 239,
-      "sadness": 774,
-      "joy": 377,
-      "surprise": 195,
-      "neutral": 266,
-      "disgust": 25
+      "fear": 1001,
+      "anger": 275,
+      "sadness": 900,
+      "joy": 451,
+      "surprise": 224,
+      "neutral": 301,
+      "disgust": 31
     },
     "language": {
-      "en": 2152,
+      "en": 2537,
       "jp": 2,
       "ja": 27,
-      "sv": 2,
+      "sv": 3,
       "th": 2,
-      "pt": 14,
+      "pt": 18,
       "fr-FR": 1,
-      "fr": 16,
+      "fr": 20,
       "de": 18,
       "pl": 1,
-      "es": 10,
-      "en-US": 115,
-      "ko": 6,
+      "es": 11,
+      "en-US": 127,
+      "ko": 9,
       "nl": 9,
       "vi": 3,
       "es-PR": 1,
@@ -225,7 +175,7 @@
       "rn": 1,
       "ru": 1,
       "nb-NO": 1,
-      "nb": 1,
+      "nb": 2,
       "is": 1,
       "et-EE": 1,
       "et": 1,
@@ -236,7 +186,9 @@
       "en-GB": 1,
       "da": 1,
       "ar": 2,
-      "ga": 1
+      "ga": 1,
+      "sq": 1,
+      "id": 1
     }
   },
   "2025-12-05": {
@@ -293,38 +245,102 @@
     }
   },
   "2025-12-07": {
-    "volume": 543,
+    "volume": 2610,
     "sentiment": {
-      "neutral": 198,
-      "negative": 239,
-      "positive": 106
+      "neutral": 950,
+      "negative": 1202,
+      "positive": 458
     },
     "emotion": {
-      "sadness": 133,
-      "anger": 49,
-      "joy": 89,
-      "fear": 172,
-      "surprise": 40,
-      "neutral": 57,
-      "disgust": 3
+      "sadness": 722,
+      "anger": 249,
+      "joy": 361,
+      "fear": 800,
+      "surprise": 191,
+      "neutral": 267,
+      "disgust": 20
     },
     "language": {
-      "en": 419,
-      "pt": 3,
-      "de": 9,
+      "en": 2052,
+      "pt": 11,
+      "de": 23,
       "ru": 1,
       "sr": 1,
-      "en-US": 32,
-      "ja": 8,
-      "fr": 3,
+      "en-US": 177,
+      "ja": 35,
+      "fr": 7,
       "aa": 1,
-      "nl": 2,
-      "it": 1,
-      "ko": 2,
-      "en-GB": 1,
-      "es": 1,
+      "nl": 6,
+      "it": 3,
+      "ko": 4,
+      "en-GB": 5,
+      "es": 5,
       "lv-LV": 1,
-      "lv": 1
+      "lv": 1,
+      "cs": 1,
+      "zh": 2,
+      "tr": 3,
+      "ro": 1,
+      "tl": 2,
+      "my": 1,
+      "sq": 1,
+      "et": 1,
+      "sv": 1,
+      "is": 1,
+      "nl-NL": 1
+    }
+  },
+  "2025-12-08": {
+    "volume": 3734,
+    "sentiment": {
+      "neutral": 1534,
+      "negative": 1586,
+      "positive": 614
+    },
+    "emotion": {
+      "anger": 302,
+      "sadness": 972,
+      "surprise": 279,
+      "joy": 545,
+      "neutral": 395,
+      "fear": 1218,
+      "disgust": 23
+    },
+    "language": {
+      "en-US": 380,
+      "en": 2720,
+      "es": 8,
+      "pt": 24,
+      "de": 30,
+      "fr": 21,
+      "ar": 2,
+      "ja": 32,
+      "sv-SE": 1,
+      "sv": 4,
+      "tl": 2,
+      "nl": 4,
+      "ru": 1,
+      "en-AU": 3,
+      "uk": 1,
+      "id": 2,
+      "fi": 4,
+      "ko": 5,
+      "hu": 2,
+      "da": 2,
+      "ro": 2,
+      "en-GB": 1,
+      "cs": 1,
+      "nb": 1,
+      "no": 1,
+      "en-us": 3,
+      "bg": 1,
+      "ja-JP": 1,
+      "ber": 1,
+      "th": 1,
+      "ak": 1,
+      "am": 1,
+      "is": 1,
+      "hr": 4
     }
   }
 }
