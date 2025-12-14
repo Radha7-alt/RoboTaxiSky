@@ -1,57 +1,4 @@
 {
-  "2025-12-06": {
-    "volume": 3190,
-    "sentiment": {
-      "positive": 570,
-      "negative": 1429,
-      "neutral": 1191
-    },
-    "emotion": {
-      "fear": 1007,
-      "anger": 276,
-      "sadness": 900,
-      "joy": 451,
-      "surprise": 224,
-      "neutral": 301,
-      "disgust": 31
-    },
-    "language": {
-      "en": 2537,
-      "jp": 2,
-      "ja": 27,
-      "sv": 3,
-      "th": 2,
-      "pt": 18,
-      "fr-FR": 1,
-      "fr": 20,
-      "de": 18,
-      "pl": 1,
-      "es": 11,
-      "en-US": 127,
-      "ko": 9,
-      "nl": 9,
-      "vi": 3,
-      "es-PR": 1,
-      "zh": 3,
-      "rn": 1,
-      "ru": 1,
-      "nb-NO": 1,
-      "nb": 2,
-      "is": 1,
-      "et-EE": 1,
-      "et": 1,
-      "an": 1,
-      "hy": 1,
-      "it": 1,
-      "ca": 1,
-      "en-GB": 1,
-      "da": 1,
-      "ar": 2,
-      "ga": 1,
-      "sq": 1,
-      "id": 1
-    }
-  },
   "2025-12-07": {
     "volume": 2610,
     "sentiment": {
@@ -271,18 +218,18 @@
     }
   },
   "2025-12-12": {
-    "volume": 3607,
+    "volume": 3610,
     "sentiment": {
-      "negative": 1524,
+      "negative": 1526,
       "positive": 702,
-      "neutral": 1381
+      "neutral": 1382
     },
     "emotion": {
-      "disgust": 24,
-      "sadness": 963,
+      "disgust": 25,
+      "sadness": 964,
       "fear": 1099,
       "joy": 537,
-      "surprise": 272,
+      "surprise": 273,
       "anger": 307,
       "neutral": 405
     },
@@ -326,6 +273,43 @@
       "ce": 1,
       "et-EE": 1,
       "et": 1
+    }
+  },
+  "2025-12-13": {
+    "volume": 1089,
+    "sentiment": {
+      "negative": 464,
+      "neutral": 441,
+      "positive": 184
+    },
+    "emotion": {
+      "sadness": 269,
+      "fear": 339,
+      "surprise": 95,
+      "anger": 96,
+      "neutral": 120,
+      "joy": 161,
+      "disgust": 9
+    },
+    "language": {
+      "en": 804,
+      "de": 4,
+      "en-US": 146,
+      "ja": 13,
+      "es": 5,
+      "fr": 5,
+      "id": 1,
+      "pt": 3,
+      "rn": 1,
+      "ru": 2,
+      "ko": 2,
+      "it": 1,
+      "fr-FR": 3,
+      "zh": 1,
+      "en-AU": 1,
+      "sv-FI": 1,
+      "sv-SE": 1,
+      "en-GB": 1
     }
   }
 }
