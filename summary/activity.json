@@ -1,58 +1,4 @@
 {
-  "2025-12-28": {
-    "volume": 3011,
-    "sentiment": {
-      "negative": 1299,
-      "neutral": 1157,
-      "positive": 555
-    },
-    "emotion": {
-      "anger": 246,
-      "sadness": 820,
-      "fear": 910,
-      "joy": 449,
-      "surprise": 241,
-      "neutral": 321,
-      "disgust": 24
-    },
-    "language": {
-      "en": 2441,
-      "ko": 7,
-      "en-US": 140,
-      "fr": 10,
-      "de": 24,
-      "ia": 1,
-      "ja": 40,
-      "fi": 2,
-      "pt": 14,
-      "es": 13,
-      "pl": 1,
-      "en-AU": 3,
-      "nl": 5,
-      "ru": 2,
-      "en-GB": 2,
-      "ja-JP": 1,
-      "ce": 1,
-      "el": 1,
-      "id": 1,
-      "cs": 3,
-      "da": 1,
-      "zh": 1,
-      "it": 3,
-      "ar": 2,
-      "sv-SE": 1,
-      "sv": 3,
-      "mt": 1,
-      "tl": 2,
-      "nb": 1,
-      "uk": 2,
-      "jp": 1,
-      "en-us": 1,
-      "de-DE": 1,
-      "en-UK": 1,
-      "eu": 1
-    }
-  },
   "2025-12-29": {
     "volume": 3253,
     "sentiment": {
@@ -293,23 +239,23 @@
     }
   },
   "2026-01-03": {
-    "volume": 2906,
+    "volume": 2911,
     "sentiment": {
       "positive": 482,
-      "negative": 1387,
-      "neutral": 1037
+      "negative": 1391,
+      "neutral": 1038
     },
     "emotion": {
       "joy": 372,
-      "fear": 955,
-      "sadness": 809,
-      "surprise": 189,
-      "anger": 302,
+      "fear": 957,
+      "sadness": 810,
+      "surprise": 190,
+      "anger": 303,
       "neutral": 261,
       "disgust": 18
     },
     "language": {
-      "en": 2372,
+      "en": 2374,
       "en-US": 183,
       "de": 24,
       "pt": 9,
@@ -335,6 +281,53 @@
       "no": 1,
       "pl": 1,
       "jp": 1
+    }
+  },
+  "2026-01-04": {
+    "volume": 2934,
+    "sentiment": {
+      "positive": 440,
+      "negative": 1430,
+      "neutral": 1064
+    },
+    "emotion": {
+      "joy": 392,
+      "fear": 950,
+      "sadness": 814,
+      "anger": 274,
+      "neutral": 291,
+      "surprise": 189,
+      "disgust": 24
+    },
+    "language": {
+      "en": 2360,
+      "en-US": 192,
+      "ja": 23,
+      "pt": 20,
+      "zh": 7,
+      "es": 16,
+      "sq": 1,
+      "fr": 14,
+      "ru": 1,
+      "en-us": 1,
+      "de": 20,
+      "hi": 1,
+      "fa": 3,
+      "id": 3,
+      "pl": 2,
+      "nl": 3,
+      "ar": 2,
+      "en-GB": 1,
+      "el": 1,
+      "fr-FR": 1,
+      "sv": 4,
+      "ca": 1,
+      "ko": 2,
+      "ro": 1,
+      "fi": 1,
+      "gd": 1,
+      "aa": 1,
+      "uk": 1
     }
   }
 }
