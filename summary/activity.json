@@ -1,51 +1,4 @@
 {
-  "2026-01-02": {
-    "volume": 3073,
-    "sentiment": {
-      "negative": 1351,
-      "positive": 564,
-      "neutral": 1158
-    },
-    "emotion": {
-      "anger": 240,
-      "fear": 983,
-      "neutral": 292,
-      "sadness": 827,
-      "joy": 454,
-      "surprise": 253,
-      "disgust": 24
-    },
-    "language": {
-      "pt": 13,
-      "en": 2442,
-      "en-US": 196,
-      "nl": 8,
-      "ja": 25,
-      "en-AU": 1,
-      "ru": 1,
-      "de": 19,
-      "fr": 11,
-      "en-GB": 5,
-      "ko": 7,
-      "es": 10,
-      "la": 1,
-      "sv": 2,
-      "th": 2,
-      "fi": 3,
-      "tl": 1,
-      "id": 1,
-      "vi": 1,
-      "pl": 1,
-      "am": 1,
-      "ar": 3,
-      "it": 3,
-      "jp": 1,
-      "da": 2,
-      "ca": 3,
-      "tr": 1,
-      "zh": 2
-    }
-  },
   "2026-01-03": {
     "volume": 2911,
     "sentiment": {
@@ -283,19 +236,19 @@
     }
   },
   "2026-01-08": {
-    "volume": 3321,
+    "volume": 3325,
     "sentiment": {
       "positive": 564,
-      "neutral": 1142,
-      "negative": 1615
+      "neutral": 1144,
+      "negative": 1617
     },
     "emotion": {
-      "joy": 384,
+      "joy": 386,
       "fear": 1050,
       "anger": 394,
       "neutral": 297,
-      "sadness": 925,
-      "surprise": 244,
+      "sadness": 926,
+      "surprise": 245,
       "disgust": 27
     },
     "language": {
@@ -334,6 +287,55 @@
       "th": 1,
       "de-DE": 1,
       "am": 1
+    }
+  },
+  "2026-01-09": {
+    "volume": 3345,
+    "sentiment": {
+      "neutral": 1253,
+      "negative": 1524,
+      "positive": 568
+    },
+    "emotion": {
+      "surprise": 197,
+      "fear": 1053,
+      "anger": 384,
+      "sadness": 908,
+      "neutral": 360,
+      "disgust": 33,
+      "joy": 410
+    },
+    "language": {
+      "en-US": 168,
+      "en": 2652,
+      "ja": 26,
+      "en-GB": 4,
+      "pl": 1,
+      "hi": 1,
+      "de": 18,
+      "zh": 4,
+      "es": 12,
+      "pt": 19,
+      "nl": 5,
+      "fi": 3,
+      "ar": 2,
+      "ca": 1,
+      "it": 3,
+      "fr": 17,
+      "sq": 1,
+      "la": 1,
+      "bn": 1,
+      "ko": 3,
+      "ro": 2,
+      "hr": 1,
+      "ru": 2,
+      "mt": 1,
+      "cs": 1,
+      "sk": 1,
+      "en-AU": 1,
+      "ak": 1,
+      "am": 2,
+      "sv": 1
     }
   }
 }
