@@ -1,49 +1,4 @@
 {
-  "2026-01-03": {
-    "volume": 2911,
-    "sentiment": {
-      "positive": 482,
-      "negative": 1391,
-      "neutral": 1038
-    },
-    "emotion": {
-      "joy": 372,
-      "fear": 957,
-      "sadness": 810,
-      "surprise": 190,
-      "anger": 303,
-      "neutral": 261,
-      "disgust": 18
-    },
-    "language": {
-      "en": 2374,
-      "en-US": 183,
-      "de": 24,
-      "pt": 9,
-      "ko": 6,
-      "ja": 25,
-      "es": 12,
-      "fi": 2,
-      "fa": 1,
-      "it": 8,
-      "en-GB": 4,
-      "fr": 11,
-      "zh": 1,
-      "th": 1,
-      "sv": 2,
-      "nb": 2,
-      "uk": 1,
-      "ru": 2,
-      "cs": 1,
-      "sr": 1,
-      "en-AU": 2,
-      "he": 1,
-      "nl": 4,
-      "no": 1,
-      "pl": 1,
-      "jp": 1
-    }
-  },
   "2026-01-04": {
     "volume": 2938,
     "sentiment": {
@@ -290,17 +245,17 @@
     }
   },
   "2026-01-09": {
-    "volume": 3345,
+    "volume": 3347,
     "sentiment": {
       "neutral": 1253,
-      "negative": 1524,
+      "negative": 1526,
       "positive": 568
     },
     "emotion": {
       "surprise": 197,
       "fear": 1053,
       "anger": 384,
-      "sadness": 908,
+      "sadness": 910,
       "neutral": 360,
       "disgust": 33,
       "joy": 410
@@ -336,6 +291,49 @@
       "ak": 1,
       "am": 2,
       "sv": 1
+    }
+  },
+  "2026-01-10": {
+    "volume": 1933,
+    "sentiment": {
+      "positive": 327,
+      "neutral": 666,
+      "negative": 940
+    },
+    "emotion": {
+      "fear": 637,
+      "neutral": 185,
+      "anger": 195,
+      "sadness": 539,
+      "joy": 234,
+      "surprise": 124,
+      "disgust": 19
+    },
+    "language": {
+      "en": 1569,
+      "en-US": 71,
+      "nl": 2,
+      "ja": 13,
+      "pt": 9,
+      "de": 18,
+      "th": 3,
+      "fr": 14,
+      "fi": 4,
+      "ko": 2,
+      "sv": 3,
+      "tlh": 1,
+      "es": 6,
+      "pl-PL": 1,
+      "pl": 1,
+      "ru": 3,
+      "sk": 1,
+      "da": 1,
+      "en-GB": 3,
+      "uk": 1,
+      "ar": 1,
+      "it": 1,
+      "en-AU": 1,
+      "gl": 1
     }
   }
 }
