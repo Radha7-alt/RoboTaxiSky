@@ -1,332 +1,104 @@
 {
-  "topic_2": {
-    "label": [
-      "stress",
-      "la",
-      "die",
-      "getting",
-      "great"
-    ],
-    "count": 1292,
-    "daily": {
-      "2026-01-07": 232,
-      "2026-01-08": 230,
-      "2026-01-09": 191,
-      "2026-01-10": 131,
-      "2026-01-11": 185,
-      "2026-01-12": 127,
-      "2026-01-13": 196
-    },
-    "sentiment": {
-      "neutral": 531,
-      "positive": 216,
-      "negative": 545
-    },
-    "emotion": {
-      "sadness": 319,
-      "neutral": 177,
-      "fear": 336,
-      "surprise": 72,
-      "joy": 203,
-      "anger": 168,
-      "disgust": 17
-    },
-    "hashtags": [
-      "#art",
-      "#MentalHealth",
-      "#recovery",
-      "#anxiety",
-      "#mentalhealth",
-      "#JusticeforReneeNicoleGood",
-      "#depression",
-      "#drawing",
-      "#news",
-      "#DubNation"
-    ],
-    "emojis": [
-      "😭",
-      "♥",
-      "🙏",
-      "💔",
-      "👇",
-      "🏻",
-      "👉",
-      "♡",
-      "🚨",
-      "🔗"
-    ]
-  },
   "topic_0": {
     "label": [
-      "loss",
-      "weight",
       "just",
-      "time",
-      "like"
+      "like",
+      "im",
+      "people",
+      "anxiety"
     ],
-    "count": 7888,
+    "count": 8250,
     "daily": {
-      "2026-01-07": 1487,
       "2026-01-08": 1571,
       "2026-01-09": 1772,
       "2026-01-10": 961,
       "2026-01-11": 600,
-      "2026-01-12": 980,
-      "2026-01-13": 517
+      "2026-01-12": 986,
+      "2026-01-13": 517,
+      "2026-01-14": 1843
     },
     "sentiment": {
-      "neutral": 2669,
-      "negative": 3987,
-      "positive": 1232
+      "positive": 1283,
+      "neutral": 2864,
+      "negative": 4103
     },
     "emotion": {
-      "sadness": 2449,
-      "fear": 2421,
-      "joy": 811,
-      "neutral": 743,
-      "anger": 825,
-      "disgust": 50,
-      "surprise": 589
+      "joy": 854,
+      "fear": 2628,
+      "neutral": 787,
+      "sadness": 2468,
+      "anger": 847,
+      "surprise": 608,
+      "disgust": 58
     },
     "hashtags": [
-      "#news",
-      "#art",
       "#JusticeforReneeNicoleGood",
-      "#MentalHealth",
-      "#recovery",
-      "#ADHD",
-      "#nsfw",
-      "#grief",
-      "#mentalhealth",
-      "#DubNation"
-    ],
-    "emojis": [
-      "😭",
-      "💔",
-      "🙏",
-      "💖",
-      "💜",
-      "😂",
-      "🏻",
-      "👉",
-      "🔥",
-      "🚨"
-    ]
-  },
-  "topic_1": {
-    "label": [
-      "im",
-      "just",
-      "like",
-      "nervous",
-      "dont"
-    ],
-    "count": 3856,
-    "daily": {
-      "2026-01-07": 283,
-      "2026-01-08": 292,
-      "2026-01-09": 308,
-      "2026-01-10": 197,
-      "2026-01-11": 1470,
-      "2026-01-12": 223,
-      "2026-01-13": 1083
-    },
-    "sentiment": {
-      "neutral": 1267,
-      "negative": 1998,
-      "positive": 591
-    },
-    "emotion": {
-      "fear": 1227,
-      "surprise": 320,
-      "sadness": 1169,
-      "joy": 406,
-      "anger": 408,
-      "neutral": 296,
-      "disgust": 30
-    },
-    "hashtags": [
-      "#DubNation",
-      "#art",
-      "#depression",
-      "#recovery",
-      "#MentalHealth",
-      "#ADHD",
-      "#bipolar",
-      "#adhd",
-      "#mentalhealth",
-      "#NBA"
-    ],
-    "emojis": [
-      "😭",
-      "💔",
-      "🙏",
-      "♂",
-      "👉",
-      "🏻",
-      "😂",
-      "🔥",
-      "🎉",
-      "🔗"
-    ]
-  },
-  "topic_7": {
-    "label": [
-      "recovery",
-      "anxiety",
-      "growth",
-      "capsules",
-      "support"
-    ],
-    "count": 1742,
-    "daily": {
-      "2026-01-07": 368,
-      "2026-01-08": 456,
-      "2026-01-09": 244,
-      "2026-01-10": 85,
-      "2026-01-11": 133,
-      "2026-01-12": 117,
-      "2026-01-13": 339
-    },
-    "sentiment": {
-      "neutral": 708,
-      "negative": 782,
-      "positive": 252
-    },
-    "emotion": {
-      "fear": 653,
-      "sadness": 432,
-      "anger": 162,
-      "neutral": 182,
-      "disgust": 17,
-      "joy": 209,
-      "surprise": 87
-    },
-    "hashtags": [
-      "#mentalhealth",
-      "#AI",
       "#news",
-      "#NowPlaying",
-      "#vtuber",
-      "#USA",
-      "#booksky",
+      "#ADHD",
+      "#art",
+      "#recovery",
       "#adhd",
-      "#therapy",
-      "#recovery"
+      "#MentalHealth",
+      "#mentalhealth",
+      "#NBA",
+      "#nsfw"
     ],
     "emojis": [
       "😭",
       "💔",
       "🙏",
-      "🏻",
-      "😂",
-      "💙",
-      "🚨",
-      "👉",
-      "👍",
-      "🔗"
-    ]
-  },
-  "topic_6": {
-    "label": [
-      "crying",
-      "cutting",
-      "right",
-      "fucking",
-      "time"
-    ],
-    "count": 1138,
-    "daily": {
-      "2026-01-07": 168,
-      "2026-01-08": 138,
-      "2026-01-09": 164,
-      "2026-01-10": 168,
-      "2026-01-11": 122,
-      "2026-01-12": 197,
-      "2026-01-13": 181
-    },
-    "sentiment": {
-      "negative": 318,
-      "neutral": 576,
-      "positive": 244
-    },
-    "emotion": {
-      "sadness": 249,
-      "neutral": 208,
-      "fear": 338,
-      "anger": 77,
-      "joy": 197,
-      "surprise": 62,
-      "disgust": 7
-    },
-    "hashtags": [
-      "#MentalHealth",
-      "#nowplaying",
-      "#DubNation",
-      "#News",
-      "#art",
-      "#furry",
-      "#USA",
-      "#Autism",
-      "#photography",
-      "#PTSD"
-    ],
-    "emojis": [
-      "🌎",
-      "🙏",
       "💖",
-      "😭",
-      "👇",
+      "😂",
+      "🏻",
       "💜",
+      "👇",
       "🔥",
-      "🏼",
-      "👉",
-      "💀"
+      "👉"
     ]
   },
   "topic_5": {
     "label": [
+      "stress",
+      "worry",
       "cutting",
-      "therapy",
-      "like",
-      "just",
-      "anxiety"
+      "dont",
+      "care"
     ],
-    "count": 1416,
+    "count": 1360,
     "daily": {
-      "2026-01-07": 246,
       "2026-01-08": 174,
       "2026-01-09": 167,
       "2026-01-10": 158,
       "2026-01-11": 58,
       "2026-01-12": 300,
-      "2026-01-13": 313
+      "2026-01-13": 314,
+      "2026-01-14": 189
     },
     "sentiment": {
-      "negative": 654,
-      "neutral": 524,
-      "positive": 238
+      "negative": 598,
+      "neutral": 535,
+      "positive": 227
     },
     "emotion": {
-      "anger": 155,
-      "fear": 549,
-      "joy": 172,
-      "surprise": 104,
-      "sadness": 285,
-      "neutral": 135,
-      "disgust": 16
+      "fear": 454,
+      "anger": 156,
+      "sadness": 305,
+      "surprise": 92,
+      "neutral": 149,
+      "joy": 186,
+      "disgust": 18
     },
     "hashtags": [
       "#news",
+      "#depression",
+      "#NowPlaying",
+      "#us",
+      "#usnews",
+      "#art",
       "#anxiety",
       "#DubNation",
-      "#MentalHealth",
-      "#depression",
-      "#indiegame",
-      "#art",
       "#adhd",
-      "#us",
-      "#usnews"
+      "#MentalHealth"
     ],
     "emojis": [
       "😭",
@@ -335,124 +107,352 @@
       "🚨",
       "🙏",
       "🔥",
-      "😬",
       "👉",
-      "🔗",
-      "💔"
+      "💔",
+      "💚",
+      "📖"
     ]
   },
-  "topic_3": {
+  "topic_2": {
     "label": [
       "health",
       "mental",
-      "care",
-      "new",
-      "illness"
+      "trump",
+      "addiction",
+      "administration"
     ],
-    "count": 1318,
+    "count": 1351,
     "daily": {
-      "2026-01-07": 178,
-      "2026-01-08": 284,
-      "2026-01-09": 188,
-      "2026-01-10": 154,
-      "2026-01-11": 155,
-      "2026-01-12": 131,
-      "2026-01-13": 228
+      "2026-01-08": 230,
+      "2026-01-09": 191,
+      "2026-01-10": 131,
+      "2026-01-11": 185,
+      "2026-01-12": 127,
+      "2026-01-13": 196,
+      "2026-01-14": 291
     },
     "sentiment": {
-      "negative": 573,
-      "neutral": 500,
-      "positive": 245
+      "negative": 604,
+      "positive": 214,
+      "neutral": 533
     },
     "emotion": {
-      "joy": 183,
-      "sadness": 311,
-      "neutral": 126,
-      "fear": 515,
-      "anger": 119,
-      "surprise": 56,
-      "disgust": 8
+      "fear": 329,
+      "neutral": 171,
+      "sadness": 355,
+      "anger": 184,
+      "disgust": 19,
+      "joy": 211,
+      "surprise": 82
     },
     "hashtags": [
-      "#adhd",
-      "#news",
-      "#JusticeforReneeNicoleGood",
-      "#MentalHealth",
-      "#ADHD",
-      "#mentalhealth",
-      "#poetry",
-      "#depression",
       "#art",
-      "#cock"
+      "#anxiety",
+      "#depression",
+      "#mentalhealth",
+      "#recovery",
+      "#MentalHealth",
+      "#JusticeforReneeNicoleGood",
+      "#ADHD",
+      "#trauma",
+      "#uspoli"
     ],
     "emojis": [
       "😭",
-      "😂",
-      "🏻",
+      "♥",
       "💔",
-      "💙",
+      "🙏",
       "👇",
+      "🏻",
+      "👉",
       "🔥",
-      "💖",
-      "🔗",
-      "🎶"
+      "👍",
+      "🔗"
     ]
   },
-  "topic_4": {
+  "topic_6": {
     "label": [
-      "worry",
-      "dont",
-      "people",
-      "trump",
-      "hard"
+      "therapy",
+      "light",
+      "red",
+      "pain",
+      "home"
     ],
-    "count": 1574,
+    "count": 1149,
     "daily": {
-      "2026-01-07": 150,
-      "2026-01-08": 180,
-      "2026-01-09": 317,
-      "2026-01-10": 89,
-      "2026-01-11": 323,
-      "2026-01-12": 160,
-      "2026-01-13": 355
+      "2026-01-08": 138,
+      "2026-01-09": 164,
+      "2026-01-10": 168,
+      "2026-01-11": 122,
+      "2026-01-12": 197,
+      "2026-01-13": 181,
+      "2026-01-14": 179
     },
     "sentiment": {
-      "neutral": 674,
-      "negative": 559,
-      "positive": 341
+      "negative": 341,
+      "neutral": 558,
+      "positive": 250
     },
     "emotion": {
-      "joy": 243,
-      "fear": 577,
-      "surprise": 88,
-      "sadness": 330,
-      "neutral": 203,
-      "anger": 123,
-      "disgust": 10
+      "fear": 352,
+      "sadness": 239,
+      "neutral": 193,
+      "joy": 207,
+      "surprise": 66,
+      "anger": 81,
+      "disgust": 11
     },
     "hashtags": [
-      "#news",
-      "#Trump",
-      "#DubNation",
-      "#us",
-      "#usnews",
       "#MentalHealth",
-      "#AI",
-      "#MusicChallenge",
-      "#TheTraitorsUS",
+      "#Depression",
+      "#news",
+      "#nowplaying",
+      "#DubNation",
+      "#photography",
+      "#PTSD",
+      "#trauma",
+      "#depression",
       "#JusticeforReneeNicoleGood"
     ],
     "emojis": [
       "😭",
-      "💔",
-      "🏻",
-      "💙",
-      "⚡",
-      "🔗",
-      "🙏",
       "🔥",
-      "😂",
+      "💖",
+      "👇",
+      "🌎",
+      "🙏",
+      "💔",
+      "🎶",
+      "💙",
       "🚨"
+    ]
+  },
+  "topic_7": {
+    "label": [
+      "crying",
+      "im",
+      "season",
+      "stop",
+      "worry"
+    ],
+    "count": 1529,
+    "daily": {
+      "2026-01-08": 456,
+      "2026-01-09": 244,
+      "2026-01-10": 85,
+      "2026-01-11": 133,
+      "2026-01-12": 117,
+      "2026-01-13": 339,
+      "2026-01-14": 155
+    },
+    "sentiment": {
+      "positive": 253,
+      "negative": 693,
+      "neutral": 583
+    },
+    "emotion": {
+      "fear": 570,
+      "anger": 130,
+      "sadness": 414,
+      "neutral": 132,
+      "surprise": 71,
+      "joy": 201,
+      "disgust": 11
+    },
+    "hashtags": [
+      "#mentalhealth",
+      "#recovery",
+      "#AI",
+      "#vtuber",
+      "#adhd",
+      "#therapy",
+      "#booksky",
+      "#USA",
+      "#music",
+      "#news"
+    ],
+    "emojis": [
+      "😭",
+      "💔",
+      "🙏",
+      "😂",
+      "🏻",
+      "🚨",
+      "🏳",
+      "🎉",
+      "👉",
+      "🔗"
+    ]
+  },
+  "topic_1": {
+    "label": [
+      "loss",
+      "weight",
+      "new",
+      "season",
+      "capsules"
+    ],
+    "count": 3875,
+    "daily": {
+      "2026-01-08": 292,
+      "2026-01-09": 308,
+      "2026-01-10": 197,
+      "2026-01-11": 1470,
+      "2026-01-12": 224,
+      "2026-01-13": 1084,
+      "2026-01-14": 300
+    },
+    "sentiment": {
+      "negative": 1974,
+      "neutral": 1278,
+      "positive": 623
+    },
+    "emotion": {
+      "anger": 394,
+      "fear": 1239,
+      "sadness": 1154,
+      "surprise": 324,
+      "disgust": 30,
+      "neutral": 304,
+      "joy": 430
+    },
+    "hashtags": [
+      "#DubNation",
+      "#art",
+      "#recovery",
+      "#ADHD",
+      "#depression",
+      "#bipolar",
+      "#NBA",
+      "#mentalhealth",
+      "#grief",
+      "#health"
+    ],
+    "emojis": [
+      "😭",
+      "💔",
+      "🙏",
+      "👉",
+      "🏻",
+      "♂",
+      "🎉",
+      "😂",
+      "🔥",
+      "💙"
+    ]
+  },
+  "topic_4": {
+    "label": [
+      "cutting",
+      "stop",
+      "ice",
+      "people",
+      "trump"
+    ],
+    "count": 1582,
+    "daily": {
+      "2026-01-08": 180,
+      "2026-01-09": 317,
+      "2026-01-10": 89,
+      "2026-01-11": 323,
+      "2026-01-12": 161,
+      "2026-01-13": 355,
+      "2026-01-14": 157
+    },
+    "sentiment": {
+      "negative": 587,
+      "positive": 323,
+      "neutral": 672
+    },
+    "emotion": {
+      "sadness": 315,
+      "joy": 244,
+      "fear": 570,
+      "neutral": 216,
+      "surprise": 80,
+      "anger": 146,
+      "disgust": 11
+    },
+    "hashtags": [
+      "#news",
+      "#MentalHealth",
+      "#depression",
+      "#DubNation",
+      "#us",
+      "#usnews",
+      "#Trump",
+      "#AI",
+      "#MusicChallenge",
+      "#TheTraitorsUS"
+    ],
+    "emojis": [
+      "😭",
+      "💔",
+      "💙",
+      "🏻",
+      "🔥",
+      "🙏",
+      "🔗",
+      "😂",
+      "👇",
+      "💜"
+    ]
+  },
+  "topic_3": {
+    "label": [
+      "worry",
+      "dont",
+      "hard",
+      "got",
+      "know"
+    ],
+    "count": 1379,
+    "daily": {
+      "2026-01-08": 284,
+      "2026-01-09": 188,
+      "2026-01-10": 154,
+      "2026-01-11": 155,
+      "2026-01-12": 133,
+      "2026-01-13": 228,
+      "2026-01-14": 237
+    },
+    "sentiment": {
+      "positive": 257,
+      "negative": 617,
+      "neutral": 505
+    },
+    "emotion": {
+      "sadness": 304,
+      "joy": 179,
+      "surprise": 62,
+      "fear": 618,
+      "anger": 111,
+      "neutral": 99,
+      "disgust": 6
+    },
+    "hashtags": [
+      "#news",
+      "#adhd",
+      "#JusticeforReneeNicoleGood",
+      "#mentalhealth",
+      "#us",
+      "#usnews",
+      "#weightloss",
+      "#poetry",
+      "#depression",
+      "#BrainHealth"
+    ],
+    "emojis": [
+      "😭",
+      "🏻",
+      "😂",
+      "💙",
+      "👇",
+      "💔",
+      "💖",
+      "😔",
+      "🔥",
+      "🔗"
     ]
   }
 }
