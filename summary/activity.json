@@ -1,36 +1,4 @@
 {
-  "2026-01-22": {
-    "volume": 438,
-    "sentiment": {
-      "positive": 63,
-      "negative": 224,
-      "neutral": 151
-    },
-    "emotion": {
-      "joy": 37,
-      "fear": 142,
-      "neutral": 40,
-      "sadness": 127,
-      "surprise": 35,
-      "anger": 55,
-      "disgust": 2
-    },
-    "language": {
-      "en": 364,
-      "ja": 3,
-      "fi": 1,
-      "pt": 2,
-      "en-US": 22,
-      "es": 1,
-      "fr": 3,
-      "sv": 1,
-      "ak": 1,
-      "de": 1,
-      "en-GB": 1,
-      "aa": 1,
-      "av": 1
-    }
-  },
   "2026-01-23": {
     "volume": 2709,
     "sentiment": {
@@ -251,24 +219,24 @@
     }
   },
   "2026-01-28": {
-    "volume": 3184,
+    "volume": 3194,
     "sentiment": {
-      "negative": 1424,
-      "neutral": 1244,
-      "positive": 516
+      "negative": 1428,
+      "neutral": 1247,
+      "positive": 519
     },
     "emotion": {
-      "fear": 1050,
-      "sadness": 885,
-      "joy": 388,
+      "fear": 1054,
+      "sadness": 888,
+      "joy": 390,
       "neutral": 325,
       "anger": 292,
       "surprise": 211,
-      "disgust": 33
+      "disgust": 34
     },
     "language": {
       "fr": 18,
-      "en": 2478,
+      "en": 2480,
       "en-US": 215,
       "es": 12,
       "ja": 20,
@@ -299,6 +267,60 @@
       "pl": 1,
       "pt-PT": 2,
       "en-AU": 1
+    }
+  },
+  "2026-01-29": {
+    "volume": 3470,
+    "sentiment": {
+      "negative": 1582,
+      "neutral": 1330,
+      "positive": 558
+    },
+    "emotion": {
+      "sadness": 906,
+      "surprise": 250,
+      "neutral": 381,
+      "fear": 1136,
+      "joy": 477,
+      "anger": 290,
+      "disgust": 30
+    },
+    "language": {
+      "en": 2609,
+      "ko": 3,
+      "pt": 22,
+      "de": 37,
+      "en-US": 297,
+      "jp": 2,
+      "zh": 2,
+      "es": 20,
+      "ja": 24,
+      "fr": 15,
+      "vi": 2,
+      "cs": 1,
+      "sv": 4,
+      "en-GB": 5,
+      "aa": 1,
+      "ab": 1,
+      "fi": 3,
+      "nl": 5,
+      "ar": 1,
+      "et": 1,
+      "tr": 1,
+      "ca": 1,
+      "el": 1,
+      "en-AU": 2,
+      "in": 1,
+      "en-us": 1,
+      "it": 5,
+      "ga": 1,
+      "da": 1,
+      "id": 1,
+      "sq": 1,
+      "ku": 1,
+      "ru": 1,
+      "de-DE": 1,
+      "bg": 1
     }
   }
 }
