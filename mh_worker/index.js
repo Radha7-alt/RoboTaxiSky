@@ -2,103 +2,46 @@ import { Firehose } from "@atproto/sync";
 import { IdResolver } from "@atproto/identity";
 import supabase from "./utils/db.js";
 
-const MENTAL_HEALTH_KEYWORDS = [
-  "mental health",
-  "mental illness",
-  "mental disorder",
-  "mental breakdown",
-  "mental fatigue",
-  "psychological",
-  "emotional health",
-  "emotional support",
-  "cognitive therapy",
-  "psychotherapy",
-  "clinical depression",
-  "depression",
-  "depressed",
-  "hopeless",
-  "worthless",
-  "numb",
-  "empty",
-  "crying",
-  "grief",
-  "mourning",
-  "loss",
-  "low mood",
-  "burnout",
-  "anxiety",
-  "anxious",
-  "panic attack",
-  "panic disorder",
-  "worry",
-  "nervous",
-  "overwhelmed",
-  "racing thoughts",
-  "dread",
-  "tension",
-  "suicide",
-  "suicidal",
-  "self harm",
-  "cutting",
-  "attempted suicide",
-  "taking my life",
-  "ending it all",
-  "thoughts of suicide",
-  "hurting myself",
-  "ptsd",
-  "trauma",
-  "flashbacks",
-  "hypervigilance",
-  "dissociation",
-  "emotional numbness",
-  "abuse trauma",
-  "childhood trauma",
-  "sexual trauma",
-  "bipolar",
-  "ocd",
-  "adhd",
-  "borderline",
-  "schizophrenia",
-  "eating disorder",
-  "anorexia",
-  "bulimia",
-  "personality disorder",
-  "therapy",
-  "counseling",
-  "counsellor",
-  "therapist",
-  "psychologist",
-  "psychiatrist",
-  "meds",
-  "mental health treatment",
-  "support group",
-  "recovery",
-  "mental health app",
-  "insomnia",
-  "sleep disorder",
-  "can’t sleep",
-  "racing mind",
-  "stressed",
-  "stress",
-  "burned out",
-  "sleep paralysis",
-  "i want to die",
-  "i want to end it",
-  "i can’t do this anymore",
-  "life isn’t worth it",
-  "no reason to live",
-  "ending my life",
+const ROBOTAXI_KEYWORDS = [
+  // General robotaxi terms
+  "robotaxi", "robo taxi", "robo-taxi",
+  "autonomous taxi", "self-driving taxi", "self driving taxi",
+  "driverless taxi", "driverless cab", "autonomous cab",
+
+  // Autonomous vehicle terms (broader)
+  "autonomous vehicle", "self-driving car", "self driving car", "driverless car",
+  "av", "autonomy",
+
+  // Companies / services
+  "waymo", "waymo one",
+  "cruise", "gm cruise",
+  "zoox",
+  "apollo go", "baidu apollo",
+  "pony.ai", "weride", "autox",
+
+  // Common discussion topics
+  "driverless ride", "no driver",
+  "robotaxi safety", "av safety",
+  "robotaxi crash", "robotaxi accident", "robotaxi incident",
+  "self-driving crash", "self-driving accident",
+  "stuck robotaxi", "blocked traffic", "stalled", "pulled over",
+
+  // Hashtags (Bluesky posts can include them)
+  "#robotaxi", "#robotaxis", "#waymo", "#cruise", "#zoox",
+  "#selfdriving", "#autonomousvehicles",
 ];
 
+
 // Precompile keyword regexes
-const mentalHealthRegexes = MENTAL_HEALTH_KEYWORDS.map(
+const robotaxiRegexes = ROBOTAXI_KEYWORDS.map(
   (kw) =>
     new RegExp(`\\b${kw.replace(/[-\/\\^$*+?.()|[\]{}]/g, "\\$&")}\\b`, "i")
 );
 
-function isMentalHealthPost(text = "") {
-  return mentalHealthRegexes.some((regex) => regex.test(text));
+function isRobotaxiPost(text = "") {
+  return robotaxiRegexes.some((regex) => regex.test(text));
 }
+
 // === Insert Queue Config ===
 const INSERT_BATCH_SIZE = 100;
 const INSERT_INTERVAL_MS = 5000;
@@ -179,7 +122,7 @@ const firehose = new Firehose({
       const post = evt.record;
       if (!post?.text || post.reply) return;
       if (post?.$type !== "app.bsky.feed.post") return;
-      if (!isMentalHealthPost(post.text)) return;
+      if (!isRobotaxiPost(post.text)) return;
       if (!evt.did) return;
 
       const record = {
