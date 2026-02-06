@@ -1,18 +1,10 @@
-# 🧠 CognitiveSky
+# 🚕 RoboTaxiSky
 
-[![GitHub Stars](https://img.shields.io/github/stars/gauravfs-14/CognitiveSky?style=social)](https://github.com/gauravfs-14/CognitiveSky)
-[![GitHub Forks](https://img.shields.io/github/forks/gauravfs-14/CognitiveSky?style=social)](https://github.com/gauravfs-14/CognitiveSky)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue)](./LICENSE)
-[![Daily Labeling and Summary Export](https://github.com/gauravfs-14/CognitiveSky/actions/workflows/data-labeling.yml/badge.svg)](https://github.com/gauravfs-14/CognitiveSky/actions/workflows/data-labeling.yml)
 
-> [!NOTE]
-> 📢 **Announcement:** Our paper is now available on [arXiv](https://arxiv.org/abs/2509.11444)!  
-> **Title:** *CognitiveSky: Scalable Sentiment and Narrative Analysis for Decentralized Social Media*  
-> If you use this project, please consider citing our work. Thank you for your support!
+**RoboTaxiSky** is an open-source research infrastructure and dashboard for analyzing autonomous vehicles narratives on the Bluesky social platform. Inspired by [TwiXplorer](https://github.com/smash-edin/twixplorer), it integrates real-time data ingestion, robust NLP processing, and interactive visualization to empower researchers, advocates, and developers with actionable social insights.
 
-**CognitiveSky** is an open-source research infrastructure and dashboard for analyzing mental health narratives on the Bluesky social platform. Inspired by [TwiXplorer](https://github.com/smash-edin/twixplorer), it integrates real-time data ingestion, robust NLP processing, and interactive visualization to empower researchers, advocates, and developers with actionable social insights.
-
-> **Live Dashboard:** [CognitiveSky Dashboard](https://cognitivesky.gaurabchhetri.com.np/)
+> **Live Dashboard:** [RoboTaxiSky Dashboard]
 
 ## 📖 Table of Contents
 
@@ -31,28 +23,28 @@
 ## 🌟 Features
 
 - **Real-time Data Ingestion:** Continuously collects public posts related to mental health from Bluesky using the Firehose API.
-- **NLP Processing:** Applies state-of-the-art sentiment analysis, emotion detection, and topic modeling to understand mental health narratives.
+- **NLP Processing:** Applies state-of-the-art sentiment analysis, emotion detection, and topic modeling to understand autonomous vehicles narratives.
 - **Interactive Dashboard:** Visualizes trends, user engagement, and topic distributions using React and Next.js.
 - **Open Source:** Fully transparent and community-driven, allowing contributions from researchers and developers.
 
 ## ⚙️ System Architecture
 
-The CognitiveSky system is built around two primary components:
+The RoboTaxiSky system is built around two primary components:
 
-### 1. Mental Health Worker (`mh_worker`)
+### 1. Robo Taxi Worker (`rt_worker`)
 
 - **Language:** Node.js
 - **Host:** Oracle Cloud (free-tier VM)
 - **Function:** A real-time listener using Bluesky's Firehose API
-- **Purpose:** Filters public posts related to mental health and stores them in a `posts_unlabeled` table within Supabase.
+- **Purpose:** Filters public posts related to autonomous vehicles and stores them in a `posts_unlabeled` table within Supabase.
 - **Frequency:** Continuous, 24×7 ingestion
-- **Output:** Raw mental-health-related posts in Supabase
+- **Output:** Raw autonomous-vehicles-related posts in Supabase
 
-> **Read more about the worker:** [mh_worker README](https://github.com/gauravfs-14/CognitiveSky/tree/main/mh_worker)
+> **Read more about the worker:** [rt_worker README](https://github.com/Radha7-alt/RoboTaxiSky/tree/main/rt_worker)
 
 ### 2. Summarization & Labeling Pipeline (`summary.py`)
 
-[![Daily Labeling and Summary Export](https://github.com/gauravfs-14/CognitiveSky/actions/workflows/data-labeling.yml/badge.svg)](https://github.com/gauravfs-14/CognitiveSky/actions/workflows/data-labeling.yml)
+[![Daily Labeling and Summary Export](https://github.com/Radha7-alt/RoboTaxiSky/actions/workflows/data-labeling.yml/badge.svg)](https://github.com/Radha7-alt/RoboTaxiSky/actions/workflows/data-labeling.yml)
 
 - **Language:** Python
 - **Trigger:** Scheduled daily via GitHub Actions (4 parallel shards × 500 posts)
@@ -63,11 +55,11 @@ The CognitiveSky system is built around two primary components:
 - **Database:** Processes are stored in Turso (libSQL)
 - **Output:** JSON snapshots written to `/summary/*.json` for dashboard rendering
 
-> **View Latest Summary Output:** [Latest Summary JSON](https://github.com/gauravfs-14/CognitiveSky/tree/main/summary)
+> **View Latest Summary Output:** [Latest Summary JSON](https://github.com/Radha7-alt/CognitiveSky/tree/main/summary)
 
 ## 🔨 Tools And Technologies
 
-### Data Ingestion `mh_worker`
+### Data Ingestion `rt_worker`
 
 - **Node.js:** For real-time data ingestion
 - **Bluesky Firehose API:** Streams public posts using `@atproto/sync` and `@atproto/api` libraries
@@ -99,7 +91,7 @@ The CognitiveSky system is built around two primary components:
                │
                ▼
      ┌────────────────────┐
-     │   mh_worker (Node) │
+     │   rt_worker (Node) │
      │  Filter + Ingest   │
      └────────┬───────────┘
               │
@@ -149,7 +141,7 @@ Every run of the summarization pipeline generates JSON files like:
 
 Each is grouped by date to support historical and temporal exploration in the dashboard.
 
-> **View Example Output:** [Sample JSON Output](https://github.com/gauravfs-14/CognitiveSky/tree/main/summary_ref)
+> **View Example Output:** [Sample JSON Output](https://github.com/Radha7-alt/RoboTaxiSky/tree/main/summary_ref)
 
 ## 📊 Dashboard
 
@@ -161,15 +153,15 @@ Each is grouped by date to support historical and temporal exploration in the da
   - Narrative shifts across time
 - **Data Source:** JSON files from `summary/` directory
 
-> **Live Demo:** [CognitiveSky Dashboard](https://cognitivesky.gaurabchhetri.com.np/) | **Source Code:** [Dashboard Code](https://github.com/gauravfs-14/CognitiveSky/tree/main/dashboard)
+> **Live Demo:** [RoboTaxiSky Dashboard] | **Source Code:** [Dashboard Code](https://github.com/Radha7-alt/RoboTaxiSky/tree/main/dashboard)
 
 ## 🚀 Get Started
 
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/gauravfs-14/CognitiveSky.git
-cd CognitiveSky
+git clone https://github.com/Radha7-alt/RoboTaxiSky.git
+cd RoboTaxiSky
 ```
 
 ### 2. Setup Environment
@@ -192,16 +184,16 @@ conda env create -f environment.yml
 conda activate cognitive-sky
 ```
 
-### 4. Start the Mental Health Worker
+### 4. Start the RoboTaxi Worker
 
 Ensure you have Node.js installed, then run:
 
 ```bash
-cd mh_worker
+cd rt_worker
 npm install
 ```
 
-Set up the environment variables in `mh_worker/.env` with your Bluesky credentials and Supabase connection details.
+Set up the environment variables in `rt_worker/.env` with your Bluesky credentials and Supabase connection details.
 
 Then start the worker:
 
@@ -209,7 +201,7 @@ Then start the worker:
 npm start
 ```
 
-This will start the real-time listener that filters and ingests mental health posts into Supabase.
+This will start the real-time listener that filters and ingests robo-taxi posts into Supabase.
 
 ### 5. Run Summary Pipeline
 
@@ -261,7 +253,7 @@ The project includes a Makefile for streamlined testing and production workflows
 
 ## 🤝 Contributing
 
-We welcome contributions from researchers, developers, and mental health advocates. You can:
+We welcome contributions from researchers, developers, and autonomous vehicles advocates. You can:
 
 - Suggest new metrics or visualizations
 - Help improve NLP model support
@@ -271,32 +263,17 @@ We welcome contributions from researchers, developers, and mental health advocat
 ## 📄 License
 
 This project is licensed under the **MIT License**. See [`LICENSE`](./LICENSE) for details.
-
-### BibTex Citation
-
-If you decide to use our project, code, and artifacts in any way, please consider citing our paper.
-
-```bibtex
-@misc{chhetri2025cognitiveskyscalablesentimentnarrative,
-      title={CognitiveSky: Scalable Sentiment and Narrative Analysis for Decentralized Social Media}, 
-      author={Gaurab Chhetri and Anandi Dutta and Subasish Das},
-      year={2025},
-      eprint={2509.11444},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2509.11444}, 
-}
 ```
 
 ## Acknowledgements
 
-This project was initially inspired by [TwiXplorer](https://github.com/smash-edin/twixplorer) and aims to build a similar infrastructure for Bluesky mental health narratives. Special thanks to:
+This project was initially inspired by [TwiXplorer](https://github.com/smash-edin/twixplorer) and aims to build a similar infrastructure for Bluesky autonomous vehicles narratives. Special thanks to:
 
 - **Bluesky Community:** For their support and resources.
-- **Oracle Cloud:** For providing the Forever Free Tier VM hosting the `mh_worker`.
+- **Oracle Cloud:** For providing the Forever Free Tier VM hosting the `rt_worker`.
 - **Supabase:** For enabling seamless database integration and real-time data storage.
 - **Hugging Face Transformers:** For providing pre-trained models used in sentiment and emotion analysis.
 - **AIT Lab:** For their guidance, collaboration, and technical support.
 - **Open Source Contributors:** For their valuable feedback, suggestions, and code contributions.
 
-Developed by [Gaurab Chhetri](https://gaurabchhetri.com.np), Supported by [AIT Lab](https://ait-lab.vercel.app).
+

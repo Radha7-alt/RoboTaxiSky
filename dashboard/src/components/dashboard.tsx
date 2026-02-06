@@ -109,7 +109,7 @@ export default function Dashboard() {
                 Post Volume Timeline
               </CardTitle>
               <CardDescription className="text-xs sm:text-sm">
-                Mental health-related post activity over time
+                Robotaxi-related post activity over time
               </CardDescription>
             </div>
             <Link
@@ -186,7 +186,7 @@ export default function Dashboard() {
                 Emotion Distribution
               </CardTitle>
               <CardDescription className="text-xs sm:text-sm">
-                Distribution of emotions in mental health posts
+                Distribution of emotions in robotaxi related posts
               </CardDescription>
             </div>
             <Link
@@ -212,7 +212,7 @@ export default function Dashboard() {
               Language Distribution
             </CardTitle>
             <CardDescription className="text-xs sm:text-sm">
-              Breakdown of languages used in mental health posts
+              Breakdown of languages used in robotaxi related posts
             </CardDescription>
           </CardHeader>
           <CardContent className="h-[250px] sm:h-[300px] md:h-[400px] relative p-2 sm:p-4">
@@ -228,7 +228,7 @@ export default function Dashboard() {
         <WordCloud
           words={hashtagWordCloudData}
           title="Popular Hashtags"
-          description="Most frequently used hashtags in mental health discussions"
+          description="Most frequently used hashtags in robotaxi related discussions"
         />
       </motion.div>
 
@@ -237,7 +237,7 @@ export default function Dashboard() {
         <WordCloud
           words={emojiWordCloudData}
           title="Popular Emojis"
-          description="Most frequently used emojis in mental health discussions"
+          description="Most frequently used emojis in robotaxi related discussions"
         />
       </motion.div>
 
@@ -253,7 +253,7 @@ export default function Dashboard() {
                 Topic Clusters Overview
               </CardTitle>
               <CardDescription className="text-xs sm:text-sm">
-                Key topics identified in mental health discussions
+                Key topics identified in robotaxi related discussions
               </CardDescription>
             </div>
             <Link

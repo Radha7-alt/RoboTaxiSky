@@ -16,25 +16,21 @@ import {
   TopicsSummary,
 } from "@/types/summarySchema";
 
+const BASE =
+  "https://raw.githubusercontent.com/Radha7-alt/RoboTaxiSky/main/summary";
+
 const RAW_LINKS = {
-  activity:
-    "https://raw.githubusercontent.com/gauravfs-14/CognitiveSky/refs/heads/main/summary/activity.json",
-  emoji_sentiment:
-    "https://raw.githubusercontent.com/gauravfs-14/CognitiveSky/refs/heads/main/summary/emoji_sentiment.json",
-  emojis:
-    "https://raw.githubusercontent.com/gauravfs-14/CognitiveSky/refs/heads/main/summary/emojis.json",
-  emotion_by_topic:
-    "https://raw.githubusercontent.com/gauravfs-14/CognitiveSky/refs/heads/main/summary/emotion_by_topic.json",
-  hashtag_graph:
-    "https://raw.githubusercontent.com/gauravfs-14/CognitiveSky/refs/heads/main/summary/hashtag_graph.json",
-  hashtags:
-    "https://raw.githubusercontent.com/gauravfs-14/CognitiveSky/refs/heads/main/summary/hashtags.json",
-  meta: "https://raw.githubusercontent.com/gauravfs-14/CognitiveSky/refs/heads/main/summary/meta.json",
-  sentiment_by_topic:
-    "https://raw.githubusercontent.com/gauravfs-14/CognitiveSky/refs/heads/main/summary/sentiment_by_topic.json",
-  topics:
-    "https://raw.githubusercontent.com/gauravfs-14/CognitiveSky/refs/heads/main/summary/topics.json",
+  activity: `${BASE}/activity.json`,
+  emoji_sentiment: `${BASE}/emoji_sentiment.json`,
+  emojis: `${BASE}/emojis.json`,
+  emotion_by_topic: `${BASE}/emotion_by_topic.json`,
+  hashtag_graph: `${BASE}/hashtag_graph.json`,
+  hashtags: `${BASE}/hashtags.json`,
+  meta: `${BASE}/meta.json`,
+  sentiment_by_topic: `${BASE}/sentiment_by_topic.json`,
+  topics: `${BASE}/topics.json`,
 };
+
 
 export type SummaryData = {
   meta: MetaSummary;

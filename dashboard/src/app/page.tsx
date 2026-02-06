@@ -9,7 +9,7 @@ export default function HomePage() {
     <>
       <PageTitle
         title="Dashboard Overview"
-        description="Comprehensive view of mental health narratives on Bluesky"
+        description="Comprehensive view of public discussions about autonomous taxis on Bluesky"
         icon={<Home size={28} />}
       />
       <Dashboard />

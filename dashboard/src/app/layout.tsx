@@ -7,8 +7,8 @@ import ClientLayout from "./clientLayout"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "CognitiveSky - Mental Health Narratives Dashboard",
-  description: "Visualize and explore mental health narratives from Bluesky data",
+  title: "RoboTaxiSky Insights Dashboard",
+  description: "Visualize and explore insights about autonomous taxis from Bluesky data",
     generator: 'v0.dev'
 }
 

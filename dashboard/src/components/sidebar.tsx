@@ -26,7 +26,7 @@ export function Sidebar({ open, setOpen }: SidebarProps) {
     return (
       <Sheet open={open} onOpenChange={setOpen}>
         <SheetTitle aria-label="sr-only" className="hidden">
-          CognitiveSky
+          RoboTaxiSky
         </SheetTitle>
         <SheetContent
           side={"left"}
@@ -81,7 +81,7 @@ const SideBarContent = ({ open, setOpen }: SidebarProps) => {
               <span className="text-xl font-bold">CS</span>
             </div>
             <motion.div variants={textVariants} className="ml-3 font-semibold">
-              CognitiveSky
+              RoboTaxiSky
             </motion.div>
           </div>
         </Link>
@@ -120,7 +120,7 @@ const SideBarContent = ({ open, setOpen }: SidebarProps) => {
       <div className="p-4 border-t border-sky-500/30">
         <div className="flex items-center justify-center">
           <div className="text-xs text-white/70 text-wrap">
-            &copy; {open && !isMobile ? "CognitiveSky v1.0" : "v1.0"}
+            &copy; {open && !isMobile ? "RoboTaxi v1.0" : "v1.0"}
           </div>
         </div>
       </div>

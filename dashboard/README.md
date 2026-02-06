@@ -1,4 +1,4 @@
-# @cognitivesky/dashboard
+# @RoboTaxiSky/dashboard
 
 This is a Next.js dashboard application designed to provide insights into Bluesky data, including sentiment analysis, topic exploration, hashtag analysis, and timeline analysis. The dashboard features interactive charts and a responsive design suitable for both desktop and mobile devices.
 

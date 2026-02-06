@@ -92,7 +92,7 @@ export default function SentimentPage() {
     <>
       <PageTitle
         title="Sentiment Analysis"
-        description="Detailed sentiment analysis of mental health discussions"
+        description="Detailed sentiment analysis of robotaxi discussions"
         icon={<BarChart2 size={28} />}
       />
 
@@ -110,7 +110,7 @@ export default function SentimentPage() {
           <StackedAreaChart
             data={chartData?.sentimentTimeSeries || []}
             title="Sentiment Evolution"
-            description="How sentiment has changed over time"
+            description="How sentiment about robotaxis has changed over time"
             keys={sentimentTimeSeriesKeys}
             height={400}
           />
@@ -125,7 +125,7 @@ export default function SentimentPage() {
             <CardHeader className="pb-2">
               <CardTitle>Overall Sentiment Distribution</CardTitle>
               <CardDescription>
-                Distribution of sentiment in mental health discussions
+                Distribution of sentiment in robotaxi discussions
               </CardDescription>
             </CardHeader>
             <CardContent className="h-[400px] relative">
@@ -142,7 +142,7 @@ export default function SentimentPage() {
           <MultiLineTimeSeries
             data={chartData?.emotionTimeSeries || []}
             title="Emotion Trends"
-            description="Tracking emotions over time"
+            description="Tracking emotions in robotaxi discussions over time"
             keys={emotionTimeSeriesKeys}
             height={400}
           />
@@ -157,7 +157,8 @@ export default function SentimentPage() {
             <CardHeader className="pb-2">
               <CardTitle>Sentiment by Topic</CardTitle>
               <CardDescription>
-                How sentiment is distributed across different topics
+                How sentiment is distributed across different robotaxi-related
+                topics
               </CardDescription>
             </CardHeader>
             {/* Fix type issue for sentiment progress bar layout */}
@@ -233,7 +234,7 @@ export default function SentimentPage() {
           <WordCloud
             words={emojiSentimentData.positive}
             title="Positive Sentiment Emojis"
-            description="Emojis associated with positive sentiment"
+            description="Emojis associated with positive robotaxi sentiment"
           />
         </motion.div>
 
@@ -244,7 +245,7 @@ export default function SentimentPage() {
           <WordCloud
             words={emojiSentimentData.neutral}
             title="Neutral Sentiment Emojis"
-            description="Emojis associated with neutral sentiment"
+            description="Emojis associated with neutral robotaxi sentiment"
           />
         </motion.div>
 
@@ -255,7 +256,7 @@ export default function SentimentPage() {
           <WordCloud
             words={emojiSentimentData.negative}
             title="Negative Sentiment Emojis"
-            description="Emojis associated with negative sentiment"
+            description="Emojis associated with negative robotaxi sentiment"
           />
         </motion.div>
       </motion.div>

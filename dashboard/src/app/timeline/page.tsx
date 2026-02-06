@@ -143,7 +143,7 @@ export default function TimelinePage() {
     <>
       <PageTitle
         title="Timeline Analysis"
-        description="Temporal analysis of mental health discussions"
+        description="Temporal analysis of robotaxi related discussions"
         icon={<Clock size={28} />}
       />
 
@@ -159,7 +159,7 @@ export default function TimelinePage() {
             <CardHeader className="pb-2">
               <CardTitle>Post Volume Timeline</CardTitle>
               <CardDescription>
-                Mental health-related post activity over time
+                Robotaxi-related post activity over time
               </CardDescription>
             </CardHeader>
             <CardContent className="h-[500px]">
@@ -174,7 +174,7 @@ export default function TimelinePage() {
             <CardHeader className="pb-2">
               <CardTitle>Timeline Analysis</CardTitle>
               <CardDescription>
-                Analyze different aspects of mental health discussions over time
+                Analyze different aspects of autonomous vehicle discussions over time
               </CardDescription>
             </CardHeader>
             <CardContent>

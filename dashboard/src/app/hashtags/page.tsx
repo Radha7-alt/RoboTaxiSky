@@ -97,7 +97,7 @@ export default function HashtagsEmojiPage() {
     <>
       <PageTitle
         title="Hashtags & Emojis"
-        description="Analysis of hashtags and emojis used in mental health discussions"
+        description="Analysis of hashtags and emojis used in Robotaxi-related discussions"
         icon={<Hash size={28} />}
       />
 
@@ -113,7 +113,7 @@ export default function HashtagsEmojiPage() {
             <CardHeader className="pb-2">
               <CardTitle>Hashtags & Emojis Overview</CardTitle>
               <CardDescription>
-                Visual analysis of hashtags and emojis in mental health
+                Visual analysis of hashtags and emojis in robotaxi related
                 conversations
               </CardDescription>
             </CardHeader>

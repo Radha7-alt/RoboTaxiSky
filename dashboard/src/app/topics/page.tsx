@@ -42,7 +42,7 @@ export default function TopicsPage() {
       <>
         <PageTitle
           title="Topic Clusters"
-          description="Analysis of key topics in mental health discussions"
+          description="Analysis of key topics in robotaxi related discussions"
           icon={<Network size={28} />}
         />
         <div className="p-8 text-center">
@@ -56,7 +56,7 @@ export default function TopicsPage() {
     <>
       <PageTitle
         title="Topic Clusters"
-        description="Analysis of key topics in mental health discussions"
+        description="Analysis of key topics in robotaxi related discussions"
         icon={<Network size={28} />}
       />
 
@@ -132,8 +132,8 @@ export default function TopicsPage() {
                           entry.name === "positive"
                             ? "bg-green-500"
                             : entry.name === "negative"
-                            ? "bg-red-500"
-                            : "bg-blue-500";
+                              ? "bg-red-500"
+                              : "bg-blue-500";
 
                         return (
                           <div
@@ -147,13 +147,12 @@ export default function TopicsPage() {
                               <div
                                 className={`${color} h-4 rounded-full`}
                                 style={{
-                                  width: `${
-                                    (entry.value /
+                                  width: `${(entry.value /
                                       Math.max(
                                         ...topic.sentiment.map((s) => s.value)
                                       )) *
                                     100
-                                  }%`,
+                                    }%`,
                                 }}
                               ></div>
                             </div>
@@ -175,10 +174,10 @@ export default function TopicsPage() {
                           entry.name === "joy"
                             ? "bg-yellow-500"
                             : entry.name === "sadness"
-                            ? "bg-purple-500"
-                            : entry.name === "fear"
-                            ? "bg-pink-500"
-                            : "bg-gray-500";
+                              ? "bg-purple-500"
+                              : entry.name === "fear"
+                                ? "bg-pink-500"
+                                : "bg-gray-500";
 
                         return (
                           <div
@@ -192,13 +191,12 @@ export default function TopicsPage() {
                               <div
                                 className={`${color} h-4 rounded-full`}
                                 style={{
-                                  width: `${
-                                    (entry.value /
+                                  width: `${(entry.value /
                                       Math.max(
                                         ...topic.emotion.map((e) => e.value)
                                       )) *
                                     100
-                                  }%`,
+                                    }%`,
                                 }}
                               ></div>
                             </div>
@@ -343,8 +341,8 @@ export default function TopicsPage() {
                               entry.name === "positive"
                                 ? "bg-green-500"
                                 : entry.name === "negative"
-                                ? "bg-red-500"
-                                : "bg-blue-500";
+                                  ? "bg-red-500"
+                                  : "bg-blue-500";
 
                             return (
                               <div
@@ -358,15 +356,14 @@ export default function TopicsPage() {
                                   <div
                                     className={`${color} h-4 rounded-full`}
                                     style={{
-                                      width: `${
-                                        (entry.value /
+                                      width: `${(entry.value /
                                           Math.max(
                                             ...topic.sentiment.map(
                                               (s) => s.value
                                             )
                                           )) *
                                         100
-                                      }%`,
+                                        }%`,
                                     }}
                                   ></div>
                                 </div>
@@ -389,10 +386,10 @@ export default function TopicsPage() {
                                 entry.name === "joy"
                                   ? "bg-yellow-500"
                                   : entry.name === "sadness"
-                                  ? "bg-purple-500"
-                                  : entry.name === "fear"
-                                  ? "bg-pink-500"
-                                  : "bg-gray-500";
+                                    ? "bg-purple-500"
+                                    : entry.name === "fear"
+                                      ? "bg-pink-500"
+                                      : "bg-gray-500";
                               return (
                                 <div
                                   key={index}
@@ -405,15 +402,14 @@ export default function TopicsPage() {
                                     <div
                                       className={`${color} h-4 rounded-full`}
                                       style={{
-                                        width: `${
-                                          (entry.value /
+                                        width: `${(entry.value /
                                             Math.max(
                                               ...topic.emotion.map(
                                                 (e) => e.value
                                               )
                                             )) *
                                           100
-                                        }%`,
+                                          }%`,
                                       }}
                                     ></div>
                                   </div>

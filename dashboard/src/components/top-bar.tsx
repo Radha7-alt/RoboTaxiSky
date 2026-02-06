@@ -24,11 +24,11 @@ export function TopBar({ setSidebarOpen, sidebarOpen }: TopBarProps) {
           }
 
           <h1 className="text-lg font-semibold text-sky-900 lg:hidden">
-            CognitiveSky
+            RoboTaxiSky
           </h1>
 
           <h1 className="text-xl font-semibold text-sky-900 hidden lg:block">
-            Mental Health Narratives Dashboard
+            RoboTaxi Insights Dashboard
           </h1>
         </div>
       </header>
