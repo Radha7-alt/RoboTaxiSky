@@ -78,7 +78,7 @@ const SideBarContent = ({ open, setOpen }: SidebarProps) => {
         <Link href={"/"}>
           <div className="flex items-center">
             <div className="w-10 h-10 rounded-full bg-white/20 flex items-center justify-center">
-              <span className="text-xl font-bold">CS</span>
+              <span className="text-xl font-bold">RT</span>
             </div>
             <motion.div variants={textVariants} className="ml-3 font-semibold">
               RoboTaxiSky
