@@ -1,0 +1,33 @@
+{
+  "date": "2026-02-06",
+  "complete": {
+    "total_posts": 1597,
+    "total_sentiments": 6,
+    "total_emotions": 7,
+    "total_languages": 29,
+    "total_topics": 8,
+    "total_hashtags": 740,
+    "total_emojis": 139
+  },
+  "last_week": {
+    "total_posts": 1597,
+    "total_sentiments": 6,
+    "total_emotions": 7,
+    "total_languages": 29,
+    "total_topics": 8,
+    "total_hashtags": 740,
+    "total_emojis": 139
+  },
+  "averages": {
+    "avg_posts_per_day": 228.14,
+    "avg_hashtags_per_day": 193.29,
+    "avg_emojis_per_day": 47.86
+  },
+  "top": {
+    "sentiment": "neutral",
+    "emotion": "fear",
+    "language": "en",
+    "hashtag": "#insynsregistret",
+    "emoji": "🚨"
+  }
+}
