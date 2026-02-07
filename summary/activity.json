@@ -81,5 +81,56 @@
       "fear": 1
     },
     "language": {}
+  },
+  "2026-02-06": {
+    "volume": 1702,
+    "sentiment": {
+      "neutral": 1407,
+      "negative": 205,
+      "positive": 90
+    },
+    "emotion": {
+      "fear": 852,
+      "neutral": 448,
+      "anger": 93,
+      "sadness": 87,
+      "joy": 125,
+      "surprise": 84,
+      "disgust": 13
+    },
+    "language": {
+      "sv": 293,
+      "en-US": 79,
+      "nb-NO": 59,
+      "nb": 205,
+      "sv-SE": 46,
+      "en": 644,
+      "ja": 39,
+      "pt": 52,
+      "cs": 3,
+      "no": 30,
+      "no-NO": 1,
+      "fr": 11,
+      "nn": 15,
+      "lv-LV": 1,
+      "lv": 1,
+      "ak": 2,
+      "sv-FI": 6,
+      "de": 8,
+      "pt-PT": 3,
+      "ca": 5,
+      "fr-FR": 1,
+      "es": 19,
+      "uk": 3,
+      "sk": 2,
+      "tr": 2,
+      "sr": 1,
+      "fi-FI": 1,
+      "fi": 1,
+      "zh": 2,
+      "ko": 2,
+      "da": 1,
+      "it": 1
+    }
   }
 }
