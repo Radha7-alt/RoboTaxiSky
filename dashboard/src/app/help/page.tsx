@@ -191,7 +191,7 @@ export default function HelpPage() {
 
             <CardFooter>
               <Link
-                href="https://github.com/gauravfs-14/CognitiveSky"
+                href="https://github.com/Radha7-alt/RoboTaxiSky"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full cursor-pointer"
@@ -221,7 +221,7 @@ export default function HelpPage() {
                   Join the conversation or open an issue on GitHub.
                 </p>
                 <Link
-                  href="https://github.com/gauravfs-14/CognitiveSky/issues"
+                  href="https://github.com/Radha7-alt/RoboTaxiSky/issues"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="cursor-pointer"
