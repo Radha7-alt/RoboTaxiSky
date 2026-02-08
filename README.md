@@ -4,7 +4,8 @@
 
 **RoboTaxiSky** is an open-source research infrastructure and dashboard for analyzing autonomous vehicles narratives on the Bluesky social platform. Inspired by [TwiXplorer](https://github.com/smash-edin/twixplorer), it integrates real-time data ingestion, robust NLP processing, and interactive visualization to empower researchers, advocates, and developers with actionable social insights.
 
-> **Live Dashboard:** [RoboTaxiSky Dashboard]
+## 🚀 Live Dashboard
+**[View the Live Project here!](https://robo-taxi-sky.vercel.app/)**
 
 ## 📖 Table of Contents
 
