@@ -127,127 +127,127 @@
   {
     "source": "#mexfm",
     "target": "#mexnews",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#mexfm",
     "target": "#webradiomexfm",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#brasil",
     "target": "#mexfm",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#mexfm",
     "target": "#noticias",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#mexfm",
     "target": "#musica",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#mexnews",
     "target": "#webradiomexfm",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#brasil",
     "target": "#mexnews",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#mexnews",
     "target": "#noticias",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#mexnews",
     "target": "#musica",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#brasil",
     "target": "#webradiomexfm",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#noticias",
     "target": "#webradiomexfm",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#musica",
     "target": "#webradiomexfm",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#brasil",
     "target": "#noticias",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#brasil",
     "target": "#musica",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#musica",
     "target": "#noticias",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#cruise",
     "target": "#cruises",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#cruise",
     "target": "#cruisenews",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#cruise",
     "target": "#travelnews",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#baltimore",
     "target": "#cruise",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#cruisenews",
     "target": "#cruises",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#cruises",
     "target": "#travelnews",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#baltimore",
     "target": "#cruises",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#cruisenews",
     "target": "#travelnews",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#baltimore",
     "target": "#cruisenews",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#baltimore",
     "target": "#travelnews",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AV",
@@ -632,17 +632,17 @@
   {
     "source": "#EMVAlert",
     "target": "#VIC",
-    "weight": 41
+    "weight": 52
   },
   {
     "source": "#VIC",
     "target": "#incident",
-    "weight": 41
+    "weight": 52
   },
   {
     "source": "#Fire",
     "target": "#VIC",
-    "weight": 20
+    "weight": 24
   },
   {
     "source": "#BuildingFire",
@@ -652,12 +652,12 @@
   {
     "source": "#EMVAlert",
     "target": "#incident",
-    "weight": 41
+    "weight": 52
   },
   {
     "source": "#EMVAlert",
     "target": "#Fire",
-    "weight": 20
+    "weight": 24
   },
   {
     "source": "#BuildingFire",
@@ -667,7 +667,7 @@
   {
     "source": "#Fire",
     "target": "#incident",
-    "weight": 20
+    "weight": 24
   },
   {
     "source": "#BuildingFire",
@@ -682,22 +682,22 @@
   {
     "source": "#NonStructureFire",
     "target": "#VIC",
-    "weight": 8
+    "weight": 10
   },
   {
     "source": "#EMVAlert",
     "target": "#NonStructureFire",
-    "weight": 8
+    "weight": 10
   },
   {
     "source": "#NonStructureFire",
     "target": "#incident",
-    "weight": 8
+    "weight": 10
   },
   {
     "source": "#Fire",
     "target": "#NonStructureFire",
-    "weight": 8
+    "weight": 10
   },
   {
     "source": "#JAVBabe",
@@ -727,7 +727,7 @@
   {
     "source": "#JAVBabe",
     "target": "#JAVCosplay",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#JAVBabe",
@@ -737,7 +737,7 @@
   {
     "source": "#JAVBabe",
     "target": "#KawaiiGirl",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#JAVBabe",
@@ -927,127 +927,127 @@
   {
     "source": "#AVVibrator",
     "target": "#NoveltyItem",
+    "weight": 9
+  },
+  {
+    "source": "#AVVibrator",
+    "target": "#SexToy",
+    "weight": 14
+  },
+  {
+    "source": "#AVVibrator",
+    "target": "#DiscreetToy",
+    "weight": 13
+  },
+  {
+    "source": "#AVVibrator",
+    "target": "#FeedingBottleAVVibrator",
     "weight": 7
   },
   {
     "source": "#AVVibrator",
-    "target": "#SexToy",
-    "weight": 11
-  },
-  {
-    "source": "#AVVibrator",
-    "target": "#DiscreetToy",
-    "weight": 10
-  },
-  {
-    "source": "#AVVibrator",
-    "target": "#FeedingBottleAVVibrator",
-    "weight": 5
-  },
-  {
-    "source": "#AVVibrator",
     "target": "#AdultNovelty",
-    "weight": 6
+    "weight": 8
   },
   {
     "source": "#NoveltyItem",
     "target": "#SexToy",
-    "weight": 6
+    "weight": 8
   },
   {
     "source": "#DiscreetToy",
     "target": "#NoveltyItem",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#FeedingBottleAVVibrator",
     "target": "#NoveltyItem",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#AdultNovelty",
     "target": "#NoveltyItem",
-    "weight": 6
+    "weight": 8
   },
   {
     "source": "#DiscreetToy",
     "target": "#SexToy",
-    "weight": 9
+    "weight": 12
   },
   {
     "source": "#FeedingBottleAVVibrator",
     "target": "#SexToy",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#AdultNovelty",
     "target": "#SexToy",
-    "weight": 6
+    "weight": 8
   },
   {
     "source": "#DiscreetToy",
     "target": "#FeedingBottleAVVibrator",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#AdultNovelty",
     "target": "#DiscreetToy",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#AdultNovelty",
     "target": "#FeedingBottleAVVibrator",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#Jeusn60",
     "target": "#JeusnVibrator",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#Jeusn60",
     "target": "#SexToyAV",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#Jeusn60",
     "target": "#Vibrator60Frequency",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#60HzVibrator",
     "target": "#Jeusn60",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#JeusnVibrator",
     "target": "#SexToyAV",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#JeusnVibrator",
     "target": "#Vibrator60Frequency",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#60HzVibrator",
     "target": "#JeusnVibrator",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#SexToyAV",
     "target": "#Vibrator60Frequency",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#60HzVibrator",
     "target": "#SexToyAV",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#60HzVibrator",
     "target": "#Vibrator60Frequency",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#USBProjector",
@@ -1177,132 +1177,132 @@
   {
     "source": "#DiscreetToy",
     "target": "#PleasureProduct",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#DiscreetToy",
     "target": "#Vibrator",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#PleasureProduct",
     "target": "#Vibrator",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#AVVibrator",
     "target": "#PleasureProduct",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#AVVibrator",
     "target": "#Vibrator",
-    "weight": 10
+    "weight": 12
   },
   {
     "source": "#NordicNews",
     "target": "#Norge",
-    "weight": 20
+    "weight": 31
   },
   {
     "source": "#Norge",
     "target": "#nyheter",
-    "weight": 20
+    "weight": 31
   },
   {
     "source": "#NRK",
     "target": "#Norge",
-    "weight": 20
+    "weight": 31
   },
   {
     "source": "#Innenriks",
     "target": "#Norge",
-    "weight": 20
+    "weight": 31
   },
   {
     "source": "#Norge",
     "target": "#Utenriks",
-    "weight": 20
+    "weight": 31
   },
   {
     "source": "#Norge",
     "target": "#Sport",
-    "weight": 20
+    "weight": 31
   },
   {
     "source": "#NordicNews",
     "target": "#nyheter",
-    "weight": 21
+    "weight": 32
   },
   {
     "source": "#NRK",
     "target": "#NordicNews",
-    "weight": 20
+    "weight": 31
   },
   {
     "source": "#Innenriks",
     "target": "#NordicNews",
-    "weight": 20
+    "weight": 31
   },
   {
     "source": "#NordicNews",
     "target": "#Utenriks",
-    "weight": 20
+    "weight": 31
   },
   {
     "source": "#NordicNews",
     "target": "#Sport",
-    "weight": 20
+    "weight": 31
   },
   {
     "source": "#NRK",
     "target": "#nyheter",
-    "weight": 20
+    "weight": 31
   },
   {
     "source": "#Innenriks",
     "target": "#nyheter",
-    "weight": 20
+    "weight": 31
   },
   {
     "source": "#Utenriks",
     "target": "#nyheter",
-    "weight": 20
+    "weight": 31
   },
   {
     "source": "#Sport",
     "target": "#nyheter",
-    "weight": 20
+    "weight": 31
   },
   {
     "source": "#Innenriks",
     "target": "#NRK",
-    "weight": 20
+    "weight": 31
   },
   {
     "source": "#NRK",
     "target": "#Utenriks",
-    "weight": 20
+    "weight": 31
   },
   {
     "source": "#NRK",
     "target": "#Sport",
-    "weight": 20
+    "weight": 31
   },
   {
     "source": "#Innenriks",
     "target": "#Utenriks",
-    "weight": 20
+    "weight": 31
   },
   {
     "source": "#Innenriks",
     "target": "#Sport",
-    "weight": 20
+    "weight": 31
   },
   {
     "source": "#Sport",
     "target": "#Utenriks",
-    "weight": 20
+    "weight": 31
   },
   {
     "source": "#AbortionRights",
@@ -1342,47 +1342,47 @@
   {
     "source": "#AVVibrator",
     "target": "#GladmeAV",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#GladmeAV",
     "target": "#GladmeAVVibrator",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#GladmeAV",
     "target": "#GladmeVibrator",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#GladmeAV",
     "target": "#Vibrator",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#AVVibrator",
     "target": "#GladmeAVVibrator",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#AVVibrator",
     "target": "#GladmeVibrator",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#GladmeAVVibrator",
     "target": "#GladmeVibrator",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#GladmeAVVibrator",
     "target": "#Vibrator",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#GladmeVibrator",
     "target": "#Vibrator",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#AV",
@@ -1492,17 +1492,17 @@
   {
     "source": "#mta",
     "target": "#nyc",
-    "weight": 35
+    "weight": 44
   },
   {
     "source": "#nyc",
     "target": "#subway",
-    "weight": 35
+    "weight": 44
   },
   {
     "source": "#mta",
     "target": "#subway",
-    "weight": 35
+    "weight": 44
   },
   {
     "source": "#DonaldTrump",
@@ -1512,52 +1512,52 @@
   {
     "source": "#PleasureProduct",
     "target": "#SexualWellness",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#CruiseMouth",
     "target": "#SexualWellness",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AdultToy",
     "target": "#SexualWellness",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#SexToy",
     "target": "#SexualWellness",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#CruiseMouth",
     "target": "#PleasureProduct",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AdultToy",
     "target": "#PleasureProduct",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#PleasureProduct",
     "target": "#SexToy",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#AdultToy",
     "target": "#CruiseMouth",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#CruiseMouth",
     "target": "#SexToy",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AdultToy",
     "target": "#SexToy",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#新人",
@@ -1777,277 +1777,277 @@
   {
     "source": "#haiku",
     "target": "#travel",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#cruise",
     "target": "#haiku",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#haiku",
     "target": "#rivercruise",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#ABD",
     "target": "#haiku",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Disney",
     "target": "#haiku",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#DCL",
     "target": "#haiku",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#follow",
     "target": "#haiku",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Azamara",
     "target": "#haiku",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AmaWaterways",
     "target": "#haiku",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#TravelAgent",
     "target": "#haiku",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#cruise",
     "target": "#travel",
-    "weight": 4
+    "weight": 7
   },
   {
     "source": "#rivercruise",
     "target": "#travel",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#ABD",
     "target": "#travel",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Disney",
     "target": "#travel",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#DCL",
     "target": "#travel",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#follow",
     "target": "#travel",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Azamara",
     "target": "#travel",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AmaWaterways",
     "target": "#travel",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#TravelAgent",
     "target": "#travel",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#cruise",
     "target": "#rivercruise",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#ABD",
     "target": "#cruise",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Disney",
     "target": "#cruise",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#DCL",
     "target": "#cruise",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#cruise",
     "target": "#follow",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Azamara",
     "target": "#cruise",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AmaWaterways",
     "target": "#cruise",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#TravelAgent",
     "target": "#cruise",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#ABD",
     "target": "#rivercruise",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Disney",
     "target": "#rivercruise",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#DCL",
     "target": "#rivercruise",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#follow",
     "target": "#rivercruise",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Azamara",
     "target": "#rivercruise",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AmaWaterways",
     "target": "#rivercruise",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#TravelAgent",
     "target": "#rivercruise",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#ABD",
     "target": "#Disney",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#ABD",
     "target": "#DCL",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#ABD",
     "target": "#follow",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#ABD",
     "target": "#Azamara",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#ABD",
     "target": "#AmaWaterways",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#ABD",
     "target": "#TravelAgent",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#DCL",
     "target": "#Disney",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Disney",
     "target": "#follow",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Azamara",
     "target": "#Disney",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AmaWaterways",
     "target": "#Disney",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Disney",
     "target": "#TravelAgent",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#DCL",
     "target": "#follow",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Azamara",
     "target": "#DCL",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AmaWaterways",
     "target": "#DCL",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#DCL",
     "target": "#TravelAgent",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Azamara",
     "target": "#follow",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AmaWaterways",
     "target": "#follow",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#TravelAgent",
     "target": "#follow",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AmaWaterways",
     "target": "#Azamara",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Azamara",
     "target": "#TravelAgent",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AmaWaterways",
     "target": "#TravelAgent",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AV",
@@ -2277,7 +2277,7 @@
   {
     "source": "#FANZA",
     "target": "#素人",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#エステ",
@@ -2297,32 +2297,32 @@
   {
     "source": "#WandAVMassage",
     "target": "#WandVibrator",
-    "weight": 7
+    "weight": 8
   },
   {
     "source": "#MassageVibrator",
     "target": "#WandVibrator",
-    "weight": 7
+    "weight": 8
   },
   {
     "source": "#AVMassage",
     "target": "#WandVibrator",
-    "weight": 7
+    "weight": 8
   },
   {
     "source": "#MassageVibrator",
     "target": "#WandAVMassage",
-    "weight": 7
+    "weight": 8
   },
   {
     "source": "#AVMassage",
     "target": "#WandAVMassage",
-    "weight": 7
+    "weight": 8
   },
   {
     "source": "#AVMassage",
     "target": "#MassageVibrator",
-    "weight": 7
+    "weight": 8
   },
   {
     "source": "#新人",
@@ -2417,72 +2417,72 @@
   {
     "source": "#AdultNovelty",
     "target": "#FeedingBottleToy",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#FeedingBottleToy",
     "target": "#SexToy",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#FeedingBottleToy",
     "target": "#NoveltyItem",
-    "weight": 6
+    "weight": 8
   },
   {
     "source": "#AVVibrator",
     "target": "#FeedingBottleToy",
-    "weight": 6
+    "weight": 8
   },
   {
     "source": "#MagicWandAV",
     "target": "#Vibrator",
-    "weight": 3
+    "weight": 5
   },
   {
     "source": "#Libra",
     "target": "#Vibrator",
-    "weight": 3
+    "weight": 5
   },
   {
     "source": "#LibraMagicWand",
     "target": "#Vibrator",
-    "weight": 3
+    "weight": 5
   },
   {
     "source": "#AdultToy",
     "target": "#Vibrator",
-    "weight": 7
+    "weight": 10
   },
   {
     "source": "#Libra",
     "target": "#MagicWandAV",
-    "weight": 3
+    "weight": 5
   },
   {
     "source": "#LibraMagicWand",
     "target": "#MagicWandAV",
-    "weight": 3
+    "weight": 5
   },
   {
     "source": "#AdultToy",
     "target": "#MagicWandAV",
-    "weight": 3
+    "weight": 5
   },
   {
     "source": "#Libra",
     "target": "#LibraMagicWand",
-    "weight": 3
+    "weight": 5
   },
   {
     "source": "#AdultToy",
     "target": "#Libra",
-    "weight": 3
+    "weight": 5
   },
   {
     "source": "#AdultToy",
     "target": "#LibraMagicWand",
-    "weight": 3
+    "weight": 5
   },
   {
     "source": "#Investing",
@@ -2597,7 +2597,7 @@
   {
     "source": "#AI",
     "target": "#Technology",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AI",
@@ -2637,7 +2637,7 @@
   {
     "source": "#PR",
     "target": "#素人",
-    "weight": 2
+    "weight": 4
   },
   {
     "source": "#AV",
@@ -2967,17 +2967,17 @@
   {
     "source": "#HazardousMaterial",
     "target": "#VIC",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#EMVAlert",
     "target": "#HazardousMaterial",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#HazardousMaterial",
     "target": "#incident",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#グラビア",
@@ -3197,7 +3197,7 @@
   {
     "source": "#AV女優",
     "target": "#エロ動画",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#AV女優",
@@ -3207,17 +3207,17 @@
   {
     "source": "#Other",
     "target": "#VIC",
-    "weight": 13
+    "weight": 15
   },
   {
     "source": "#EMVAlert",
     "target": "#Other",
-    "weight": 13
+    "weight": 15
   },
   {
     "source": "#Other",
     "target": "#incident",
-    "weight": 13
+    "weight": 15
   },
   {
     "source": "#LebanesePolitics",
@@ -3452,7 +3452,7 @@
   {
     "source": "#JapanesePorn",
     "target": "#jpn",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#japanesemodel",
@@ -3722,82 +3722,82 @@
   {
     "source": "#WandAVMassageVibrator",
     "target": "#WandVibrator",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#MassageVibrator",
     "target": "#WandAVMassageVibrator",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#AVMassage",
     "target": "#WandAVMassageVibrator",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#WandAVMassage",
     "target": "#WandAVMassageVibrator",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#AVVibrator",
     "target": "#AdultProduct",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#AdultProduct",
     "target": "#FeedingBottleToy",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#AdultProduct",
     "target": "#NoveltyItem",
+    "weight": 7
+  },
+  {
+    "source": "#AdultToy",
+    "target": "#Jeusn60",
+    "weight": 5
+  },
+  {
+    "source": "#AVVibrator",
+    "target": "#Jeusn60",
     "weight": 5
   },
   {
     "source": "#AdultToy",
-    "target": "#Jeusn60",
-    "weight": 4
-  },
-  {
-    "source": "#AVVibrator",
-    "target": "#Jeusn60",
-    "weight": 4
-  },
-  {
-    "source": "#AdultToy",
     "target": "#Vibrator60Frequency",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#AVVibrator",
     "target": "#Vibrator60Frequency",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#AdultToy",
     "target": "#JeusnVibrator",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#AVVibrator",
     "target": "#JeusnVibrator",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#AVVibrator",
     "target": "#AdultToy",
-    "weight": 8
+    "weight": 10
   },
   {
     "source": "#60HzVibrator",
     "target": "#AdultToy",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#60HzVibrator",
     "target": "#AVVibrator",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#50Zoom",
@@ -3822,7 +3822,7 @@
   {
     "source": "#50Zoom",
     "target": "#Smartphone",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#MiniProjector",
@@ -4152,52 +4152,52 @@
   {
     "source": "#LightningMagicWand",
     "target": "#MagicWandVibrator",
-    "weight": 8
+    "weight": 9
   },
   {
     "source": "#AVVibrator",
     "target": "#LightningMagicWand",
-    "weight": 8
+    "weight": 9
   },
   {
     "source": "#AVWand",
     "target": "#LightningMagicWand",
-    "weight": 8
+    "weight": 9
   },
   {
     "source": "#LightningMagicWand",
     "target": "#WandVibrator",
-    "weight": 8
+    "weight": 9
   },
   {
     "source": "#AVVibrator",
     "target": "#MagicWandVibrator",
-    "weight": 8
+    "weight": 9
   },
   {
     "source": "#AVWand",
     "target": "#MagicWandVibrator",
-    "weight": 8
+    "weight": 9
   },
   {
     "source": "#MagicWandVibrator",
     "target": "#WandVibrator",
-    "weight": 8
+    "weight": 9
   },
   {
     "source": "#AVVibrator",
     "target": "#AVWand",
-    "weight": 8
+    "weight": 9
   },
   {
     "source": "#AVVibrator",
     "target": "#WandVibrator",
-    "weight": 8
+    "weight": 9
   },
   {
     "source": "#AVWand",
     "target": "#WandVibrator",
-    "weight": 8
+    "weight": 9
   },
   {
     "source": "#mørketid",
@@ -4287,67 +4287,67 @@
   {
     "source": "#10SpeedsVibrator",
     "target": "#PersonalMassager",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#10SpeedsVibrator",
     "target": "#SexToy",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#10SpeedsVibrator",
     "target": "#IntimateWellness",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#10SpeedsVibrator",
     "target": "#AVVibrator",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#10SpeedsVibrator",
     "target": "#Vibrator",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#PersonalMassager",
     "target": "#SexToy",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#IntimateWellness",
     "target": "#PersonalMassager",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#AVVibrator",
     "target": "#PersonalMassager",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#PersonalMassager",
     "target": "#Vibrator",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#IntimateWellness",
     "target": "#SexToy",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#SexToy",
     "target": "#Vibrator",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#AVVibrator",
     "target": "#IntimateWellness",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#IntimateWellness",
     "target": "#Vibrator",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#Bobtot",
@@ -4672,7 +4672,7 @@
   {
     "source": "#AV女優",
     "target": "#VR動画",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#VR動画",
@@ -4817,17 +4817,17 @@
   {
     "source": "#Alphabet",
     "target": "#Waymo",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#Google",
     "target": "#Waymo",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Tesla",
     "target": "#Waymo",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#BYD",
@@ -4837,7 +4837,7 @@
   {
     "source": "#Alphabet",
     "target": "#Google",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Alphabet",
@@ -5332,7 +5332,7 @@
   {
     "source": "#JAVCosplay",
     "target": "#JAVStar",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVStar",
@@ -5342,7 +5342,7 @@
   {
     "source": "#JAVStar",
     "target": "#JapanesePorn",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVFans",
@@ -5352,7 +5352,7 @@
   {
     "source": "#JAVStar",
     "target": "#jpn",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVCosplay",
@@ -5382,7 +5382,7 @@
   {
     "source": "#JAVCosplay",
     "target": "#JapanesePorn",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#JAVCosplay",
@@ -5392,7 +5392,7 @@
   {
     "source": "#JAVCosplay",
     "target": "#jpn",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVVideo",
@@ -6647,7 +6647,7 @@
   {
     "source": "#AV女優",
     "target": "#KawaiiGirl",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#AV女優",
@@ -6672,7 +6672,7 @@
   {
     "source": "#AV女優",
     "target": "#JapaneseGirl",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#JAVFans",
@@ -6757,7 +6757,7 @@
   {
     "source": "#JapaneseGirl",
     "target": "#KawaiiGirl",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JapanPorn",
@@ -6847,7 +6847,7 @@
   {
     "source": "#写真集",
     "target": "#素人道",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#OL",
@@ -6857,7 +6857,7 @@
   {
     "source": "#ナンパ",
     "target": "#素人道",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#素人",
@@ -6872,7 +6872,7 @@
   {
     "source": "#ナンパ",
     "target": "#写真集",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#写真集",
@@ -7117,12 +7117,12 @@
   {
     "source": "#FullHD",
     "target": "#HDMI",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#HDMI",
     "target": "#Smartphone",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#HDMI",
@@ -7137,12 +7137,12 @@
   {
     "source": "#HDMI",
     "target": "#MovieProjector",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#FullHD",
     "target": "#Smartphone",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#FullHD",
@@ -7157,7 +7157,7 @@
   {
     "source": "#FullHD",
     "target": "#MovieProjector",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Smartphone",
@@ -7172,7 +7172,7 @@
   {
     "source": "#MovieProjector",
     "target": "#Smartphone",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Tablet",
@@ -7322,7 +7322,7 @@
   {
     "source": "#4K",
     "target": "#ハイビジョン",
-    "weight": 3
+    "weight": 6
   },
   {
     "source": "#3P",
@@ -7337,7 +7337,7 @@
   {
     "source": "#ハイビジョン",
     "target": "#中出し",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#3P",
@@ -7442,82 +7442,82 @@
   {
     "source": "#FeedingBottleAVVibrator",
     "target": "#FeedingBottleToy",
-    "weight": 4
+    "weight": 6
   },
   {
     "source": "#AVProduct",
     "target": "#FeedingBottleAVVibrator",
-    "weight": 4
+    "weight": 6
   },
   {
     "source": "#AdultProduct",
     "target": "#FeedingBottleAVVibrator",
-    "weight": 4
+    "weight": 6
   },
   {
     "source": "#AVProduct",
     "target": "#AVVibrator",
-    "weight": 4
+    "weight": 6
   },
   {
     "source": "#DiscreetToy",
     "target": "#FeedingBottleToy",
-    "weight": 4
+    "weight": 6
   },
   {
     "source": "#AVProduct",
     "target": "#FeedingBottleToy",
-    "weight": 4
+    "weight": 6
   },
   {
     "source": "#AVProduct",
     "target": "#AdultNovelty",
-    "weight": 4
+    "weight": 6
   },
   {
     "source": "#AdultNovelty",
     "target": "#AdultProduct",
-    "weight": 4
+    "weight": 6
   },
   {
     "source": "#AVProduct",
     "target": "#SexToy",
-    "weight": 4
+    "weight": 6
   },
   {
     "source": "#AdultProduct",
     "target": "#SexToy",
-    "weight": 4
+    "weight": 7
   },
   {
     "source": "#AVProduct",
     "target": "#DiscreetToy",
-    "weight": 4
+    "weight": 6
   },
   {
     "source": "#AdultProduct",
     "target": "#DiscreetToy",
-    "weight": 4
+    "weight": 6
   },
   {
     "source": "#AVProduct",
     "target": "#NoveltyItem",
-    "weight": 4
+    "weight": 6
   },
   {
     "source": "#AVProduct",
     "target": "#AdultProduct",
-    "weight": 4
+    "weight": 6
   },
   {
     "source": "#AVVibrator",
     "target": "#SexToyAV",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#AdultToy",
     "target": "#SexToyAV",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#フォロバ100",
@@ -7532,7 +7532,7 @@
   {
     "source": "#PR",
     "target": "#フォロバ100",
-    "weight": 3
+    "weight": 5
   },
   {
     "source": "#Europe",
@@ -7557,97 +7557,97 @@
   {
     "source": "#AVVibrator",
     "target": "#RechargeableVibrator",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#10SpeedsVibrator",
     "target": "#RechargeableVibrator",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#RechargeableVibrator",
     "target": "#Vibrator",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#RechargeableVibrator",
     "target": "#SexToy",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#AdultToy",
     "target": "#RechargeableVibrator",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#PleasureProduct",
     "target": "#RechargeableVibrator",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#DiscreetToy",
     "target": "#RechargeableVibrator",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#PersonalMassager",
     "target": "#RechargeableVibrator",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#IntimateWellness",
     "target": "#RechargeableVibrator",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#10SpeedsVibrator",
     "target": "#AdultToy",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#10SpeedsVibrator",
     "target": "#PleasureProduct",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#10SpeedsVibrator",
     "target": "#DiscreetToy",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#AdultToy",
     "target": "#DiscreetToy",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#AdultToy",
     "target": "#PersonalMassager",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#AdultToy",
     "target": "#IntimateWellness",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#PersonalMassager",
     "target": "#PleasureProduct",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#IntimateWellness",
     "target": "#PleasureProduct",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#DiscreetToy",
     "target": "#PersonalMassager",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#DiscreetToy",
     "target": "#IntimateWellness",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#Chicago",
@@ -8247,7 +8247,7 @@
   {
     "source": "#Russia",
     "target": "#Ukraine",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#StandWithUkraine",
@@ -8977,17 +8977,17 @@
   {
     "source": "#TreeDown",
     "target": "#VIC",
-    "weight": 3
+    "weight": 5
   },
   {
     "source": "#EMVAlert",
     "target": "#TreeDown",
-    "weight": 3
+    "weight": 5
   },
   {
     "source": "#TreeDown",
     "target": "#incident",
-    "weight": 3
+    "weight": 5
   },
   {
     "source": "#Cultura",
@@ -9272,12 +9272,12 @@
   {
     "source": "#AV女優",
     "target": "#AsianPorn",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#AV女優",
     "target": "#JAVStar",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AV女優",
@@ -10712,7 +10712,7 @@
   {
     "source": "#アイドル",
     "target": "#楓カレン",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#アイドル",
@@ -10832,7 +10832,7 @@
   {
     "source": "#エロ動画",
     "target": "#楓カレン",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#エロ動画",
@@ -11267,7 +11267,7 @@
   {
     "source": "#JAV",
     "target": "#エロ動画",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#エロ動画",
@@ -11397,12 +11397,12 @@
   {
     "source": "#AV女優",
     "target": "#JAV",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AV女優",
     "target": "#アイドル",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AV女優",
@@ -11427,7 +11427,7 @@
   {
     "source": "#AsianPorn",
     "target": "#アイドル",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AsianPorn",
@@ -11857,7 +11857,7 @@
   {
     "source": "#JapaneseGirl",
     "target": "#楓カレン",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JapaneseGirl",
@@ -11892,12 +11892,12 @@
   {
     "source": "#JapaneseGirl",
     "target": "#TokyoGirl",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVBabe",
     "target": "#JapaneseGirl",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Japaneselonghair",
@@ -11972,12 +11972,12 @@
   {
     "source": "#TokyoGirl",
     "target": "#楓カレン",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVBabe",
     "target": "#楓カレン",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#Japaneselonghair",
@@ -12102,7 +12102,7 @@
   {
     "source": "#JAVBabe",
     "target": "#TokyoGirl",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Waymo",
@@ -12412,7 +12412,7 @@
   {
     "source": "#AutonomousVehicles",
     "target": "#Waymo",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AutonomousVehicles",
@@ -14142,17 +14142,17 @@
   {
     "source": "#news",
     "target": "#us",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#us",
     "target": "#usnews",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#news",
     "target": "#usnews",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#sanjose",
@@ -14282,7 +14282,7 @@
   {
     "source": "#Fire",
     "target": "#Other",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#Artelife",
@@ -14822,52 +14822,52 @@
   {
     "source": "#JungleCruise",
     "target": "#MagicKingdom",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JungleCruise",
     "target": "#WDW",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JungleCruise",
     "target": "#WaltDisneyWorld",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#DisneyWorld",
     "target": "#JungleCruise",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#MagicKingdom",
     "target": "#WDW",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#MagicKingdom",
     "target": "#WaltDisneyWorld",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#DisneyWorld",
     "target": "#MagicKingdom",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#WDW",
     "target": "#WaltDisneyWorld",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#DisneyWorld",
     "target": "#WDW",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#DisneyWorld",
     "target": "#WaltDisneyWorld",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#DJ",
@@ -15102,7 +15102,7 @@
   {
     "source": "#AI",
     "target": "#Tech",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#AI",
@@ -15407,7 +15407,7 @@
   {
     "source": "#AI",
     "target": "#Google",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#google",
@@ -15442,12 +15442,12 @@
   {
     "source": "#EmergingTechnologies",
     "target": "#Technology",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#ArtificialIntelligence",
     "target": "#Technology",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#SelfDrivingCars",
@@ -15457,12 +15457,12 @@
   {
     "source": "#Technology",
     "target": "#Waymo",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#ArtificialIntelligence",
     "target": "#EmergingTechnologies",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#EmergingTechnologies",
@@ -15472,7 +15472,7 @@
   {
     "source": "#EmergingTechnologies",
     "target": "#Waymo",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#ArtificialIntelligence",
@@ -15482,12 +15482,12 @@
   {
     "source": "#ArtificialIntelligence",
     "target": "#Waymo",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#SelfDrivingCars",
     "target": "#Waymo",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#hoarderorder",
@@ -15662,17 +15662,17 @@
   {
     "source": "#JapaneseAV",
     "target": "#TokyoGirl",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AV女優",
     "target": "#TokyoGirl",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AsianPorn",
     "target": "#TokyoGirl",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#TokyoGirl",
@@ -15707,12 +15707,12 @@
   {
     "source": "#AV女優",
     "target": "#JapaneseAV",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#AsianPorn",
     "target": "#JapaneseAV",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JapaneseAV",
@@ -15797,7 +15797,7 @@
   {
     "source": "#OETC26",
     "target": "#StudentEngagement",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Turku",
@@ -15807,22 +15807,22 @@
   {
     "source": "#hiring",
     "target": "#jobalert",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#hiring",
     "target": "#jobsearch",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JobSeekers",
     "target": "#hiring",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#4dayworkweek",
     "target": "#hiring",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#hiring",
@@ -15832,22 +15832,22 @@
   {
     "source": "#design",
     "target": "#hiring",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#jobalert",
     "target": "#jobsearch",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JobSeekers",
     "target": "#jobalert",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#4dayworkweek",
     "target": "#jobalert",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#javascript",
@@ -15857,17 +15857,17 @@
   {
     "source": "#design",
     "target": "#jobalert",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JobSeekers",
     "target": "#jobsearch",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#4dayworkweek",
     "target": "#jobsearch",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#javascript",
@@ -15877,12 +15877,12 @@
   {
     "source": "#design",
     "target": "#jobsearch",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#4dayworkweek",
     "target": "#JobSeekers",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JobSeekers",
@@ -15892,7 +15892,7 @@
   {
     "source": "#JobSeekers",
     "target": "#design",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#4dayworkweek",
@@ -15902,7 +15902,7 @@
   {
     "source": "#4dayworkweek",
     "target": "#design",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#design",
@@ -16437,7 +16437,7 @@
   {
     "source": "#AirRaid",
     "target": "#OSINT",
-    "weight": 2
+    "weight": 5
   },
   {
     "source": "#Kratos",
@@ -16667,7 +16667,7 @@
   {
     "source": "#AsianPorn",
     "target": "#楓カレン",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#japanesemodel",
@@ -17602,7 +17602,7 @@
   {
     "source": "#AV女優",
     "target": "#JAVBabe",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#AV女優",
@@ -17617,7 +17617,7 @@
   {
     "source": "#AV女優",
     "target": "#JAVCosplay",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#JAVBabe",
@@ -18007,32 +18007,32 @@
   {
     "source": "#hiring",
     "target": "#remotejob",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#hiring",
     "target": "#remotework",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#hiring",
     "target": "#wfh",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#remotejob",
     "target": "#remotework",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#remotejob",
     "target": "#wfh",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#remotework",
     "target": "#wfh",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#btc",
@@ -19142,7 +19142,7 @@
   {
     "source": "#Hamburg",
     "target": "#news",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#gaydaddy",
@@ -19337,7 +19337,7 @@
   {
     "source": "#HDMI",
     "target": "#WiFi",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AV",
@@ -20392,7 +20392,7 @@
   {
     "source": "#AVデビュー",
     "target": "#素人",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#素人",
@@ -20422,7 +20422,7 @@
   {
     "source": "#AVデビュー",
     "target": "#PR",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#PR",
@@ -20762,7 +20762,7 @@
   {
     "source": "#JapaneseGirl",
     "target": "#JapanesePorn",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVCosplay",
@@ -20772,7 +20772,7 @@
   {
     "source": "#AV女優",
     "target": "#JapanesePorn",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#JAVLove",
@@ -20892,7 +20892,7 @@
   {
     "source": "#ハイビジョン",
     "target": "#独占配信",
-    "weight": 4
+    "weight": 8
   },
   {
     "source": "#デビュー作品",
@@ -20957,7 +20957,7 @@
   {
     "source": "#4K",
     "target": "#独占配信",
-    "weight": 1
+    "weight": 4
   },
   {
     "source": "#不倫",
@@ -21017,7 +21017,7 @@
   {
     "source": "#中出し",
     "target": "#独占配信",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#独占配信",
@@ -21147,6 +21147,8281 @@
   {
     "source": "#Automation",
     "target": "#Tech",
+    "weight": 1
+  },
+  {
+    "source": "#BLK",
+    "target": "#TLT",
+    "weight": 1
+  },
+  {
+    "source": "#BLK",
+    "target": "#TBT",
+    "weight": 1
+  },
+  {
+    "source": "#BLK",
+    "target": "#MP",
+    "weight": 1
+  },
+  {
+    "source": "#BLK",
+    "target": "#USAR",
+    "weight": 1
+  },
+  {
+    "source": "#BLK",
+    "target": "#CRML",
+    "weight": 1
+  },
+  {
+    "source": "#BLK",
+    "target": "#EPI",
+    "weight": 1
+  },
+  {
+    "source": "#BLK",
+    "target": "#SPY",
+    "weight": 1
+  },
+  {
+    "source": "#BLK",
+    "target": "#IGV",
+    "weight": 1
+  },
+  {
+    "source": "#Anthropic",
+    "target": "#BLK",
+    "weight": 1
+  },
+  {
+    "source": "#BLK",
+    "target": "#LITE",
+    "weight": 1
+  },
+  {
+    "source": "#AMZN",
+    "target": "#BLK",
+    "weight": 1
+  },
+  {
+    "source": "#AIQ",
+    "target": "#BLK",
+    "weight": 1
+  },
+  {
+    "source": "#BLK",
+    "target": "#NFLX",
+    "weight": 1
+  },
+  {
+    "source": "#BLK",
+    "target": "#WBD",
+    "weight": 1
+  },
+  {
+    "source": "#BLK",
+    "target": "#PSKY",
+    "weight": 1
+  },
+  {
+    "source": "#BLK",
+    "target": "#QQQ",
+    "weight": 1
+  },
+  {
+    "source": "#BLK",
+    "target": "#DIA",
+    "weight": 1
+  },
+  {
+    "source": "#BLK",
+    "target": "#TSEM",
+    "weight": 1
+  },
+  {
+    "source": "#BLK",
+    "target": "#NVDA",
+    "weight": 1
+  },
+  {
+    "source": "#BLK",
+    "target": "#UBER",
+    "weight": 1
+  },
+  {
+    "source": "#BLK",
+    "target": "#WRD",
+    "weight": 1
+  },
+  {
+    "source": "#BLK",
+    "target": "#GOOG",
+    "weight": 1
+  },
+  {
+    "source": "#BLK",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#BLK",
+    "target": "#OpenAI",
+    "weight": 1
+  },
+  {
+    "source": "#AAPL",
+    "target": "#BLK",
+    "weight": 1
+  },
+  {
+    "source": "#BLK",
+    "target": "#SLV",
+    "weight": 1
+  },
+  {
+    "source": "#BLK",
+    "target": "#FSLR",
+    "weight": 1
+  },
+  {
+    "source": "#BLK",
+    "target": "#BYDDF",
+    "weight": 1
+  },
+  {
+    "source": "#BLK",
+    "target": "#BYDDY",
+    "weight": 1
+  },
+  {
+    "source": "#BLK",
+    "target": "#UUP",
+    "weight": 1
+  },
+  {
+    "source": "#BLK",
+    "target": "#MRVL",
+    "weight": 1
+  },
+  {
+    "source": "#BLK",
+    "target": "#TWST",
+    "weight": 1
+  },
+  {
+    "source": "#TBT",
+    "target": "#TLT",
+    "weight": 1
+  },
+  {
+    "source": "#MP",
+    "target": "#TLT",
+    "weight": 1
+  },
+  {
+    "source": "#TLT",
+    "target": "#USAR",
+    "weight": 1
+  },
+  {
+    "source": "#CRML",
+    "target": "#TLT",
+    "weight": 1
+  },
+  {
+    "source": "#EPI",
+    "target": "#TLT",
+    "weight": 1
+  },
+  {
+    "source": "#SPY",
+    "target": "#TLT",
+    "weight": 1
+  },
+  {
+    "source": "#IGV",
+    "target": "#TLT",
+    "weight": 1
+  },
+  {
+    "source": "#Anthropic",
+    "target": "#TLT",
+    "weight": 1
+  },
+  {
+    "source": "#LITE",
+    "target": "#TLT",
+    "weight": 1
+  },
+  {
+    "source": "#AMZN",
+    "target": "#TLT",
+    "weight": 1
+  },
+  {
+    "source": "#AIQ",
+    "target": "#TLT",
+    "weight": 1
+  },
+  {
+    "source": "#NFLX",
+    "target": "#TLT",
+    "weight": 1
+  },
+  {
+    "source": "#TLT",
+    "target": "#WBD",
+    "weight": 1
+  },
+  {
+    "source": "#PSKY",
+    "target": "#TLT",
+    "weight": 1
+  },
+  {
+    "source": "#QQQ",
+    "target": "#TLT",
+    "weight": 1
+  },
+  {
+    "source": "#DIA",
+    "target": "#TLT",
+    "weight": 1
+  },
+  {
+    "source": "#TLT",
+    "target": "#TSEM",
+    "weight": 1
+  },
+  {
+    "source": "#NVDA",
+    "target": "#TLT",
+    "weight": 1
+  },
+  {
+    "source": "#TLT",
+    "target": "#UBER",
+    "weight": 1
+  },
+  {
+    "source": "#TLT",
+    "target": "#WRD",
+    "weight": 1
+  },
+  {
+    "source": "#GOOG",
+    "target": "#TLT",
+    "weight": 1
+  },
+  {
+    "source": "#TLT",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#OpenAI",
+    "target": "#TLT",
+    "weight": 1
+  },
+  {
+    "source": "#AAPL",
+    "target": "#TLT",
+    "weight": 1
+  },
+  {
+    "source": "#SLV",
+    "target": "#TLT",
+    "weight": 1
+  },
+  {
+    "source": "#FSLR",
+    "target": "#TLT",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDF",
+    "target": "#TLT",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDY",
+    "target": "#TLT",
+    "weight": 1
+  },
+  {
+    "source": "#TLT",
+    "target": "#UUP",
+    "weight": 1
+  },
+  {
+    "source": "#MRVL",
+    "target": "#TLT",
+    "weight": 1
+  },
+  {
+    "source": "#TLT",
+    "target": "#TWST",
+    "weight": 1
+  },
+  {
+    "source": "#MP",
+    "target": "#TBT",
+    "weight": 1
+  },
+  {
+    "source": "#TBT",
+    "target": "#USAR",
+    "weight": 1
+  },
+  {
+    "source": "#CRML",
+    "target": "#TBT",
+    "weight": 1
+  },
+  {
+    "source": "#EPI",
+    "target": "#TBT",
+    "weight": 1
+  },
+  {
+    "source": "#SPY",
+    "target": "#TBT",
+    "weight": 1
+  },
+  {
+    "source": "#IGV",
+    "target": "#TBT",
+    "weight": 1
+  },
+  {
+    "source": "#Anthropic",
+    "target": "#TBT",
+    "weight": 1
+  },
+  {
+    "source": "#LITE",
+    "target": "#TBT",
+    "weight": 1
+  },
+  {
+    "source": "#AMZN",
+    "target": "#TBT",
+    "weight": 1
+  },
+  {
+    "source": "#AIQ",
+    "target": "#TBT",
+    "weight": 1
+  },
+  {
+    "source": "#NFLX",
+    "target": "#TBT",
+    "weight": 1
+  },
+  {
+    "source": "#TBT",
+    "target": "#WBD",
+    "weight": 1
+  },
+  {
+    "source": "#PSKY",
+    "target": "#TBT",
+    "weight": 1
+  },
+  {
+    "source": "#QQQ",
+    "target": "#TBT",
+    "weight": 1
+  },
+  {
+    "source": "#DIA",
+    "target": "#TBT",
+    "weight": 1
+  },
+  {
+    "source": "#TBT",
+    "target": "#TSEM",
+    "weight": 1
+  },
+  {
+    "source": "#NVDA",
+    "target": "#TBT",
+    "weight": 1
+  },
+  {
+    "source": "#TBT",
+    "target": "#UBER",
+    "weight": 1
+  },
+  {
+    "source": "#TBT",
+    "target": "#WRD",
+    "weight": 1
+  },
+  {
+    "source": "#GOOG",
+    "target": "#TBT",
+    "weight": 1
+  },
+  {
+    "source": "#TBT",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#OpenAI",
+    "target": "#TBT",
+    "weight": 1
+  },
+  {
+    "source": "#AAPL",
+    "target": "#TBT",
+    "weight": 1
+  },
+  {
+    "source": "#SLV",
+    "target": "#TBT",
+    "weight": 1
+  },
+  {
+    "source": "#FSLR",
+    "target": "#TBT",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDF",
+    "target": "#TBT",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDY",
+    "target": "#TBT",
+    "weight": 1
+  },
+  {
+    "source": "#TBT",
+    "target": "#UUP",
+    "weight": 1
+  },
+  {
+    "source": "#MRVL",
+    "target": "#TBT",
+    "weight": 1
+  },
+  {
+    "source": "#TBT",
+    "target": "#TWST",
+    "weight": 1
+  },
+  {
+    "source": "#MP",
+    "target": "#USAR",
+    "weight": 1
+  },
+  {
+    "source": "#CRML",
+    "target": "#MP",
+    "weight": 1
+  },
+  {
+    "source": "#EPI",
+    "target": "#MP",
+    "weight": 1
+  },
+  {
+    "source": "#MP",
+    "target": "#SPY",
+    "weight": 1
+  },
+  {
+    "source": "#IGV",
+    "target": "#MP",
+    "weight": 1
+  },
+  {
+    "source": "#Anthropic",
+    "target": "#MP",
+    "weight": 1
+  },
+  {
+    "source": "#LITE",
+    "target": "#MP",
+    "weight": 1
+  },
+  {
+    "source": "#AMZN",
+    "target": "#MP",
+    "weight": 1
+  },
+  {
+    "source": "#AIQ",
+    "target": "#MP",
+    "weight": 1
+  },
+  {
+    "source": "#MP",
+    "target": "#NFLX",
+    "weight": 1
+  },
+  {
+    "source": "#MP",
+    "target": "#WBD",
+    "weight": 1
+  },
+  {
+    "source": "#MP",
+    "target": "#PSKY",
+    "weight": 1
+  },
+  {
+    "source": "#MP",
+    "target": "#QQQ",
+    "weight": 1
+  },
+  {
+    "source": "#DIA",
+    "target": "#MP",
+    "weight": 1
+  },
+  {
+    "source": "#MP",
+    "target": "#TSEM",
+    "weight": 1
+  },
+  {
+    "source": "#MP",
+    "target": "#NVDA",
+    "weight": 1
+  },
+  {
+    "source": "#MP",
+    "target": "#UBER",
+    "weight": 1
+  },
+  {
+    "source": "#MP",
+    "target": "#WRD",
+    "weight": 1
+  },
+  {
+    "source": "#GOOG",
+    "target": "#MP",
+    "weight": 1
+  },
+  {
+    "source": "#MP",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#MP",
+    "target": "#OpenAI",
+    "weight": 1
+  },
+  {
+    "source": "#AAPL",
+    "target": "#MP",
+    "weight": 1
+  },
+  {
+    "source": "#MP",
+    "target": "#SLV",
+    "weight": 1
+  },
+  {
+    "source": "#FSLR",
+    "target": "#MP",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDF",
+    "target": "#MP",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDY",
+    "target": "#MP",
+    "weight": 1
+  },
+  {
+    "source": "#MP",
+    "target": "#UUP",
+    "weight": 1
+  },
+  {
+    "source": "#MP",
+    "target": "#MRVL",
+    "weight": 1
+  },
+  {
+    "source": "#MP",
+    "target": "#TWST",
+    "weight": 1
+  },
+  {
+    "source": "#CRML",
+    "target": "#USAR",
+    "weight": 1
+  },
+  {
+    "source": "#EPI",
+    "target": "#USAR",
+    "weight": 1
+  },
+  {
+    "source": "#SPY",
+    "target": "#USAR",
+    "weight": 1
+  },
+  {
+    "source": "#IGV",
+    "target": "#USAR",
+    "weight": 1
+  },
+  {
+    "source": "#Anthropic",
+    "target": "#USAR",
+    "weight": 1
+  },
+  {
+    "source": "#LITE",
+    "target": "#USAR",
+    "weight": 1
+  },
+  {
+    "source": "#AMZN",
+    "target": "#USAR",
+    "weight": 1
+  },
+  {
+    "source": "#AIQ",
+    "target": "#USAR",
+    "weight": 1
+  },
+  {
+    "source": "#NFLX",
+    "target": "#USAR",
+    "weight": 1
+  },
+  {
+    "source": "#USAR",
+    "target": "#WBD",
+    "weight": 1
+  },
+  {
+    "source": "#PSKY",
+    "target": "#USAR",
+    "weight": 1
+  },
+  {
+    "source": "#QQQ",
+    "target": "#USAR",
+    "weight": 1
+  },
+  {
+    "source": "#DIA",
+    "target": "#USAR",
+    "weight": 1
+  },
+  {
+    "source": "#TSEM",
+    "target": "#USAR",
+    "weight": 1
+  },
+  {
+    "source": "#NVDA",
+    "target": "#USAR",
+    "weight": 1
+  },
+  {
+    "source": "#UBER",
+    "target": "#USAR",
+    "weight": 1
+  },
+  {
+    "source": "#USAR",
+    "target": "#WRD",
+    "weight": 1
+  },
+  {
+    "source": "#GOOG",
+    "target": "#USAR",
+    "weight": 1
+  },
+  {
+    "source": "#USAR",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#OpenAI",
+    "target": "#USAR",
+    "weight": 1
+  },
+  {
+    "source": "#AAPL",
+    "target": "#USAR",
+    "weight": 1
+  },
+  {
+    "source": "#SLV",
+    "target": "#USAR",
+    "weight": 1
+  },
+  {
+    "source": "#FSLR",
+    "target": "#USAR",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDF",
+    "target": "#USAR",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDY",
+    "target": "#USAR",
+    "weight": 1
+  },
+  {
+    "source": "#USAR",
+    "target": "#UUP",
+    "weight": 1
+  },
+  {
+    "source": "#MRVL",
+    "target": "#USAR",
+    "weight": 1
+  },
+  {
+    "source": "#TWST",
+    "target": "#USAR",
+    "weight": 1
+  },
+  {
+    "source": "#CRML",
+    "target": "#EPI",
+    "weight": 1
+  },
+  {
+    "source": "#CRML",
+    "target": "#SPY",
+    "weight": 1
+  },
+  {
+    "source": "#CRML",
+    "target": "#IGV",
+    "weight": 1
+  },
+  {
+    "source": "#Anthropic",
+    "target": "#CRML",
+    "weight": 1
+  },
+  {
+    "source": "#CRML",
+    "target": "#LITE",
+    "weight": 1
+  },
+  {
+    "source": "#AMZN",
+    "target": "#CRML",
+    "weight": 1
+  },
+  {
+    "source": "#AIQ",
+    "target": "#CRML",
+    "weight": 1
+  },
+  {
+    "source": "#CRML",
+    "target": "#NFLX",
+    "weight": 1
+  },
+  {
+    "source": "#CRML",
+    "target": "#WBD",
+    "weight": 1
+  },
+  {
+    "source": "#CRML",
+    "target": "#PSKY",
+    "weight": 1
+  },
+  {
+    "source": "#CRML",
+    "target": "#QQQ",
+    "weight": 1
+  },
+  {
+    "source": "#CRML",
+    "target": "#DIA",
+    "weight": 1
+  },
+  {
+    "source": "#CRML",
+    "target": "#TSEM",
+    "weight": 1
+  },
+  {
+    "source": "#CRML",
+    "target": "#NVDA",
+    "weight": 1
+  },
+  {
+    "source": "#CRML",
+    "target": "#UBER",
+    "weight": 1
+  },
+  {
+    "source": "#CRML",
+    "target": "#WRD",
+    "weight": 1
+  },
+  {
+    "source": "#CRML",
+    "target": "#GOOG",
+    "weight": 1
+  },
+  {
+    "source": "#CRML",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#CRML",
+    "target": "#OpenAI",
+    "weight": 1
+  },
+  {
+    "source": "#AAPL",
+    "target": "#CRML",
+    "weight": 1
+  },
+  {
+    "source": "#CRML",
+    "target": "#SLV",
+    "weight": 1
+  },
+  {
+    "source": "#CRML",
+    "target": "#FSLR",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDF",
+    "target": "#CRML",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDY",
+    "target": "#CRML",
+    "weight": 1
+  },
+  {
+    "source": "#CRML",
+    "target": "#UUP",
+    "weight": 1
+  },
+  {
+    "source": "#CRML",
+    "target": "#MRVL",
+    "weight": 1
+  },
+  {
+    "source": "#CRML",
+    "target": "#TWST",
+    "weight": 1
+  },
+  {
+    "source": "#EPI",
+    "target": "#SPY",
+    "weight": 1
+  },
+  {
+    "source": "#EPI",
+    "target": "#IGV",
+    "weight": 1
+  },
+  {
+    "source": "#Anthropic",
+    "target": "#EPI",
+    "weight": 1
+  },
+  {
+    "source": "#EPI",
+    "target": "#LITE",
+    "weight": 1
+  },
+  {
+    "source": "#AMZN",
+    "target": "#EPI",
+    "weight": 1
+  },
+  {
+    "source": "#AIQ",
+    "target": "#EPI",
+    "weight": 1
+  },
+  {
+    "source": "#EPI",
+    "target": "#NFLX",
+    "weight": 1
+  },
+  {
+    "source": "#EPI",
+    "target": "#WBD",
+    "weight": 1
+  },
+  {
+    "source": "#EPI",
+    "target": "#PSKY",
+    "weight": 1
+  },
+  {
+    "source": "#EPI",
+    "target": "#QQQ",
+    "weight": 1
+  },
+  {
+    "source": "#DIA",
+    "target": "#EPI",
+    "weight": 1
+  },
+  {
+    "source": "#EPI",
+    "target": "#TSEM",
+    "weight": 1
+  },
+  {
+    "source": "#EPI",
+    "target": "#NVDA",
+    "weight": 1
+  },
+  {
+    "source": "#EPI",
+    "target": "#UBER",
+    "weight": 1
+  },
+  {
+    "source": "#EPI",
+    "target": "#WRD",
+    "weight": 1
+  },
+  {
+    "source": "#EPI",
+    "target": "#GOOG",
+    "weight": 1
+  },
+  {
+    "source": "#EPI",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#EPI",
+    "target": "#OpenAI",
+    "weight": 1
+  },
+  {
+    "source": "#AAPL",
+    "target": "#EPI",
+    "weight": 1
+  },
+  {
+    "source": "#EPI",
+    "target": "#SLV",
+    "weight": 1
+  },
+  {
+    "source": "#EPI",
+    "target": "#FSLR",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDF",
+    "target": "#EPI",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDY",
+    "target": "#EPI",
+    "weight": 1
+  },
+  {
+    "source": "#EPI",
+    "target": "#UUP",
+    "weight": 1
+  },
+  {
+    "source": "#EPI",
+    "target": "#MRVL",
+    "weight": 1
+  },
+  {
+    "source": "#EPI",
+    "target": "#TWST",
+    "weight": 1
+  },
+  {
+    "source": "#IGV",
+    "target": "#SPY",
+    "weight": 1
+  },
+  {
+    "source": "#Anthropic",
+    "target": "#SPY",
+    "weight": 1
+  },
+  {
+    "source": "#LITE",
+    "target": "#SPY",
+    "weight": 1
+  },
+  {
+    "source": "#AMZN",
+    "target": "#SPY",
+    "weight": 1
+  },
+  {
+    "source": "#AIQ",
+    "target": "#SPY",
+    "weight": 1
+  },
+  {
+    "source": "#NFLX",
+    "target": "#SPY",
+    "weight": 1
+  },
+  {
+    "source": "#SPY",
+    "target": "#WBD",
+    "weight": 1
+  },
+  {
+    "source": "#PSKY",
+    "target": "#SPY",
+    "weight": 1
+  },
+  {
+    "source": "#QQQ",
+    "target": "#SPY",
+    "weight": 1
+  },
+  {
+    "source": "#DIA",
+    "target": "#SPY",
+    "weight": 1
+  },
+  {
+    "source": "#SPY",
+    "target": "#TSEM",
+    "weight": 1
+  },
+  {
+    "source": "#NVDA",
+    "target": "#SPY",
+    "weight": 1
+  },
+  {
+    "source": "#SPY",
+    "target": "#UBER",
+    "weight": 1
+  },
+  {
+    "source": "#SPY",
+    "target": "#WRD",
+    "weight": 1
+  },
+  {
+    "source": "#GOOG",
+    "target": "#SPY",
+    "weight": 1
+  },
+  {
+    "source": "#SPY",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#OpenAI",
+    "target": "#SPY",
+    "weight": 1
+  },
+  {
+    "source": "#AAPL",
+    "target": "#SPY",
+    "weight": 1
+  },
+  {
+    "source": "#SLV",
+    "target": "#SPY",
+    "weight": 1
+  },
+  {
+    "source": "#FSLR",
+    "target": "#SPY",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDF",
+    "target": "#SPY",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDY",
+    "target": "#SPY",
+    "weight": 1
+  },
+  {
+    "source": "#SPY",
+    "target": "#UUP",
+    "weight": 1
+  },
+  {
+    "source": "#MRVL",
+    "target": "#SPY",
+    "weight": 1
+  },
+  {
+    "source": "#SPY",
+    "target": "#TWST",
+    "weight": 1
+  },
+  {
+    "source": "#Anthropic",
+    "target": "#IGV",
+    "weight": 1
+  },
+  {
+    "source": "#IGV",
+    "target": "#LITE",
+    "weight": 1
+  },
+  {
+    "source": "#AMZN",
+    "target": "#IGV",
+    "weight": 1
+  },
+  {
+    "source": "#AIQ",
+    "target": "#IGV",
+    "weight": 1
+  },
+  {
+    "source": "#IGV",
+    "target": "#NFLX",
+    "weight": 1
+  },
+  {
+    "source": "#IGV",
+    "target": "#WBD",
+    "weight": 1
+  },
+  {
+    "source": "#IGV",
+    "target": "#PSKY",
+    "weight": 1
+  },
+  {
+    "source": "#IGV",
+    "target": "#QQQ",
+    "weight": 1
+  },
+  {
+    "source": "#DIA",
+    "target": "#IGV",
+    "weight": 1
+  },
+  {
+    "source": "#IGV",
+    "target": "#TSEM",
+    "weight": 1
+  },
+  {
+    "source": "#IGV",
+    "target": "#NVDA",
+    "weight": 1
+  },
+  {
+    "source": "#IGV",
+    "target": "#UBER",
+    "weight": 1
+  },
+  {
+    "source": "#IGV",
+    "target": "#WRD",
+    "weight": 1
+  },
+  {
+    "source": "#GOOG",
+    "target": "#IGV",
+    "weight": 1
+  },
+  {
+    "source": "#IGV",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#IGV",
+    "target": "#OpenAI",
+    "weight": 1
+  },
+  {
+    "source": "#AAPL",
+    "target": "#IGV",
+    "weight": 1
+  },
+  {
+    "source": "#IGV",
+    "target": "#SLV",
+    "weight": 1
+  },
+  {
+    "source": "#FSLR",
+    "target": "#IGV",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDF",
+    "target": "#IGV",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDY",
+    "target": "#IGV",
+    "weight": 1
+  },
+  {
+    "source": "#IGV",
+    "target": "#UUP",
+    "weight": 1
+  },
+  {
+    "source": "#IGV",
+    "target": "#MRVL",
+    "weight": 1
+  },
+  {
+    "source": "#IGV",
+    "target": "#TWST",
+    "weight": 1
+  },
+  {
+    "source": "#Anthropic",
+    "target": "#LITE",
+    "weight": 1
+  },
+  {
+    "source": "#AMZN",
+    "target": "#Anthropic",
+    "weight": 1
+  },
+  {
+    "source": "#AIQ",
+    "target": "#Anthropic",
+    "weight": 1
+  },
+  {
+    "source": "#Anthropic",
+    "target": "#NFLX",
+    "weight": 1
+  },
+  {
+    "source": "#Anthropic",
+    "target": "#WBD",
+    "weight": 1
+  },
+  {
+    "source": "#Anthropic",
+    "target": "#PSKY",
+    "weight": 1
+  },
+  {
+    "source": "#Anthropic",
+    "target": "#QQQ",
+    "weight": 1
+  },
+  {
+    "source": "#Anthropic",
+    "target": "#DIA",
+    "weight": 1
+  },
+  {
+    "source": "#Anthropic",
+    "target": "#TSEM",
+    "weight": 1
+  },
+  {
+    "source": "#Anthropic",
+    "target": "#NVDA",
+    "weight": 1
+  },
+  {
+    "source": "#Anthropic",
+    "target": "#UBER",
+    "weight": 1
+  },
+  {
+    "source": "#Anthropic",
+    "target": "#WRD",
+    "weight": 1
+  },
+  {
+    "source": "#Anthropic",
+    "target": "#GOOG",
+    "weight": 1
+  },
+  {
+    "source": "#Anthropic",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#Anthropic",
+    "target": "#OpenAI",
+    "weight": 1
+  },
+  {
+    "source": "#AAPL",
+    "target": "#Anthropic",
+    "weight": 1
+  },
+  {
+    "source": "#Anthropic",
+    "target": "#SLV",
+    "weight": 1
+  },
+  {
+    "source": "#Anthropic",
+    "target": "#FSLR",
+    "weight": 1
+  },
+  {
+    "source": "#Anthropic",
+    "target": "#BYDDF",
+    "weight": 1
+  },
+  {
+    "source": "#Anthropic",
+    "target": "#BYDDY",
+    "weight": 1
+  },
+  {
+    "source": "#Anthropic",
+    "target": "#UUP",
+    "weight": 1
+  },
+  {
+    "source": "#Anthropic",
+    "target": "#MRVL",
+    "weight": 1
+  },
+  {
+    "source": "#Anthropic",
+    "target": "#TWST",
+    "weight": 1
+  },
+  {
+    "source": "#AMZN",
+    "target": "#LITE",
+    "weight": 1
+  },
+  {
+    "source": "#AIQ",
+    "target": "#LITE",
+    "weight": 1
+  },
+  {
+    "source": "#LITE",
+    "target": "#NFLX",
+    "weight": 1
+  },
+  {
+    "source": "#LITE",
+    "target": "#WBD",
+    "weight": 1
+  },
+  {
+    "source": "#LITE",
+    "target": "#PSKY",
+    "weight": 1
+  },
+  {
+    "source": "#LITE",
+    "target": "#QQQ",
+    "weight": 1
+  },
+  {
+    "source": "#DIA",
+    "target": "#LITE",
+    "weight": 1
+  },
+  {
+    "source": "#LITE",
+    "target": "#TSEM",
+    "weight": 1
+  },
+  {
+    "source": "#LITE",
+    "target": "#NVDA",
+    "weight": 1
+  },
+  {
+    "source": "#LITE",
+    "target": "#UBER",
+    "weight": 1
+  },
+  {
+    "source": "#LITE",
+    "target": "#WRD",
+    "weight": 1
+  },
+  {
+    "source": "#GOOG",
+    "target": "#LITE",
+    "weight": 1
+  },
+  {
+    "source": "#LITE",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#LITE",
+    "target": "#OpenAI",
+    "weight": 1
+  },
+  {
+    "source": "#AAPL",
+    "target": "#LITE",
+    "weight": 1
+  },
+  {
+    "source": "#LITE",
+    "target": "#SLV",
+    "weight": 1
+  },
+  {
+    "source": "#FSLR",
+    "target": "#LITE",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDF",
+    "target": "#LITE",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDY",
+    "target": "#LITE",
+    "weight": 1
+  },
+  {
+    "source": "#LITE",
+    "target": "#UUP",
+    "weight": 1
+  },
+  {
+    "source": "#LITE",
+    "target": "#MRVL",
+    "weight": 1
+  },
+  {
+    "source": "#LITE",
+    "target": "#TWST",
+    "weight": 1
+  },
+  {
+    "source": "#AIQ",
+    "target": "#AMZN",
+    "weight": 1
+  },
+  {
+    "source": "#AMZN",
+    "target": "#NFLX",
+    "weight": 1
+  },
+  {
+    "source": "#AMZN",
+    "target": "#WBD",
+    "weight": 1
+  },
+  {
+    "source": "#AMZN",
+    "target": "#PSKY",
+    "weight": 1
+  },
+  {
+    "source": "#AMZN",
+    "target": "#QQQ",
+    "weight": 1
+  },
+  {
+    "source": "#AMZN",
+    "target": "#DIA",
+    "weight": 1
+  },
+  {
+    "source": "#AMZN",
+    "target": "#TSEM",
+    "weight": 1
+  },
+  {
+    "source": "#AMZN",
+    "target": "#NVDA",
+    "weight": 1
+  },
+  {
+    "source": "#AMZN",
+    "target": "#UBER",
+    "weight": 1
+  },
+  {
+    "source": "#AMZN",
+    "target": "#WRD",
+    "weight": 1
+  },
+  {
+    "source": "#AMZN",
+    "target": "#GOOG",
+    "weight": 1
+  },
+  {
+    "source": "#AMZN",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#AMZN",
+    "target": "#OpenAI",
+    "weight": 1
+  },
+  {
+    "source": "#AAPL",
+    "target": "#AMZN",
+    "weight": 1
+  },
+  {
+    "source": "#AMZN",
+    "target": "#SLV",
+    "weight": 1
+  },
+  {
+    "source": "#AMZN",
+    "target": "#FSLR",
+    "weight": 1
+  },
+  {
+    "source": "#AMZN",
+    "target": "#BYDDF",
+    "weight": 1
+  },
+  {
+    "source": "#AMZN",
+    "target": "#BYDDY",
+    "weight": 1
+  },
+  {
+    "source": "#AMZN",
+    "target": "#UUP",
+    "weight": 1
+  },
+  {
+    "source": "#AMZN",
+    "target": "#MRVL",
+    "weight": 1
+  },
+  {
+    "source": "#AMZN",
+    "target": "#TWST",
+    "weight": 1
+  },
+  {
+    "source": "#AIQ",
+    "target": "#NFLX",
+    "weight": 1
+  },
+  {
+    "source": "#AIQ",
+    "target": "#WBD",
+    "weight": 1
+  },
+  {
+    "source": "#AIQ",
+    "target": "#PSKY",
+    "weight": 1
+  },
+  {
+    "source": "#AIQ",
+    "target": "#QQQ",
+    "weight": 1
+  },
+  {
+    "source": "#AIQ",
+    "target": "#DIA",
+    "weight": 1
+  },
+  {
+    "source": "#AIQ",
+    "target": "#TSEM",
+    "weight": 1
+  },
+  {
+    "source": "#AIQ",
+    "target": "#NVDA",
+    "weight": 1
+  },
+  {
+    "source": "#AIQ",
+    "target": "#UBER",
+    "weight": 1
+  },
+  {
+    "source": "#AIQ",
+    "target": "#WRD",
+    "weight": 1
+  },
+  {
+    "source": "#AIQ",
+    "target": "#GOOG",
+    "weight": 1
+  },
+  {
+    "source": "#AIQ",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#AIQ",
+    "target": "#OpenAI",
+    "weight": 1
+  },
+  {
+    "source": "#AAPL",
+    "target": "#AIQ",
+    "weight": 1
+  },
+  {
+    "source": "#AIQ",
+    "target": "#SLV",
+    "weight": 1
+  },
+  {
+    "source": "#AIQ",
+    "target": "#FSLR",
+    "weight": 1
+  },
+  {
+    "source": "#AIQ",
+    "target": "#BYDDF",
+    "weight": 1
+  },
+  {
+    "source": "#AIQ",
+    "target": "#BYDDY",
+    "weight": 1
+  },
+  {
+    "source": "#AIQ",
+    "target": "#UUP",
+    "weight": 1
+  },
+  {
+    "source": "#AIQ",
+    "target": "#MRVL",
+    "weight": 1
+  },
+  {
+    "source": "#AIQ",
+    "target": "#TWST",
+    "weight": 1
+  },
+  {
+    "source": "#NFLX",
+    "target": "#WBD",
+    "weight": 1
+  },
+  {
+    "source": "#NFLX",
+    "target": "#PSKY",
+    "weight": 1
+  },
+  {
+    "source": "#NFLX",
+    "target": "#QQQ",
+    "weight": 1
+  },
+  {
+    "source": "#DIA",
+    "target": "#NFLX",
+    "weight": 1
+  },
+  {
+    "source": "#NFLX",
+    "target": "#TSEM",
+    "weight": 1
+  },
+  {
+    "source": "#NFLX",
+    "target": "#NVDA",
+    "weight": 1
+  },
+  {
+    "source": "#NFLX",
+    "target": "#UBER",
+    "weight": 1
+  },
+  {
+    "source": "#NFLX",
+    "target": "#WRD",
+    "weight": 1
+  },
+  {
+    "source": "#GOOG",
+    "target": "#NFLX",
+    "weight": 1
+  },
+  {
+    "source": "#NFLX",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#NFLX",
+    "target": "#OpenAI",
+    "weight": 1
+  },
+  {
+    "source": "#AAPL",
+    "target": "#NFLX",
+    "weight": 1
+  },
+  {
+    "source": "#NFLX",
+    "target": "#SLV",
+    "weight": 1
+  },
+  {
+    "source": "#FSLR",
+    "target": "#NFLX",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDF",
+    "target": "#NFLX",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDY",
+    "target": "#NFLX",
+    "weight": 1
+  },
+  {
+    "source": "#NFLX",
+    "target": "#UUP",
+    "weight": 1
+  },
+  {
+    "source": "#MRVL",
+    "target": "#NFLX",
+    "weight": 1
+  },
+  {
+    "source": "#NFLX",
+    "target": "#TWST",
+    "weight": 1
+  },
+  {
+    "source": "#PSKY",
+    "target": "#WBD",
+    "weight": 1
+  },
+  {
+    "source": "#QQQ",
+    "target": "#WBD",
+    "weight": 1
+  },
+  {
+    "source": "#DIA",
+    "target": "#WBD",
+    "weight": 1
+  },
+  {
+    "source": "#TSEM",
+    "target": "#WBD",
+    "weight": 1
+  },
+  {
+    "source": "#NVDA",
+    "target": "#WBD",
+    "weight": 1
+  },
+  {
+    "source": "#UBER",
+    "target": "#WBD",
+    "weight": 1
+  },
+  {
+    "source": "#WBD",
+    "target": "#WRD",
+    "weight": 1
+  },
+  {
+    "source": "#GOOG",
+    "target": "#WBD",
+    "weight": 1
+  },
+  {
+    "source": "#WBD",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#OpenAI",
+    "target": "#WBD",
+    "weight": 1
+  },
+  {
+    "source": "#AAPL",
+    "target": "#WBD",
+    "weight": 1
+  },
+  {
+    "source": "#SLV",
+    "target": "#WBD",
+    "weight": 1
+  },
+  {
+    "source": "#FSLR",
+    "target": "#WBD",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDF",
+    "target": "#WBD",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDY",
+    "target": "#WBD",
+    "weight": 1
+  },
+  {
+    "source": "#UUP",
+    "target": "#WBD",
+    "weight": 1
+  },
+  {
+    "source": "#MRVL",
+    "target": "#WBD",
+    "weight": 1
+  },
+  {
+    "source": "#TWST",
+    "target": "#WBD",
+    "weight": 1
+  },
+  {
+    "source": "#PSKY",
+    "target": "#QQQ",
+    "weight": 1
+  },
+  {
+    "source": "#DIA",
+    "target": "#PSKY",
+    "weight": 1
+  },
+  {
+    "source": "#PSKY",
+    "target": "#TSEM",
+    "weight": 1
+  },
+  {
+    "source": "#NVDA",
+    "target": "#PSKY",
+    "weight": 1
+  },
+  {
+    "source": "#PSKY",
+    "target": "#UBER",
+    "weight": 1
+  },
+  {
+    "source": "#PSKY",
+    "target": "#WRD",
+    "weight": 1
+  },
+  {
+    "source": "#GOOG",
+    "target": "#PSKY",
+    "weight": 1
+  },
+  {
+    "source": "#PSKY",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#OpenAI",
+    "target": "#PSKY",
+    "weight": 1
+  },
+  {
+    "source": "#AAPL",
+    "target": "#PSKY",
+    "weight": 1
+  },
+  {
+    "source": "#PSKY",
+    "target": "#SLV",
+    "weight": 1
+  },
+  {
+    "source": "#FSLR",
+    "target": "#PSKY",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDF",
+    "target": "#PSKY",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDY",
+    "target": "#PSKY",
+    "weight": 1
+  },
+  {
+    "source": "#PSKY",
+    "target": "#UUP",
+    "weight": 1
+  },
+  {
+    "source": "#MRVL",
+    "target": "#PSKY",
+    "weight": 1
+  },
+  {
+    "source": "#PSKY",
+    "target": "#TWST",
+    "weight": 1
+  },
+  {
+    "source": "#DIA",
+    "target": "#QQQ",
+    "weight": 1
+  },
+  {
+    "source": "#QQQ",
+    "target": "#TSEM",
+    "weight": 1
+  },
+  {
+    "source": "#NVDA",
+    "target": "#QQQ",
+    "weight": 1
+  },
+  {
+    "source": "#QQQ",
+    "target": "#UBER",
+    "weight": 1
+  },
+  {
+    "source": "#QQQ",
+    "target": "#WRD",
+    "weight": 1
+  },
+  {
+    "source": "#GOOG",
+    "target": "#QQQ",
+    "weight": 1
+  },
+  {
+    "source": "#QQQ",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#OpenAI",
+    "target": "#QQQ",
+    "weight": 1
+  },
+  {
+    "source": "#AAPL",
+    "target": "#QQQ",
+    "weight": 1
+  },
+  {
+    "source": "#QQQ",
+    "target": "#SLV",
+    "weight": 1
+  },
+  {
+    "source": "#FSLR",
+    "target": "#QQQ",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDF",
+    "target": "#QQQ",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDY",
+    "target": "#QQQ",
+    "weight": 1
+  },
+  {
+    "source": "#QQQ",
+    "target": "#UUP",
+    "weight": 1
+  },
+  {
+    "source": "#MRVL",
+    "target": "#QQQ",
+    "weight": 1
+  },
+  {
+    "source": "#QQQ",
+    "target": "#TWST",
+    "weight": 1
+  },
+  {
+    "source": "#DIA",
+    "target": "#TSEM",
+    "weight": 1
+  },
+  {
+    "source": "#DIA",
+    "target": "#NVDA",
+    "weight": 1
+  },
+  {
+    "source": "#DIA",
+    "target": "#UBER",
+    "weight": 1
+  },
+  {
+    "source": "#DIA",
+    "target": "#WRD",
+    "weight": 1
+  },
+  {
+    "source": "#DIA",
+    "target": "#GOOG",
+    "weight": 1
+  },
+  {
+    "source": "#DIA",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#DIA",
+    "target": "#OpenAI",
+    "weight": 1
+  },
+  {
+    "source": "#AAPL",
+    "target": "#DIA",
+    "weight": 1
+  },
+  {
+    "source": "#DIA",
+    "target": "#SLV",
+    "weight": 1
+  },
+  {
+    "source": "#DIA",
+    "target": "#FSLR",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDF",
+    "target": "#DIA",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDY",
+    "target": "#DIA",
+    "weight": 1
+  },
+  {
+    "source": "#DIA",
+    "target": "#UUP",
+    "weight": 1
+  },
+  {
+    "source": "#DIA",
+    "target": "#MRVL",
+    "weight": 1
+  },
+  {
+    "source": "#DIA",
+    "target": "#TWST",
+    "weight": 1
+  },
+  {
+    "source": "#NVDA",
+    "target": "#TSEM",
+    "weight": 1
+  },
+  {
+    "source": "#TSEM",
+    "target": "#UBER",
+    "weight": 1
+  },
+  {
+    "source": "#TSEM",
+    "target": "#WRD",
+    "weight": 1
+  },
+  {
+    "source": "#GOOG",
+    "target": "#TSEM",
+    "weight": 1
+  },
+  {
+    "source": "#TSEM",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#OpenAI",
+    "target": "#TSEM",
+    "weight": 1
+  },
+  {
+    "source": "#AAPL",
+    "target": "#TSEM",
+    "weight": 1
+  },
+  {
+    "source": "#SLV",
+    "target": "#TSEM",
+    "weight": 1
+  },
+  {
+    "source": "#FSLR",
+    "target": "#TSEM",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDF",
+    "target": "#TSEM",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDY",
+    "target": "#TSEM",
+    "weight": 1
+  },
+  {
+    "source": "#TSEM",
+    "target": "#UUP",
+    "weight": 1
+  },
+  {
+    "source": "#MRVL",
+    "target": "#TSEM",
+    "weight": 1
+  },
+  {
+    "source": "#TSEM",
+    "target": "#TWST",
+    "weight": 1
+  },
+  {
+    "source": "#NVDA",
+    "target": "#UBER",
+    "weight": 1
+  },
+  {
+    "source": "#NVDA",
+    "target": "#WRD",
+    "weight": 1
+  },
+  {
+    "source": "#GOOG",
+    "target": "#NVDA",
+    "weight": 1
+  },
+  {
+    "source": "#NVDA",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#NVDA",
+    "target": "#OpenAI",
+    "weight": 1
+  },
+  {
+    "source": "#AAPL",
+    "target": "#NVDA",
+    "weight": 1
+  },
+  {
+    "source": "#NVDA",
+    "target": "#SLV",
+    "weight": 1
+  },
+  {
+    "source": "#FSLR",
+    "target": "#NVDA",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDF",
+    "target": "#NVDA",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDY",
+    "target": "#NVDA",
+    "weight": 1
+  },
+  {
+    "source": "#NVDA",
+    "target": "#UUP",
+    "weight": 1
+  },
+  {
+    "source": "#MRVL",
+    "target": "#NVDA",
+    "weight": 1
+  },
+  {
+    "source": "#NVDA",
+    "target": "#TWST",
+    "weight": 1
+  },
+  {
+    "source": "#UBER",
+    "target": "#WRD",
+    "weight": 1
+  },
+  {
+    "source": "#GOOG",
+    "target": "#UBER",
+    "weight": 1
+  },
+  {
+    "source": "#UBER",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#OpenAI",
+    "target": "#UBER",
+    "weight": 1
+  },
+  {
+    "source": "#AAPL",
+    "target": "#UBER",
+    "weight": 1
+  },
+  {
+    "source": "#SLV",
+    "target": "#UBER",
+    "weight": 1
+  },
+  {
+    "source": "#FSLR",
+    "target": "#UBER",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDF",
+    "target": "#UBER",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDY",
+    "target": "#UBER",
+    "weight": 1
+  },
+  {
+    "source": "#UBER",
+    "target": "#UUP",
+    "weight": 1
+  },
+  {
+    "source": "#MRVL",
+    "target": "#UBER",
+    "weight": 1
+  },
+  {
+    "source": "#TWST",
+    "target": "#UBER",
+    "weight": 1
+  },
+  {
+    "source": "#GOOG",
+    "target": "#WRD",
+    "weight": 1
+  },
+  {
+    "source": "#WRD",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#OpenAI",
+    "target": "#WRD",
+    "weight": 1
+  },
+  {
+    "source": "#AAPL",
+    "target": "#WRD",
+    "weight": 1
+  },
+  {
+    "source": "#SLV",
+    "target": "#WRD",
+    "weight": 1
+  },
+  {
+    "source": "#FSLR",
+    "target": "#WRD",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDF",
+    "target": "#WRD",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDY",
+    "target": "#WRD",
+    "weight": 1
+  },
+  {
+    "source": "#UUP",
+    "target": "#WRD",
+    "weight": 1
+  },
+  {
+    "source": "#MRVL",
+    "target": "#WRD",
+    "weight": 1
+  },
+  {
+    "source": "#TWST",
+    "target": "#WRD",
+    "weight": 1
+  },
+  {
+    "source": "#GOOG",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#GOOG",
+    "target": "#OpenAI",
+    "weight": 1
+  },
+  {
+    "source": "#AAPL",
+    "target": "#GOOG",
+    "weight": 1
+  },
+  {
+    "source": "#GOOG",
+    "target": "#SLV",
+    "weight": 1
+  },
+  {
+    "source": "#FSLR",
+    "target": "#GOOG",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDF",
+    "target": "#GOOG",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDY",
+    "target": "#GOOG",
+    "weight": 1
+  },
+  {
+    "source": "#GOOG",
+    "target": "#UUP",
+    "weight": 1
+  },
+  {
+    "source": "#GOOG",
+    "target": "#MRVL",
+    "weight": 1
+  },
+  {
+    "source": "#GOOG",
+    "target": "#TWST",
+    "weight": 1
+  },
+  {
+    "source": "#OpenAI",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#AAPL",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#SLV",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#FSLR",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDF",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDY",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#UUP",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#MRVL",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#TWST",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#AAPL",
+    "target": "#OpenAI",
+    "weight": 1
+  },
+  {
+    "source": "#OpenAI",
+    "target": "#SLV",
+    "weight": 1
+  },
+  {
+    "source": "#FSLR",
+    "target": "#OpenAI",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDF",
+    "target": "#OpenAI",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDY",
+    "target": "#OpenAI",
+    "weight": 1
+  },
+  {
+    "source": "#OpenAI",
+    "target": "#UUP",
+    "weight": 1
+  },
+  {
+    "source": "#MRVL",
+    "target": "#OpenAI",
+    "weight": 1
+  },
+  {
+    "source": "#OpenAI",
+    "target": "#TWST",
+    "weight": 1
+  },
+  {
+    "source": "#AAPL",
+    "target": "#SLV",
+    "weight": 1
+  },
+  {
+    "source": "#AAPL",
+    "target": "#FSLR",
+    "weight": 1
+  },
+  {
+    "source": "#AAPL",
+    "target": "#BYDDF",
+    "weight": 1
+  },
+  {
+    "source": "#AAPL",
+    "target": "#BYDDY",
+    "weight": 1
+  },
+  {
+    "source": "#AAPL",
+    "target": "#UUP",
+    "weight": 1
+  },
+  {
+    "source": "#AAPL",
+    "target": "#MRVL",
+    "weight": 1
+  },
+  {
+    "source": "#AAPL",
+    "target": "#TWST",
+    "weight": 1
+  },
+  {
+    "source": "#FSLR",
+    "target": "#SLV",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDF",
+    "target": "#SLV",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDY",
+    "target": "#SLV",
+    "weight": 1
+  },
+  {
+    "source": "#SLV",
+    "target": "#UUP",
+    "weight": 1
+  },
+  {
+    "source": "#MRVL",
+    "target": "#SLV",
+    "weight": 1
+  },
+  {
+    "source": "#SLV",
+    "target": "#TWST",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDF",
+    "target": "#FSLR",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDY",
+    "target": "#FSLR",
+    "weight": 1
+  },
+  {
+    "source": "#FSLR",
+    "target": "#UUP",
+    "weight": 1
+  },
+  {
+    "source": "#FSLR",
+    "target": "#MRVL",
+    "weight": 1
+  },
+  {
+    "source": "#FSLR",
+    "target": "#TWST",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDF",
+    "target": "#BYDDY",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDF",
+    "target": "#UUP",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDF",
+    "target": "#MRVL",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDF",
+    "target": "#TWST",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDY",
+    "target": "#UUP",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDY",
+    "target": "#MRVL",
+    "weight": 1
+  },
+  {
+    "source": "#BYDDY",
+    "target": "#TWST",
+    "weight": 1
+  },
+  {
+    "source": "#MRVL",
+    "target": "#UUP",
+    "weight": 1
+  },
+  {
+    "source": "#TWST",
+    "target": "#UUP",
+    "weight": 1
+  },
+  {
+    "source": "#MRVL",
+    "target": "#TWST",
+    "weight": 1
+  },
+  {
+    "source": "#austria",
+    "target": "#wien",
+    "weight": 1
+  },
+  {
+    "source": "#fashion",
+    "target": "#wien",
+    "weight": 1
+  },
+  {
+    "source": "#austria",
+    "target": "#fashion",
+    "weight": 1
+  },
+  {
+    "source": "#holiday",
+    "target": "#travel",
+    "weight": 1
+  },
+  {
+    "source": "#holiday",
+    "target": "#tourism",
+    "weight": 1
+  },
+  {
+    "source": "#holiday",
+    "target": "#vacation",
+    "weight": 1
+  },
+  {
+    "source": "#holiday",
+    "target": "#wphhaystravel",
+    "weight": 1
+  },
+  {
+    "source": "#cruise",
+    "target": "#holiday",
+    "weight": 1
+  },
+  {
+    "source": "#SpecialOffer",
+    "target": "#holiday",
+    "weight": 1
+  },
+  {
+    "source": "#holiday",
+    "target": "#promo",
+    "weight": 1
+  },
+  {
+    "source": "#family",
+    "target": "#holiday",
+    "weight": 1
+  },
+  {
+    "source": "#couples",
+    "target": "#holiday",
+    "weight": 1
+  },
+  {
+    "source": "#holiday",
+    "target": "#solo",
+    "weight": 1
+  },
+  {
+    "source": "#tourism",
+    "target": "#travel",
+    "weight": 1
+  },
+  {
+    "source": "#travel",
+    "target": "#vacation",
+    "weight": 2
+  },
+  {
+    "source": "#travel",
+    "target": "#wphhaystravel",
+    "weight": 1
+  },
+  {
+    "source": "#SpecialOffer",
+    "target": "#travel",
+    "weight": 1
+  },
+  {
+    "source": "#promo",
+    "target": "#travel",
+    "weight": 1
+  },
+  {
+    "source": "#family",
+    "target": "#travel",
+    "weight": 1
+  },
+  {
+    "source": "#couples",
+    "target": "#travel",
+    "weight": 1
+  },
+  {
+    "source": "#solo",
+    "target": "#travel",
+    "weight": 1
+  },
+  {
+    "source": "#tourism",
+    "target": "#vacation",
+    "weight": 1
+  },
+  {
+    "source": "#tourism",
+    "target": "#wphhaystravel",
+    "weight": 1
+  },
+  {
+    "source": "#cruise",
+    "target": "#tourism",
+    "weight": 1
+  },
+  {
+    "source": "#SpecialOffer",
+    "target": "#tourism",
+    "weight": 1
+  },
+  {
+    "source": "#promo",
+    "target": "#tourism",
+    "weight": 1
+  },
+  {
+    "source": "#family",
+    "target": "#tourism",
+    "weight": 1
+  },
+  {
+    "source": "#couples",
+    "target": "#tourism",
+    "weight": 1
+  },
+  {
+    "source": "#solo",
+    "target": "#tourism",
+    "weight": 1
+  },
+  {
+    "source": "#vacation",
+    "target": "#wphhaystravel",
+    "weight": 1
+  },
+  {
+    "source": "#cruise",
+    "target": "#vacation",
+    "weight": 2
+  },
+  {
+    "source": "#SpecialOffer",
+    "target": "#vacation",
+    "weight": 1
+  },
+  {
+    "source": "#promo",
+    "target": "#vacation",
+    "weight": 1
+  },
+  {
+    "source": "#family",
+    "target": "#vacation",
+    "weight": 1
+  },
+  {
+    "source": "#couples",
+    "target": "#vacation",
+    "weight": 1
+  },
+  {
+    "source": "#solo",
+    "target": "#vacation",
+    "weight": 1
+  },
+  {
+    "source": "#cruise",
+    "target": "#wphhaystravel",
+    "weight": 1
+  },
+  {
+    "source": "#SpecialOffer",
+    "target": "#wphhaystravel",
+    "weight": 1
+  },
+  {
+    "source": "#promo",
+    "target": "#wphhaystravel",
+    "weight": 1
+  },
+  {
+    "source": "#family",
+    "target": "#wphhaystravel",
+    "weight": 1
+  },
+  {
+    "source": "#couples",
+    "target": "#wphhaystravel",
+    "weight": 1
+  },
+  {
+    "source": "#solo",
+    "target": "#wphhaystravel",
+    "weight": 1
+  },
+  {
+    "source": "#SpecialOffer",
+    "target": "#cruise",
+    "weight": 1
+  },
+  {
+    "source": "#cruise",
+    "target": "#promo",
+    "weight": 1
+  },
+  {
+    "source": "#cruise",
+    "target": "#family",
+    "weight": 1
+  },
+  {
+    "source": "#couples",
+    "target": "#cruise",
+    "weight": 1
+  },
+  {
+    "source": "#cruise",
+    "target": "#solo",
+    "weight": 1
+  },
+  {
+    "source": "#SpecialOffer",
+    "target": "#promo",
+    "weight": 1
+  },
+  {
+    "source": "#SpecialOffer",
+    "target": "#family",
+    "weight": 1
+  },
+  {
+    "source": "#SpecialOffer",
+    "target": "#couples",
+    "weight": 1
+  },
+  {
+    "source": "#SpecialOffer",
+    "target": "#solo",
+    "weight": 1
+  },
+  {
+    "source": "#family",
+    "target": "#promo",
+    "weight": 1
+  },
+  {
+    "source": "#couples",
+    "target": "#promo",
+    "weight": 1
+  },
+  {
+    "source": "#promo",
+    "target": "#solo",
+    "weight": 1
+  },
+  {
+    "source": "#couples",
+    "target": "#family",
+    "weight": 1
+  },
+  {
+    "source": "#family",
+    "target": "#solo",
+    "weight": 1
+  },
+  {
+    "source": "#couples",
+    "target": "#solo",
+    "weight": 1
+  },
+  {
+    "source": "#news",
+    "target": "#uazmi",
+    "weight": 1
+  },
+  {
+    "source": "#news",
+    "target": "#war",
+    "weight": 1
+  },
+  {
+    "source": "#entertainment",
+    "target": "#news",
+    "weight": 1
+  },
+  {
+    "source": "#news",
+    "target": "#ukraine",
+    "weight": 1
+  },
+  {
+    "source": "#news",
+    "target": "#russia",
+    "weight": 1
+  },
+  {
+    "source": "#news",
+    "target": "#world",
+    "weight": 1
+  },
+  {
+    "source": "#uazmi",
+    "target": "#war",
+    "weight": 1
+  },
+  {
+    "source": "#entertainment",
+    "target": "#uazmi",
+    "weight": 1
+  },
+  {
+    "source": "#uazmi",
+    "target": "#ukraine",
+    "weight": 1
+  },
+  {
+    "source": "#russia",
+    "target": "#uazmi",
+    "weight": 1
+  },
+  {
+    "source": "#uazmi",
+    "target": "#world",
+    "weight": 1
+  },
+  {
+    "source": "#entertainment",
+    "target": "#war",
+    "weight": 1
+  },
+  {
+    "source": "#ukraine",
+    "target": "#war",
+    "weight": 1
+  },
+  {
+    "source": "#russia",
+    "target": "#war",
+    "weight": 1
+  },
+  {
+    "source": "#war",
+    "target": "#world",
+    "weight": 1
+  },
+  {
+    "source": "#entertainment",
+    "target": "#ukraine",
+    "weight": 1
+  },
+  {
+    "source": "#entertainment",
+    "target": "#russia",
+    "weight": 1
+  },
+  {
+    "source": "#entertainment",
+    "target": "#world",
+    "weight": 1
+  },
+  {
+    "source": "#russia",
+    "target": "#ukraine",
+    "weight": 1
+  },
+  {
+    "source": "#ukraine",
+    "target": "#world",
+    "weight": 1
+  },
+  {
+    "source": "#russia",
+    "target": "#world",
+    "weight": 1
+  },
+  {
+    "source": "#人妻",
+    "target": "#素人道",
+    "weight": 1
+  },
+  {
+    "source": "#パイパン",
+    "target": "#素人道",
+    "weight": 1
+  },
+  {
+    "source": "#人妻",
+    "target": "#写真集",
+    "weight": 1
+  },
+  {
+    "source": "#パイパン",
+    "target": "#写真集",
+    "weight": 1
+  },
+  {
+    "source": "#ナンパ",
+    "target": "#人妻",
+    "weight": 1
+  },
+  {
+    "source": "#パイパン",
+    "target": "#人妻",
+    "weight": 1
+  },
+  {
+    "source": "#ナンパ",
+    "target": "#パイパン",
+    "weight": 1
+  },
+  {
+    "source": "#CORInforma",
+    "target": "#temporj",
+    "weight": 4
+  },
+  {
+    "source": "#avalanche",
+    "target": "#snøskred",
+    "weight": 1
+  },
+  {
+    "source": "#avalanche",
+    "target": "#varsom",
+    "weight": 1
+  },
+  {
+    "source": "#avalanche",
+    "target": "#troms",
+    "weight": 1
+  },
+  {
+    "source": "#snøskred",
+    "target": "#varsom",
+    "weight": 1
+  },
+  {
+    "source": "#snøskred",
+    "target": "#troms",
+    "weight": 1
+  },
+  {
+    "source": "#troms",
+    "target": "#varsom",
+    "weight": 1
+  },
+  {
+    "source": "#життя",
+    "target": "#маленькірадощі",
+    "weight": 1
+  },
+  {
+    "source": "#вчинки",
+    "target": "#життя",
+    "weight": 1
+  },
+  {
+    "source": "#життя",
+    "target": "#мудрість",
+    "weight": 1
+  },
+  {
+    "source": "#життя",
+    "target": "#цитати",
+    "weight": 1
+  },
+  {
+    "source": "#life",
+    "target": "#життя",
+    "weight": 1
+  },
+  {
+    "source": "#smalljoys",
+    "target": "#життя",
+    "weight": 1
+  },
+  {
+    "source": "#actions",
+    "target": "#життя",
+    "weight": 1
+  },
+  {
+    "source": "#wisdom",
+    "target": "#життя",
+    "weight": 1
+  },
+  {
+    "source": "#quotes",
+    "target": "#життя",
+    "weight": 1
+  },
+  {
+    "source": "#вчинки",
+    "target": "#маленькірадощі",
+    "weight": 1
+  },
+  {
+    "source": "#маленькірадощі",
+    "target": "#мудрість",
+    "weight": 1
+  },
+  {
+    "source": "#маленькірадощі",
+    "target": "#цитати",
+    "weight": 1
+  },
+  {
+    "source": "#life",
+    "target": "#маленькірадощі",
+    "weight": 1
+  },
+  {
+    "source": "#smalljoys",
+    "target": "#маленькірадощі",
+    "weight": 1
+  },
+  {
+    "source": "#actions",
+    "target": "#маленькірадощі",
+    "weight": 1
+  },
+  {
+    "source": "#wisdom",
+    "target": "#маленькірадощі",
+    "weight": 1
+  },
+  {
+    "source": "#quotes",
+    "target": "#маленькірадощі",
+    "weight": 1
+  },
+  {
+    "source": "#вчинки",
+    "target": "#мудрість",
+    "weight": 1
+  },
+  {
+    "source": "#вчинки",
+    "target": "#цитати",
+    "weight": 1
+  },
+  {
+    "source": "#life",
+    "target": "#вчинки",
+    "weight": 1
+  },
+  {
+    "source": "#smalljoys",
+    "target": "#вчинки",
+    "weight": 1
+  },
+  {
+    "source": "#actions",
+    "target": "#вчинки",
+    "weight": 1
+  },
+  {
+    "source": "#wisdom",
+    "target": "#вчинки",
+    "weight": 1
+  },
+  {
+    "source": "#quotes",
+    "target": "#вчинки",
+    "weight": 1
+  },
+  {
+    "source": "#мудрість",
+    "target": "#цитати",
+    "weight": 1
+  },
+  {
+    "source": "#life",
+    "target": "#мудрість",
+    "weight": 1
+  },
+  {
+    "source": "#smalljoys",
+    "target": "#мудрість",
+    "weight": 1
+  },
+  {
+    "source": "#actions",
+    "target": "#мудрість",
+    "weight": 1
+  },
+  {
+    "source": "#wisdom",
+    "target": "#мудрість",
+    "weight": 1
+  },
+  {
+    "source": "#quotes",
+    "target": "#мудрість",
+    "weight": 1
+  },
+  {
+    "source": "#life",
+    "target": "#цитати",
+    "weight": 1
+  },
+  {
+    "source": "#smalljoys",
+    "target": "#цитати",
+    "weight": 1
+  },
+  {
+    "source": "#actions",
+    "target": "#цитати",
+    "weight": 1
+  },
+  {
+    "source": "#wisdom",
+    "target": "#цитати",
+    "weight": 1
+  },
+  {
+    "source": "#quotes",
+    "target": "#цитати",
+    "weight": 1
+  },
+  {
+    "source": "#life",
+    "target": "#smalljoys",
+    "weight": 1
+  },
+  {
+    "source": "#actions",
+    "target": "#life",
+    "weight": 1
+  },
+  {
+    "source": "#life",
+    "target": "#wisdom",
+    "weight": 1
+  },
+  {
+    "source": "#life",
+    "target": "#quotes",
+    "weight": 1
+  },
+  {
+    "source": "#actions",
+    "target": "#smalljoys",
+    "weight": 1
+  },
+  {
+    "source": "#smalljoys",
+    "target": "#wisdom",
+    "weight": 1
+  },
+  {
+    "source": "#quotes",
+    "target": "#smalljoys",
+    "weight": 1
+  },
+  {
+    "source": "#actions",
+    "target": "#wisdom",
+    "weight": 1
+  },
+  {
+    "source": "#actions",
+    "target": "#quotes",
+    "weight": 1
+  },
+  {
+    "source": "#quotes",
+    "target": "#wisdom",
+    "weight": 1
+  },
+  {
+    "source": "#バレマンッ",
+    "target": "#花柳杏奈",
+    "weight": 1
+  },
+  {
+    "source": "#ハイビジョン",
+    "target": "#花柳杏奈",
+    "weight": 1
+  },
+  {
+    "source": "#4K",
+    "target": "#花柳杏奈",
+    "weight": 1
+  },
+  {
+    "source": "#4時間以上作品",
+    "target": "#花柳杏奈",
+    "weight": 1
+  },
+  {
+    "source": "#独占配信",
+    "target": "#花柳杏奈",
+    "weight": 1
+  },
+  {
+    "source": "#ハイビジョン",
+    "target": "#バレマンッ",
+    "weight": 1
+  },
+  {
+    "source": "#4K",
+    "target": "#バレマンッ",
+    "weight": 1
+  },
+  {
+    "source": "#4時間以上作品",
+    "target": "#バレマンッ",
+    "weight": 1
+  },
+  {
+    "source": "#バレマンッ",
+    "target": "#独占配信",
+    "weight": 1
+  },
+  {
+    "source": "#4時間以上作品",
+    "target": "#ハイビジョン",
+    "weight": 1
+  },
+  {
+    "source": "#4K",
+    "target": "#4時間以上作品",
+    "weight": 1
+  },
+  {
+    "source": "#4時間以上作品",
+    "target": "#独占配信",
+    "weight": 1
+  },
+  {
+    "source": "#BarçaRCDMallorca",
+    "target": "#LaLiga",
+    "weight": 1
+  },
+  {
+    "source": "#ハイビジョン",
+    "target": "#同人AV倶楽部",
+    "weight": 1
+  },
+  {
+    "source": "#同人AV倶楽部",
+    "target": "#独占配信",
+    "weight": 1
+  },
+  {
+    "source": "#中出し",
+    "target": "#同人AV倶楽部",
+    "weight": 1
+  },
+  {
+    "source": "#同人AV倶楽部",
+    "target": "#妄想族",
+    "weight": 1
+  },
+  {
+    "source": "#ハイビジョン",
+    "target": "#妄想族",
+    "weight": 1
+  },
+  {
+    "source": "#妄想族",
+    "target": "#独占配信",
+    "weight": 1
+  },
+  {
+    "source": "#中出し",
+    "target": "#妄想族",
+    "weight": 1
+  },
+  {
+    "source": "#クリスタル映像",
+    "target": "#福原みな",
+    "weight": 1
+  },
+  {
+    "source": "#ハイビジョン",
+    "target": "#福原みな",
+    "weight": 1
+  },
+  {
+    "source": "#4K",
+    "target": "#福原みな",
+    "weight": 1
+  },
+  {
+    "source": "#独占配信",
+    "target": "#福原みな",
+    "weight": 1
+  },
+  {
+    "source": "#パイズリ",
+    "target": "#福原みな",
+    "weight": 1
+  },
+  {
+    "source": "#クリスタル映像",
+    "target": "#ハイビジョン",
+    "weight": 1
+  },
+  {
+    "source": "#4K",
+    "target": "#クリスタル映像",
+    "weight": 1
+  },
+  {
+    "source": "#クリスタル映像",
+    "target": "#独占配信",
+    "weight": 1
+  },
+  {
+    "source": "#クリスタル映像",
+    "target": "#パイズリ",
+    "weight": 1
+  },
+  {
+    "source": "#ハイビジョン",
+    "target": "#パイズリ",
+    "weight": 1
+  },
+  {
+    "source": "#4K",
+    "target": "#パイズリ",
+    "weight": 1
+  },
+  {
+    "source": "#パイズリ",
+    "target": "#独占配信",
+    "weight": 1
+  },
+  {
+    "source": "#姫岡しあ",
+    "target": "#姫野じゅり",
+    "weight": 1
+  },
+  {
+    "source": "#TRANS",
+    "target": "#姫野じゅり",
+    "weight": 1
+  },
+  {
+    "source": "#ハイビジョン",
+    "target": "#姫野じゅり",
+    "weight": 1
+  },
+  {
+    "source": "#4K",
+    "target": "#姫野じゅり",
+    "weight": 1
+  },
+  {
+    "source": "#姫野じゅり",
+    "target": "#独占配信",
+    "weight": 1
+  },
+  {
+    "source": "#レズビアン",
+    "target": "#姫野じゅり",
+    "weight": 1
+  },
+  {
+    "source": "#TRANS",
+    "target": "#姫岡しあ",
+    "weight": 1
+  },
+  {
+    "source": "#ハイビジョン",
+    "target": "#姫岡しあ",
+    "weight": 1
+  },
+  {
+    "source": "#4K",
+    "target": "#姫岡しあ",
+    "weight": 1
+  },
+  {
+    "source": "#姫岡しあ",
+    "target": "#独占配信",
+    "weight": 1
+  },
+  {
+    "source": "#レズビアン",
+    "target": "#姫岡しあ",
+    "weight": 1
+  },
+  {
+    "source": "#TRANS",
+    "target": "#ハイビジョン",
+    "weight": 1
+  },
+  {
+    "source": "#4K",
+    "target": "#TRANS",
+    "weight": 1
+  },
+  {
+    "source": "#TRANS",
+    "target": "#独占配信",
+    "weight": 1
+  },
+  {
+    "source": "#TRANS",
+    "target": "#レズビアン",
+    "weight": 1
+  },
+  {
+    "source": "#ハイビジョン",
+    "target": "#レズビアン",
+    "weight": 1
+  },
+  {
+    "source": "#4K",
+    "target": "#レズビアン",
+    "weight": 1
+  },
+  {
+    "source": "#レズビアン",
+    "target": "#独占配信",
+    "weight": 1
+  },
+  {
+    "source": "#SEO",
+    "target": "#ソープ",
+    "weight": 1
+  },
+  {
+    "source": "#LucyGGE",
+    "target": "#Russia",
+    "weight": 1
+  },
+  {
+    "source": "#poems",
+    "target": "#poetry",
+    "weight": 1
+  },
+  {
+    "source": "#balance",
+    "target": "#poems",
+    "weight": 1
+  },
+  {
+    "source": "#balance",
+    "target": "#poetry",
+    "weight": 1
+  },
+  {
+    "source": "#samapoke",
+    "target": "#summerpockets",
+    "weight": 1
+  },
+  {
+    "source": "#fansub",
+    "target": "#summerpockets",
+    "weight": 1
+  },
+  {
+    "source": "#kaleido",
+    "target": "#summerpockets",
+    "weight": 1
+  },
+  {
+    "source": "#fansub",
+    "target": "#samapoke",
+    "weight": 1
+  },
+  {
+    "source": "#kaleido",
+    "target": "#samapoke",
+    "weight": 1
+  },
+  {
+    "source": "#fansub",
+    "target": "#kaleido",
+    "weight": 1
+  },
+  {
+    "source": "#ENGvWAL",
+    "target": "#LLOvCYM",
+    "weight": 1
+  },
+  {
+    "source": "#climate",
+    "target": "#plastic",
+    "weight": 1
+  },
+  {
+    "source": "#climate",
+    "target": "#pollution",
+    "weight": 1
+  },
+  {
+    "source": "#plastic",
+    "target": "#pollution",
+    "weight": 1
+  },
+  {
+    "source": "#Timrå",
+    "target": "#hockey",
+    "weight": 2
+  },
+  {
+    "source": "#olympics",
+    "target": "#os",
+    "weight": 1
+  },
+  {
+    "source": "#aiart",
+    "target": "#ainude",
+    "weight": 1
+  },
+  {
+    "source": "#aiart",
+    "target": "#ainudewoman",
+    "weight": 1
+  },
+  {
+    "source": "#aiart",
+    "target": "#ainudeart",
+    "weight": 1
+  },
+  {
+    "source": "#ainude",
+    "target": "#ainudewoman",
+    "weight": 1
+  },
+  {
+    "source": "#ainude",
+    "target": "#ainudeart",
+    "weight": 1
+  },
+  {
+    "source": "#ainudeart",
+    "target": "#ainudewoman",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優",
+    "target": "#春陽モカ",
+    "weight": 1
+  },
+  {
+    "source": "#VR動画",
+    "target": "#春陽モカ",
+    "weight": 1
+  },
+  {
+    "source": "#ReadyOrNot2",
+    "target": "#TrailerMusic",
+    "weight": 1
+  },
+  {
+    "source": "#Crypto",
+    "target": "#WLFI",
+    "weight": 1
+  },
+  {
+    "source": "#Crypto",
+    "target": "#RWA",
+    "weight": 1
+  },
+  {
+    "source": "#Bitcoin",
+    "target": "#Crypto",
+    "weight": 1
+  },
+  {
+    "source": "#RWA",
+    "target": "#WLFI",
+    "weight": 1
+  },
+  {
+    "source": "#Bitcoin",
+    "target": "#WLFI",
+    "weight": 1
+  },
+  {
+    "source": "#Bitcoin",
+    "target": "#RWA",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#Waymo",
+    "weight": 2
+  },
+  {
+    "source": "#AI",
+    "target": "#GoogleDeepMind",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#Genie3",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#AutonomousVehicles",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#SelfDrivingCars",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#WorldModels",
+    "weight": 2
+  },
+  {
+    "source": "#AI",
+    "target": "#GeneAI",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#AIModels",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#DeepMind",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#Alphabet",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#Automotive",
+    "weight": 1
+  },
+  {
+    "source": "#GoogleDeepMind",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#Genie3",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#Waymo",
+    "target": "#WorldModels",
+    "weight": 2
+  },
+  {
+    "source": "#GeneAI",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#AIModels",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#DeepMind",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#Automotive",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#Google",
+    "target": "#GoogleDeepMind",
+    "weight": 1
+  },
+  {
+    "source": "#Genie3",
+    "target": "#GoogleDeepMind",
+    "weight": 1
+  },
+  {
+    "source": "#AutonomousVehicles",
+    "target": "#GoogleDeepMind",
+    "weight": 1
+  },
+  {
+    "source": "#GoogleDeepMind",
+    "target": "#SelfDrivingCars",
+    "weight": 1
+  },
+  {
+    "source": "#GoogleDeepMind",
+    "target": "#WorldModels",
+    "weight": 1
+  },
+  {
+    "source": "#GeneAI",
+    "target": "#GoogleDeepMind",
+    "weight": 1
+  },
+  {
+    "source": "#AIModels",
+    "target": "#GoogleDeepMind",
+    "weight": 1
+  },
+  {
+    "source": "#DeepMind",
+    "target": "#GoogleDeepMind",
+    "weight": 1
+  },
+  {
+    "source": "#Alphabet",
+    "target": "#GoogleDeepMind",
+    "weight": 1
+  },
+  {
+    "source": "#Automotive",
+    "target": "#GoogleDeepMind",
+    "weight": 1
+  },
+  {
+    "source": "#Genie3",
+    "target": "#Google",
+    "weight": 1
+  },
+  {
+    "source": "#AutonomousVehicles",
+    "target": "#Google",
+    "weight": 1
+  },
+  {
+    "source": "#Google",
+    "target": "#SelfDrivingCars",
+    "weight": 1
+  },
+  {
+    "source": "#Google",
+    "target": "#WorldModels",
+    "weight": 1
+  },
+  {
+    "source": "#GeneAI",
+    "target": "#Google",
+    "weight": 1
+  },
+  {
+    "source": "#AIModels",
+    "target": "#Google",
+    "weight": 1
+  },
+  {
+    "source": "#DeepMind",
+    "target": "#Google",
+    "weight": 1
+  },
+  {
+    "source": "#Automotive",
+    "target": "#Google",
+    "weight": 1
+  },
+  {
+    "source": "#AutonomousVehicles",
+    "target": "#Genie3",
+    "weight": 1
+  },
+  {
+    "source": "#Genie3",
+    "target": "#SelfDrivingCars",
+    "weight": 1
+  },
+  {
+    "source": "#Genie3",
+    "target": "#WorldModels",
+    "weight": 1
+  },
+  {
+    "source": "#GeneAI",
+    "target": "#Genie3",
+    "weight": 1
+  },
+  {
+    "source": "#AIModels",
+    "target": "#Genie3",
+    "weight": 1
+  },
+  {
+    "source": "#DeepMind",
+    "target": "#Genie3",
+    "weight": 1
+  },
+  {
+    "source": "#Alphabet",
+    "target": "#Genie3",
+    "weight": 1
+  },
+  {
+    "source": "#Automotive",
+    "target": "#Genie3",
+    "weight": 1
+  },
+  {
+    "source": "#AutonomousVehicles",
+    "target": "#SelfDrivingCars",
+    "weight": 1
+  },
+  {
+    "source": "#AutonomousVehicles",
+    "target": "#WorldModels",
+    "weight": 1
+  },
+  {
+    "source": "#AutonomousVehicles",
+    "target": "#GeneAI",
+    "weight": 1
+  },
+  {
+    "source": "#AIModels",
+    "target": "#AutonomousVehicles",
+    "weight": 1
+  },
+  {
+    "source": "#AutonomousVehicles",
+    "target": "#DeepMind",
+    "weight": 1
+  },
+  {
+    "source": "#Alphabet",
+    "target": "#AutonomousVehicles",
+    "weight": 1
+  },
+  {
+    "source": "#Automotive",
+    "target": "#AutonomousVehicles",
+    "weight": 1
+  },
+  {
+    "source": "#SelfDrivingCars",
+    "target": "#WorldModels",
+    "weight": 1
+  },
+  {
+    "source": "#GeneAI",
+    "target": "#SelfDrivingCars",
+    "weight": 1
+  },
+  {
+    "source": "#AIModels",
+    "target": "#SelfDrivingCars",
+    "weight": 1
+  },
+  {
+    "source": "#DeepMind",
+    "target": "#SelfDrivingCars",
+    "weight": 1
+  },
+  {
+    "source": "#Alphabet",
+    "target": "#SelfDrivingCars",
+    "weight": 1
+  },
+  {
+    "source": "#Automotive",
+    "target": "#SelfDrivingCars",
+    "weight": 1
+  },
+  {
+    "source": "#GeneAI",
+    "target": "#WorldModels",
+    "weight": 1
+  },
+  {
+    "source": "#AIModels",
+    "target": "#WorldModels",
+    "weight": 1
+  },
+  {
+    "source": "#DeepMind",
+    "target": "#WorldModels",
+    "weight": 1
+  },
+  {
+    "source": "#Alphabet",
+    "target": "#WorldModels",
+    "weight": 1
+  },
+  {
+    "source": "#Automotive",
+    "target": "#WorldModels",
+    "weight": 1
+  },
+  {
+    "source": "#AIModels",
+    "target": "#GeneAI",
+    "weight": 1
+  },
+  {
+    "source": "#DeepMind",
+    "target": "#GeneAI",
+    "weight": 1
+  },
+  {
+    "source": "#Alphabet",
+    "target": "#GeneAI",
+    "weight": 1
+  },
+  {
+    "source": "#Automotive",
+    "target": "#GeneAI",
+    "weight": 1
+  },
+  {
+    "source": "#AIModels",
+    "target": "#DeepMind",
+    "weight": 1
+  },
+  {
+    "source": "#AIModels",
+    "target": "#Alphabet",
+    "weight": 1
+  },
+  {
+    "source": "#AIModels",
+    "target": "#Automotive",
+    "weight": 1
+  },
+  {
+    "source": "#Alphabet",
+    "target": "#DeepMind",
+    "weight": 1
+  },
+  {
+    "source": "#Automotive",
+    "target": "#DeepMind",
+    "weight": 1
+  },
+  {
+    "source": "#Alphabet",
+    "target": "#Automotive",
+    "weight": 1
+  },
+  {
+    "source": "#Luddites",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#Waymo",
+    "target": "#autonomous",
+    "weight": 1
+  },
+  {
+    "source": "#Waymo",
+    "target": "#selfdriving",
+    "weight": 1
+  },
+  {
+    "source": "#Luddites",
+    "target": "#autonomous",
+    "weight": 1
+  },
+  {
+    "source": "#Luddites",
+    "target": "#selfdriving",
+    "weight": 1
+  },
+  {
+    "source": "#autonomous",
+    "target": "#selfdriving",
+    "weight": 1
+  },
+  {
+    "source": "#sex",
+    "target": "#쓰리썸",
+    "weight": 1
+  },
+  {
+    "source": "#sex",
+    "target": "#야외노출",
+    "weight": 1
+  },
+  {
+    "source": "#sex",
+    "target": "#관클",
+    "weight": 1
+  },
+  {
+    "source": "#sex",
+    "target": "#관전클럽",
+    "weight": 1
+  },
+  {
+    "source": "#sex",
+    "target": "#갱뱅",
+    "weight": 1
+  },
+  {
+    "source": "#3some",
+    "target": "#sex",
+    "weight": 1
+  },
+  {
+    "source": "#sex",
+    "target": "#섹블",
+    "weight": 1
+  },
+  {
+    "source": "#nude",
+    "target": "#sex",
+    "weight": 2
+  },
+  {
+    "source": "#sex",
+    "target": "#시오후키",
+    "weight": 1
+  },
+  {
+    "source": "#sex",
+    "target": "#외국인",
+    "weight": 1
+  },
+  {
+    "source": "#sex",
+    "target": "#변태",
+    "weight": 1
+  },
+  {
+    "source": "#sex",
+    "target": "#셀카",
+    "weight": 1
+  },
+  {
+    "source": "#sex",
+    "target": "#비키니",
+    "weight": 1
+  },
+  {
+    "source": "#selfphoto",
+    "target": "#sex",
+    "weight": 1
+  },
+  {
+    "source": "#exhibitionism",
+    "target": "#sex",
+    "weight": 1
+  },
+  {
+    "source": "#sex",
+    "target": "#강간플",
+    "weight": 1
+  },
+  {
+    "source": "#sex",
+    "target": "#sm",
+    "weight": 1
+  },
+  {
+    "source": "#sex",
+    "target": "#노출증",
+    "weight": 1
+  },
+  {
+    "source": "#sex",
+    "target": "#섹파",
+    "weight": 1
+  },
+  {
+    "source": "#sex",
+    "target": "#누드",
+    "weight": 1
+  },
+  {
+    "source": "#sex",
+    "target": "#화보",
+    "weight": 1
+  },
+  {
+    "source": "#sex",
+    "target": "#동영상",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#sex",
+    "weight": 1
+  },
+  {
+    "source": "#sex",
+    "target": "#속옷",
+    "weight": 1
+  },
+  {
+    "source": "#porn",
+    "target": "#sex",
+    "weight": 1
+  },
+  {
+    "source": "#쓰리썸",
+    "target": "#야외노출",
+    "weight": 1
+  },
+  {
+    "source": "#관클",
+    "target": "#쓰리썸",
+    "weight": 1
+  },
+  {
+    "source": "#관전클럽",
+    "target": "#쓰리썸",
+    "weight": 1
+  },
+  {
+    "source": "#갱뱅",
+    "target": "#쓰리썸",
+    "weight": 1
+  },
+  {
+    "source": "#3some",
+    "target": "#쓰리썸",
+    "weight": 1
+  },
+  {
+    "source": "#섹블",
+    "target": "#쓰리썸",
+    "weight": 1
+  },
+  {
+    "source": "#nude",
+    "target": "#쓰리썸",
+    "weight": 2
+  },
+  {
+    "source": "#시오후키",
+    "target": "#쓰리썸",
+    "weight": 1
+  },
+  {
+    "source": "#쓰리썸",
+    "target": "#외국인",
+    "weight": 1
+  },
+  {
+    "source": "#변태",
+    "target": "#쓰리썸",
+    "weight": 1
+  },
+  {
+    "source": "#셀카",
+    "target": "#쓰리썸",
+    "weight": 1
+  },
+  {
+    "source": "#비키니",
+    "target": "#쓰리썸",
+    "weight": 1
+  },
+  {
+    "source": "#selfphoto",
+    "target": "#쓰리썸",
+    "weight": 1
+  },
+  {
+    "source": "#exhibitionism",
+    "target": "#쓰리썸",
+    "weight": 1
+  },
+  {
+    "source": "#강간플",
+    "target": "#쓰리썸",
+    "weight": 1
+  },
+  {
+    "source": "#sm",
+    "target": "#쓰리썸",
+    "weight": 1
+  },
+  {
+    "source": "#노출증",
+    "target": "#쓰리썸",
+    "weight": 1
+  },
+  {
+    "source": "#섹파",
+    "target": "#쓰리썸",
+    "weight": 1
+  },
+  {
+    "source": "#누드",
+    "target": "#쓰리썸",
+    "weight": 1
+  },
+  {
+    "source": "#쓰리썸",
+    "target": "#화보",
+    "weight": 1
+  },
+  {
+    "source": "#동영상",
+    "target": "#쓰리썸",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#쓰리썸",
+    "weight": 1
+  },
+  {
+    "source": "#속옷",
+    "target": "#쓰리썸",
+    "weight": 1
+  },
+  {
+    "source": "#porn",
+    "target": "#쓰리썸",
+    "weight": 1
+  },
+  {
+    "source": "#관클",
+    "target": "#야외노출",
+    "weight": 1
+  },
+  {
+    "source": "#관전클럽",
+    "target": "#야외노출",
+    "weight": 1
+  },
+  {
+    "source": "#갱뱅",
+    "target": "#야외노출",
+    "weight": 1
+  },
+  {
+    "source": "#3some",
+    "target": "#야외노출",
+    "weight": 1
+  },
+  {
+    "source": "#섹블",
+    "target": "#야외노출",
+    "weight": 1
+  },
+  {
+    "source": "#nude",
+    "target": "#야외노출",
+    "weight": 2
+  },
+  {
+    "source": "#시오후키",
+    "target": "#야외노출",
+    "weight": 1
+  },
+  {
+    "source": "#야외노출",
+    "target": "#외국인",
+    "weight": 1
+  },
+  {
+    "source": "#변태",
+    "target": "#야외노출",
+    "weight": 1
+  },
+  {
+    "source": "#셀카",
+    "target": "#야외노출",
+    "weight": 1
+  },
+  {
+    "source": "#비키니",
+    "target": "#야외노출",
+    "weight": 1
+  },
+  {
+    "source": "#selfphoto",
+    "target": "#야외노출",
+    "weight": 1
+  },
+  {
+    "source": "#exhibitionism",
+    "target": "#야외노출",
+    "weight": 1
+  },
+  {
+    "source": "#강간플",
+    "target": "#야외노출",
+    "weight": 1
+  },
+  {
+    "source": "#sm",
+    "target": "#야외노출",
+    "weight": 1
+  },
+  {
+    "source": "#노출증",
+    "target": "#야외노출",
+    "weight": 1
+  },
+  {
+    "source": "#섹파",
+    "target": "#야외노출",
+    "weight": 1
+  },
+  {
+    "source": "#누드",
+    "target": "#야외노출",
+    "weight": 1
+  },
+  {
+    "source": "#야외노출",
+    "target": "#화보",
+    "weight": 1
+  },
+  {
+    "source": "#동영상",
+    "target": "#야외노출",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#야외노출",
+    "weight": 1
+  },
+  {
+    "source": "#속옷",
+    "target": "#야외노출",
+    "weight": 1
+  },
+  {
+    "source": "#porn",
+    "target": "#야외노출",
+    "weight": 1
+  },
+  {
+    "source": "#관전클럽",
+    "target": "#관클",
+    "weight": 1
+  },
+  {
+    "source": "#갱뱅",
+    "target": "#관클",
+    "weight": 1
+  },
+  {
+    "source": "#3some",
+    "target": "#관클",
+    "weight": 1
+  },
+  {
+    "source": "#관클",
+    "target": "#섹블",
+    "weight": 1
+  },
+  {
+    "source": "#nude",
+    "target": "#관클",
+    "weight": 2
+  },
+  {
+    "source": "#관클",
+    "target": "#시오후키",
+    "weight": 1
+  },
+  {
+    "source": "#관클",
+    "target": "#외국인",
+    "weight": 1
+  },
+  {
+    "source": "#관클",
+    "target": "#변태",
+    "weight": 1
+  },
+  {
+    "source": "#관클",
+    "target": "#셀카",
+    "weight": 1
+  },
+  {
+    "source": "#관클",
+    "target": "#비키니",
+    "weight": 1
+  },
+  {
+    "source": "#selfphoto",
+    "target": "#관클",
+    "weight": 1
+  },
+  {
+    "source": "#exhibitionism",
+    "target": "#관클",
+    "weight": 1
+  },
+  {
+    "source": "#강간플",
+    "target": "#관클",
+    "weight": 1
+  },
+  {
+    "source": "#sm",
+    "target": "#관클",
+    "weight": 1
+  },
+  {
+    "source": "#관클",
+    "target": "#노출증",
+    "weight": 1
+  },
+  {
+    "source": "#관클",
+    "target": "#섹파",
+    "weight": 1
+  },
+  {
+    "source": "#관클",
+    "target": "#누드",
+    "weight": 1
+  },
+  {
+    "source": "#관클",
+    "target": "#화보",
+    "weight": 1
+  },
+  {
+    "source": "#관클",
+    "target": "#동영상",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#관클",
+    "weight": 1
+  },
+  {
+    "source": "#관클",
+    "target": "#속옷",
+    "weight": 1
+  },
+  {
+    "source": "#porn",
+    "target": "#관클",
+    "weight": 1
+  },
+  {
+    "source": "#갱뱅",
+    "target": "#관전클럽",
+    "weight": 1
+  },
+  {
+    "source": "#3some",
+    "target": "#관전클럽",
+    "weight": 1
+  },
+  {
+    "source": "#관전클럽",
+    "target": "#섹블",
+    "weight": 1
+  },
+  {
+    "source": "#nude",
+    "target": "#관전클럽",
+    "weight": 2
+  },
+  {
+    "source": "#관전클럽",
+    "target": "#시오후키",
+    "weight": 1
+  },
+  {
+    "source": "#관전클럽",
+    "target": "#외국인",
+    "weight": 1
+  },
+  {
+    "source": "#관전클럽",
+    "target": "#변태",
+    "weight": 1
+  },
+  {
+    "source": "#관전클럽",
+    "target": "#셀카",
+    "weight": 1
+  },
+  {
+    "source": "#관전클럽",
+    "target": "#비키니",
+    "weight": 1
+  },
+  {
+    "source": "#selfphoto",
+    "target": "#관전클럽",
+    "weight": 1
+  },
+  {
+    "source": "#exhibitionism",
+    "target": "#관전클럽",
+    "weight": 1
+  },
+  {
+    "source": "#강간플",
+    "target": "#관전클럽",
+    "weight": 1
+  },
+  {
+    "source": "#sm",
+    "target": "#관전클럽",
+    "weight": 1
+  },
+  {
+    "source": "#관전클럽",
+    "target": "#노출증",
+    "weight": 1
+  },
+  {
+    "source": "#관전클럽",
+    "target": "#섹파",
+    "weight": 1
+  },
+  {
+    "source": "#관전클럽",
+    "target": "#누드",
+    "weight": 1
+  },
+  {
+    "source": "#관전클럽",
+    "target": "#화보",
+    "weight": 1
+  },
+  {
+    "source": "#관전클럽",
+    "target": "#동영상",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#관전클럽",
+    "weight": 1
+  },
+  {
+    "source": "#관전클럽",
+    "target": "#속옷",
+    "weight": 1
+  },
+  {
+    "source": "#porn",
+    "target": "#관전클럽",
+    "weight": 1
+  },
+  {
+    "source": "#3some",
+    "target": "#갱뱅",
+    "weight": 1
+  },
+  {
+    "source": "#갱뱅",
+    "target": "#섹블",
+    "weight": 1
+  },
+  {
+    "source": "#nude",
+    "target": "#갱뱅",
+    "weight": 2
+  },
+  {
+    "source": "#갱뱅",
+    "target": "#시오후키",
+    "weight": 1
+  },
+  {
+    "source": "#갱뱅",
+    "target": "#외국인",
+    "weight": 1
+  },
+  {
+    "source": "#갱뱅",
+    "target": "#변태",
+    "weight": 1
+  },
+  {
+    "source": "#갱뱅",
+    "target": "#셀카",
+    "weight": 1
+  },
+  {
+    "source": "#갱뱅",
+    "target": "#비키니",
+    "weight": 1
+  },
+  {
+    "source": "#selfphoto",
+    "target": "#갱뱅",
+    "weight": 1
+  },
+  {
+    "source": "#exhibitionism",
+    "target": "#갱뱅",
+    "weight": 1
+  },
+  {
+    "source": "#강간플",
+    "target": "#갱뱅",
+    "weight": 1
+  },
+  {
+    "source": "#sm",
+    "target": "#갱뱅",
+    "weight": 1
+  },
+  {
+    "source": "#갱뱅",
+    "target": "#노출증",
+    "weight": 1
+  },
+  {
+    "source": "#갱뱅",
+    "target": "#섹파",
+    "weight": 1
+  },
+  {
+    "source": "#갱뱅",
+    "target": "#누드",
+    "weight": 1
+  },
+  {
+    "source": "#갱뱅",
+    "target": "#화보",
+    "weight": 1
+  },
+  {
+    "source": "#갱뱅",
+    "target": "#동영상",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#갱뱅",
+    "weight": 1
+  },
+  {
+    "source": "#갱뱅",
+    "target": "#속옷",
+    "weight": 1
+  },
+  {
+    "source": "#porn",
+    "target": "#갱뱅",
+    "weight": 1
+  },
+  {
+    "source": "#3some",
+    "target": "#섹블",
+    "weight": 1
+  },
+  {
+    "source": "#3some",
+    "target": "#nude",
+    "weight": 2
+  },
+  {
+    "source": "#3some",
+    "target": "#시오후키",
+    "weight": 1
+  },
+  {
+    "source": "#3some",
+    "target": "#외국인",
+    "weight": 1
+  },
+  {
+    "source": "#3some",
+    "target": "#변태",
+    "weight": 1
+  },
+  {
+    "source": "#3some",
+    "target": "#셀카",
+    "weight": 1
+  },
+  {
+    "source": "#3some",
+    "target": "#비키니",
+    "weight": 1
+  },
+  {
+    "source": "#3some",
+    "target": "#selfphoto",
+    "weight": 1
+  },
+  {
+    "source": "#3some",
+    "target": "#exhibitionism",
+    "weight": 1
+  },
+  {
+    "source": "#3some",
+    "target": "#강간플",
+    "weight": 1
+  },
+  {
+    "source": "#3some",
+    "target": "#sm",
+    "weight": 1
+  },
+  {
+    "source": "#3some",
+    "target": "#노출증",
+    "weight": 1
+  },
+  {
+    "source": "#3some",
+    "target": "#섹파",
+    "weight": 1
+  },
+  {
+    "source": "#3some",
+    "target": "#누드",
+    "weight": 1
+  },
+  {
+    "source": "#3some",
+    "target": "#화보",
+    "weight": 1
+  },
+  {
+    "source": "#3some",
+    "target": "#동영상",
+    "weight": 1
+  },
+  {
+    "source": "#3some",
+    "target": "#AV",
+    "weight": 1
+  },
+  {
+    "source": "#3some",
+    "target": "#속옷",
+    "weight": 1
+  },
+  {
+    "source": "#3some",
+    "target": "#porn",
+    "weight": 1
+  },
+  {
+    "source": "#nude",
+    "target": "#섹블",
+    "weight": 2
+  },
+  {
+    "source": "#섹블",
+    "target": "#시오후키",
+    "weight": 1
+  },
+  {
+    "source": "#섹블",
+    "target": "#외국인",
+    "weight": 1
+  },
+  {
+    "source": "#변태",
+    "target": "#섹블",
+    "weight": 1
+  },
+  {
+    "source": "#섹블",
+    "target": "#셀카",
+    "weight": 1
+  },
+  {
+    "source": "#비키니",
+    "target": "#섹블",
+    "weight": 1
+  },
+  {
+    "source": "#selfphoto",
+    "target": "#섹블",
+    "weight": 1
+  },
+  {
+    "source": "#exhibitionism",
+    "target": "#섹블",
+    "weight": 1
+  },
+  {
+    "source": "#강간플",
+    "target": "#섹블",
+    "weight": 1
+  },
+  {
+    "source": "#sm",
+    "target": "#섹블",
+    "weight": 1
+  },
+  {
+    "source": "#노출증",
+    "target": "#섹블",
+    "weight": 1
+  },
+  {
+    "source": "#섹블",
+    "target": "#섹파",
+    "weight": 1
+  },
+  {
+    "source": "#누드",
+    "target": "#섹블",
+    "weight": 1
+  },
+  {
+    "source": "#섹블",
+    "target": "#화보",
+    "weight": 1
+  },
+  {
+    "source": "#동영상",
+    "target": "#섹블",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#섹블",
+    "weight": 1
+  },
+  {
+    "source": "#섹블",
+    "target": "#속옷",
+    "weight": 1
+  },
+  {
+    "source": "#porn",
+    "target": "#섹블",
+    "weight": 1
+  },
+  {
+    "source": "#nude",
+    "target": "#시오후키",
+    "weight": 2
+  },
+  {
+    "source": "#nude",
+    "target": "#외국인",
+    "weight": 2
+  },
+  {
+    "source": "#nude",
+    "target": "#변태",
+    "weight": 2
+  },
+  {
+    "source": "#nude",
+    "target": "#셀카",
+    "weight": 2
+  },
+  {
+    "source": "#nude",
+    "target": "#비키니",
+    "weight": 2
+  },
+  {
+    "source": "#nude",
+    "target": "#selfphoto",
+    "weight": 2
+  },
+  {
+    "source": "#exhibitionism",
+    "target": "#nude",
+    "weight": 2
+  },
+  {
+    "source": "#nude",
+    "target": "#강간플",
+    "weight": 2
+  },
+  {
+    "source": "#nude",
+    "target": "#sm",
+    "weight": 2
+  },
+  {
+    "source": "#nude",
+    "target": "#노출증",
+    "weight": 2
+  },
+  {
+    "source": "#nude",
+    "target": "#섹파",
+    "weight": 2
+  },
+  {
+    "source": "#nude",
+    "target": "#누드",
+    "weight": 2
+  },
+  {
+    "source": "#nude",
+    "target": "#화보",
+    "weight": 2
+  },
+  {
+    "source": "#nude",
+    "target": "#동영상",
+    "weight": 2
+  },
+  {
+    "source": "#AV",
+    "target": "#nude",
+    "weight": 2
+  },
+  {
+    "source": "#nude",
+    "target": "#속옷",
+    "weight": 2
+  },
+  {
+    "source": "#nude",
+    "target": "#nude",
+    "weight": 1
+  },
+  {
+    "source": "#nude",
+    "target": "#porn",
+    "weight": 2
+  },
+  {
+    "source": "#시오후키",
+    "target": "#외국인",
+    "weight": 1
+  },
+  {
+    "source": "#변태",
+    "target": "#시오후키",
+    "weight": 1
+  },
+  {
+    "source": "#셀카",
+    "target": "#시오후키",
+    "weight": 1
+  },
+  {
+    "source": "#비키니",
+    "target": "#시오후키",
+    "weight": 1
+  },
+  {
+    "source": "#selfphoto",
+    "target": "#시오후키",
+    "weight": 1
+  },
+  {
+    "source": "#exhibitionism",
+    "target": "#시오후키",
+    "weight": 1
+  },
+  {
+    "source": "#강간플",
+    "target": "#시오후키",
+    "weight": 1
+  },
+  {
+    "source": "#sm",
+    "target": "#시오후키",
+    "weight": 1
+  },
+  {
+    "source": "#노출증",
+    "target": "#시오후키",
+    "weight": 1
+  },
+  {
+    "source": "#섹파",
+    "target": "#시오후키",
+    "weight": 1
+  },
+  {
+    "source": "#누드",
+    "target": "#시오후키",
+    "weight": 1
+  },
+  {
+    "source": "#시오후키",
+    "target": "#화보",
+    "weight": 1
+  },
+  {
+    "source": "#동영상",
+    "target": "#시오후키",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#시오후키",
+    "weight": 1
+  },
+  {
+    "source": "#속옷",
+    "target": "#시오후키",
+    "weight": 1
+  },
+  {
+    "source": "#porn",
+    "target": "#시오후키",
+    "weight": 1
+  },
+  {
+    "source": "#변태",
+    "target": "#외국인",
+    "weight": 1
+  },
+  {
+    "source": "#셀카",
+    "target": "#외국인",
+    "weight": 1
+  },
+  {
+    "source": "#비키니",
+    "target": "#외국인",
+    "weight": 1
+  },
+  {
+    "source": "#selfphoto",
+    "target": "#외국인",
+    "weight": 1
+  },
+  {
+    "source": "#exhibitionism",
+    "target": "#외국인",
+    "weight": 1
+  },
+  {
+    "source": "#강간플",
+    "target": "#외국인",
+    "weight": 1
+  },
+  {
+    "source": "#sm",
+    "target": "#외국인",
+    "weight": 1
+  },
+  {
+    "source": "#노출증",
+    "target": "#외국인",
+    "weight": 1
+  },
+  {
+    "source": "#섹파",
+    "target": "#외국인",
+    "weight": 1
+  },
+  {
+    "source": "#누드",
+    "target": "#외국인",
+    "weight": 1
+  },
+  {
+    "source": "#외국인",
+    "target": "#화보",
+    "weight": 1
+  },
+  {
+    "source": "#동영상",
+    "target": "#외국인",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#외국인",
+    "weight": 1
+  },
+  {
+    "source": "#속옷",
+    "target": "#외국인",
+    "weight": 1
+  },
+  {
+    "source": "#porn",
+    "target": "#외국인",
+    "weight": 1
+  },
+  {
+    "source": "#변태",
+    "target": "#셀카",
+    "weight": 1
+  },
+  {
+    "source": "#변태",
+    "target": "#비키니",
+    "weight": 1
+  },
+  {
+    "source": "#selfphoto",
+    "target": "#변태",
+    "weight": 1
+  },
+  {
+    "source": "#exhibitionism",
+    "target": "#변태",
+    "weight": 1
+  },
+  {
+    "source": "#강간플",
+    "target": "#변태",
+    "weight": 1
+  },
+  {
+    "source": "#sm",
+    "target": "#변태",
+    "weight": 1
+  },
+  {
+    "source": "#노출증",
+    "target": "#변태",
+    "weight": 1
+  },
+  {
+    "source": "#변태",
+    "target": "#섹파",
+    "weight": 1
+  },
+  {
+    "source": "#누드",
+    "target": "#변태",
+    "weight": 1
+  },
+  {
+    "source": "#변태",
+    "target": "#화보",
+    "weight": 1
+  },
+  {
+    "source": "#동영상",
+    "target": "#변태",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#변태",
+    "weight": 1
+  },
+  {
+    "source": "#변태",
+    "target": "#속옷",
+    "weight": 1
+  },
+  {
+    "source": "#porn",
+    "target": "#변태",
+    "weight": 1
+  },
+  {
+    "source": "#비키니",
+    "target": "#셀카",
+    "weight": 1
+  },
+  {
+    "source": "#selfphoto",
+    "target": "#셀카",
+    "weight": 1
+  },
+  {
+    "source": "#exhibitionism",
+    "target": "#셀카",
+    "weight": 1
+  },
+  {
+    "source": "#강간플",
+    "target": "#셀카",
+    "weight": 1
+  },
+  {
+    "source": "#sm",
+    "target": "#셀카",
+    "weight": 1
+  },
+  {
+    "source": "#노출증",
+    "target": "#셀카",
+    "weight": 1
+  },
+  {
+    "source": "#섹파",
+    "target": "#셀카",
+    "weight": 1
+  },
+  {
+    "source": "#누드",
+    "target": "#셀카",
+    "weight": 1
+  },
+  {
+    "source": "#셀카",
+    "target": "#화보",
+    "weight": 1
+  },
+  {
+    "source": "#동영상",
+    "target": "#셀카",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#셀카",
+    "weight": 1
+  },
+  {
+    "source": "#셀카",
+    "target": "#속옷",
+    "weight": 1
+  },
+  {
+    "source": "#porn",
+    "target": "#셀카",
+    "weight": 1
+  },
+  {
+    "source": "#selfphoto",
+    "target": "#비키니",
+    "weight": 1
+  },
+  {
+    "source": "#exhibitionism",
+    "target": "#비키니",
+    "weight": 1
+  },
+  {
+    "source": "#강간플",
+    "target": "#비키니",
+    "weight": 1
+  },
+  {
+    "source": "#sm",
+    "target": "#비키니",
+    "weight": 1
+  },
+  {
+    "source": "#노출증",
+    "target": "#비키니",
+    "weight": 1
+  },
+  {
+    "source": "#비키니",
+    "target": "#섹파",
+    "weight": 1
+  },
+  {
+    "source": "#누드",
+    "target": "#비키니",
+    "weight": 1
+  },
+  {
+    "source": "#비키니",
+    "target": "#화보",
+    "weight": 1
+  },
+  {
+    "source": "#동영상",
+    "target": "#비키니",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#비키니",
+    "weight": 1
+  },
+  {
+    "source": "#비키니",
+    "target": "#속옷",
+    "weight": 1
+  },
+  {
+    "source": "#porn",
+    "target": "#비키니",
+    "weight": 1
+  },
+  {
+    "source": "#exhibitionism",
+    "target": "#selfphoto",
+    "weight": 1
+  },
+  {
+    "source": "#selfphoto",
+    "target": "#강간플",
+    "weight": 1
+  },
+  {
+    "source": "#selfphoto",
+    "target": "#sm",
+    "weight": 1
+  },
+  {
+    "source": "#selfphoto",
+    "target": "#노출증",
+    "weight": 1
+  },
+  {
+    "source": "#selfphoto",
+    "target": "#섹파",
+    "weight": 1
+  },
+  {
+    "source": "#selfphoto",
+    "target": "#누드",
+    "weight": 1
+  },
+  {
+    "source": "#selfphoto",
+    "target": "#화보",
+    "weight": 1
+  },
+  {
+    "source": "#selfphoto",
+    "target": "#동영상",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#selfphoto",
+    "weight": 1
+  },
+  {
+    "source": "#selfphoto",
+    "target": "#속옷",
+    "weight": 1
+  },
+  {
+    "source": "#porn",
+    "target": "#selfphoto",
+    "weight": 1
+  },
+  {
+    "source": "#exhibitionism",
+    "target": "#강간플",
+    "weight": 1
+  },
+  {
+    "source": "#exhibitionism",
+    "target": "#sm",
+    "weight": 1
+  },
+  {
+    "source": "#exhibitionism",
+    "target": "#노출증",
+    "weight": 1
+  },
+  {
+    "source": "#exhibitionism",
+    "target": "#섹파",
+    "weight": 1
+  },
+  {
+    "source": "#exhibitionism",
+    "target": "#누드",
+    "weight": 1
+  },
+  {
+    "source": "#exhibitionism",
+    "target": "#화보",
+    "weight": 1
+  },
+  {
+    "source": "#exhibitionism",
+    "target": "#동영상",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#exhibitionism",
+    "weight": 1
+  },
+  {
+    "source": "#exhibitionism",
+    "target": "#속옷",
+    "weight": 1
+  },
+  {
+    "source": "#exhibitionism",
+    "target": "#porn",
+    "weight": 1
+  },
+  {
+    "source": "#sm",
+    "target": "#강간플",
+    "weight": 1
+  },
+  {
+    "source": "#강간플",
+    "target": "#노출증",
+    "weight": 1
+  },
+  {
+    "source": "#강간플",
+    "target": "#섹파",
+    "weight": 1
+  },
+  {
+    "source": "#강간플",
+    "target": "#누드",
+    "weight": 1
+  },
+  {
+    "source": "#강간플",
+    "target": "#화보",
+    "weight": 1
+  },
+  {
+    "source": "#강간플",
+    "target": "#동영상",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#강간플",
+    "weight": 1
+  },
+  {
+    "source": "#강간플",
+    "target": "#속옷",
+    "weight": 1
+  },
+  {
+    "source": "#porn",
+    "target": "#강간플",
+    "weight": 1
+  },
+  {
+    "source": "#sm",
+    "target": "#노출증",
+    "weight": 1
+  },
+  {
+    "source": "#sm",
+    "target": "#섹파",
+    "weight": 1
+  },
+  {
+    "source": "#sm",
+    "target": "#누드",
+    "weight": 1
+  },
+  {
+    "source": "#sm",
+    "target": "#화보",
+    "weight": 1
+  },
+  {
+    "source": "#sm",
+    "target": "#동영상",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#sm",
+    "weight": 1
+  },
+  {
+    "source": "#sm",
+    "target": "#속옷",
+    "weight": 1
+  },
+  {
+    "source": "#porn",
+    "target": "#sm",
+    "weight": 1
+  },
+  {
+    "source": "#노출증",
+    "target": "#섹파",
+    "weight": 1
+  },
+  {
+    "source": "#노출증",
+    "target": "#누드",
+    "weight": 1
+  },
+  {
+    "source": "#노출증",
+    "target": "#화보",
+    "weight": 1
+  },
+  {
+    "source": "#노출증",
+    "target": "#동영상",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#노출증",
+    "weight": 1
+  },
+  {
+    "source": "#노출증",
+    "target": "#속옷",
+    "weight": 1
+  },
+  {
+    "source": "#porn",
+    "target": "#노출증",
+    "weight": 1
+  },
+  {
+    "source": "#누드",
+    "target": "#섹파",
+    "weight": 1
+  },
+  {
+    "source": "#섹파",
+    "target": "#화보",
+    "weight": 1
+  },
+  {
+    "source": "#동영상",
+    "target": "#섹파",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#섹파",
+    "weight": 1
+  },
+  {
+    "source": "#섹파",
+    "target": "#속옷",
+    "weight": 1
+  },
+  {
+    "source": "#porn",
+    "target": "#섹파",
+    "weight": 1
+  },
+  {
+    "source": "#누드",
+    "target": "#화보",
+    "weight": 1
+  },
+  {
+    "source": "#누드",
+    "target": "#동영상",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#누드",
+    "weight": 1
+  },
+  {
+    "source": "#누드",
+    "target": "#속옷",
+    "weight": 1
+  },
+  {
+    "source": "#porn",
+    "target": "#누드",
+    "weight": 1
+  },
+  {
+    "source": "#동영상",
+    "target": "#화보",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#화보",
+    "weight": 1
+  },
+  {
+    "source": "#속옷",
+    "target": "#화보",
+    "weight": 1
+  },
+  {
+    "source": "#porn",
+    "target": "#화보",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#동영상",
+    "weight": 1
+  },
+  {
+    "source": "#동영상",
+    "target": "#속옷",
+    "weight": 1
+  },
+  {
+    "source": "#porn",
+    "target": "#동영상",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#속옷",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#porn",
+    "weight": 1
+  },
+  {
+    "source": "#porn",
+    "target": "#속옷",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#Zenn",
+    "weight": 1
+  },
+  {
+    "source": "#Tech",
+    "target": "#Zenn",
+    "weight": 1
+  },
+  {
+    "source": "#IsabelVeloso",
+    "target": "#PriscilaKiekow",
+    "weight": 1
+  },
+  {
+    "source": "#DawnsBlood",
+    "target": "#WIPSnips",
+    "weight": 1
+  },
+  {
+    "source": "#DawnsBlood",
+    "target": "#WriteSky",
+    "weight": 1
+  },
+  {
+    "source": "#DawnsBlood",
+    "target": "#WritingCommunity",
+    "weight": 1
+  },
+  {
+    "source": "#DawnsBlood",
+    "target": "#WritingPrompts",
+    "weight": 1
+  },
+  {
+    "source": "#WIPSnips",
+    "target": "#WriteSky",
+    "weight": 1
+  },
+  {
+    "source": "#WIPSnips",
+    "target": "#WritingCommunity",
+    "weight": 1
+  },
+  {
+    "source": "#WIPSnips",
+    "target": "#WritingPrompts",
+    "weight": 1
+  },
+  {
+    "source": "#WriteSky",
+    "target": "#WritingCommunity",
+    "weight": 1
+  },
+  {
+    "source": "#WriteSky",
+    "target": "#WritingPrompts",
+    "weight": 1
+  },
+  {
+    "source": "#WritingCommunity",
+    "target": "#WritingPrompts",
+    "weight": 1
+  },
+  {
+    "source": "#lyrikklørdag",
+    "target": "#styrkepoesi",
+    "weight": 1
+  },
+  {
+    "source": "#AndreBjerke",
+    "target": "#styrkepoesi",
+    "weight": 1
+  },
+  {
+    "source": "#AndreBjerke",
+    "target": "#lyrikklørdag",
+    "weight": 1
+  },
+  {
+    "source": "#달달한밤접속",
+    "target": "#벌칙",
+    "weight": 1
+  },
+  {
+    "source": "#달달한밤접속",
+    "target": "#서울게이",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#달달한밤접속",
+    "weight": 1
+  },
+  {
+    "source": "#벌칙",
+    "target": "#서울게이",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#벌칙",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#서울게이",
+    "weight": 1
+  },
+  {
+    "source": "#hiring",
+    "target": "#python",
+    "weight": 1
+  },
+  {
+    "source": "#hiring",
+    "target": "#softwareengineer",
+    "weight": 1
+  },
+  {
+    "source": "#docker",
+    "target": "#hiring",
+    "weight": 1
+  },
+  {
+    "source": "#hiring",
+    "target": "#terraform",
+    "weight": 1
+  },
+  {
+    "source": "#jobalert",
+    "target": "#python",
+    "weight": 1
+  },
+  {
+    "source": "#jobalert",
+    "target": "#softwareengineer",
+    "weight": 1
+  },
+  {
+    "source": "#docker",
+    "target": "#jobalert",
+    "weight": 1
+  },
+  {
+    "source": "#jobalert",
+    "target": "#terraform",
+    "weight": 1
+  },
+  {
+    "source": "#jobsearch",
+    "target": "#python",
+    "weight": 1
+  },
+  {
+    "source": "#jobsearch",
+    "target": "#softwareengineer",
+    "weight": 1
+  },
+  {
+    "source": "#docker",
+    "target": "#jobsearch",
+    "weight": 1
+  },
+  {
+    "source": "#jobsearch",
+    "target": "#terraform",
+    "weight": 1
+  },
+  {
+    "source": "#JobSeekers",
+    "target": "#python",
+    "weight": 1
+  },
+  {
+    "source": "#JobSeekers",
+    "target": "#softwareengineer",
+    "weight": 1
+  },
+  {
+    "source": "#JobSeekers",
+    "target": "#docker",
+    "weight": 1
+  },
+  {
+    "source": "#JobSeekers",
+    "target": "#terraform",
+    "weight": 1
+  },
+  {
+    "source": "#4dayworkweek",
+    "target": "#python",
+    "weight": 1
+  },
+  {
+    "source": "#4dayworkweek",
+    "target": "#softwareengineer",
+    "weight": 1
+  },
+  {
+    "source": "#4dayworkweek",
+    "target": "#docker",
+    "weight": 1
+  },
+  {
+    "source": "#4dayworkweek",
+    "target": "#terraform",
+    "weight": 1
+  },
+  {
+    "source": "#python",
+    "target": "#softwareengineer",
+    "weight": 1
+  },
+  {
+    "source": "#docker",
+    "target": "#python",
+    "weight": 1
+  },
+  {
+    "source": "#python",
+    "target": "#terraform",
+    "weight": 1
+  },
+  {
+    "source": "#design",
+    "target": "#python",
+    "weight": 1
+  },
+  {
+    "source": "#docker",
+    "target": "#softwareengineer",
+    "weight": 1
+  },
+  {
+    "source": "#softwareengineer",
+    "target": "#terraform",
+    "weight": 1
+  },
+  {
+    "source": "#design",
+    "target": "#softwareengineer",
+    "weight": 1
+  },
+  {
+    "source": "#docker",
+    "target": "#terraform",
+    "weight": 1
+  },
+  {
+    "source": "#design",
+    "target": "#docker",
+    "weight": 1
+  },
+  {
+    "source": "#design",
+    "target": "#terraform",
+    "weight": 1
+  },
+  {
+    "source": "#car",
+    "target": "#gay",
+    "weight": 1
+  },
+  {
+    "source": "#cruise",
+    "target": "#gay",
+    "weight": 1
+  },
+  {
+    "source": "#car",
+    "target": "#cruise",
+    "weight": 1
+  },
+  {
+    "source": "#GovernmentProcurement",
+    "target": "#VT",
+    "weight": 1
+  },
+  {
+    "source": "#CitizenPortal",
+    "target": "#VT",
+    "weight": 1
+  },
+  {
+    "source": "#ChildWelfare",
+    "target": "#VT",
+    "weight": 1
+  },
+  {
+    "source": "#VT",
+    "target": "#VermontChildren",
+    "weight": 1
+  },
+  {
+    "source": "#BudgetTransparency",
+    "target": "#VT",
+    "weight": 1
+  },
+  {
+    "source": "#CitizenPortal",
+    "target": "#GovernmentProcurement",
+    "weight": 1
+  },
+  {
+    "source": "#ChildWelfare",
+    "target": "#GovernmentProcurement",
+    "weight": 1
+  },
+  {
+    "source": "#GovernmentProcurement",
+    "target": "#VermontChildren",
+    "weight": 1
+  },
+  {
+    "source": "#BudgetTransparency",
+    "target": "#GovernmentProcurement",
+    "weight": 1
+  },
+  {
+    "source": "#ChildWelfare",
+    "target": "#CitizenPortal",
+    "weight": 1
+  },
+  {
+    "source": "#CitizenPortal",
+    "target": "#VermontChildren",
+    "weight": 1
+  },
+  {
+    "source": "#BudgetTransparency",
+    "target": "#CitizenPortal",
+    "weight": 1
+  },
+  {
+    "source": "#ChildWelfare",
+    "target": "#VermontChildren",
+    "weight": 1
+  },
+  {
+    "source": "#BudgetTransparency",
+    "target": "#ChildWelfare",
+    "weight": 1
+  },
+  {
+    "source": "#BudgetTransparency",
+    "target": "#VermontChildren",
+    "weight": 1
+  },
+  {
+    "source": "#AircraftMasturbator",
+    "target": "#CruiseMouth",
+    "weight": 1
+  },
+  {
+    "source": "#CruiseMouth",
+    "target": "#MasturbatorCup",
+    "weight": 1
+  },
+  {
+    "source": "#CruiseMouth",
+    "target": "#MaleToy",
+    "weight": 1
+  },
+  {
+    "source": "#CruiseMouth",
+    "target": "#MasturbationToy",
+    "weight": 1
+  },
+  {
+    "source": "#AdultProduct",
+    "target": "#CruiseMouth",
+    "weight": 1
+  },
+  {
+    "source": "#CruiseMouth",
+    "target": "#MenToy",
+    "weight": 1
+  },
+  {
+    "source": "#AircraftMasturbator",
+    "target": "#MasturbatorCup",
+    "weight": 1
+  },
+  {
+    "source": "#AdultToy",
+    "target": "#AircraftMasturbator",
+    "weight": 1
+  },
+  {
+    "source": "#AircraftMasturbator",
+    "target": "#SexToy",
+    "weight": 1
+  },
+  {
+    "source": "#AircraftMasturbator",
+    "target": "#MaleToy",
+    "weight": 1
+  },
+  {
+    "source": "#AircraftMasturbator",
+    "target": "#MasturbationToy",
+    "weight": 1
+  },
+  {
+    "source": "#AdultProduct",
+    "target": "#AircraftMasturbator",
+    "weight": 1
+  },
+  {
+    "source": "#AircraftMasturbator",
+    "target": "#SexualWellness",
+    "weight": 1
+  },
+  {
+    "source": "#AircraftMasturbator",
+    "target": "#MenToy",
+    "weight": 1
+  },
+  {
+    "source": "#AircraftMasturbator",
+    "target": "#PleasureProduct",
+    "weight": 1
+  },
+  {
+    "source": "#AdultToy",
+    "target": "#MasturbatorCup",
+    "weight": 1
+  },
+  {
+    "source": "#MasturbatorCup",
+    "target": "#SexToy",
+    "weight": 1
+  },
+  {
+    "source": "#MaleToy",
+    "target": "#MasturbatorCup",
+    "weight": 1
+  },
+  {
+    "source": "#MasturbationToy",
+    "target": "#MasturbatorCup",
+    "weight": 1
+  },
+  {
+    "source": "#AdultProduct",
+    "target": "#MasturbatorCup",
+    "weight": 1
+  },
+  {
+    "source": "#MasturbatorCup",
+    "target": "#SexualWellness",
+    "weight": 1
+  },
+  {
+    "source": "#MasturbatorCup",
+    "target": "#MenToy",
+    "weight": 1
+  },
+  {
+    "source": "#MasturbatorCup",
+    "target": "#PleasureProduct",
+    "weight": 1
+  },
+  {
+    "source": "#AdultToy",
+    "target": "#MaleToy",
+    "weight": 1
+  },
+  {
+    "source": "#AdultToy",
+    "target": "#MasturbationToy",
+    "weight": 1
+  },
+  {
+    "source": "#AdultProduct",
+    "target": "#AdultToy",
+    "weight": 1
+  },
+  {
+    "source": "#AdultToy",
+    "target": "#MenToy",
+    "weight": 1
+  },
+  {
+    "source": "#MaleToy",
+    "target": "#SexToy",
+    "weight": 1
+  },
+  {
+    "source": "#MasturbationToy",
+    "target": "#SexToy",
+    "weight": 1
+  },
+  {
+    "source": "#MenToy",
+    "target": "#SexToy",
+    "weight": 1
+  },
+  {
+    "source": "#MaleToy",
+    "target": "#MasturbationToy",
+    "weight": 1
+  },
+  {
+    "source": "#AdultProduct",
+    "target": "#MaleToy",
+    "weight": 1
+  },
+  {
+    "source": "#MaleToy",
+    "target": "#SexualWellness",
+    "weight": 1
+  },
+  {
+    "source": "#MaleToy",
+    "target": "#MenToy",
+    "weight": 1
+  },
+  {
+    "source": "#MaleToy",
+    "target": "#PleasureProduct",
+    "weight": 1
+  },
+  {
+    "source": "#AdultProduct",
+    "target": "#MasturbationToy",
+    "weight": 1
+  },
+  {
+    "source": "#MasturbationToy",
+    "target": "#SexualWellness",
+    "weight": 1
+  },
+  {
+    "source": "#MasturbationToy",
+    "target": "#MenToy",
+    "weight": 1
+  },
+  {
+    "source": "#MasturbationToy",
+    "target": "#PleasureProduct",
+    "weight": 1
+  },
+  {
+    "source": "#AdultProduct",
+    "target": "#SexualWellness",
+    "weight": 1
+  },
+  {
+    "source": "#AdultProduct",
+    "target": "#MenToy",
+    "weight": 1
+  },
+  {
+    "source": "#AdultProduct",
+    "target": "#PleasureProduct",
+    "weight": 1
+  },
+  {
+    "source": "#MenToy",
+    "target": "#SexualWellness",
+    "weight": 1
+  },
+  {
+    "source": "#MenToy",
+    "target": "#PleasureProduct",
+    "weight": 1
+  },
+  {
+    "source": "#femdom",
+    "target": "#findom",
+    "weight": 1
+  },
+  {
+    "source": "#FinDom",
+    "target": "#findom",
+    "weight": 1
+  },
+  {
+    "source": "#findom",
+    "target": "#findompromo",
+    "weight": 1
+  },
+  {
+    "source": "#bskypromo",
+    "target": "#findom",
+    "weight": 1
+  },
+  {
+    "source": "#findom",
+    "target": "#promo",
+    "weight": 1
+  },
+  {
+    "source": "#FinDom",
+    "target": "#femdom",
+    "weight": 1
+  },
+  {
+    "source": "#femdom",
+    "target": "#findompromo",
+    "weight": 1
+  },
+  {
+    "source": "#bskypromo",
+    "target": "#femdom",
+    "weight": 1
+  },
+  {
+    "source": "#femdom",
+    "target": "#promo",
+    "weight": 1
+  },
+  {
+    "source": "#FinDom",
+    "target": "#findompromo",
+    "weight": 1
+  },
+  {
+    "source": "#FinDom",
+    "target": "#bskypromo",
+    "weight": 1
+  },
+  {
+    "source": "#FinDom",
+    "target": "#promo",
+    "weight": 1
+  },
+  {
+    "source": "#bskypromo",
+    "target": "#findompromo",
+    "weight": 1
+  },
+  {
+    "source": "#findompromo",
+    "target": "#promo",
+    "weight": 1
+  },
+  {
+    "source": "#bskypromo",
+    "target": "#promo",
+    "weight": 1
+  },
+  {
+    "source": "#Flooding",
+    "target": "#VIC",
+    "weight": 1
+  },
+  {
+    "source": "#EMVAlert",
+    "target": "#Flooding",
+    "weight": 1
+  },
+  {
+    "source": "#Flooding",
+    "target": "#incident",
+    "weight": 1
+  },
+  {
+    "source": "#AnarchyForever",
+    "target": "#HistoryRepeats",
+    "weight": 1
+  },
+  {
+    "source": "#alaska",
+    "target": "#mendenhall",
+    "weight": 1
+  },
+  {
+    "source": "#いち花",
+    "target": "#フォロバ100",
+    "weight": 1
+  },
+  {
+    "source": "#PR",
+    "target": "#いち花",
+    "weight": 1
+  },
+  {
+    "source": "#anxiety",
+    "target": "#poetry",
+    "weight": 1
+  },
+  {
+    "source": "#poetry",
+    "target": "#trauma",
+    "weight": 1
+  },
+  {
+    "source": "#cycles",
+    "target": "#poetry",
+    "weight": 1
+  },
+  {
+    "source": "#create",
+    "target": "#poetry",
+    "weight": 1
+  },
+  {
+    "source": "#boundaries",
+    "target": "#poetry",
+    "weight": 1
+  },
+  {
+    "source": "#brain",
+    "target": "#poetry",
+    "weight": 1
+  },
+  {
+    "source": "#anxiety",
+    "target": "#trauma",
+    "weight": 1
+  },
+  {
+    "source": "#anxiety",
+    "target": "#cycles",
+    "weight": 1
+  },
+  {
+    "source": "#anxiety",
+    "target": "#create",
+    "weight": 1
+  },
+  {
+    "source": "#anxiety",
+    "target": "#boundaries",
+    "weight": 1
+  },
+  {
+    "source": "#anxiety",
+    "target": "#brain",
+    "weight": 1
+  },
+  {
+    "source": "#cycles",
+    "target": "#trauma",
+    "weight": 1
+  },
+  {
+    "source": "#create",
+    "target": "#trauma",
+    "weight": 1
+  },
+  {
+    "source": "#boundaries",
+    "target": "#trauma",
+    "weight": 1
+  },
+  {
+    "source": "#brain",
+    "target": "#trauma",
+    "weight": 1
+  },
+  {
+    "source": "#create",
+    "target": "#cycles",
+    "weight": 1
+  },
+  {
+    "source": "#boundaries",
+    "target": "#cycles",
+    "weight": 1
+  },
+  {
+    "source": "#brain",
+    "target": "#cycles",
+    "weight": 1
+  },
+  {
+    "source": "#boundaries",
+    "target": "#create",
+    "weight": 1
+  },
+  {
+    "source": "#brain",
+    "target": "#create",
+    "weight": 1
+  },
+  {
+    "source": "#boundaries",
+    "target": "#brain",
+    "weight": 1
+  },
+  {
+    "source": "#JapaneseAV",
+    "target": "#KawaiiGirl",
+    "weight": 1
+  },
+  {
+    "source": "#JAVBabe",
+    "target": "#JapaneseAV",
+    "weight": 2
+  },
+  {
+    "source": "#JapaneseAV",
+    "target": "#楓カレン",
+    "weight": 2
+  },
+  {
+    "source": "#JapaneseAV",
+    "target": "#JapaneseGirl",
+    "weight": 1
+  },
+  {
+    "source": "#JapaneseAV",
+    "target": "#アイドル",
+    "weight": 1
+  },
+  {
+    "source": "#JapaneseAV",
+    "target": "#アダルト動画",
+    "weight": 1
+  },
+  {
+    "source": "#JapaneseAV",
+    "target": "#JapanesePorn",
+    "weight": 2
+  },
+  {
+    "source": "#KawaiiGirl",
+    "target": "#楓カレン",
+    "weight": 1
+  },
+  {
+    "source": "#KawaiiGirl",
+    "target": "#TokyoGirl",
+    "weight": 1
+  },
+  {
+    "source": "#KawaiiGirl",
+    "target": "#アイドル",
+    "weight": 1
+  },
+  {
+    "source": "#KawaiiGirl",
+    "target": "#アダルト動画",
+    "weight": 1
+  },
+  {
+    "source": "#AsianPorn",
+    "target": "#KawaiiGirl",
+    "weight": 1
+  },
+  {
+    "source": "#JapanesePorn",
+    "target": "#KawaiiGirl",
+    "weight": 1
+  },
+  {
+    "source": "#JAVBabe",
+    "target": "#アイドル",
+    "weight": 1
+  },
+  {
+    "source": "#JAVBabe",
+    "target": "#アダルト動画",
+    "weight": 1
+  },
+  {
+    "source": "#AsianPorn",
+    "target": "#JAVBabe",
+    "weight": 1
+  },
+  {
+    "source": "#JAVBabe",
+    "target": "#JapanesePorn",
+    "weight": 2
+  },
+  {
+    "source": "#AV女優",
+    "target": "#楓カレン",
+    "weight": 2
+  },
+  {
+    "source": "#AV女優",
+    "target": "#アダルト動画",
+    "weight": 1
+  },
+  {
+    "source": "#アダルト動画",
+    "target": "#楓カレン",
+    "weight": 1
+  },
+  {
+    "source": "#JapanesePorn",
+    "target": "#楓カレン",
+    "weight": 2
+  },
+  {
+    "source": "#JapaneseGirl",
+    "target": "#アイドル",
+    "weight": 1
+  },
+  {
+    "source": "#JapaneseGirl",
+    "target": "#アダルト動画",
+    "weight": 1
+  },
+  {
+    "source": "#AsianPorn",
+    "target": "#JapaneseGirl",
+    "weight": 1
+  },
+  {
+    "source": "#TokyoGirl",
+    "target": "#アイドル",
+    "weight": 1
+  },
+  {
+    "source": "#TokyoGirl",
+    "target": "#アダルト動画",
+    "weight": 1
+  },
+  {
+    "source": "#JapanesePorn",
+    "target": "#TokyoGirl",
+    "weight": 1
+  },
+  {
+    "source": "#アイドル",
+    "target": "#アダルト動画",
+    "weight": 1
+  },
+  {
+    "source": "#JapanesePorn",
+    "target": "#アイドル",
+    "weight": 1
+  },
+  {
+    "source": "#AsianPorn",
+    "target": "#アダルト動画",
+    "weight": 1
+  },
+  {
+    "source": "#JapanesePorn",
+    "target": "#アダルト動画",
+    "weight": 1
+  },
+  {
+    "source": "#AsianPorn",
+    "target": "#JapanesePorn",
+    "weight": 1
+  },
+  {
+    "source": "#mecfs",
+    "target": "#postcovid",
+    "weight": 1
+  },
+  {
+    "source": "#Tahiti",
+    "target": "#haiku",
+    "weight": 1
+  },
+  {
+    "source": "#Tahiti",
+    "target": "#travel",
+    "weight": 1
+  },
+  {
+    "source": "#Tahiti",
+    "target": "#cruise",
+    "weight": 1
+  },
+  {
+    "source": "#Tahiti",
+    "target": "#rivercruise",
+    "weight": 1
+  },
+  {
+    "source": "#ABD",
+    "target": "#Tahiti",
+    "weight": 1
+  },
+  {
+    "source": "#Disney",
+    "target": "#Tahiti",
+    "weight": 1
+  },
+  {
+    "source": "#DCL",
+    "target": "#Tahiti",
+    "weight": 1
+  },
+  {
+    "source": "#Tahiti",
+    "target": "#follow",
+    "weight": 1
+  },
+  {
+    "source": "#Azamara",
+    "target": "#Tahiti",
+    "weight": 1
+  },
+  {
+    "source": "#AmaWaterways",
+    "target": "#Tahiti",
+    "weight": 1
+  },
+  {
+    "source": "#Tahiti",
+    "target": "#TravelAgent",
+    "weight": 1
+  },
+  {
+    "source": "#Actu",
+    "target": "#BlogFR",
+    "weight": 1
+  },
+  {
+    "source": "#HD",
+    "target": "#binoculars",
+    "weight": 1
+  },
+  {
+    "source": "#HD",
+    "target": "#camera",
+    "weight": 1
+  },
+  {
+    "source": "#binoculars",
+    "target": "#camera",
+    "weight": 1
+  },
+  {
+    "source": "#素人",
+    "target": "#背徳の快楽",
+    "weight": 1
+  },
+  {
+    "source": "#素人",
+    "target": "#衝撃映像",
+    "weight": 1
+  },
+  {
+    "source": "#AVデビュー",
+    "target": "#背徳の快楽",
+    "weight": 1
+  },
+  {
+    "source": "#AVデビュー",
+    "target": "#衝撃映像",
+    "weight": 1
+  },
+  {
+    "source": "#背徳の快楽",
+    "target": "#衝撃映像",
+    "weight": 1
+  },
+  {
+    "source": "#PR",
+    "target": "#背徳の快楽",
+    "weight": 1
+  },
+  {
+    "source": "#PR",
+    "target": "#衝撃映像",
+    "weight": 1
+  },
+  {
+    "source": "#FANZA",
+    "target": "#PR",
+    "weight": 1
+  },
+  {
+    "source": "#IndieGame",
+    "target": "#ScreenshotSaturday",
+    "weight": 1
+  },
+  {
+    "source": "#Godot",
+    "target": "#IndieGame",
+    "weight": 1
+  },
+  {
+    "source": "#Godot",
+    "target": "#ScreenshotSaturday",
+    "weight": 1
+  },
+  {
+    "source": "#Autonomous",
+    "target": "#Vehicles",
+    "weight": 1
+  },
+  {
+    "source": "#Autonomous",
+    "target": "#Clean",
+    "weight": 1
+  },
+  {
+    "source": "#Autonomous",
+    "target": "#Transport",
+    "weight": 1
+  },
+  {
+    "source": "#Autonomous",
+    "target": "#Electric",
+    "weight": 1
+  },
+  {
+    "source": "#Autonomous",
+    "target": "#Cars",
+    "weight": 1
+  },
+  {
+    "source": "#Clean",
+    "target": "#Vehicles",
+    "weight": 1
+  },
+  {
+    "source": "#Transport",
+    "target": "#Vehicles",
+    "weight": 1
+  },
+  {
+    "source": "#Electric",
+    "target": "#Vehicles",
+    "weight": 1
+  },
+  {
+    "source": "#Cars",
+    "target": "#Vehicles",
+    "weight": 1
+  },
+  {
+    "source": "#Clean",
+    "target": "#Transport",
+    "weight": 1
+  },
+  {
+    "source": "#Clean",
+    "target": "#Electric",
+    "weight": 1
+  },
+  {
+    "source": "#Cars",
+    "target": "#Clean",
+    "weight": 1
+  },
+  {
+    "source": "#Electric",
+    "target": "#Transport",
+    "weight": 1
+  },
+  {
+    "source": "#Cars",
+    "target": "#Transport",
+    "weight": 1
+  },
+  {
+    "source": "#Cars",
+    "target": "#Electric",
+    "weight": 1
+  },
+  {
+    "source": "#BuildingDamage",
+    "target": "#VIC",
+    "weight": 1
+  },
+  {
+    "source": "#BuildingDamage",
+    "target": "#EMVAlert",
+    "weight": 1
+  },
+  {
+    "source": "#BuildingDamage",
+    "target": "#incident",
+    "weight": 1
+  },
+  {
+    "source": "#travel",
+    "target": "#traveldeals",
+    "weight": 1
+  },
+  {
+    "source": "#cruise",
+    "target": "#traveldeals",
+    "weight": 1
+  },
+  {
+    "source": "#traveldeals",
+    "target": "#vacation",
+    "weight": 1
+  },
+  {
+    "source": "#beredskapsdagen",
+    "target": "#säkerhet",
+    "weight": 1
+  },
+  {
+    "source": "#Creeks",
+    "target": "#Indian",
+    "weight": 1
+  },
+  {
+    "source": "#MilanoCortina2026",
+    "target": "#publictransport",
+    "weight": 1
+  },
+  {
+    "source": "#AutonomousVehicles",
+    "target": "#News",
+    "weight": 1
+  },
+  {
+    "source": "#Drones",
+    "target": "#OSINT",
+    "weight": 2
+  },
+  {
+    "source": "#OSINT",
+    "target": "#Ukraine",
+    "weight": 1
+  },
+  {
+    "source": "#OSINT",
+    "target": "#Russia",
+    "weight": 1
+  },
+  {
+    "source": "#Drones",
+    "target": "#Ukraine",
+    "weight": 1
+  },
+  {
+    "source": "#Drones",
+    "target": "#Russia",
+    "weight": 1
+  },
+  {
+    "source": "#Cyber",
+    "target": "#Tesls",
+    "weight": 1
+  },
+  {
+    "source": "#Cyber",
+    "target": "#ElonMusk",
+    "weight": 1
+  },
+  {
+    "source": "#Cyber",
+    "target": "#CyberTruck",
+    "weight": 1
+  },
+  {
+    "source": "#Cyber",
+    "target": "#marketshare",
+    "weight": 1
+  },
+  {
+    "source": "#Cyber",
+    "target": "#robotaxi",
+    "weight": 1
+  },
+  {
+    "source": "#Cyber",
+    "target": "#electriccars",
+    "weight": 1
+  },
+  {
+    "source": "#ElonMusk",
+    "target": "#Tesls",
+    "weight": 1
+  },
+  {
+    "source": "#CyberTruck",
+    "target": "#Tesls",
+    "weight": 1
+  },
+  {
+    "source": "#Tesls",
+    "target": "#marketshare",
+    "weight": 1
+  },
+  {
+    "source": "#Tesls",
+    "target": "#robotaxi",
+    "weight": 1
+  },
+  {
+    "source": "#Tesls",
+    "target": "#electriccars",
+    "weight": 1
+  },
+  {
+    "source": "#CyberTruck",
+    "target": "#ElonMusk",
+    "weight": 1
+  },
+  {
+    "source": "#ElonMusk",
+    "target": "#marketshare",
+    "weight": 1
+  },
+  {
+    "source": "#ElonMusk",
+    "target": "#robotaxi",
+    "weight": 1
+  },
+  {
+    "source": "#ElonMusk",
+    "target": "#electriccars",
+    "weight": 1
+  },
+  {
+    "source": "#CyberTruck",
+    "target": "#marketshare",
+    "weight": 1
+  },
+  {
+    "source": "#CyberTruck",
+    "target": "#robotaxi",
+    "weight": 1
+  },
+  {
+    "source": "#CyberTruck",
+    "target": "#electriccars",
+    "weight": 1
+  },
+  {
+    "source": "#marketshare",
+    "target": "#robotaxi",
+    "weight": 1
+  },
+  {
+    "source": "#electriccars",
+    "target": "#marketshare",
+    "weight": 1
+  },
+  {
+    "source": "#electriccars",
+    "target": "#robotaxi",
+    "weight": 1
+  },
+  {
+    "source": "#JAVStar",
+    "target": "#エロ動画",
+    "weight": 1
+  },
+  {
+    "source": "#JAVBabe",
+    "target": "#JAVStar",
+    "weight": 1
+  },
+  {
+    "source": "#JAVStar",
+    "target": "#JapaneseAV",
+    "weight": 1
+  },
+  {
+    "source": "#JAV",
+    "target": "#JAVStar",
+    "weight": 1
+  },
+  {
+    "source": "#JAVStar",
+    "target": "#楓カレン",
+    "weight": 1
+  },
+  {
+    "source": "#JAVBabe",
+    "target": "#エロ動画",
+    "weight": 1
+  },
+  {
+    "source": "#JapanesePorn",
+    "target": "#エロ動画",
+    "weight": 1
+  },
+  {
+    "source": "#JapaneseAV",
+    "target": "#エロ動画",
+    "weight": 1
+  },
+  {
+    "source": "#JAVCosplay",
+    "target": "#エロ動画",
+    "weight": 1
+  },
+  {
+    "source": "#jpn",
+    "target": "#エロ動画",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優",
+    "target": "#jpn",
+    "weight": 1
+  },
+  {
+    "source": "#JAV",
+    "target": "#JAVBabe",
+    "weight": 1
+  },
+  {
+    "source": "#JAVBabe",
+    "target": "#jpn",
+    "weight": 1
+  },
+  {
+    "source": "#JAV",
+    "target": "#JapanesePorn",
+    "weight": 1
+  },
+  {
+    "source": "#JAV",
+    "target": "#JapaneseAV",
+    "weight": 1
+  },
+  {
+    "source": "#JAVCosplay",
+    "target": "#JapaneseAV",
+    "weight": 1
+  },
+  {
+    "source": "#JapaneseAV",
+    "target": "#jpn",
+    "weight": 1
+  },
+  {
+    "source": "#JAV",
+    "target": "#楓カレン",
+    "weight": 1
+  },
+  {
+    "source": "#JAV",
+    "target": "#JAVCosplay",
+    "weight": 1
+  },
+  {
+    "source": "#JAV",
+    "target": "#jpn",
+    "weight": 1
+  },
+  {
+    "source": "#JAVCosplay",
+    "target": "#楓カレン",
+    "weight": 1
+  },
+  {
+    "source": "#jpn",
+    "target": "#楓カレン",
+    "weight": 1
+  },
+  {
+    "source": "#Russian",
+    "target": "#drone",
+    "weight": 1
+  },
+  {
+    "source": "#Russian",
+    "target": "#Ukraine",
+    "weight": 2
+  },
+  {
+    "source": "#Ukraine",
+    "target": "#drone",
+    "weight": 1
+  },
+  {
+    "source": "#lhc",
+    "target": "#linköpinghc",
+    "weight": 1
+  },
+  {
+    "source": "#LHC",
+    "target": "#linköpinghc",
+    "weight": 1
+  },
+  {
+    "source": "#Djurgården",
+    "target": "#linköpinghc",
+    "weight": 1
+  },
+  {
+    "source": "#LHC",
+    "target": "#lhc",
+    "weight": 1
+  },
+  {
+    "source": "#Djurgården",
+    "target": "#lhc",
+    "weight": 1
+  },
+  {
+    "source": "#Djurgården",
+    "target": "#LHC",
+    "weight": 1
+  },
+  {
+    "source": "#AFP",
+    "target": "#Politique",
+    "weight": 1
+  },
+  {
+    "source": "#Médias",
+    "target": "#Politique",
+    "weight": 1
+  },
+  {
+    "source": "#Conseils",
+    "target": "#Politique",
+    "weight": 1
+  },
+  {
+    "source": "#France",
+    "target": "#Politique",
+    "weight": 1
+  },
+  {
+    "source": "#AFP",
+    "target": "#Médias",
+    "weight": 1
+  },
+  {
+    "source": "#AFP",
+    "target": "#Conseils",
+    "weight": 1
+  },
+  {
+    "source": "#AFP",
+    "target": "#France",
+    "weight": 1
+  },
+  {
+    "source": "#Conseils",
+    "target": "#Médias",
+    "weight": 1
+  },
+  {
+    "source": "#France",
+    "target": "#Médias",
+    "weight": 1
+  },
+  {
+    "source": "#Conseils",
+    "target": "#France",
+    "weight": 1
+  },
+  {
+    "source": "#birds",
+    "target": "#muteswan",
+    "weight": 1
+  },
+  {
+    "source": "#muteswan",
+    "target": "#nature",
+    "weight": 1
+  },
+  {
+    "source": "#muteswan",
+    "target": "#photography",
+    "weight": 1
+  },
+  {
+    "source": "#birdphotography",
+    "target": "#muteswan",
+    "weight": 1
+  },
+  {
+    "source": "#birds",
+    "target": "#nature",
+    "weight": 1
+  },
+  {
+    "source": "#birds",
+    "target": "#photography",
+    "weight": 1
+  },
+  {
+    "source": "#birdphotography",
+    "target": "#birds",
+    "weight": 1
+  },
+  {
+    "source": "#nature",
+    "target": "#photography",
+    "weight": 1
+  },
+  {
+    "source": "#birdphotography",
+    "target": "#nature",
+    "weight": 1
+  },
+  {
+    "source": "#birdphotography",
+    "target": "#photography",
+    "weight": 1
+  },
+  {
+    "source": "#Autonomy",
+    "target": "#Zapatista",
+    "weight": 1
+  },
+  {
+    "source": "#Djurgården",
+    "target": "#hockey",
+    "weight": 1
+  },
+  {
+    "source": "#MovieNews",
+    "target": "#TomCruise",
+    "weight": 1
+  },
+  {
+    "source": "#JasonStatham",
+    "target": "#MovieNews",
+    "weight": 1
+  },
+  {
+    "source": "#Collateral",
+    "target": "#MovieNews",
+    "weight": 1
+  },
+  {
+    "source": "#JasonStatham",
+    "target": "#TomCruise",
+    "weight": 1
+  },
+  {
+    "source": "#Collateral",
+    "target": "#TomCruise",
+    "weight": 1
+  },
+  {
+    "source": "#Collateral",
+    "target": "#JasonStatham",
+    "weight": 1
+  },
+  {
+    "source": "#MichelleObama",
+    "target": "#NotreDame",
+    "weight": 1
+  },
+  {
+    "source": "#MichaelObama",
+    "target": "#MichelleObama",
+    "weight": 1
+  },
+  {
+    "source": "#MichaelObama",
+    "target": "#NotreDame",
+    "weight": 1
+  },
+  {
+    "source": "#etribune",
+    "target": "#trump",
+    "weight": 1
+  },
+  {
+    "source": "#etribune",
+    "target": "#irandeal",
+    "weight": 1
+  },
+  {
+    "source": "#etribune",
+    "target": "#usirantalks",
+    "weight": 1
+  },
+  {
+    "source": "#etribune",
+    "target": "#nuclearweapons",
+    "weight": 1
+  },
+  {
+    "source": "#etribune",
+    "target": "#worldnews",
+    "weight": 1
+  },
+  {
+    "source": "#irandeal",
+    "target": "#trump",
+    "weight": 1
+  },
+  {
+    "source": "#trump",
+    "target": "#usirantalks",
+    "weight": 1
+  },
+  {
+    "source": "#nuclearweapons",
+    "target": "#trump",
+    "weight": 1
+  },
+  {
+    "source": "#trump",
+    "target": "#worldnews",
+    "weight": 1
+  },
+  {
+    "source": "#irandeal",
+    "target": "#usirantalks",
+    "weight": 1
+  },
+  {
+    "source": "#irandeal",
+    "target": "#nuclearweapons",
+    "weight": 1
+  },
+  {
+    "source": "#irandeal",
+    "target": "#worldnews",
+    "weight": 1
+  },
+  {
+    "source": "#nuclearweapons",
+    "target": "#usirantalks",
+    "weight": 1
+  },
+  {
+    "source": "#usirantalks",
+    "target": "#worldnews",
+    "weight": 1
+  },
+  {
+    "source": "#nuclearweapons",
+    "target": "#worldnews",
+    "weight": 1
+  },
+  {
+    "source": "#cruise",
+    "target": "#norfolk",
+    "weight": 1
+  },
+  {
+    "source": "#cruises",
+    "target": "#norfolk",
+    "weight": 1
+  },
+  {
+    "source": "#cruisenews",
+    "target": "#norfolk",
+    "weight": 1
+  },
+  {
+    "source": "#norfolk",
+    "target": "#travelnews",
+    "weight": 1
+  },
+  {
+    "source": "#baltimore",
+    "target": "#norfolk",
+    "weight": 1
+  },
+  {
+    "source": "#好きなAV女優発表コーナー",
+    "target": "#誰かの性癖に刺され",
+    "weight": 1
+  },
+  {
+    "source": "#EducationTech",
+    "target": "#LowVoltage",
+    "weight": 1
+  },
+  {
+    "source": "#EducationTech",
+    "target": "#SmartSchools",
+    "weight": 1
+  },
+  {
+    "source": "#LowVoltage",
+    "target": "#SmartSchools",
+    "weight": 1
+  },
+  {
+    "source": "#LongRange",
+    "target": "#NOAA",
+    "weight": 1
+  },
+  {
+    "source": "#4Pack",
+    "target": "#NOAA",
+    "weight": 1
+  },
+  {
+    "source": "#NOAA",
+    "target": "#SeniorCare",
+    "weight": 1
+  },
+  {
+    "source": "#NOAA",
+    "target": "#WalkieTalkies",
+    "weight": 1
+  },
+  {
+    "source": "#Adventure",
+    "target": "#NOAA",
+    "weight": 1
+  },
+  {
+    "source": "#4Pack",
+    "target": "#LongRange",
+    "weight": 1
+  },
+  {
+    "source": "#LongRange",
+    "target": "#SeniorCare",
+    "weight": 1
+  },
+  {
+    "source": "#LongRange",
+    "target": "#WalkieTalkies",
+    "weight": 1
+  },
+  {
+    "source": "#Adventure",
+    "target": "#LongRange",
+    "weight": 1
+  },
+  {
+    "source": "#4Pack",
+    "target": "#SeniorCare",
+    "weight": 1
+  },
+  {
+    "source": "#4Pack",
+    "target": "#WalkieTalkies",
+    "weight": 1
+  },
+  {
+    "source": "#4Pack",
+    "target": "#Adventure",
+    "weight": 1
+  },
+  {
+    "source": "#SeniorCare",
+    "target": "#WalkieTalkies",
+    "weight": 1
+  },
+  {
+    "source": "#Adventure",
+    "target": "#SeniorCare",
+    "weight": 1
+  },
+  {
+    "source": "#Adventure",
+    "target": "#WalkieTalkies",
+    "weight": 1
+  },
+  {
+    "source": "#autonomy",
+    "target": "#leaving",
+    "weight": 1
+  },
+  {
+    "source": "#financialliteracy",
+    "target": "#leaving",
+    "weight": 1
+  },
+  {
+    "source": "#leaving",
+    "target": "#survivor",
+    "weight": 1
+  },
+  {
+    "source": "#leaving",
+    "target": "#ptsd",
+    "weight": 1
+  },
+  {
+    "source": "#leaving",
+    "target": "#trauma",
+    "weight": 1
+  },
+  {
+    "source": "#control",
+    "target": "#leaving",
+    "weight": 1
+  },
+  {
+    "source": "#autonomy",
+    "target": "#financialliteracy",
+    "weight": 1
+  },
+  {
+    "source": "#autonomy",
+    "target": "#survivor",
+    "weight": 1
+  },
+  {
+    "source": "#autonomy",
+    "target": "#ptsd",
+    "weight": 1
+  },
+  {
+    "source": "#autonomy",
+    "target": "#trauma",
+    "weight": 1
+  },
+  {
+    "source": "#autonomy",
+    "target": "#control",
+    "weight": 1
+  },
+  {
+    "source": "#financialliteracy",
+    "target": "#survivor",
+    "weight": 1
+  },
+  {
+    "source": "#financialliteracy",
+    "target": "#ptsd",
+    "weight": 1
+  },
+  {
+    "source": "#financialliteracy",
+    "target": "#trauma",
+    "weight": 1
+  },
+  {
+    "source": "#control",
+    "target": "#financialliteracy",
+    "weight": 1
+  },
+  {
+    "source": "#ptsd",
+    "target": "#survivor",
+    "weight": 1
+  },
+  {
+    "source": "#survivor",
+    "target": "#trauma",
+    "weight": 1
+  },
+  {
+    "source": "#control",
+    "target": "#survivor",
+    "weight": 1
+  },
+  {
+    "source": "#ptsd",
+    "target": "#trauma",
+    "weight": 1
+  },
+  {
+    "source": "#control",
+    "target": "#ptsd",
+    "weight": 1
+  },
+  {
+    "source": "#control",
+    "target": "#trauma",
+    "weight": 1
+  },
+  {
+    "source": "#LewisvilleDentonCounty",
+    "target": "#TX",
+    "weight": 1
+  },
+  {
+    "source": "#CitizenPortal",
+    "target": "#LewisvilleDentonCounty",
+    "weight": 1
+  },
+  {
+    "source": "#LewisvilleDentonCounty",
+    "target": "#PublicSpeaking",
+    "weight": 1
+  },
+  {
+    "source": "#EquitableAccess",
+    "target": "#LewisvilleDentonCounty",
+    "weight": 1
+  },
+  {
+    "source": "#LewisvilleCouncil",
+    "target": "#LewisvilleDentonCounty",
+    "weight": 1
+  },
+  {
+    "source": "#CybersecurityAwareness",
+    "target": "#LewisvilleDentonCounty",
+    "weight": 1
+  },
+  {
+    "source": "#CitizenPortal",
+    "target": "#TX",
+    "weight": 1
+  },
+  {
+    "source": "#PublicSpeaking",
+    "target": "#TX",
+    "weight": 1
+  },
+  {
+    "source": "#EquitableAccess",
+    "target": "#TX",
+    "weight": 1
+  },
+  {
+    "source": "#LewisvilleCouncil",
+    "target": "#TX",
+    "weight": 1
+  },
+  {
+    "source": "#CybersecurityAwareness",
+    "target": "#TX",
+    "weight": 1
+  },
+  {
+    "source": "#CitizenPortal",
+    "target": "#PublicSpeaking",
+    "weight": 1
+  },
+  {
+    "source": "#CitizenPortal",
+    "target": "#EquitableAccess",
+    "weight": 1
+  },
+  {
+    "source": "#CitizenPortal",
+    "target": "#LewisvilleCouncil",
+    "weight": 1
+  },
+  {
+    "source": "#CitizenPortal",
+    "target": "#CybersecurityAwareness",
+    "weight": 1
+  },
+  {
+    "source": "#EquitableAccess",
+    "target": "#PublicSpeaking",
+    "weight": 1
+  },
+  {
+    "source": "#LewisvilleCouncil",
+    "target": "#PublicSpeaking",
+    "weight": 1
+  },
+  {
+    "source": "#CybersecurityAwareness",
+    "target": "#PublicSpeaking",
+    "weight": 1
+  },
+  {
+    "source": "#EquitableAccess",
+    "target": "#LewisvilleCouncil",
+    "weight": 1
+  },
+  {
+    "source": "#CybersecurityAwareness",
+    "target": "#EquitableAccess",
+    "weight": 1
+  },
+  {
+    "source": "#CybersecurityAwareness",
+    "target": "#LewisvilleCouncil",
+    "weight": 1
+  },
+  {
+    "source": "#AnnaKepner",
+    "target": "#TimothyHudson",
+    "weight": 1
+  },
+  {
+    "source": "#AnnaKepner",
+    "target": "#CruiseShipDeath",
+    "weight": 1
+  },
+  {
+    "source": "#AnnaKepner",
+    "target": "#CarnivalHorizon",
+    "weight": 1
+  },
+  {
+    "source": "#AnnaKepner",
+    "target": "#FBIInvestigation",
+    "weight": 1
+  },
+  {
+    "source": "#AnnaKepner",
+    "target": "#TrueCrimeNews",
+    "weight": 1
+  },
+  {
+    "source": "#AnnaKepner",
+    "target": "#USFederalCourt",
+    "weight": 1
+  },
+  {
+    "source": "#AnnaKepner",
+    "target": "#BreakingNews",
+    "weight": 1
+  },
+  {
+    "source": "#AnnaKepner",
+    "target": "#JusticeForAnna",
+    "weight": 1
+  },
+  {
+    "source": "#AnnaKepner",
+    "target": "#NewsUpdate",
+    "weight": 1
+  },
+  {
+    "source": "#CruiseShipDeath",
+    "target": "#TimothyHudson",
+    "weight": 1
+  },
+  {
+    "source": "#CarnivalHorizon",
+    "target": "#TimothyHudson",
+    "weight": 1
+  },
+  {
+    "source": "#FBIInvestigation",
+    "target": "#TimothyHudson",
+    "weight": 1
+  },
+  {
+    "source": "#TimothyHudson",
+    "target": "#TrueCrimeNews",
+    "weight": 1
+  },
+  {
+    "source": "#TimothyHudson",
+    "target": "#USFederalCourt",
+    "weight": 1
+  },
+  {
+    "source": "#BreakingNews",
+    "target": "#TimothyHudson",
+    "weight": 1
+  },
+  {
+    "source": "#JusticeForAnna",
+    "target": "#TimothyHudson",
+    "weight": 1
+  },
+  {
+    "source": "#NewsUpdate",
+    "target": "#TimothyHudson",
+    "weight": 1
+  },
+  {
+    "source": "#CarnivalHorizon",
+    "target": "#CruiseShipDeath",
+    "weight": 1
+  },
+  {
+    "source": "#CruiseShipDeath",
+    "target": "#FBIInvestigation",
+    "weight": 1
+  },
+  {
+    "source": "#CruiseShipDeath",
+    "target": "#TrueCrimeNews",
+    "weight": 1
+  },
+  {
+    "source": "#CruiseShipDeath",
+    "target": "#USFederalCourt",
+    "weight": 1
+  },
+  {
+    "source": "#BreakingNews",
+    "target": "#CruiseShipDeath",
+    "weight": 1
+  },
+  {
+    "source": "#CruiseShipDeath",
+    "target": "#JusticeForAnna",
+    "weight": 1
+  },
+  {
+    "source": "#CruiseShipDeath",
+    "target": "#NewsUpdate",
+    "weight": 1
+  },
+  {
+    "source": "#CarnivalHorizon",
+    "target": "#FBIInvestigation",
+    "weight": 1
+  },
+  {
+    "source": "#CarnivalHorizon",
+    "target": "#TrueCrimeNews",
+    "weight": 1
+  },
+  {
+    "source": "#CarnivalHorizon",
+    "target": "#USFederalCourt",
+    "weight": 1
+  },
+  {
+    "source": "#BreakingNews",
+    "target": "#CarnivalHorizon",
+    "weight": 1
+  },
+  {
+    "source": "#CarnivalHorizon",
+    "target": "#JusticeForAnna",
+    "weight": 1
+  },
+  {
+    "source": "#CarnivalHorizon",
+    "target": "#NewsUpdate",
+    "weight": 1
+  },
+  {
+    "source": "#FBIInvestigation",
+    "target": "#TrueCrimeNews",
+    "weight": 1
+  },
+  {
+    "source": "#FBIInvestigation",
+    "target": "#USFederalCourt",
+    "weight": 1
+  },
+  {
+    "source": "#BreakingNews",
+    "target": "#FBIInvestigation",
+    "weight": 1
+  },
+  {
+    "source": "#FBIInvestigation",
+    "target": "#JusticeForAnna",
+    "weight": 1
+  },
+  {
+    "source": "#FBIInvestigation",
+    "target": "#NewsUpdate",
+    "weight": 1
+  },
+  {
+    "source": "#TrueCrimeNews",
+    "target": "#USFederalCourt",
+    "weight": 1
+  },
+  {
+    "source": "#BreakingNews",
+    "target": "#TrueCrimeNews",
+    "weight": 1
+  },
+  {
+    "source": "#JusticeForAnna",
+    "target": "#TrueCrimeNews",
+    "weight": 1
+  },
+  {
+    "source": "#NewsUpdate",
+    "target": "#TrueCrimeNews",
+    "weight": 1
+  },
+  {
+    "source": "#BreakingNews",
+    "target": "#USFederalCourt",
+    "weight": 1
+  },
+  {
+    "source": "#JusticeForAnna",
+    "target": "#USFederalCourt",
+    "weight": 1
+  },
+  {
+    "source": "#NewsUpdate",
+    "target": "#USFederalCourt",
+    "weight": 1
+  },
+  {
+    "source": "#BreakingNews",
+    "target": "#JusticeForAnna",
+    "weight": 1
+  },
+  {
+    "source": "#BreakingNews",
+    "target": "#NewsUpdate",
+    "weight": 1
+  },
+  {
+    "source": "#JusticeForAnna",
+    "target": "#NewsUpdate",
+    "weight": 1
+  },
+  {
+    "source": "#NsfwOverwatch",
+    "target": "#OverwatchNsfw",
+    "weight": 1
+  },
+  {
+    "source": "#Crime",
+    "target": "#US",
+    "weight": 1
+  },
+  {
+    "source": "#autonomy",
+    "target": "#creative",
+    "weight": 1
+  },
+  {
+    "source": "#ifk1899",
+    "target": "#otd",
+    "weight": 1
+  },
+  {
+    "source": "#handboll",
+    "target": "#otd",
+    "weight": 1
+  },
+  {
+    "source": "#handboll",
+    "target": "#ifk1899",
+    "weight": 1
+  },
+  {
+    "source": "#Technology",
+    "target": "#WorldModels",
+    "weight": 1
+  },
+  {
+    "source": "#EmergingTechnologies",
+    "target": "#WorldModels",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#EmergingTechnologies",
+    "weight": 1
+  },
+  {
+    "source": "#ArtificialIntelligence",
+    "target": "#WorldModels",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#ArtificialIntelligence",
+    "weight": 1
+  },
+  {
+    "source": "#RINOA",
+    "target": "#フォロバ100",
+    "weight": 1
+  },
+  {
+    "source": "#PR",
+    "target": "#RINOA",
+    "weight": 1
+  },
+  {
+    "source": "#HWTL",
+    "target": "#NUFC",
+    "weight": 1
+  },
+  {
+    "source": "#AIethics",
+    "target": "#GhostWork",
+    "weight": 1
+  },
+  {
+    "source": "#DC",
+    "target": "#Trump",
+    "weight": 1
+  },
+  {
+    "source": "#India",
+    "target": "#abortion",
+    "weight": 1
+  },
+  {
+    "source": "#HumanRights",
+    "target": "#India",
+    "weight": 1
+  },
+  {
+    "source": "#India",
+    "target": "#WomensRights",
+    "weight": 1
+  },
+  {
+    "source": "#HumanRights",
+    "target": "#abortion",
+    "weight": 1
+  },
+  {
+    "source": "#WomensRights",
+    "target": "#abortion",
+    "weight": 1
+  },
+  {
+    "source": "#HumanRights",
+    "target": "#WomensRights",
+    "weight": 1
+  },
+  {
+    "source": "#AVSolutions",
+    "target": "#HybridMeetings",
+    "weight": 1
+  },
+  {
+    "source": "#HybridMeetings",
+    "target": "#SmartOffice",
+    "weight": 1
+  },
+  {
+    "source": "#AVSolutions",
+    "target": "#SmartOffice",
+    "weight": 1
+  },
+  {
+    "source": "#AVデビュー",
+    "target": "#いいなりなお",
+    "weight": 1
+  },
+  {
+    "source": "#いいなりなお",
+    "target": "#アタッカーズ",
+    "weight": 1
+  },
+  {
+    "source": "#いいなりなお",
+    "target": "#純愛AV",
+    "weight": 1
+  },
+  {
+    "source": "#AVデビュー",
+    "target": "#アタッカーズ",
+    "weight": 1
+  },
+  {
+    "source": "#AVデビュー",
+    "target": "#純愛AV",
+    "weight": 1
+  },
+  {
+    "source": "#アタッカーズ",
+    "target": "#純愛AV",
+    "weight": 1
+  },
+  {
+    "source": "#aa476422c76",
+    "target": "#f6aef85227e",
+    "weight": 1
+  },
+  {
+    "source": "#aa476422c76",
+    "target": "#acars",
+    "weight": 1
+  },
+  {
+    "source": "#aa476422c76",
+    "target": "#vdlm2",
+    "weight": 1
+  },
+  {
+    "source": "#acars",
+    "target": "#f6aef85227e",
+    "weight": 1
+  },
+  {
+    "source": "#f6aef85227e",
+    "target": "#vdlm2",
+    "weight": 1
+  },
+  {
+    "source": "#acars",
+    "target": "#vdlm2",
+    "weight": 1
+  },
+  {
+    "source": "#DigitalAutonomyDenied",
+    "target": "#SurveillanceCapitalism",
+    "weight": 1
+  },
+  {
+    "source": "#ItsAlwaysStoutSeason",
+    "target": "#öltut",
+    "weight": 1
+  },
+  {
+    "source": "#letitwarm",
+    "target": "#öltut",
+    "weight": 1
+  },
+  {
+    "source": "#ItsAlwaysStoutSeason",
+    "target": "#letitwarm",
+    "weight": 1
+  },
+  {
+    "source": "#Cruise",
+    "target": "#Missile",
+    "weight": 1
+  },
+  {
+    "source": "#Smartphone",
+    "target": "#WiFi",
+    "weight": 1
+  },
+  {
+    "source": "#50Zoom",
+    "target": "#HDMI",
+    "weight": 1
+  },
+  {
+    "source": "#50Zoom",
+    "target": "#WiFi",
+    "weight": 1
+  },
+  {
+    "source": "#50Zoom",
+    "target": "#FullHD",
+    "weight": 1
+  },
+  {
+    "source": "#50Zoom",
+    "target": "#MovieProjector",
+    "weight": 1
+  },
+  {
+    "source": "#FullHD",
+    "target": "#WiFi",
+    "weight": 1
+  },
+  {
+    "source": "#MovieProjector",
+    "target": "#WiFi",
     "weight": 1
   }
 ]
