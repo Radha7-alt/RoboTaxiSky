@@ -47,7 +47,7 @@
   {
     "source": "#AV",
     "target": "#FANZA",
-    "weight": 7
+    "weight": 8
   },
   {
     "source": "#Nia",
@@ -112,7 +112,7 @@
   {
     "source": "#中出し",
     "target": "#人妻",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#FANZA",
@@ -127,92 +127,92 @@
   {
     "source": "#mexfm",
     "target": "#mexnews",
-    "weight": 7
+    "weight": 10
   },
   {
     "source": "#mexfm",
     "target": "#webradiomexfm",
-    "weight": 7
+    "weight": 10
   },
   {
     "source": "#brasil",
     "target": "#mexfm",
-    "weight": 7
+    "weight": 10
   },
   {
     "source": "#mexfm",
     "target": "#noticias",
-    "weight": 7
+    "weight": 10
   },
   {
     "source": "#mexfm",
     "target": "#musica",
-    "weight": 7
+    "weight": 10
   },
   {
     "source": "#mexnews",
     "target": "#webradiomexfm",
-    "weight": 7
+    "weight": 10
   },
   {
     "source": "#brasil",
     "target": "#mexnews",
-    "weight": 7
+    "weight": 10
   },
   {
     "source": "#mexnews",
     "target": "#noticias",
-    "weight": 7
+    "weight": 10
   },
   {
     "source": "#mexnews",
     "target": "#musica",
-    "weight": 7
+    "weight": 10
   },
   {
     "source": "#brasil",
     "target": "#webradiomexfm",
-    "weight": 7
+    "weight": 10
   },
   {
     "source": "#noticias",
     "target": "#webradiomexfm",
-    "weight": 7
+    "weight": 10
   },
   {
     "source": "#musica",
     "target": "#webradiomexfm",
-    "weight": 7
+    "weight": 10
   },
   {
     "source": "#brasil",
     "target": "#noticias",
-    "weight": 7
+    "weight": 10
   },
   {
     "source": "#brasil",
     "target": "#musica",
-    "weight": 7
+    "weight": 10
   },
   {
     "source": "#musica",
     "target": "#noticias",
-    "weight": 7
+    "weight": 10
   },
   {
     "source": "#cruise",
     "target": "#cruises",
-    "weight": 7
+    "weight": 8
   },
   {
     "source": "#cruise",
     "target": "#cruisenews",
-    "weight": 7
+    "weight": 8
   },
   {
     "source": "#cruise",
     "target": "#travelnews",
-    "weight": 7
+    "weight": 8
   },
   {
     "source": "#baltimore",
@@ -222,12 +222,12 @@
   {
     "source": "#cruisenews",
     "target": "#cruises",
-    "weight": 7
+    "weight": 8
   },
   {
     "source": "#cruises",
     "target": "#travelnews",
-    "weight": 7
+    "weight": 8
   },
   {
     "source": "#baltimore",
@@ -237,7 +237,7 @@
   {
     "source": "#cruisenews",
     "target": "#travelnews",
-    "weight": 7
+    "weight": 8
   },
   {
     "source": "#baltimore",
@@ -632,52 +632,52 @@
   {
     "source": "#EMVAlert",
     "target": "#VIC",
-    "weight": 52
+    "weight": 68
   },
   {
     "source": "#VIC",
     "target": "#incident",
-    "weight": 52
+    "weight": 68
   },
   {
     "source": "#Fire",
     "target": "#VIC",
-    "weight": 24
+    "weight": 33
   },
   {
     "source": "#BuildingFire",
     "target": "#VIC",
-    "weight": 3
+    "weight": 5
   },
   {
     "source": "#EMVAlert",
     "target": "#incident",
-    "weight": 52
+    "weight": 68
   },
   {
     "source": "#EMVAlert",
     "target": "#Fire",
-    "weight": 24
+    "weight": 33
   },
   {
     "source": "#BuildingFire",
     "target": "#EMVAlert",
-    "weight": 3
+    "weight": 5
   },
   {
     "source": "#Fire",
     "target": "#incident",
-    "weight": 24
+    "weight": 33
   },
   {
     "source": "#BuildingFire",
     "target": "#incident",
-    "weight": 3
+    "weight": 5
   },
   {
     "source": "#BuildingFire",
     "target": "#Fire",
-    "weight": 3
+    "weight": 5
   },
   {
     "source": "#NonStructureFire",
@@ -922,132 +922,132 @@
   {
     "source": "#KawaiiGirl",
     "target": "#asianhottie",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AVVibrator",
     "target": "#NoveltyItem",
-    "weight": 9
+    "weight": 10
   },
   {
     "source": "#AVVibrator",
     "target": "#SexToy",
-    "weight": 14
+    "weight": 16
   },
   {
     "source": "#AVVibrator",
     "target": "#DiscreetToy",
-    "weight": 13
+    "weight": 15
   },
   {
     "source": "#AVVibrator",
     "target": "#FeedingBottleAVVibrator",
-    "weight": 7
+    "weight": 8
   },
   {
     "source": "#AVVibrator",
     "target": "#AdultNovelty",
-    "weight": 8
+    "weight": 9
   },
   {
     "source": "#NoveltyItem",
     "target": "#SexToy",
-    "weight": 8
+    "weight": 9
   },
   {
     "source": "#DiscreetToy",
     "target": "#NoveltyItem",
-    "weight": 7
+    "weight": 8
   },
   {
     "source": "#FeedingBottleAVVibrator",
     "target": "#NoveltyItem",
-    "weight": 7
+    "weight": 8
   },
   {
     "source": "#AdultNovelty",
     "target": "#NoveltyItem",
-    "weight": 8
+    "weight": 9
   },
   {
     "source": "#DiscreetToy",
     "target": "#SexToy",
-    "weight": 12
+    "weight": 15
   },
   {
     "source": "#FeedingBottleAVVibrator",
     "target": "#SexToy",
-    "weight": 7
+    "weight": 8
   },
   {
     "source": "#AdultNovelty",
     "target": "#SexToy",
-    "weight": 8
+    "weight": 9
   },
   {
     "source": "#DiscreetToy",
     "target": "#FeedingBottleAVVibrator",
-    "weight": 7
+    "weight": 8
   },
   {
     "source": "#AdultNovelty",
     "target": "#DiscreetToy",
-    "weight": 7
+    "weight": 8
   },
   {
     "source": "#AdultNovelty",
     "target": "#FeedingBottleAVVibrator",
+    "weight": 8
+  },
+  {
+    "source": "#Jeusn60",
+    "target": "#JeusnVibrator",
+    "weight": 8
+  },
+  {
+    "source": "#Jeusn60",
+    "target": "#SexToyAV",
     "weight": 7
   },
   {
     "source": "#Jeusn60",
-    "target": "#JeusnVibrator",
-    "weight": 6
-  },
-  {
-    "source": "#Jeusn60",
-    "target": "#SexToyAV",
-    "weight": 5
-  },
-  {
-    "source": "#Jeusn60",
     "target": "#Vibrator60Frequency",
-    "weight": 6
+    "weight": 8
   },
   {
     "source": "#60HzVibrator",
     "target": "#Jeusn60",
-    "weight": 6
+    "weight": 8
   },
   {
     "source": "#JeusnVibrator",
     "target": "#SexToyAV",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#JeusnVibrator",
     "target": "#Vibrator60Frequency",
-    "weight": 6
+    "weight": 8
   },
   {
     "source": "#60HzVibrator",
     "target": "#JeusnVibrator",
-    "weight": 6
+    "weight": 8
   },
   {
     "source": "#SexToyAV",
     "target": "#Vibrator60Frequency",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#60HzVibrator",
     "target": "#SexToyAV",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#60HzVibrator",
     "target": "#Vibrator60Frequency",
-    "weight": 6
+    "weight": 8
   },
   {
     "source": "#USBProjector",
@@ -1127,182 +1127,182 @@
   {
     "source": "#DLR",
     "target": "#Disneyland",
-    "weight": 2
+    "weight": 4
   },
   {
     "source": "#California",
     "target": "#Disneyland",
-    "weight": 2
+    "weight": 4
   },
   {
     "source": "#DisneyParks",
     "target": "#Disneyland",
-    "weight": 2
+    "weight": 4
   },
   {
     "source": "#Disneyland",
     "target": "#MagicIsHere",
-    "weight": 2
+    "weight": 4
   },
   {
     "source": "#California",
     "target": "#DLR",
-    "weight": 2
+    "weight": 4
   },
   {
     "source": "#DLR",
     "target": "#DisneyParks",
-    "weight": 2
+    "weight": 4
   },
   {
     "source": "#DLR",
     "target": "#MagicIsHere",
-    "weight": 2
+    "weight": 4
   },
   {
     "source": "#California",
     "target": "#DisneyParks",
-    "weight": 2
+    "weight": 4
   },
   {
     "source": "#California",
     "target": "#MagicIsHere",
-    "weight": 2
+    "weight": 4
   },
   {
     "source": "#DisneyParks",
     "target": "#MagicIsHere",
-    "weight": 2
+    "weight": 4
   },
   {
     "source": "#DiscreetToy",
     "target": "#PleasureProduct",
-    "weight": 6
+    "weight": 8
   },
   {
     "source": "#DiscreetToy",
     "target": "#Vibrator",
-    "weight": 6
+    "weight": 8
   },
   {
     "source": "#PleasureProduct",
     "target": "#Vibrator",
-    "weight": 6
+    "weight": 8
   },
   {
     "source": "#AVVibrator",
     "target": "#PleasureProduct",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#AVVibrator",
     "target": "#Vibrator",
-    "weight": 12
+    "weight": 15
   },
   {
     "source": "#NordicNews",
     "target": "#Norge",
-    "weight": 31
+    "weight": 40
   },
   {
     "source": "#Norge",
     "target": "#nyheter",
-    "weight": 31
+    "weight": 40
   },
   {
     "source": "#NRK",
     "target": "#Norge",
-    "weight": 31
+    "weight": 40
   },
   {
     "source": "#Innenriks",
     "target": "#Norge",
-    "weight": 31
+    "weight": 40
   },
   {
     "source": "#Norge",
     "target": "#Utenriks",
-    "weight": 31
+    "weight": 40
   },
   {
     "source": "#Norge",
     "target": "#Sport",
-    "weight": 31
+    "weight": 40
   },
   {
     "source": "#NordicNews",
     "target": "#nyheter",
-    "weight": 32
+    "weight": 42
   },
   {
     "source": "#NRK",
     "target": "#NordicNews",
-    "weight": 31
+    "weight": 40
   },
   {
     "source": "#Innenriks",
     "target": "#NordicNews",
-    "weight": 31
+    "weight": 40
   },
   {
     "source": "#NordicNews",
     "target": "#Utenriks",
-    "weight": 31
+    "weight": 40
   },
   {
     "source": "#NordicNews",
     "target": "#Sport",
-    "weight": 31
+    "weight": 40
   },
   {
     "source": "#NRK",
     "target": "#nyheter",
-    "weight": 31
+    "weight": 40
   },
   {
     "source": "#Innenriks",
     "target": "#nyheter",
-    "weight": 31
+    "weight": 40
   },
   {
     "source": "#Utenriks",
     "target": "#nyheter",
-    "weight": 31
+    "weight": 40
   },
   {
     "source": "#Sport",
     "target": "#nyheter",
-    "weight": 31
+    "weight": 40
   },
   {
     "source": "#Innenriks",
     "target": "#NRK",
-    "weight": 31
+    "weight": 40
   },
   {
     "source": "#NRK",
     "target": "#Utenriks",
-    "weight": 31
+    "weight": 40
   },
   {
     "source": "#NRK",
     "target": "#Sport",
-    "weight": 31
+    "weight": 40
   },
   {
     "source": "#Innenriks",
     "target": "#Utenriks",
-    "weight": 31
+    "weight": 40
   },
   {
     "source": "#Innenriks",
     "target": "#Sport",
-    "weight": 31
+    "weight": 40
   },
   {
     "source": "#Sport",
     "target": "#Utenriks",
-    "weight": 31
+    "weight": 40
   },
   {
     "source": "#AbortionRights",
@@ -1342,47 +1342,47 @@
   {
     "source": "#AVVibrator",
     "target": "#GladmeAV",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#GladmeAV",
     "target": "#GladmeAVVibrator",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#GladmeAV",
     "target": "#GladmeVibrator",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#GladmeAV",
     "target": "#Vibrator",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#AVVibrator",
     "target": "#GladmeAVVibrator",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#AVVibrator",
     "target": "#GladmeVibrator",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#GladmeAVVibrator",
     "target": "#GladmeVibrator",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#GladmeAVVibrator",
     "target": "#Vibrator",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#GladmeVibrator",
     "target": "#Vibrator",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#AV",
@@ -1492,17 +1492,17 @@
   {
     "source": "#mta",
     "target": "#nyc",
-    "weight": 44
+    "weight": 55
   },
   {
     "source": "#nyc",
     "target": "#subway",
-    "weight": 44
+    "weight": 55
   },
   {
     "source": "#mta",
     "target": "#subway",
-    "weight": 44
+    "weight": 55
   },
   {
     "source": "#DonaldTrump",
@@ -1512,52 +1512,52 @@
   {
     "source": "#PleasureProduct",
     "target": "#SexualWellness",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#CruiseMouth",
     "target": "#SexualWellness",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#AdultToy",
     "target": "#SexualWellness",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#SexToy",
     "target": "#SexualWellness",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#CruiseMouth",
     "target": "#PleasureProduct",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#AdultToy",
     "target": "#PleasureProduct",
-    "weight": 7
+    "weight": 10
   },
   {
     "source": "#PleasureProduct",
     "target": "#SexToy",
-    "weight": 7
+    "weight": 10
   },
   {
     "source": "#AdultToy",
     "target": "#CruiseMouth",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#CruiseMouth",
     "target": "#SexToy",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#AdultToy",
     "target": "#SexToy",
-    "weight": 7
+    "weight": 10
   },
   {
     "source": "#新人",
@@ -1777,277 +1777,277 @@
   {
     "source": "#haiku",
     "target": "#travel",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#cruise",
     "target": "#haiku",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#haiku",
     "target": "#rivercruise",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#ABD",
     "target": "#haiku",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#Disney",
     "target": "#haiku",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#DCL",
     "target": "#haiku",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#follow",
     "target": "#haiku",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#Azamara",
     "target": "#haiku",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#AmaWaterways",
     "target": "#haiku",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#TravelAgent",
     "target": "#haiku",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#cruise",
     "target": "#travel",
-    "weight": 7
+    "weight": 10
   },
   {
     "source": "#rivercruise",
     "target": "#travel",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#ABD",
     "target": "#travel",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#Disney",
     "target": "#travel",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#DCL",
     "target": "#travel",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#follow",
     "target": "#travel",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#Azamara",
     "target": "#travel",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#AmaWaterways",
     "target": "#travel",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#TravelAgent",
     "target": "#travel",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#cruise",
     "target": "#rivercruise",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#ABD",
     "target": "#cruise",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#Disney",
     "target": "#cruise",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#DCL",
     "target": "#cruise",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#cruise",
     "target": "#follow",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#Azamara",
     "target": "#cruise",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#AmaWaterways",
     "target": "#cruise",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#TravelAgent",
     "target": "#cruise",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#ABD",
     "target": "#rivercruise",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#Disney",
     "target": "#rivercruise",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#DCL",
     "target": "#rivercruise",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#follow",
     "target": "#rivercruise",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#Azamara",
     "target": "#rivercruise",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#AmaWaterways",
     "target": "#rivercruise",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#TravelAgent",
     "target": "#rivercruise",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#ABD",
     "target": "#Disney",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#ABD",
     "target": "#DCL",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#ABD",
     "target": "#follow",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#ABD",
     "target": "#Azamara",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#ABD",
     "target": "#AmaWaterways",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#ABD",
     "target": "#TravelAgent",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#DCL",
     "target": "#Disney",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#Disney",
     "target": "#follow",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#Azamara",
     "target": "#Disney",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#AmaWaterways",
     "target": "#Disney",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#Disney",
     "target": "#TravelAgent",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#DCL",
     "target": "#follow",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#Azamara",
     "target": "#DCL",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#AmaWaterways",
     "target": "#DCL",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#DCL",
     "target": "#TravelAgent",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#Azamara",
     "target": "#follow",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#AmaWaterways",
     "target": "#follow",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#TravelAgent",
     "target": "#follow",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#AmaWaterways",
     "target": "#Azamara",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#Azamara",
     "target": "#TravelAgent",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#AmaWaterways",
     "target": "#TravelAgent",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#AV",
@@ -2297,32 +2297,32 @@
   {
     "source": "#WandAVMassage",
     "target": "#WandVibrator",
-    "weight": 8
+    "weight": 11
   },
   {
     "source": "#MassageVibrator",
     "target": "#WandVibrator",
-    "weight": 8
+    "weight": 11
   },
   {
     "source": "#AVMassage",
     "target": "#WandVibrator",
-    "weight": 8
+    "weight": 11
   },
   {
     "source": "#MassageVibrator",
     "target": "#WandAVMassage",
-    "weight": 8
+    "weight": 11
   },
   {
     "source": "#AVMassage",
     "target": "#WandAVMassage",
-    "weight": 8
+    "weight": 11
   },
   {
     "source": "#AVMassage",
     "target": "#MassageVibrator",
-    "weight": 8
+    "weight": 11
   },
   {
     "source": "#新人",
@@ -2417,72 +2417,72 @@
   {
     "source": "#AdultNovelty",
     "target": "#FeedingBottleToy",
-    "weight": 7
+    "weight": 8
   },
   {
     "source": "#FeedingBottleToy",
     "target": "#SexToy",
-    "weight": 7
+    "weight": 8
   },
   {
     "source": "#FeedingBottleToy",
     "target": "#NoveltyItem",
-    "weight": 8
+    "weight": 9
   },
   {
     "source": "#AVVibrator",
     "target": "#FeedingBottleToy",
-    "weight": 8
+    "weight": 9
   },
   {
     "source": "#MagicWandAV",
     "target": "#Vibrator",
-    "weight": 5
+    "weight": 8
   },
   {
     "source": "#Libra",
     "target": "#Vibrator",
-    "weight": 5
+    "weight": 8
   },
   {
     "source": "#LibraMagicWand",
     "target": "#Vibrator",
-    "weight": 5
+    "weight": 8
   },
   {
     "source": "#AdultToy",
     "target": "#Vibrator",
-    "weight": 10
+    "weight": 15
   },
   {
     "source": "#Libra",
     "target": "#MagicWandAV",
-    "weight": 5
+    "weight": 8
   },
   {
     "source": "#LibraMagicWand",
     "target": "#MagicWandAV",
-    "weight": 5
+    "weight": 8
   },
   {
     "source": "#AdultToy",
     "target": "#MagicWandAV",
-    "weight": 5
+    "weight": 8
   },
   {
     "source": "#Libra",
     "target": "#LibraMagicWand",
-    "weight": 5
+    "weight": 8
   },
   {
     "source": "#AdultToy",
     "target": "#Libra",
-    "weight": 5
+    "weight": 8
   },
   {
     "source": "#AdultToy",
     "target": "#LibraMagicWand",
-    "weight": 5
+    "weight": 8
   },
   {
     "source": "#Investing",
@@ -3167,12 +3167,12 @@
   {
     "source": "#熟女",
     "target": "#脚フェチ",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AV女優",
     "target": "#脚フェチ",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#エロ動画",
@@ -3182,12 +3182,12 @@
   {
     "source": "#コスプレ",
     "target": "#熟女",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#AV女優",
     "target": "#コスプレ",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#エロ動画",
@@ -3202,22 +3202,22 @@
   {
     "source": "#AV女優",
     "target": "#熟女",
-    "weight": 2
+    "weight": 4
   },
   {
     "source": "#Other",
     "target": "#VIC",
-    "weight": 15
+    "weight": 20
   },
   {
     "source": "#EMVAlert",
     "target": "#Other",
-    "weight": 15
+    "weight": 20
   },
   {
     "source": "#Other",
     "target": "#incident",
-    "weight": 15
+    "weight": 20
   },
   {
     "source": "#LebanesePolitics",
@@ -3392,7 +3392,7 @@
   {
     "source": "#JAVModel",
     "target": "#熟女",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#JAVModel",
@@ -3422,7 +3422,7 @@
   {
     "source": "#JapanesePorn",
     "target": "#小野六花",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JapanesePorn",
@@ -3447,12 +3447,12 @@
   {
     "source": "#JapanesePorn",
     "target": "#グラビアアイドル",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JapanesePorn",
     "target": "#jpn",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#japanesemodel",
@@ -3487,7 +3487,7 @@
   {
     "source": "#japanesemodel",
     "target": "#熟女",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#japanesemodel",
@@ -3557,7 +3557,7 @@
   {
     "source": "#人妻",
     "target": "#熟女",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#グラビアアイドル",
@@ -3592,12 +3592,12 @@
   {
     "source": "#グラビアアイドル",
     "target": "#小野六花",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#jpn",
     "target": "#小野六花",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#UncensoredJAV",
@@ -3667,7 +3667,7 @@
   {
     "source": "#jpn",
     "target": "#グラビアアイドル",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#WaveWednesday",
@@ -3687,7 +3687,7 @@
   {
     "source": "#cruise",
     "target": "#luxurytravel",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#WaveWednesday",
@@ -3722,82 +3722,82 @@
   {
     "source": "#WandAVMassageVibrator",
     "target": "#WandVibrator",
-    "weight": 7
+    "weight": 10
   },
   {
     "source": "#MassageVibrator",
     "target": "#WandAVMassageVibrator",
-    "weight": 7
+    "weight": 10
   },
   {
     "source": "#AVMassage",
     "target": "#WandAVMassageVibrator",
-    "weight": 7
+    "weight": 10
   },
   {
     "source": "#WandAVMassage",
     "target": "#WandAVMassageVibrator",
-    "weight": 7
+    "weight": 10
   },
   {
     "source": "#AVVibrator",
     "target": "#AdultProduct",
-    "weight": 7
+    "weight": 8
   },
   {
     "source": "#AdultProduct",
     "target": "#FeedingBottleToy",
-    "weight": 7
+    "weight": 8
   },
   {
     "source": "#AdultProduct",
     "target": "#NoveltyItem",
+    "weight": 8
+  },
+  {
+    "source": "#AdultToy",
+    "target": "#Jeusn60",
+    "weight": 7
+  },
+  {
+    "source": "#AVVibrator",
+    "target": "#Jeusn60",
     "weight": 7
   },
   {
     "source": "#AdultToy",
-    "target": "#Jeusn60",
-    "weight": 5
-  },
-  {
-    "source": "#AVVibrator",
-    "target": "#Jeusn60",
-    "weight": 5
-  },
-  {
-    "source": "#AdultToy",
     "target": "#Vibrator60Frequency",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#AVVibrator",
     "target": "#Vibrator60Frequency",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#AdultToy",
     "target": "#JeusnVibrator",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#AVVibrator",
     "target": "#JeusnVibrator",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#AVVibrator",
     "target": "#AdultToy",
-    "weight": 10
+    "weight": 13
   },
   {
     "source": "#60HzVibrator",
     "target": "#AdultToy",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#60HzVibrator",
     "target": "#AVVibrator",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#50Zoom",
@@ -3877,327 +3877,327 @@
   {
     "source": "#同人AV",
     "target": "#素人AV",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#個撮",
     "target": "#同人AV",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#個人撮影",
     "target": "#同人AV",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#P活",
     "target": "#同人AV",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#同人AV",
     "target": "#裏アカ女子とつながりたい",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#同人AV",
     "target": "#妊婦",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#おとこの娘",
     "target": "#同人AV",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#同人AV",
     "target": "#川口",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#同人AV",
     "target": "#越谷",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#同人AV",
     "target": "#大宮",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#個撮",
     "target": "#素人AV",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#個人撮影",
     "target": "#素人AV",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#P活",
     "target": "#素人AV",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#素人AV",
     "target": "#裏アカ女子とつながりたい",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#妊婦",
     "target": "#素人AV",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#おとこの娘",
     "target": "#素人AV",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#川口",
     "target": "#素人AV",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#素人AV",
     "target": "#越谷",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#大宮",
     "target": "#素人AV",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#個人撮影",
     "target": "#個撮",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#P活",
     "target": "#個撮",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#個撮",
     "target": "#裏アカ女子とつながりたい",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#個撮",
     "target": "#妊婦",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#おとこの娘",
     "target": "#個撮",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#個撮",
     "target": "#川口",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#個撮",
     "target": "#越谷",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#個撮",
     "target": "#大宮",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#P活",
     "target": "#個人撮影",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#個人撮影",
     "target": "#裏アカ女子とつながりたい",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#個人撮影",
     "target": "#妊婦",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#おとこの娘",
     "target": "#個人撮影",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#個人撮影",
     "target": "#川口",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#個人撮影",
     "target": "#越谷",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#個人撮影",
     "target": "#大宮",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#P活",
     "target": "#裏アカ女子とつながりたい",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#P活",
     "target": "#妊婦",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#P活",
     "target": "#おとこの娘",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#P活",
     "target": "#川口",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#P活",
     "target": "#越谷",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#P活",
     "target": "#大宮",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#妊婦",
     "target": "#裏アカ女子とつながりたい",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#おとこの娘",
     "target": "#裏アカ女子とつながりたい",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#川口",
     "target": "#裏アカ女子とつながりたい",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#裏アカ女子とつながりたい",
     "target": "#越谷",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#大宮",
     "target": "#裏アカ女子とつながりたい",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#おとこの娘",
     "target": "#妊婦",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#妊婦",
     "target": "#川口",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#妊婦",
     "target": "#越谷",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#大宮",
     "target": "#妊婦",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#おとこの娘",
     "target": "#川口",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#おとこの娘",
     "target": "#越谷",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#おとこの娘",
     "target": "#大宮",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#川口",
     "target": "#越谷",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#大宮",
     "target": "#川口",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#大宮",
     "target": "#越谷",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#LightningMagicWand",
     "target": "#MagicWandVibrator",
-    "weight": 9
+    "weight": 11
   },
   {
     "source": "#AVVibrator",
     "target": "#LightningMagicWand",
-    "weight": 9
+    "weight": 11
   },
   {
     "source": "#AVWand",
     "target": "#LightningMagicWand",
-    "weight": 9
+    "weight": 11
   },
   {
     "source": "#LightningMagicWand",
     "target": "#WandVibrator",
-    "weight": 9
+    "weight": 11
   },
   {
     "source": "#AVVibrator",
     "target": "#MagicWandVibrator",
-    "weight": 9
+    "weight": 11
   },
   {
     "source": "#AVWand",
     "target": "#MagicWandVibrator",
-    "weight": 9
+    "weight": 11
   },
   {
     "source": "#MagicWandVibrator",
     "target": "#WandVibrator",
-    "weight": 9
+    "weight": 11
   },
   {
     "source": "#AVVibrator",
     "target": "#AVWand",
-    "weight": 9
+    "weight": 11
   },
   {
     "source": "#AVVibrator",
     "target": "#WandVibrator",
-    "weight": 9
+    "weight": 11
   },
   {
     "source": "#AVWand",
     "target": "#WandVibrator",
-    "weight": 9
+    "weight": 11
   },
   {
     "source": "#mørketid",
@@ -4207,7 +4207,7 @@
   {
     "source": "#ニューハーフ",
     "target": "#錦糸町",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#男の娘",
@@ -4222,7 +4222,7 @@
   {
     "source": "#ニューハーフ",
     "target": "#男の娘",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AV女優",
@@ -4287,67 +4287,67 @@
   {
     "source": "#10SpeedsVibrator",
     "target": "#PersonalMassager",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#10SpeedsVibrator",
     "target": "#SexToy",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#10SpeedsVibrator",
     "target": "#IntimateWellness",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#10SpeedsVibrator",
     "target": "#AVVibrator",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#10SpeedsVibrator",
     "target": "#Vibrator",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#PersonalMassager",
     "target": "#SexToy",
-    "weight": 6
+    "weight": 8
   },
   {
     "source": "#IntimateWellness",
     "target": "#PersonalMassager",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#AVVibrator",
     "target": "#PersonalMassager",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#PersonalMassager",
     "target": "#Vibrator",
-    "weight": 6
+    "weight": 8
   },
   {
     "source": "#IntimateWellness",
     "target": "#SexToy",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#SexToy",
     "target": "#Vibrator",
-    "weight": 6
+    "weight": 8
   },
   {
     "source": "#AVVibrator",
     "target": "#IntimateWellness",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#IntimateWellness",
     "target": "#Vibrator",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#Bobtot",
@@ -4672,7 +4672,7 @@
   {
     "source": "#AV女優",
     "target": "#VR動画",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#VR動画",
@@ -5182,7 +5182,7 @@
   {
     "source": "#JAVStar",
     "target": "#美少女",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#巨乳",
@@ -5202,7 +5202,7 @@
   {
     "source": "#JapanesePorn",
     "target": "#美少女",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVFans",
@@ -5212,7 +5212,7 @@
   {
     "source": "#jpn",
     "target": "#美少女",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JapanPorn",
@@ -5342,7 +5342,7 @@
   {
     "source": "#JAVStar",
     "target": "#JapanesePorn",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#JAVFans",
@@ -5352,7 +5352,7 @@
   {
     "source": "#JAVStar",
     "target": "#jpn",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#JAVCosplay",
@@ -6587,7 +6587,7 @@
   {
     "source": "#AV女優",
     "target": "#JAVLove",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#JAVLove",
@@ -6602,7 +6602,7 @@
   {
     "source": "#JAVLove",
     "target": "#KawaiiGirl",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#JAVLove",
@@ -6612,7 +6612,7 @@
   {
     "source": "#JAVLove",
     "target": "#パンチラ",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVLove",
@@ -6647,12 +6647,12 @@
   {
     "source": "#AV女優",
     "target": "#KawaiiGirl",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#AV女優",
     "target": "#パンチラ",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AV女優",
@@ -6662,7 +6662,7 @@
   {
     "source": "#AV女優",
     "target": "#オナニー",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#AV女優",
@@ -6742,7 +6742,7 @@
   {
     "source": "#KawaiiGirl",
     "target": "#パンチラ",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#KawaiiGirl",
@@ -6912,12 +6912,12 @@
   {
     "source": "#即ヌキ",
     "target": "#熟女",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#人妻",
     "target": "#即ヌキ",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#即ヌキ",
@@ -6927,7 +6927,7 @@
   {
     "source": "#中出し",
     "target": "#即ヌキ",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#熟女",
@@ -6937,7 +6937,7 @@
   {
     "source": "#中出し",
     "target": "#熟女",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#人妻",
@@ -7432,92 +7432,92 @@
   {
     "source": "#NordicNews",
     "target": "#Sverige",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Sverige",
     "target": "#nyheter",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#FeedingBottleAVVibrator",
     "target": "#FeedingBottleToy",
-    "weight": 6
-  },
-  {
-    "source": "#AVProduct",
-    "target": "#FeedingBottleAVVibrator",
-    "weight": 6
-  },
-  {
-    "source": "#AdultProduct",
-    "target": "#FeedingBottleAVVibrator",
-    "weight": 6
-  },
-  {
-    "source": "#AVProduct",
-    "target": "#AVVibrator",
-    "weight": 6
-  },
-  {
-    "source": "#DiscreetToy",
-    "target": "#FeedingBottleToy",
-    "weight": 6
-  },
-  {
-    "source": "#AVProduct",
-    "target": "#FeedingBottleToy",
-    "weight": 6
-  },
-  {
-    "source": "#AVProduct",
-    "target": "#AdultNovelty",
-    "weight": 6
-  },
-  {
-    "source": "#AdultNovelty",
-    "target": "#AdultProduct",
-    "weight": 6
-  },
-  {
-    "source": "#AVProduct",
-    "target": "#SexToy",
-    "weight": 6
-  },
-  {
-    "source": "#AdultProduct",
-    "target": "#SexToy",
     "weight": 7
   },
   {
     "source": "#AVProduct",
+    "target": "#FeedingBottleAVVibrator",
+    "weight": 7
+  },
+  {
+    "source": "#AdultProduct",
+    "target": "#FeedingBottleAVVibrator",
+    "weight": 7
+  },
+  {
+    "source": "#AVProduct",
+    "target": "#AVVibrator",
+    "weight": 7
+  },
+  {
+    "source": "#DiscreetToy",
+    "target": "#FeedingBottleToy",
+    "weight": 7
+  },
+  {
+    "source": "#AVProduct",
+    "target": "#FeedingBottleToy",
+    "weight": 7
+  },
+  {
+    "source": "#AVProduct",
+    "target": "#AdultNovelty",
+    "weight": 7
+  },
+  {
+    "source": "#AdultNovelty",
+    "target": "#AdultProduct",
+    "weight": 7
+  },
+  {
+    "source": "#AVProduct",
+    "target": "#SexToy",
+    "weight": 7
+  },
+  {
+    "source": "#AdultProduct",
+    "target": "#SexToy",
+    "weight": 10
+  },
+  {
+    "source": "#AVProduct",
     "target": "#DiscreetToy",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#AdultProduct",
     "target": "#DiscreetToy",
-    "weight": 6
+    "weight": 8
   },
   {
     "source": "#AVProduct",
     "target": "#NoveltyItem",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#AVProduct",
     "target": "#AdultProduct",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#AVVibrator",
     "target": "#SexToyAV",
-    "weight": 4
+    "weight": 6
   },
   {
     "source": "#AdultToy",
     "target": "#SexToyAV",
-    "weight": 4
+    "weight": 6
   },
   {
     "source": "#フォロバ100",
@@ -7557,97 +7557,97 @@
   {
     "source": "#AVVibrator",
     "target": "#RechargeableVibrator",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#10SpeedsVibrator",
     "target": "#RechargeableVibrator",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#RechargeableVibrator",
     "target": "#Vibrator",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#RechargeableVibrator",
     "target": "#SexToy",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#AdultToy",
     "target": "#RechargeableVibrator",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#PleasureProduct",
     "target": "#RechargeableVibrator",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#DiscreetToy",
     "target": "#RechargeableVibrator",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#PersonalMassager",
     "target": "#RechargeableVibrator",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#IntimateWellness",
     "target": "#RechargeableVibrator",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#10SpeedsVibrator",
     "target": "#AdultToy",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#10SpeedsVibrator",
     "target": "#PleasureProduct",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#10SpeedsVibrator",
     "target": "#DiscreetToy",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#AdultToy",
     "target": "#DiscreetToy",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#AdultToy",
     "target": "#PersonalMassager",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#AdultToy",
     "target": "#IntimateWellness",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#PersonalMassager",
     "target": "#PleasureProduct",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#IntimateWellness",
     "target": "#PleasureProduct",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#DiscreetToy",
     "target": "#PersonalMassager",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#DiscreetToy",
     "target": "#IntimateWellness",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#Chicago",
@@ -8247,277 +8247,277 @@
   {
     "source": "#Russia",
     "target": "#Ukraine",
-    "weight": 3
+    "weight": 6
   },
   {
     "source": "#StandWithUkraine",
     "target": "#Ukraine",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#RussiaAggression",
     "target": "#Ukraine",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#RussianCrimes",
     "target": "#Ukraine",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Dictatorship",
     "target": "#Ukraine",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Surveillance",
     "target": "#Ukraine",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Censorship",
     "target": "#Ukraine",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#RussianWarCrimes",
     "target": "#Ukraine",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#PutinsWar",
     "target": "#Ukraine",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Muscovy",
     "target": "#Ukraine",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Russia",
     "target": "#StandWithUkraine",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Russia",
     "target": "#RussiaAggression",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Russia",
     "target": "#RussianCrimes",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Dictatorship",
     "target": "#Russia",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Russia",
     "target": "#Surveillance",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Censorship",
     "target": "#Russia",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Russia",
     "target": "#RussianWarCrimes",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#PutinsWar",
     "target": "#Russia",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Muscovy",
     "target": "#Russia",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#RussiaAggression",
     "target": "#StandWithUkraine",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#RussianCrimes",
     "target": "#StandWithUkraine",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Dictatorship",
     "target": "#StandWithUkraine",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#StandWithUkraine",
     "target": "#Surveillance",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Censorship",
     "target": "#StandWithUkraine",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#RussianWarCrimes",
     "target": "#StandWithUkraine",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#PutinsWar",
     "target": "#StandWithUkraine",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Muscovy",
     "target": "#StandWithUkraine",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#RussiaAggression",
     "target": "#RussianCrimes",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Dictatorship",
     "target": "#RussiaAggression",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#RussiaAggression",
     "target": "#Surveillance",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Censorship",
     "target": "#RussiaAggression",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#RussiaAggression",
     "target": "#RussianWarCrimes",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#PutinsWar",
     "target": "#RussiaAggression",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Muscovy",
     "target": "#RussiaAggression",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Dictatorship",
     "target": "#RussianCrimes",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#RussianCrimes",
     "target": "#Surveillance",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Censorship",
     "target": "#RussianCrimes",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#RussianCrimes",
     "target": "#RussianWarCrimes",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#PutinsWar",
     "target": "#RussianCrimes",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Muscovy",
     "target": "#RussianCrimes",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Dictatorship",
     "target": "#Surveillance",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Censorship",
     "target": "#Dictatorship",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Dictatorship",
     "target": "#RussianWarCrimes",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Dictatorship",
     "target": "#PutinsWar",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Dictatorship",
     "target": "#Muscovy",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Censorship",
     "target": "#Surveillance",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#RussianWarCrimes",
     "target": "#Surveillance",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#PutinsWar",
     "target": "#Surveillance",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Muscovy",
     "target": "#Surveillance",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Censorship",
     "target": "#RussianWarCrimes",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Censorship",
     "target": "#PutinsWar",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Censorship",
     "target": "#Muscovy",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#PutinsWar",
     "target": "#RussianWarCrimes",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Muscovy",
     "target": "#RussianWarCrimes",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Muscovy",
     "target": "#PutinsWar",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#ARCAM",
@@ -8977,17 +8977,17 @@
   {
     "source": "#TreeDown",
     "target": "#VIC",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#EMVAlert",
     "target": "#TreeDown",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#TreeDown",
     "target": "#incident",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#Cultura",
@@ -9147,7 +9147,7 @@
   {
     "source": "#制服プレイ",
     "target": "#無修正",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#JAVVideo",
@@ -9157,22 +9157,22 @@
   {
     "source": "#AV女優",
     "target": "#無修正",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#コスプレ",
     "target": "#無修正",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#AsianPorn",
     "target": "#無修正",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#JAVStar",
     "target": "#無修正",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#巨乳",
@@ -9182,17 +9182,17 @@
   {
     "source": "#オナニー",
     "target": "#無修正",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JapaneseFetish",
     "target": "#無修正",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVModel",
     "target": "#無修正",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVVideo",
@@ -9202,7 +9202,7 @@
   {
     "source": "#AV女優",
     "target": "#制服プレイ",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#コスプレ",
@@ -9217,7 +9217,7 @@
   {
     "source": "#JAVStar",
     "target": "#制服プレイ",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#制服プレイ",
@@ -9227,7 +9227,7 @@
   {
     "source": "#オナニー",
     "target": "#制服プレイ",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JapaneseFetish",
@@ -9237,7 +9237,7 @@
   {
     "source": "#JAVModel",
     "target": "#制服プレイ",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#AV女優",
@@ -9277,7 +9277,7 @@
   {
     "source": "#AV女優",
     "target": "#JAVStar",
-    "weight": 2
+    "weight": 4
   },
   {
     "source": "#AV女優",
@@ -9287,17 +9287,17 @@
   {
     "source": "#AV女優",
     "target": "#JAVModel",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#AsianPorn",
     "target": "#コスプレ",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#JAVStar",
     "target": "#コスプレ",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#コスプレ",
@@ -9312,7 +9312,7 @@
   {
     "source": "#JapaneseFetish",
     "target": "#コスプレ",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVModel",
@@ -9322,7 +9322,7 @@
   {
     "source": "#AsianPorn",
     "target": "#JAVStar",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AsianPorn",
@@ -9337,7 +9337,7 @@
   {
     "source": "#AsianPorn",
     "target": "#JapaneseFetish",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AsianPorn",
@@ -9347,17 +9347,17 @@
   {
     "source": "#JAVStar",
     "target": "#オナニー",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVStar",
     "target": "#JapaneseFetish",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVModel",
     "target": "#JAVStar",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JapaneseFetish",
@@ -9377,7 +9377,7 @@
   {
     "source": "#JAVModel",
     "target": "#オナニー",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVModel",
@@ -9557,52 +9557,52 @@
   {
     "source": "#StandWithUkraine",
     "target": "#ryssland",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#SlavaUkraini",
     "target": "#ryssland",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#ryssland",
     "target": "#säkpol",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#föpol",
     "target": "#ryssland",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#SlavaUkraini",
     "target": "#StandWithUkraine",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#StandWithUkraine",
     "target": "#säkpol",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#StandWithUkraine",
     "target": "#föpol",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#SlavaUkraini",
     "target": "#säkpol",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#SlavaUkraini",
     "target": "#föpol",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#föpol",
     "target": "#säkpol",
-    "weight": 3
+    "weight": 5
   },
   {
     "source": "#Knightsbridge",
@@ -10662,22 +10662,22 @@
   {
     "source": "#StructureFire",
     "target": "#VIC",
-    "weight": 7
+    "weight": 12
   },
   {
     "source": "#EMVAlert",
     "target": "#StructureFire",
-    "weight": 7
+    "weight": 12
   },
   {
     "source": "#StructureFire",
     "target": "#incident",
-    "weight": 7
+    "weight": 12
   },
   {
     "source": "#Fire",
     "target": "#StructureFire",
-    "weight": 7
+    "weight": 12
   },
   {
     "source": "#UncensoredJAV",
@@ -10752,12 +10752,12 @@
   {
     "source": "#JAVIdol",
     "target": "#オナニー",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#オナニー",
     "target": "#グラドル",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#エロ動画",
@@ -10782,7 +10782,7 @@
   {
     "source": "#JAVIdol",
     "target": "#グラドル",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#JAVIdol",
@@ -11362,17 +11362,17 @@
   {
     "source": "#AV女優",
     "target": "#asianhottie",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AsianPorn",
     "target": "#asianhottie",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#asianhottie",
     "target": "#コスプレ",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#JAV",
@@ -11382,7 +11382,7 @@
   {
     "source": "#asianhottie",
     "target": "#グラビアアイドル",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#asianhottie",
@@ -11392,7 +11392,7 @@
   {
     "source": "#asianhottie",
     "target": "#小野六花",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AV女優",
@@ -11422,7 +11422,7 @@
   {
     "source": "#AsianPorn",
     "target": "#グラビアアイドル",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AsianPorn",
@@ -11432,7 +11432,7 @@
   {
     "source": "#AsianPorn",
     "target": "#小野六花",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#AsianPorn",
@@ -11447,7 +11447,7 @@
   {
     "source": "#グラビアアイドル",
     "target": "#コスプレ",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#アイドル",
@@ -11457,7 +11457,7 @@
   {
     "source": "#コスプレ",
     "target": "#小野六花",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#コスプレ",
@@ -11667,7 +11667,7 @@
   {
     "source": "#media",
     "target": "#news",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#booksky",
@@ -11677,7 +11677,7 @@
   {
     "source": "#crypto",
     "target": "#news",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#Jazz",
@@ -12187,27 +12187,27 @@
   {
     "source": "#StandWithUkraine",
     "target": "#Starlink",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#SlavaUkraini",
     "target": "#Starlink",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Starlink",
     "target": "#ryssland",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Starlink",
     "target": "#säkpol",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Starlink",
     "target": "#föpol",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#drums",
@@ -12287,12 +12287,12 @@
   {
     "source": "#AV",
     "target": "#人気作品",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#FANZA",
     "target": "#人気作品",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#フォロバ100",
@@ -12322,7 +12322,7 @@
   {
     "source": "#installationhelp",
     "target": "#throttlelock",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#cruisecontrol",
@@ -13977,182 +13977,182 @@
   {
     "source": "#ny",
     "target": "#nyc",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#newyork",
     "target": "#ny",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#ny",
     "target": "#nynews",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#ny",
     "target": "#nycnews",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#newyorknews",
     "target": "#ny",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#ny",
     "target": "#us",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#news",
     "target": "#ny",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#ny",
     "target": "#usnews",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#newyork",
     "target": "#nyc",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#nyc",
     "target": "#nynews",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#nyc",
     "target": "#nycnews",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#newyorknews",
     "target": "#nyc",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#nyc",
     "target": "#us",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#news",
     "target": "#nyc",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#nyc",
     "target": "#usnews",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#newyork",
     "target": "#nynews",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#newyork",
     "target": "#nycnews",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#newyork",
     "target": "#newyorknews",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#newyork",
     "target": "#us",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#news",
     "target": "#newyork",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#newyork",
     "target": "#usnews",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#nycnews",
     "target": "#nynews",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#newyorknews",
     "target": "#nynews",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#nynews",
     "target": "#us",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#news",
     "target": "#nynews",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#nynews",
     "target": "#usnews",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#newyorknews",
     "target": "#nycnews",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#nycnews",
     "target": "#us",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#news",
     "target": "#nycnews",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#nycnews",
     "target": "#usnews",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#newyorknews",
     "target": "#us",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#news",
     "target": "#newyorknews",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#newyorknews",
     "target": "#usnews",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#news",
     "target": "#us",
-    "weight": 3
+    "weight": 5
   },
   {
     "source": "#us",
     "target": "#usnews",
-    "weight": 3
+    "weight": 5
   },
   {
     "source": "#news",
     "target": "#usnews",
-    "weight": 3
+    "weight": 5
   },
   {
     "source": "#sanjose",
@@ -14282,7 +14282,7 @@
   {
     "source": "#Fire",
     "target": "#Other",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#Artelife",
@@ -14932,7 +14932,7 @@
   {
     "source": "#AI",
     "target": "#Teknoloji",
-    "weight": 9
+    "weight": 11
   },
   {
     "source": "#GENEL",
@@ -15317,12 +15317,12 @@
   {
     "source": "#formula1",
     "target": "#msccruises",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#ai",
     "target": "#waymo",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Identity",
@@ -15412,7 +15412,7 @@
   {
     "source": "#google",
     "target": "#waymo",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Cars",
@@ -15457,7 +15457,7 @@
   {
     "source": "#Technology",
     "target": "#Waymo",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#ArtificialIntelligence",
@@ -15512,7 +15512,7 @@
   {
     "source": "#japanesemodel",
     "target": "#コスプレ",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#TokyoGirl",
@@ -15527,7 +15527,7 @@
   {
     "source": "#AV女優",
     "target": "#japanesemodel",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#AsianPorn",
@@ -15732,7 +15732,7 @@
   {
     "source": "#制服プレイ",
     "target": "#熟女",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#6February",
@@ -16547,17 +16547,17 @@
   {
     "source": "#無修正",
     "target": "#美少女",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#小野六花",
     "target": "#美少女",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AsianPorn",
     "target": "#美少女",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#japanesemodel",
@@ -16567,7 +16567,7 @@
   {
     "source": "#コスプレ",
     "target": "#美少女",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVLove",
@@ -16582,12 +16582,12 @@
   {
     "source": "#JAVIdol",
     "target": "#熟女",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#JAVIdol",
     "target": "#無修正",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVIdol",
@@ -16607,17 +16607,17 @@
   {
     "source": "#JAVIdol",
     "target": "#japanesemodel",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVIdol",
     "target": "#コスプレ",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVIdol",
     "target": "#JAVLove",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JapanPorn",
@@ -16642,7 +16642,7 @@
   {
     "source": "#無修正",
     "target": "#熟女",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVFans",
@@ -16652,7 +16652,7 @@
   {
     "source": "#JAVLove",
     "target": "#熟女",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#楓カレン",
@@ -16687,7 +16687,7 @@
   {
     "source": "#小野六花",
     "target": "#無修正",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#JAVFans",
@@ -16722,12 +16722,12 @@
   {
     "source": "#JAVLove",
     "target": "#japanesemodel",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#JAVLove",
     "target": "#コスプレ",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#osr",
@@ -17892,7 +17892,7 @@
   {
     "source": "#JapaneseFetish",
     "target": "#小野六花",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVActress",
@@ -18007,32 +18007,32 @@
   {
     "source": "#hiring",
     "target": "#remotejob",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#hiring",
     "target": "#remotework",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#hiring",
     "target": "#wfh",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#remotejob",
     "target": "#remotework",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#remotejob",
     "target": "#wfh",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#remotework",
     "target": "#wfh",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#btc",
@@ -19807,337 +19807,337 @@
   {
     "source": "#Politics",
     "target": "#USPolitics",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Florida",
     "target": "#Politics",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#FloridaPolitics",
     "target": "#Politics",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Politics",
     "target": "#Senate",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Democrats",
     "target": "#Politics",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AlexVindman",
     "target": "#Politics",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AlexanderVindman",
     "target": "#Politics",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Election2026",
     "target": "#Politics",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#2026Election",
     "target": "#Politics",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Donate",
     "target": "#Politics",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#MakeADonation",
     "target": "#Politics",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Florida",
     "target": "#USPolitics",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#FloridaPolitics",
     "target": "#USPolitics",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Senate",
     "target": "#USPolitics",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Democrats",
     "target": "#USPolitics",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AlexVindman",
     "target": "#USPolitics",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AlexanderVindman",
     "target": "#USPolitics",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Election2026",
     "target": "#USPolitics",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#2026Election",
     "target": "#USPolitics",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Donate",
     "target": "#USPolitics",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#MakeADonation",
     "target": "#USPolitics",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Florida",
     "target": "#FloridaPolitics",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Florida",
     "target": "#Senate",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Democrats",
     "target": "#Florida",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AlexVindman",
     "target": "#Florida",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AlexanderVindman",
     "target": "#Florida",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Election2026",
     "target": "#Florida",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#2026Election",
     "target": "#Florida",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Donate",
     "target": "#Florida",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Florida",
     "target": "#MakeADonation",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#FloridaPolitics",
     "target": "#Senate",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Democrats",
     "target": "#FloridaPolitics",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AlexVindman",
     "target": "#FloridaPolitics",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AlexanderVindman",
     "target": "#FloridaPolitics",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Election2026",
     "target": "#FloridaPolitics",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#2026Election",
     "target": "#FloridaPolitics",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Donate",
     "target": "#FloridaPolitics",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#FloridaPolitics",
     "target": "#MakeADonation",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Democrats",
     "target": "#Senate",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AlexVindman",
     "target": "#Senate",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AlexanderVindman",
     "target": "#Senate",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Election2026",
     "target": "#Senate",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#2026Election",
     "target": "#Senate",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Donate",
     "target": "#Senate",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#MakeADonation",
     "target": "#Senate",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AlexVindman",
     "target": "#Democrats",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AlexanderVindman",
     "target": "#Democrats",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Democrats",
     "target": "#Election2026",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#2026Election",
     "target": "#Democrats",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Democrats",
     "target": "#Donate",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Democrats",
     "target": "#MakeADonation",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AlexVindman",
     "target": "#AlexanderVindman",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AlexVindman",
     "target": "#Election2026",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#2026Election",
     "target": "#AlexVindman",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AlexVindman",
     "target": "#Donate",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AlexVindman",
     "target": "#MakeADonation",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AlexanderVindman",
     "target": "#Election2026",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#2026Election",
     "target": "#AlexanderVindman",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AlexanderVindman",
     "target": "#Donate",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AlexanderVindman",
     "target": "#MakeADonation",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#2026Election",
     "target": "#Election2026",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Donate",
     "target": "#Election2026",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Election2026",
     "target": "#MakeADonation",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#2026Election",
     "target": "#Donate",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#2026Election",
     "target": "#MakeADonation",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Donate",
     "target": "#MakeADonation",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JetTrack",
     "target": "#adsb",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#art",
@@ -20457,7 +20457,7 @@
   {
     "source": "#shemale",
     "target": "#ニューハーフ",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AV女優",
@@ -20582,7 +20582,7 @@
   {
     "source": "#FSD",
     "target": "#robotaxi",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#SANFL",
@@ -20597,7 +20597,7 @@
   {
     "source": "#Accident",
     "target": "#VIC",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#Rescue",
@@ -20607,7 +20607,7 @@
   {
     "source": "#Accident",
     "target": "#EMVAlert",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#EMVAlert",
@@ -20617,7 +20617,7 @@
   {
     "source": "#Accident",
     "target": "#incident",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#Rescue",
@@ -23807,27 +23807,27 @@
   {
     "source": "#holiday",
     "target": "#travel",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#holiday",
     "target": "#tourism",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#holiday",
     "target": "#vacation",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#holiday",
     "target": "#wphhaystravel",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#cruise",
     "target": "#holiday",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#SpecialOffer",
@@ -23857,17 +23857,17 @@
   {
     "source": "#tourism",
     "target": "#travel",
-    "weight": 1
-  },
-  {
-    "source": "#travel",
-    "target": "#vacation",
     "weight": 2
   },
   {
     "source": "#travel",
+    "target": "#vacation",
+    "weight": 3
+  },
+  {
+    "source": "#travel",
     "target": "#wphhaystravel",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#SpecialOffer",
@@ -23897,17 +23897,17 @@
   {
     "source": "#tourism",
     "target": "#vacation",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#tourism",
     "target": "#wphhaystravel",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#cruise",
     "target": "#tourism",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#SpecialOffer",
@@ -23937,12 +23937,12 @@
   {
     "source": "#vacation",
     "target": "#wphhaystravel",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#cruise",
     "target": "#vacation",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#SpecialOffer",
@@ -23972,7 +23972,7 @@
   {
     "source": "#cruise",
     "target": "#wphhaystravel",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#SpecialOffer",
@@ -24887,7 +24887,7 @@
   {
     "source": "#AI",
     "target": "#Waymo",
-    "weight": 2
+    "weight": 4
   },
   {
     "source": "#AI",
@@ -24897,7 +24897,7 @@
   {
     "source": "#AI",
     "target": "#Genie3",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AI",
@@ -24947,7 +24947,7 @@
   {
     "source": "#Genie3",
     "target": "#Waymo",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Waymo",
@@ -24967,7 +24967,7 @@
   {
     "source": "#DeepMind",
     "target": "#Waymo",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Automotive",
@@ -27257,222 +27257,222 @@
   {
     "source": "#AircraftMasturbator",
     "target": "#CruiseMouth",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#CruiseMouth",
     "target": "#MasturbatorCup",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#CruiseMouth",
     "target": "#MaleToy",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#CruiseMouth",
     "target": "#MasturbationToy",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AdultProduct",
     "target": "#CruiseMouth",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#CruiseMouth",
     "target": "#MenToy",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AircraftMasturbator",
     "target": "#MasturbatorCup",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AdultToy",
     "target": "#AircraftMasturbator",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AircraftMasturbator",
     "target": "#SexToy",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AircraftMasturbator",
     "target": "#MaleToy",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AircraftMasturbator",
     "target": "#MasturbationToy",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AdultProduct",
     "target": "#AircraftMasturbator",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AircraftMasturbator",
     "target": "#SexualWellness",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AircraftMasturbator",
     "target": "#MenToy",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AircraftMasturbator",
     "target": "#PleasureProduct",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AdultToy",
     "target": "#MasturbatorCup",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#MasturbatorCup",
     "target": "#SexToy",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#MaleToy",
     "target": "#MasturbatorCup",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#MasturbationToy",
     "target": "#MasturbatorCup",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AdultProduct",
     "target": "#MasturbatorCup",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#MasturbatorCup",
     "target": "#SexualWellness",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#MasturbatorCup",
     "target": "#MenToy",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#MasturbatorCup",
     "target": "#PleasureProduct",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AdultToy",
     "target": "#MaleToy",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AdultToy",
     "target": "#MasturbationToy",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AdultProduct",
     "target": "#AdultToy",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#AdultToy",
     "target": "#MenToy",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#MaleToy",
     "target": "#SexToy",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#MasturbationToy",
     "target": "#SexToy",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#MenToy",
     "target": "#SexToy",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#MaleToy",
     "target": "#MasturbationToy",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AdultProduct",
     "target": "#MaleToy",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#MaleToy",
     "target": "#SexualWellness",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#MaleToy",
     "target": "#MenToy",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#MaleToy",
     "target": "#PleasureProduct",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AdultProduct",
     "target": "#MasturbationToy",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#MasturbationToy",
     "target": "#SexualWellness",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#MasturbationToy",
     "target": "#MenToy",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#MasturbationToy",
     "target": "#PleasureProduct",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AdultProduct",
     "target": "#SexualWellness",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AdultProduct",
     "target": "#MenToy",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AdultProduct",
     "target": "#PleasureProduct",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#MenToy",
     "target": "#SexualWellness",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#MenToy",
     "target": "#PleasureProduct",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#femdom",
@@ -27847,7 +27847,7 @@
   {
     "source": "#AsianPorn",
     "target": "#JapanesePorn",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#mecfs",
@@ -27857,57 +27857,57 @@
   {
     "source": "#Tahiti",
     "target": "#haiku",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Tahiti",
     "target": "#travel",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Tahiti",
     "target": "#cruise",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Tahiti",
     "target": "#rivercruise",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#ABD",
     "target": "#Tahiti",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Disney",
     "target": "#Tahiti",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#DCL",
     "target": "#Tahiti",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Tahiti",
     "target": "#follow",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Azamara",
     "target": "#Tahiti",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AmaWaterways",
     "target": "#Tahiti",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Tahiti",
     "target": "#TravelAgent",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Actu",
@@ -29387,7 +29387,7 @@
   {
     "source": "#Cruise",
     "target": "#Missile",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Smartphone",
@@ -29422,6 +29422,5176 @@
   {
     "source": "#MovieProjector",
     "target": "#WiFi",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#Sage30",
+    "weight": 4
+  },
+  {
+    "source": "#AIAutonomy",
+    "target": "#Sage3",
+    "weight": 105
+  },
+  {
+    "source": "#AbolishTheFamily",
+    "target": "#KinshipRevolution",
+    "weight": 1
+  },
+  {
+    "source": "#AIAutonomy",
+    "target": "#Sage30",
+    "weight": 40
+  },
+  {
+    "source": "#AIautonomy",
+    "target": "#Sage3",
+    "weight": 2
+  },
+  {
+    "source": "#motorcycle",
+    "target": "#throttleassist",
+    "weight": 1
+  },
+  {
+    "source": "#installationhelp",
+    "target": "#throttleassist",
+    "weight": 1
+  },
+  {
+    "source": "#atlas",
+    "target": "#throttleassist",
+    "weight": 1
+  },
+  {
+    "source": "#throttleassist",
+    "target": "#throttlelock",
+    "weight": 1
+  },
+  {
+    "source": "#support",
+    "target": "#throttleassist",
+    "weight": 1
+  },
+  {
+    "source": "#installationhelp",
+    "target": "#motorcycle",
+    "weight": 1
+  },
+  {
+    "source": "#atlas",
+    "target": "#motorcycle",
+    "weight": 1
+  },
+  {
+    "source": "#motorcycle",
+    "target": "#throttlelock",
+    "weight": 1
+  },
+  {
+    "source": "#motorcycle",
+    "target": "#support",
+    "weight": 1
+  },
+  {
+    "source": "#atlas",
+    "target": "#installationhelp",
+    "weight": 1
+  },
+  {
+    "source": "#installationhelp",
+    "target": "#support",
+    "weight": 1
+  },
+  {
+    "source": "#atlas",
+    "target": "#throttlelock",
+    "weight": 1
+  },
+  {
+    "source": "#atlas",
+    "target": "#support",
+    "weight": 1
+  },
+  {
+    "source": "#support",
+    "target": "#throttlelock",
+    "weight": 1
+  },
+  {
+    "source": "#AIAUTONOMY",
+    "target": "#Sage3_0",
+    "weight": 1
+  },
+  {
+    "source": "#Tesla",
+    "target": "#TeslaTakedown",
+    "weight": 1
+  },
+  {
+    "source": "#Swasticar",
+    "target": "#Tesla",
+    "weight": 1
+  },
+  {
+    "source": "#Swasticar",
+    "target": "#TeslaTakedown",
+    "weight": 1
+  },
+  {
+    "source": "#WAYMO",
+    "target": "#human",
+    "weight": 1
+  },
+  {
+    "source": "#Phillipines",
+    "target": "#WAYMO",
+    "weight": 1
+  },
+  {
+    "source": "#Phillipines",
+    "target": "#human",
+    "weight": 1
+  },
+  {
+    "source": "#Kh101",
+    "target": "#info",
+    "weight": 1
+  },
+  {
+    "source": "#audioerotica",
+    "target": "#nsfw",
+    "weight": 1
+  },
+  {
+    "source": "#MommyDom",
+    "target": "#audioerotica",
+    "weight": 1
+  },
+  {
+    "source": "#MILF",
+    "target": "#audioerotica",
+    "weight": 1
+  },
+  {
+    "source": "#Femdom",
+    "target": "#audioerotica",
+    "weight": 1
+  },
+  {
+    "source": "#MommyDom",
+    "target": "#nsfw",
+    "weight": 1
+  },
+  {
+    "source": "#MILF",
+    "target": "#nsfw",
+    "weight": 1
+  },
+  {
+    "source": "#Femdom",
+    "target": "#nsfw",
+    "weight": 1
+  },
+  {
+    "source": "#MILF",
+    "target": "#MommyDom",
+    "weight": 1
+  },
+  {
+    "source": "#Femdom",
+    "target": "#MommyDom",
+    "weight": 1
+  },
+  {
+    "source": "#Femdom",
+    "target": "#MILF",
+    "weight": 1
+  },
+  {
+    "source": "#news",
+    "target": "#robotaxi",
+    "weight": 1
+  },
+  {
+    "source": "#news",
+    "target": "#tesla",
+    "weight": 1
+  },
+  {
+    "source": "#news",
+    "target": "#xiaomi",
+    "weight": 1
+  },
+  {
+    "source": "#robotaxi",
+    "target": "#tesla",
+    "weight": 2
+  },
+  {
+    "source": "#robotaxi",
+    "target": "#xiaomi",
+    "weight": 1
+  },
+  {
+    "source": "#tesla",
+    "target": "#xiaomi",
+    "weight": 1
+  },
+  {
+    "source": "#Politics",
+    "target": "#WorldNews",
+    "weight": 1
+  },
+  {
+    "source": "#News",
+    "target": "#WorldNews",
+    "weight": 1
+  },
+  {
+    "source": "#News",
+    "target": "#Politics",
+    "weight": 1
+  },
+  {
+    "source": "#cruise",
+    "target": "#superbowl",
+    "weight": 1
+  },
+  {
+    "source": "#cruises",
+    "target": "#superbowl",
+    "weight": 1
+  },
+  {
+    "source": "#cruisenews",
+    "target": "#superbowl",
+    "weight": 1
+  },
+  {
+    "source": "#superbowl",
+    "target": "#travelnews",
+    "weight": 1
+  },
+  {
+    "source": "#GenAI",
+    "target": "#Genie3",
+    "weight": 1
+  },
+  {
+    "source": "#Genie3",
+    "target": "#LLM",
+    "weight": 1
+  },
+  {
+    "source": "#GenAI",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#LLM",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#GenAI",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#LLM",
+    "weight": 1
+  },
+  {
+    "source": "#GenAI",
+    "target": "#LLM",
+    "weight": 1
+  },
+  {
+    "source": "#Cybersecurity",
+    "target": "#Technology",
+    "weight": 1
+  },
+  {
+    "source": "#Autopilot",
+    "target": "#Technology",
+    "weight": 1
+  },
+  {
+    "source": "#TechEthics",
+    "target": "#Technology",
+    "weight": 1
+  },
+  {
+    "source": "#Cybersecurity",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#Autopilot",
+    "target": "#Cybersecurity",
+    "weight": 1
+  },
+  {
+    "source": "#Cybersecurity",
+    "target": "#TechEthics",
+    "weight": 1
+  },
+  {
+    "source": "#Autopilot",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#TechEthics",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#Autopilot",
+    "target": "#TechEthics",
+    "weight": 1
+  },
+  {
+    "source": "#AhmetYazıcı",
+    "target": "#SaadetAnkara",
+    "weight": 1
+  },
+  {
+    "source": "#SaadetAnkara",
+    "target": "#TrendMedya",
+    "weight": 1
+  },
+  {
+    "source": "#AhmetYazıcı",
+    "target": "#TrendMedya",
+    "weight": 1
+  },
+  {
+    "source": "#AV天后",
+    "target": "#河北彩花",
+    "weight": 1
+  },
+  {
+    "source": "#T",
+    "target": "#河北彩花",
+    "weight": 1
+  },
+  {
+    "source": "#AV天后",
+    "target": "#T",
+    "weight": 1
+  },
+  {
+    "source": "#Genie3",
+    "target": "#WaymoWorldModel",
+    "weight": 1
+  },
+  {
+    "source": "#Robotaxi",
+    "target": "#WaymoWorldModel",
+    "weight": 1
+  },
+  {
+    "source": "#Genie3",
+    "target": "#Robotaxi",
+    "weight": 1
+  },
+  {
+    "source": "#MovieNews",
+    "target": "#WarofTheWorlds",
+    "weight": 1
+  },
+  {
+    "source": "#MovieNews",
+    "target": "#StevenSpielberg",
+    "weight": 1
+  },
+  {
+    "source": "#StevenSpielberg",
+    "target": "#WarofTheWorlds",
+    "weight": 1
+  },
+  {
+    "source": "#WorldNewsToday",
+    "target": "#latestUpdates",
+    "weight": 1
+  },
+  {
+    "source": "#TrendingNow",
+    "target": "#WorldNewsToday",
+    "weight": 1
+  },
+  {
+    "source": "#GlobalNews",
+    "target": "#WorldNewsToday",
+    "weight": 1
+  },
+  {
+    "source": "#TrendingNow",
+    "target": "#latestUpdates",
+    "weight": 1
+  },
+  {
+    "source": "#GlobalNews",
+    "target": "#latestUpdates",
+    "weight": 1
+  },
+  {
+    "source": "#GlobalNews",
+    "target": "#TrendingNow",
+    "weight": 1
+  },
+  {
+    "source": "#AIAuonomy",
+    "target": "#Sage30",
+    "weight": 1
+  },
+  {
+    "source": "#KB917",
+    "target": "#kbradio",
+    "weight": 1
+  },
+  {
+    "source": "#indiemusic",
+    "target": "#kbradio",
+    "weight": 1
+  },
+  {
+    "source": "#KB917",
+    "target": "#indiemusic",
+    "weight": 1
+  },
+  {
+    "source": "#Lisboa",
+    "target": "#Vegan",
+    "weight": 1
+  },
+  {
+    "source": "#Lisboa",
+    "target": "#Veganfood",
+    "weight": 1
+  },
+  {
+    "source": "#Vegan",
+    "target": "#Veganfood",
+    "weight": 1
+  },
+  {
+    "source": "#AIAUTONOMY",
+    "target": "#Sage3",
+    "weight": 8
+  },
+  {
+    "source": "#NaloneRockit",
+    "target": "#NaloneRockitAV",
+    "weight": 1
+  },
+  {
+    "source": "#NaloneMassager",
+    "target": "#NaloneRockit",
+    "weight": 1
+  },
+  {
+    "source": "#NaloneRockit",
+    "target": "#RockitAV",
+    "weight": 1
+  },
+  {
+    "source": "#NaloneRockit",
+    "target": "#RockitMassager",
+    "weight": 1
+  },
+  {
+    "source": "#AVMassager",
+    "target": "#NaloneRockit",
+    "weight": 1
+  },
+  {
+    "source": "#Nalone",
+    "target": "#NaloneRockit",
+    "weight": 1
+  },
+  {
+    "source": "#NaloneRockit",
+    "target": "#Rockit",
+    "weight": 1
+  },
+  {
+    "source": "#Massager",
+    "target": "#NaloneRockit",
+    "weight": 1
+  },
+  {
+    "source": "#NaloneRockit",
+    "target": "#NaloneRockitAVMassager",
+    "weight": 1
+  },
+  {
+    "source": "#NaloneMassager",
+    "target": "#NaloneRockitAV",
+    "weight": 1
+  },
+  {
+    "source": "#NaloneRockitAV",
+    "target": "#RockitAV",
+    "weight": 1
+  },
+  {
+    "source": "#NaloneRockitAV",
+    "target": "#RockitMassager",
+    "weight": 1
+  },
+  {
+    "source": "#AVMassager",
+    "target": "#NaloneRockitAV",
+    "weight": 1
+  },
+  {
+    "source": "#Nalone",
+    "target": "#NaloneRockitAV",
+    "weight": 1
+  },
+  {
+    "source": "#NaloneRockitAV",
+    "target": "#Rockit",
+    "weight": 1
+  },
+  {
+    "source": "#Massager",
+    "target": "#NaloneRockitAV",
+    "weight": 1
+  },
+  {
+    "source": "#NaloneRockitAV",
+    "target": "#NaloneRockitAVMassager",
+    "weight": 1
+  },
+  {
+    "source": "#NaloneMassager",
+    "target": "#RockitAV",
+    "weight": 1
+  },
+  {
+    "source": "#NaloneMassager",
+    "target": "#RockitMassager",
+    "weight": 1
+  },
+  {
+    "source": "#AVMassager",
+    "target": "#NaloneMassager",
+    "weight": 1
+  },
+  {
+    "source": "#Nalone",
+    "target": "#NaloneMassager",
+    "weight": 1
+  },
+  {
+    "source": "#NaloneMassager",
+    "target": "#Rockit",
+    "weight": 1
+  },
+  {
+    "source": "#Massager",
+    "target": "#NaloneMassager",
+    "weight": 1
+  },
+  {
+    "source": "#NaloneMassager",
+    "target": "#NaloneRockitAVMassager",
+    "weight": 1
+  },
+  {
+    "source": "#RockitAV",
+    "target": "#RockitMassager",
+    "weight": 1
+  },
+  {
+    "source": "#AVMassager",
+    "target": "#RockitAV",
+    "weight": 1
+  },
+  {
+    "source": "#Nalone",
+    "target": "#RockitAV",
+    "weight": 1
+  },
+  {
+    "source": "#Rockit",
+    "target": "#RockitAV",
+    "weight": 1
+  },
+  {
+    "source": "#Massager",
+    "target": "#RockitAV",
+    "weight": 1
+  },
+  {
+    "source": "#NaloneRockitAVMassager",
+    "target": "#RockitAV",
+    "weight": 1
+  },
+  {
+    "source": "#AVMassager",
+    "target": "#RockitMassager",
+    "weight": 1
+  },
+  {
+    "source": "#Nalone",
+    "target": "#RockitMassager",
+    "weight": 1
+  },
+  {
+    "source": "#Rockit",
+    "target": "#RockitMassager",
+    "weight": 1
+  },
+  {
+    "source": "#Massager",
+    "target": "#RockitMassager",
+    "weight": 1
+  },
+  {
+    "source": "#NaloneRockitAVMassager",
+    "target": "#RockitMassager",
+    "weight": 1
+  },
+  {
+    "source": "#AVMassager",
+    "target": "#Nalone",
+    "weight": 1
+  },
+  {
+    "source": "#AVMassager",
+    "target": "#Rockit",
+    "weight": 1
+  },
+  {
+    "source": "#AVMassager",
+    "target": "#Massager",
+    "weight": 1
+  },
+  {
+    "source": "#AVMassager",
+    "target": "#NaloneRockitAVMassager",
+    "weight": 1
+  },
+  {
+    "source": "#Nalone",
+    "target": "#Rockit",
+    "weight": 1
+  },
+  {
+    "source": "#Massager",
+    "target": "#Nalone",
+    "weight": 1
+  },
+  {
+    "source": "#Nalone",
+    "target": "#NaloneRockitAVMassager",
+    "weight": 1
+  },
+  {
+    "source": "#Massager",
+    "target": "#Rockit",
+    "weight": 1
+  },
+  {
+    "source": "#NaloneRockitAVMassager",
+    "target": "#Rockit",
+    "weight": 1
+  },
+  {
+    "source": "#Massager",
+    "target": "#NaloneRockitAVMassager",
+    "weight": 1
+  },
+  {
+    "source": "#DylanAV",
+    "target": "#DylanAVVibrator",
+    "weight": 1
+  },
+  {
+    "source": "#DylanAV",
+    "target": "#Vibrator",
+    "weight": 1
+  },
+  {
+    "source": "#AdultToy",
+    "target": "#DylanAV",
+    "weight": 1
+  },
+  {
+    "source": "#DylanAV",
+    "target": "#SexToy",
+    "weight": 1
+  },
+  {
+    "source": "#DiscreetToy",
+    "target": "#DylanAV",
+    "weight": 1
+  },
+  {
+    "source": "#DylanAV",
+    "target": "#PleasureProduct",
+    "weight": 1
+  },
+  {
+    "source": "#DylanAV",
+    "target": "#SensualVibrator",
+    "weight": 1
+  },
+  {
+    "source": "#DylanAV",
+    "target": "#IntimateToy",
+    "weight": 1
+  },
+  {
+    "source": "#AdultProduct",
+    "target": "#DylanAV",
+    "weight": 1
+  },
+  {
+    "source": "#DylanAV",
+    "target": "#PersonalMassager",
+    "weight": 1
+  },
+  {
+    "source": "#DylanAVVibrator",
+    "target": "#Vibrator",
+    "weight": 1
+  },
+  {
+    "source": "#AdultToy",
+    "target": "#DylanAVVibrator",
+    "weight": 1
+  },
+  {
+    "source": "#DylanAVVibrator",
+    "target": "#SexToy",
+    "weight": 1
+  },
+  {
+    "source": "#DiscreetToy",
+    "target": "#DylanAVVibrator",
+    "weight": 1
+  },
+  {
+    "source": "#DylanAVVibrator",
+    "target": "#PleasureProduct",
+    "weight": 1
+  },
+  {
+    "source": "#DylanAVVibrator",
+    "target": "#SensualVibrator",
+    "weight": 1
+  },
+  {
+    "source": "#DylanAVVibrator",
+    "target": "#IntimateToy",
+    "weight": 1
+  },
+  {
+    "source": "#AdultProduct",
+    "target": "#DylanAVVibrator",
+    "weight": 1
+  },
+  {
+    "source": "#DylanAVVibrator",
+    "target": "#PersonalMassager",
+    "weight": 1
+  },
+  {
+    "source": "#SensualVibrator",
+    "target": "#Vibrator",
+    "weight": 1
+  },
+  {
+    "source": "#IntimateToy",
+    "target": "#Vibrator",
+    "weight": 1
+  },
+  {
+    "source": "#AdultProduct",
+    "target": "#Vibrator",
+    "weight": 1
+  },
+  {
+    "source": "#AdultToy",
+    "target": "#SensualVibrator",
+    "weight": 1
+  },
+  {
+    "source": "#AdultToy",
+    "target": "#IntimateToy",
+    "weight": 1
+  },
+  {
+    "source": "#SensualVibrator",
+    "target": "#SexToy",
+    "weight": 1
+  },
+  {
+    "source": "#IntimateToy",
+    "target": "#SexToy",
+    "weight": 1
+  },
+  {
+    "source": "#DiscreetToy",
+    "target": "#SensualVibrator",
+    "weight": 1
+  },
+  {
+    "source": "#DiscreetToy",
+    "target": "#IntimateToy",
+    "weight": 1
+  },
+  {
+    "source": "#PleasureProduct",
+    "target": "#SensualVibrator",
+    "weight": 1
+  },
+  {
+    "source": "#IntimateToy",
+    "target": "#PleasureProduct",
+    "weight": 1
+  },
+  {
+    "source": "#IntimateToy",
+    "target": "#SensualVibrator",
+    "weight": 1
+  },
+  {
+    "source": "#AdultProduct",
+    "target": "#SensualVibrator",
+    "weight": 1
+  },
+  {
+    "source": "#PersonalMassager",
+    "target": "#SensualVibrator",
+    "weight": 1
+  },
+  {
+    "source": "#AdultProduct",
+    "target": "#IntimateToy",
+    "weight": 1
+  },
+  {
+    "source": "#IntimateToy",
+    "target": "#PersonalMassager",
+    "weight": 1
+  },
+  {
+    "source": "#AdultProduct",
+    "target": "#PersonalMassager",
+    "weight": 1
+  },
+  {
+    "source": "#Meme",
+    "target": "#SundaySnark",
+    "weight": 1
+  },
+  {
+    "source": "#Memes",
+    "target": "#SundaySnark",
+    "weight": 1
+  },
+  {
+    "source": "#Meme",
+    "target": "#Memes",
+    "weight": 1
+  },
+  {
+    "source": "#CA",
+    "target": "#LosAngelesCityLosAngelesCounty",
+    "weight": 1
+  },
+  {
+    "source": "#EmployeeProtection",
+    "target": "#LosAngelesCityLosAngelesCounty",
+    "weight": 1
+  },
+  {
+    "source": "#LosAngelesCityLosAngelesCounty",
+    "target": "#WorkplaceFairness",
+    "weight": 1
+  },
+  {
+    "source": "#CA",
+    "target": "#EmployeeProtection",
+    "weight": 1
+  },
+  {
+    "source": "#CA",
+    "target": "#WorkplaceFairness",
+    "weight": 1
+  },
+  {
+    "source": "#EmployeeProtection",
+    "target": "#WorkplaceFairness",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#Sage3",
+    "weight": 4
+  },
+  {
+    "source": "#EndCircumcision",
+    "target": "#IntactAmerica",
+    "weight": 1
+  },
+  {
+    "source": "#AIAu",
+    "target": "#Sage3",
+    "weight": 1
+  },
+  {
+    "source": "#Ensenada",
+    "target": "#PorSiNoLoLeísteAyer",
+    "weight": 1
+  },
+  {
+    "source": "#BlackSky",
+    "target": "#Quotes",
+    "weight": 1
+  },
+  {
+    "source": "#Independence",
+    "target": "#Quotes",
+    "weight": 1
+  },
+  {
+    "source": "#BlackSky",
+    "target": "#Independence",
+    "weight": 1
+  },
+  {
+    "source": "#8F",
+    "target": "#Aragón",
+    "weight": 2
+  },
+  {
+    "source": "#holiday",
+    "target": "#instatravel",
+    "weight": 1
+  },
+  {
+    "source": "#holiday",
+    "target": "#travelling",
+    "weight": 1
+  },
+  {
+    "source": "#holiday",
+    "target": "#wanderlust",
+    "weight": 1
+  },
+  {
+    "source": "#cruisedeals",
+    "target": "#holiday",
+    "weight": 1
+  },
+  {
+    "source": "#holiday",
+    "target": "#specialoffer",
+    "weight": 1
+  },
+  {
+    "source": "#instatravel",
+    "target": "#travel",
+    "weight": 1
+  },
+  {
+    "source": "#instatravel",
+    "target": "#travelling",
+    "weight": 1
+  },
+  {
+    "source": "#instatravel",
+    "target": "#tourism",
+    "weight": 1
+  },
+  {
+    "source": "#instatravel",
+    "target": "#vacation",
+    "weight": 1
+  },
+  {
+    "source": "#instatravel",
+    "target": "#wanderlust",
+    "weight": 1
+  },
+  {
+    "source": "#instatravel",
+    "target": "#wphhaystravel",
+    "weight": 1
+  },
+  {
+    "source": "#cruise",
+    "target": "#instatravel",
+    "weight": 1
+  },
+  {
+    "source": "#cruisedeals",
+    "target": "#instatravel",
+    "weight": 1
+  },
+  {
+    "source": "#instatravel",
+    "target": "#specialoffer",
+    "weight": 1
+  },
+  {
+    "source": "#travel",
+    "target": "#travelling",
+    "weight": 1
+  },
+  {
+    "source": "#travel",
+    "target": "#wanderlust",
+    "weight": 1
+  },
+  {
+    "source": "#cruisedeals",
+    "target": "#travel",
+    "weight": 1
+  },
+  {
+    "source": "#specialoffer",
+    "target": "#travel",
+    "weight": 1
+  },
+  {
+    "source": "#tourism",
+    "target": "#travelling",
+    "weight": 1
+  },
+  {
+    "source": "#travelling",
+    "target": "#vacation",
+    "weight": 1
+  },
+  {
+    "source": "#travelling",
+    "target": "#wanderlust",
+    "weight": 1
+  },
+  {
+    "source": "#travelling",
+    "target": "#wphhaystravel",
+    "weight": 1
+  },
+  {
+    "source": "#cruise",
+    "target": "#travelling",
+    "weight": 1
+  },
+  {
+    "source": "#cruisedeals",
+    "target": "#travelling",
+    "weight": 1
+  },
+  {
+    "source": "#specialoffer",
+    "target": "#travelling",
+    "weight": 1
+  },
+  {
+    "source": "#tourism",
+    "target": "#wanderlust",
+    "weight": 1
+  },
+  {
+    "source": "#cruisedeals",
+    "target": "#tourism",
+    "weight": 1
+  },
+  {
+    "source": "#specialoffer",
+    "target": "#tourism",
+    "weight": 1
+  },
+  {
+    "source": "#vacation",
+    "target": "#wanderlust",
+    "weight": 1
+  },
+  {
+    "source": "#cruisedeals",
+    "target": "#vacation",
+    "weight": 1
+  },
+  {
+    "source": "#specialoffer",
+    "target": "#vacation",
+    "weight": 1
+  },
+  {
+    "source": "#wanderlust",
+    "target": "#wphhaystravel",
+    "weight": 1
+  },
+  {
+    "source": "#cruise",
+    "target": "#wanderlust",
+    "weight": 1
+  },
+  {
+    "source": "#cruisedeals",
+    "target": "#wanderlust",
+    "weight": 1
+  },
+  {
+    "source": "#specialoffer",
+    "target": "#wanderlust",
+    "weight": 1
+  },
+  {
+    "source": "#cruisedeals",
+    "target": "#wphhaystravel",
+    "weight": 1
+  },
+  {
+    "source": "#specialoffer",
+    "target": "#wphhaystravel",
+    "weight": 1
+  },
+  {
+    "source": "#cruise",
+    "target": "#cruisedeals",
+    "weight": 1
+  },
+  {
+    "source": "#cruise",
+    "target": "#specialoffer",
+    "weight": 1
+  },
+  {
+    "source": "#cruisedeals",
+    "target": "#specialoffer",
+    "weight": 1
+  },
+  {
+    "source": "#AIAUTONOMY",
+    "target": "#Sage30",
+    "weight": 2
+  },
+  {
+    "source": "#malechastity",
+    "target": "#shibari",
+    "weight": 1
+  },
+  {
+    "source": "#malechastity",
+    "target": "#menintope",
+    "weight": 1
+  },
+  {
+    "source": "#menintope",
+    "target": "#shibari",
+    "weight": 1
+  },
+  {
+    "source": "#AIAuonomy",
+    "target": "#Sage3",
+    "weight": 1
+  },
+  {
+    "source": "#AIAuonomy",
+    "target": "#FutureAI",
+    "weight": 1
+  },
+  {
+    "source": "#FutureAI",
+    "target": "#Sage3",
+    "weight": 1
+  },
+  {
+    "source": "#Odisha",
+    "target": "#education",
+    "weight": 1
+  },
+  {
+    "source": "#AIRevolution",
+    "target": "#Sage30",
+    "weight": 1
+  },
+  {
+    "source": "#Turkiye",
+    "target": "#Türkiye",
+    "weight": 1
+  },
+  {
+    "source": "#Haber",
+    "target": "#Türkiye",
+    "weight": 1
+  },
+  {
+    "source": "#Gündem",
+    "target": "#Türkiye",
+    "weight": 1
+  },
+  {
+    "source": "#Gundem",
+    "target": "#Türkiye",
+    "weight": 1
+  },
+  {
+    "source": "#BirGün",
+    "target": "#Türkiye",
+    "weight": 1
+  },
+  {
+    "source": "#BirGun",
+    "target": "#Türkiye",
+    "weight": 1
+  },
+  {
+    "source": "#Haber",
+    "target": "#Turkiye",
+    "weight": 1
+  },
+  {
+    "source": "#Gündem",
+    "target": "#Turkiye",
+    "weight": 1
+  },
+  {
+    "source": "#Gundem",
+    "target": "#Turkiye",
+    "weight": 1
+  },
+  {
+    "source": "#BirGün",
+    "target": "#Turkiye",
+    "weight": 1
+  },
+  {
+    "source": "#BirGun",
+    "target": "#Turkiye",
+    "weight": 1
+  },
+  {
+    "source": "#Gündem",
+    "target": "#Haber",
+    "weight": 1
+  },
+  {
+    "source": "#Gundem",
+    "target": "#Haber",
+    "weight": 1
+  },
+  {
+    "source": "#BirGün",
+    "target": "#Haber",
+    "weight": 1
+  },
+  {
+    "source": "#BirGun",
+    "target": "#Haber",
+    "weight": 1
+  },
+  {
+    "source": "#Gundem",
+    "target": "#Gündem",
+    "weight": 1
+  },
+  {
+    "source": "#BirGün",
+    "target": "#Gündem",
+    "weight": 1
+  },
+  {
+    "source": "#BirGun",
+    "target": "#Gündem",
+    "weight": 1
+  },
+  {
+    "source": "#BirGün",
+    "target": "#Gundem",
+    "weight": 1
+  },
+  {
+    "source": "#BirGun",
+    "target": "#Gundem",
+    "weight": 1
+  },
+  {
+    "source": "#BirGun",
+    "target": "#BirGün",
+    "weight": 1
+  },
+  {
+    "source": "#Jekyll",
+    "target": "#StaticSite",
+    "weight": 1
+  },
+  {
+    "source": "#SelfHosting",
+    "target": "#StaticSite",
+    "weight": 1
+  },
+  {
+    "source": "#DigitalSovereignty",
+    "target": "#StaticSite",
+    "weight": 1
+  },
+  {
+    "source": "#Jekyll",
+    "target": "#SelfHosting",
+    "weight": 1
+  },
+  {
+    "source": "#DigitalSovereignty",
+    "target": "#Jekyll",
+    "weight": 1
+  },
+  {
+    "source": "#DigitalSovereignty",
+    "target": "#SelfHosting",
+    "weight": 1
+  },
+  {
+    "source": "#AIAuonomy",
+    "target": "#Sage3_0",
+    "weight": 1
+  },
+  {
+    "source": "#AIautonomy",
+    "target": "#Sage30",
+    "weight": 1
+  },
+  {
+    "source": "#AIAutonomy",
+    "target": "#Sage3_0",
+    "weight": 1
+  },
+  {
+    "source": "#Waymo",
+    "target": "#Zeekr",
+    "weight": 1
+  },
+  {
+    "source": "#Robotaxis",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#Robotaxis",
+    "target": "#Zeekr",
+    "weight": 1
+  },
+  {
+    "source": "#Climate",
+    "target": "#Pollution",
+    "weight": 3
+  },
+  {
+    "source": "#Climate",
+    "target": "#Environment",
+    "weight": 3
+  },
+  {
+    "source": "#Bot",
+    "target": "#Climate",
+    "weight": 6
+  },
+  {
+    "source": "#Climate",
+    "target": "#Sustainability",
+    "weight": 3
+  },
+  {
+    "source": "#Climate",
+    "target": "#Rce",
+    "weight": 3
+  },
+  {
+    "source": "#Climat",
+    "target": "#Climate",
+    "weight": 3
+  },
+  {
+    "source": "#Environment",
+    "target": "#Pollution",
+    "weight": 3
+  },
+  {
+    "source": "#Bot",
+    "target": "#Pollution",
+    "weight": 6
+  },
+  {
+    "source": "#Pollution",
+    "target": "#Sustainability",
+    "weight": 3
+  },
+  {
+    "source": "#Pollution",
+    "target": "#Rce",
+    "weight": 3
+  },
+  {
+    "source": "#Climat",
+    "target": "#Pollution",
+    "weight": 3
+  },
+  {
+    "source": "#Bot",
+    "target": "#Environment",
+    "weight": 6
+  },
+  {
+    "source": "#Environment",
+    "target": "#Sustainability",
+    "weight": 3
+  },
+  {
+    "source": "#Environment",
+    "target": "#Rce",
+    "weight": 3
+  },
+  {
+    "source": "#Climat",
+    "target": "#Environment",
+    "weight": 3
+  },
+  {
+    "source": "#Bot",
+    "target": "#Sustainability",
+    "weight": 6
+  },
+  {
+    "source": "#Bot",
+    "target": "#Rce",
+    "weight": 6
+  },
+  {
+    "source": "#Bot",
+    "target": "#Climat",
+    "weight": 6
+  },
+  {
+    "source": "#Bot",
+    "target": "#Bot",
+    "weight": 3
+  },
+  {
+    "source": "#Rce",
+    "target": "#Sustainability",
+    "weight": 3
+  },
+  {
+    "source": "#Climat",
+    "target": "#Sustainability",
+    "weight": 3
+  },
+  {
+    "source": "#Climat",
+    "target": "#Rce",
+    "weight": 3
+  },
+  {
+    "source": "#miata",
+    "target": "#waymo",
+    "weight": 1
+  },
+  {
+    "source": "#mx5",
+    "target": "#waymo",
+    "weight": 1
+  },
+  {
+    "source": "#miata",
+    "target": "#mx5",
+    "weight": 1
+  },
+  {
+    "source": "#nextjs",
+    "target": "#uniform",
+    "weight": 1
+  },
+  {
+    "source": "#n8n",
+    "target": "#uniform",
+    "weight": 1
+  },
+  {
+    "source": "#brevo",
+    "target": "#uniform",
+    "weight": 1
+  },
+  {
+    "source": "#shopify",
+    "target": "#uniform",
+    "weight": 1
+  },
+  {
+    "source": "#uniform",
+    "target": "#vercel",
+    "weight": 1
+  },
+  {
+    "source": "#n8n",
+    "target": "#nextjs",
+    "weight": 1
+  },
+  {
+    "source": "#brevo",
+    "target": "#nextjs",
+    "weight": 1
+  },
+  {
+    "source": "#nextjs",
+    "target": "#shopify",
+    "weight": 1
+  },
+  {
+    "source": "#nextjs",
+    "target": "#vercel",
+    "weight": 1
+  },
+  {
+    "source": "#brevo",
+    "target": "#n8n",
+    "weight": 1
+  },
+  {
+    "source": "#n8n",
+    "target": "#shopify",
+    "weight": 1
+  },
+  {
+    "source": "#n8n",
+    "target": "#vercel",
+    "weight": 1
+  },
+  {
+    "source": "#brevo",
+    "target": "#shopify",
+    "weight": 1
+  },
+  {
+    "source": "#brevo",
+    "target": "#vercel",
+    "weight": 1
+  },
+  {
+    "source": "#shopify",
+    "target": "#vercel",
+    "weight": 1
+  },
+  {
+    "source": "#Teknoloji",
+    "target": "#Teknoloji",
+    "weight": 1
+  },
+  {
+    "source": "#JAVQueen",
+    "target": "#熟女",
+    "weight": 1
+  },
+  {
+    "source": "#JAVQueen",
+    "target": "#パンチラ",
+    "weight": 1
+  },
+  {
+    "source": "#JAVQueen",
+    "target": "#グラドル",
+    "weight": 1
+  },
+  {
+    "source": "#JAVIdol",
+    "target": "#JAVQueen",
+    "weight": 1
+  },
+  {
+    "source": "#JAVQueen",
+    "target": "#コスプレ",
+    "weight": 1
+  },
+  {
+    "source": "#JAVQueen",
+    "target": "#JAVStar",
+    "weight": 1
+  },
+  {
+    "source": "#JAVLove",
+    "target": "#JAVQueen",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優",
+    "target": "#JAVQueen",
+    "weight": 1
+  },
+  {
+    "source": "#JAVQueen",
+    "target": "#風俗",
+    "weight": 1
+  },
+  {
+    "source": "#JAVQueen",
+    "target": "#asianhottie",
+    "weight": 1
+  },
+  {
+    "source": "#JAVQueen",
+    "target": "#japanesemodel",
+    "weight": 1
+  },
+  {
+    "source": "#JAVQueen",
+    "target": "#KawaiiGirl",
+    "weight": 1
+  },
+  {
+    "source": "#パンチラ",
+    "target": "#熟女",
+    "weight": 1
+  },
+  {
+    "source": "#グラドル",
+    "target": "#熟女",
+    "weight": 2
+  },
+  {
+    "source": "#JAVStar",
+    "target": "#熟女",
+    "weight": 2
+  },
+  {
+    "source": "#熟女",
+    "target": "#風俗",
+    "weight": 1
+  },
+  {
+    "source": "#asianhottie",
+    "target": "#熟女",
+    "weight": 1
+  },
+  {
+    "source": "#KawaiiGirl",
+    "target": "#熟女",
+    "weight": 1
+  },
+  {
+    "source": "#グラドル",
+    "target": "#パンチラ",
+    "weight": 1
+  },
+  {
+    "source": "#JAVIdol",
+    "target": "#パンチラ",
+    "weight": 1
+  },
+  {
+    "source": "#コスプレ",
+    "target": "#パンチラ",
+    "weight": 1
+  },
+  {
+    "source": "#JAVStar",
+    "target": "#パンチラ",
+    "weight": 1
+  },
+  {
+    "source": "#パンチラ",
+    "target": "#風俗",
+    "weight": 1
+  },
+  {
+    "source": "#asianhottie",
+    "target": "#パンチラ",
+    "weight": 1
+  },
+  {
+    "source": "#japanesemodel",
+    "target": "#パンチラ",
+    "weight": 1
+  },
+  {
+    "source": "#グラドル",
+    "target": "#コスプレ",
+    "weight": 1
+  },
+  {
+    "source": "#JAVStar",
+    "target": "#グラドル",
+    "weight": 2
+  },
+  {
+    "source": "#JAVLove",
+    "target": "#グラドル",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優",
+    "target": "#グラドル",
+    "weight": 2
+  },
+  {
+    "source": "#グラドル",
+    "target": "#風俗",
+    "weight": 1
+  },
+  {
+    "source": "#asianhottie",
+    "target": "#グラドル",
+    "weight": 1
+  },
+  {
+    "source": "#japanesemodel",
+    "target": "#グラドル",
+    "weight": 1
+  },
+  {
+    "source": "#KawaiiGirl",
+    "target": "#グラドル",
+    "weight": 1
+  },
+  {
+    "source": "#JAVIdol",
+    "target": "#JAVStar",
+    "weight": 2
+  },
+  {
+    "source": "#AV女優",
+    "target": "#JAVIdol",
+    "weight": 2
+  },
+  {
+    "source": "#JAVIdol",
+    "target": "#風俗",
+    "weight": 1
+  },
+  {
+    "source": "#JAVIdol",
+    "target": "#asianhottie",
+    "weight": 1
+  },
+  {
+    "source": "#JAVIdol",
+    "target": "#KawaiiGirl",
+    "weight": 1
+  },
+  {
+    "source": "#コスプレ",
+    "target": "#風俗",
+    "weight": 1
+  },
+  {
+    "source": "#KawaiiGirl",
+    "target": "#コスプレ",
+    "weight": 1
+  },
+  {
+    "source": "#JAVLove",
+    "target": "#JAVStar",
+    "weight": 1
+  },
+  {
+    "source": "#JAVStar",
+    "target": "#風俗",
+    "weight": 1
+  },
+  {
+    "source": "#JAVStar",
+    "target": "#asianhottie",
+    "weight": 2
+  },
+  {
+    "source": "#JAVStar",
+    "target": "#japanesemodel",
+    "weight": 1
+  },
+  {
+    "source": "#JAVStar",
+    "target": "#KawaiiGirl",
+    "weight": 1
+  },
+  {
+    "source": "#JAVLove",
+    "target": "#風俗",
+    "weight": 1
+  },
+  {
+    "source": "#JAVLove",
+    "target": "#asianhottie",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優",
+    "target": "#風俗",
+    "weight": 1
+  },
+  {
+    "source": "#asianhottie",
+    "target": "#風俗",
+    "weight": 1
+  },
+  {
+    "source": "#japanesemodel",
+    "target": "#風俗",
+    "weight": 1
+  },
+  {
+    "source": "#KawaiiGirl",
+    "target": "#風俗",
+    "weight": 1
+  },
+  {
+    "source": "#asianhottie",
+    "target": "#japanesemodel",
+    "weight": 1
+  },
+  {
+    "source": "#KawaiiGirl",
+    "target": "#japanesemodel",
+    "weight": 1
+  },
+  {
+    "source": "#ゲーム実況",
+    "target": "#マリオカートワールド",
+    "weight": 1
+  },
+  {
+    "source": "#こつわむ",
+    "target": "#マリオカートワールド",
+    "weight": 1
+  },
+  {
+    "source": "#こつわむ",
+    "target": "#ゲーム実況",
+    "weight": 1
+  },
+  {
+    "source": "#Bravo",
+    "target": "#SFBay",
+    "weight": 1
+  },
+  {
+    "source": "#bikini",
+    "target": "#cruise",
+    "weight": 1
+  },
+  {
+    "source": "#Noir",
+    "target": "#postrock",
+    "weight": 1
+  },
+  {
+    "source": "#Noir",
+    "target": "#rezension",
+    "weight": 1
+  },
+  {
+    "source": "#GY",
+    "target": "#Noir",
+    "weight": 1
+  },
+  {
+    "source": "#Noir",
+    "target": "#goodspeedyoublackemperor",
+    "weight": 1
+  },
+  {
+    "source": "#postrock",
+    "target": "#rezension",
+    "weight": 1
+  },
+  {
+    "source": "#GY",
+    "target": "#postrock",
+    "weight": 1
+  },
+  {
+    "source": "#goodspeedyoublackemperor",
+    "target": "#postrock",
+    "weight": 1
+  },
+  {
+    "source": "#GY",
+    "target": "#rezension",
+    "weight": 1
+  },
+  {
+    "source": "#goodspeedyoublackemperor",
+    "target": "#rezension",
+    "weight": 1
+  },
+  {
+    "source": "#GY",
+    "target": "#goodspeedyoublackemperor",
+    "weight": 1
+  },
+  {
+    "source": "#AppleMusic",
+    "target": "#RnB",
+    "weight": 1
+  },
+  {
+    "source": "#AppleMusic",
+    "target": "#Avabella",
+    "weight": 1
+  },
+  {
+    "source": "#AppleMusic",
+    "target": "#VMG",
+    "weight": 1
+  },
+  {
+    "source": "#Avabella",
+    "target": "#RnB",
+    "weight": 1
+  },
+  {
+    "source": "#RnB",
+    "target": "#VMG",
+    "weight": 1
+  },
+  {
+    "source": "#Avabella",
+    "target": "#VMG",
+    "weight": 1
+  },
+  {
+    "source": "#Tver",
+    "target": "#Ukraine",
+    "weight": 1
+  },
+  {
+    "source": "#StandWithUkraine",
+    "target": "#Tver",
+    "weight": 1
+  },
+  {
+    "source": "#RussiaAggression",
+    "target": "#Tver",
+    "weight": 1
+  },
+  {
+    "source": "#RussianCrimes",
+    "target": "#Tver",
+    "weight": 1
+  },
+  {
+    "source": "#Dictatorship",
+    "target": "#Tver",
+    "weight": 1
+  },
+  {
+    "source": "#Surveillance",
+    "target": "#Tver",
+    "weight": 1
+  },
+  {
+    "source": "#Censorship",
+    "target": "#Tver",
+    "weight": 1
+  },
+  {
+    "source": "#RussianWarCrimes",
+    "target": "#Tver",
+    "weight": 1
+  },
+  {
+    "source": "#PutinsWar",
+    "target": "#Tver",
+    "weight": 1
+  },
+  {
+    "source": "#Muscovy",
+    "target": "#Tver",
+    "weight": 1
+  },
+  {
+    "source": "#Russia",
+    "target": "#Tver",
+    "weight": 1
+  },
+  {
+    "source": "#NowPlaying",
+    "target": "#SundaySongBook",
+    "weight": 1
+  },
+  {
+    "source": "#NowPlaying",
+    "target": "#山下達郎",
+    "weight": 1
+  },
+  {
+    "source": "#NowPlaying",
+    "target": "#TokyoFM",
+    "weight": 1
+  },
+  {
+    "source": "#NowOnAir",
+    "target": "#NowPlaying",
+    "weight": 1
+  },
+  {
+    "source": "#FmAichi",
+    "target": "#NowPlaying",
+    "weight": 1
+  },
+  {
+    "source": "#SundaySongBook",
+    "target": "#山下達郎",
+    "weight": 1
+  },
+  {
+    "source": "#SundaySongBook",
+    "target": "#TokyoFM",
+    "weight": 1
+  },
+  {
+    "source": "#NowOnAir",
+    "target": "#SundaySongBook",
+    "weight": 1
+  },
+  {
+    "source": "#FmAichi",
+    "target": "#SundaySongBook",
+    "weight": 1
+  },
+  {
+    "source": "#TokyoFM",
+    "target": "#山下達郎",
+    "weight": 1
+  },
+  {
+    "source": "#NowOnAir",
+    "target": "#山下達郎",
+    "weight": 1
+  },
+  {
+    "source": "#FmAichi",
+    "target": "#山下達郎",
+    "weight": 1
+  },
+  {
+    "source": "#NowOnAir",
+    "target": "#TokyoFM",
+    "weight": 1
+  },
+  {
+    "source": "#FmAichi",
+    "target": "#TokyoFM",
+    "weight": 1
+  },
+  {
+    "source": "#FmAichi",
+    "target": "#NowOnAir",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優",
+    "target": "#栄川乃亜",
+    "weight": 1
+  },
+  {
+    "source": "#VR動画",
+    "target": "#栄川乃亜",
+    "weight": 1
+  },
+  {
+    "source": "#裏アカ男子",
+    "target": "#裏垢男子",
+    "weight": 1
+  },
+  {
+    "source": "#裏垢女子",
+    "target": "#裏垢男子",
+    "weight": 1
+  },
+  {
+    "source": "#裏アカ女子",
+    "target": "#裏垢男子",
+    "weight": 1
+  },
+  {
+    "source": "#オフパコ",
+    "target": "#裏垢男子",
+    "weight": 1
+  },
+  {
+    "source": "#ハメ撮り",
+    "target": "#裏垢男子",
+    "weight": 1
+  },
+  {
+    "source": "#個人撮影",
+    "target": "#裏垢男子",
+    "weight": 1
+  },
+  {
+    "source": "#素人女子",
+    "target": "#裏垢男子",
+    "weight": 1
+  },
+  {
+    "source": "#av",
+    "target": "#裏垢男子",
+    "weight": 1
+  },
+  {
+    "source": "#被写体",
+    "target": "#裏垢男子",
+    "weight": 1
+  },
+  {
+    "source": "#副業",
+    "target": "#裏垢男子",
+    "weight": 1
+  },
+  {
+    "source": "#裏垢男子",
+    "target": "#身バレ無し",
+    "weight": 1
+  },
+  {
+    "source": "#オンラインサロン",
+    "target": "#裏垢男子",
+    "weight": 1
+  },
+  {
+    "source": "#裏垢男子",
+    "target": "#金欠女子",
+    "weight": 1
+  },
+  {
+    "source": "#不労収入",
+    "target": "#裏垢男子",
+    "weight": 1
+  },
+  {
+    "source": "#モデル募集中",
+    "target": "#裏垢男子",
+    "weight": 1
+  },
+  {
+    "source": "#ビジネスパートナー",
+    "target": "#裏垢男子",
+    "weight": 1
+  },
+  {
+    "source": "#札幌",
+    "target": "#裏垢男子",
+    "weight": 1
+  },
+  {
+    "source": "#裏アカ男子",
+    "target": "#裏垢女子",
+    "weight": 1
+  },
+  {
+    "source": "#裏アカ女子",
+    "target": "#裏アカ男子",
+    "weight": 1
+  },
+  {
+    "source": "#オフパコ",
+    "target": "#裏アカ男子",
+    "weight": 1
+  },
+  {
+    "source": "#ハメ撮り",
+    "target": "#裏アカ男子",
+    "weight": 1
+  },
+  {
+    "source": "#個人撮影",
+    "target": "#裏アカ男子",
+    "weight": 1
+  },
+  {
+    "source": "#素人女子",
+    "target": "#裏アカ男子",
+    "weight": 1
+  },
+  {
+    "source": "#av",
+    "target": "#裏アカ男子",
+    "weight": 1
+  },
+  {
+    "source": "#被写体",
+    "target": "#裏アカ男子",
+    "weight": 1
+  },
+  {
+    "source": "#副業",
+    "target": "#裏アカ男子",
+    "weight": 1
+  },
+  {
+    "source": "#裏アカ男子",
+    "target": "#身バレ無し",
+    "weight": 1
+  },
+  {
+    "source": "#オンラインサロン",
+    "target": "#裏アカ男子",
+    "weight": 1
+  },
+  {
+    "source": "#裏アカ男子",
+    "target": "#金欠女子",
+    "weight": 1
+  },
+  {
+    "source": "#不労収入",
+    "target": "#裏アカ男子",
+    "weight": 1
+  },
+  {
+    "source": "#モデル募集中",
+    "target": "#裏アカ男子",
+    "weight": 1
+  },
+  {
+    "source": "#ビジネスパートナー",
+    "target": "#裏アカ男子",
+    "weight": 1
+  },
+  {
+    "source": "#札幌",
+    "target": "#裏アカ男子",
+    "weight": 1
+  },
+  {
+    "source": "#裏アカ女子",
+    "target": "#裏垢女子",
+    "weight": 1
+  },
+  {
+    "source": "#オフパコ",
+    "target": "#裏垢女子",
+    "weight": 1
+  },
+  {
+    "source": "#ハメ撮り",
+    "target": "#裏垢女子",
+    "weight": 1
+  },
+  {
+    "source": "#個人撮影",
+    "target": "#裏垢女子",
+    "weight": 1
+  },
+  {
+    "source": "#素人女子",
+    "target": "#裏垢女子",
+    "weight": 1
+  },
+  {
+    "source": "#av",
+    "target": "#裏垢女子",
+    "weight": 1
+  },
+  {
+    "source": "#被写体",
+    "target": "#裏垢女子",
+    "weight": 1
+  },
+  {
+    "source": "#副業",
+    "target": "#裏垢女子",
+    "weight": 1
+  },
+  {
+    "source": "#裏垢女子",
+    "target": "#身バレ無し",
+    "weight": 1
+  },
+  {
+    "source": "#オンラインサロン",
+    "target": "#裏垢女子",
+    "weight": 1
+  },
+  {
+    "source": "#裏垢女子",
+    "target": "#金欠女子",
+    "weight": 1
+  },
+  {
+    "source": "#不労収入",
+    "target": "#裏垢女子",
+    "weight": 1
+  },
+  {
+    "source": "#モデル募集中",
+    "target": "#裏垢女子",
+    "weight": 1
+  },
+  {
+    "source": "#ビジネスパートナー",
+    "target": "#裏垢女子",
+    "weight": 1
+  },
+  {
+    "source": "#札幌",
+    "target": "#裏垢女子",
+    "weight": 1
+  },
+  {
+    "source": "#オフパコ",
+    "target": "#裏アカ女子",
+    "weight": 1
+  },
+  {
+    "source": "#ハメ撮り",
+    "target": "#裏アカ女子",
+    "weight": 1
+  },
+  {
+    "source": "#個人撮影",
+    "target": "#裏アカ女子",
+    "weight": 1
+  },
+  {
+    "source": "#素人女子",
+    "target": "#裏アカ女子",
+    "weight": 1
+  },
+  {
+    "source": "#av",
+    "target": "#裏アカ女子",
+    "weight": 1
+  },
+  {
+    "source": "#被写体",
+    "target": "#裏アカ女子",
+    "weight": 1
+  },
+  {
+    "source": "#副業",
+    "target": "#裏アカ女子",
+    "weight": 1
+  },
+  {
+    "source": "#裏アカ女子",
+    "target": "#身バレ無し",
+    "weight": 1
+  },
+  {
+    "source": "#オンラインサロン",
+    "target": "#裏アカ女子",
+    "weight": 1
+  },
+  {
+    "source": "#裏アカ女子",
+    "target": "#金欠女子",
+    "weight": 1
+  },
+  {
+    "source": "#不労収入",
+    "target": "#裏アカ女子",
+    "weight": 1
+  },
+  {
+    "source": "#モデル募集中",
+    "target": "#裏アカ女子",
+    "weight": 1
+  },
+  {
+    "source": "#ビジネスパートナー",
+    "target": "#裏アカ女子",
+    "weight": 1
+  },
+  {
+    "source": "#札幌",
+    "target": "#裏アカ女子",
+    "weight": 1
+  },
+  {
+    "source": "#オフパコ",
+    "target": "#ハメ撮り",
+    "weight": 1
+  },
+  {
+    "source": "#オフパコ",
+    "target": "#個人撮影",
+    "weight": 1
+  },
+  {
+    "source": "#オフパコ",
+    "target": "#素人女子",
+    "weight": 1
+  },
+  {
+    "source": "#av",
+    "target": "#オフパコ",
+    "weight": 1
+  },
+  {
+    "source": "#オフパコ",
+    "target": "#被写体",
+    "weight": 1
+  },
+  {
+    "source": "#オフパコ",
+    "target": "#副業",
+    "weight": 1
+  },
+  {
+    "source": "#オフパコ",
+    "target": "#身バレ無し",
+    "weight": 1
+  },
+  {
+    "source": "#オフパコ",
+    "target": "#オンラインサロン",
+    "weight": 1
+  },
+  {
+    "source": "#オフパコ",
+    "target": "#金欠女子",
+    "weight": 1
+  },
+  {
+    "source": "#オフパコ",
+    "target": "#不労収入",
+    "weight": 1
+  },
+  {
+    "source": "#オフパコ",
+    "target": "#モデル募集中",
+    "weight": 1
+  },
+  {
+    "source": "#オフパコ",
+    "target": "#ビジネスパートナー",
+    "weight": 1
+  },
+  {
+    "source": "#オフパコ",
+    "target": "#札幌",
+    "weight": 1
+  },
+  {
+    "source": "#ハメ撮り",
+    "target": "#個人撮影",
+    "weight": 1
+  },
+  {
+    "source": "#ハメ撮り",
+    "target": "#素人女子",
+    "weight": 1
+  },
+  {
+    "source": "#av",
+    "target": "#ハメ撮り",
+    "weight": 1
+  },
+  {
+    "source": "#ハメ撮り",
+    "target": "#被写体",
+    "weight": 1
+  },
+  {
+    "source": "#ハメ撮り",
+    "target": "#副業",
+    "weight": 1
+  },
+  {
+    "source": "#ハメ撮り",
+    "target": "#身バレ無し",
+    "weight": 1
+  },
+  {
+    "source": "#オンラインサロン",
+    "target": "#ハメ撮り",
+    "weight": 1
+  },
+  {
+    "source": "#ハメ撮り",
+    "target": "#金欠女子",
+    "weight": 1
+  },
+  {
+    "source": "#ハメ撮り",
+    "target": "#不労収入",
+    "weight": 1
+  },
+  {
+    "source": "#ハメ撮り",
+    "target": "#モデル募集中",
+    "weight": 1
+  },
+  {
+    "source": "#ハメ撮り",
+    "target": "#ビジネスパートナー",
+    "weight": 1
+  },
+  {
+    "source": "#ハメ撮り",
+    "target": "#札幌",
+    "weight": 1
+  },
+  {
+    "source": "#個人撮影",
+    "target": "#素人女子",
+    "weight": 1
+  },
+  {
+    "source": "#av",
+    "target": "#個人撮影",
+    "weight": 1
+  },
+  {
+    "source": "#個人撮影",
+    "target": "#被写体",
+    "weight": 1
+  },
+  {
+    "source": "#個人撮影",
+    "target": "#副業",
+    "weight": 1
+  },
+  {
+    "source": "#個人撮影",
+    "target": "#身バレ無し",
+    "weight": 1
+  },
+  {
+    "source": "#オンラインサロン",
+    "target": "#個人撮影",
+    "weight": 1
+  },
+  {
+    "source": "#個人撮影",
+    "target": "#金欠女子",
+    "weight": 1
+  },
+  {
+    "source": "#不労収入",
+    "target": "#個人撮影",
+    "weight": 1
+  },
+  {
+    "source": "#モデル募集中",
+    "target": "#個人撮影",
+    "weight": 1
+  },
+  {
+    "source": "#ビジネスパートナー",
+    "target": "#個人撮影",
+    "weight": 1
+  },
+  {
+    "source": "#個人撮影",
+    "target": "#札幌",
+    "weight": 1
+  },
+  {
+    "source": "#av",
+    "target": "#素人女子",
+    "weight": 1
+  },
+  {
+    "source": "#素人女子",
+    "target": "#被写体",
+    "weight": 1
+  },
+  {
+    "source": "#副業",
+    "target": "#素人女子",
+    "weight": 1
+  },
+  {
+    "source": "#素人女子",
+    "target": "#身バレ無し",
+    "weight": 1
+  },
+  {
+    "source": "#オンラインサロン",
+    "target": "#素人女子",
+    "weight": 1
+  },
+  {
+    "source": "#素人女子",
+    "target": "#金欠女子",
+    "weight": 1
+  },
+  {
+    "source": "#不労収入",
+    "target": "#素人女子",
+    "weight": 1
+  },
+  {
+    "source": "#モデル募集中",
+    "target": "#素人女子",
+    "weight": 1
+  },
+  {
+    "source": "#ビジネスパートナー",
+    "target": "#素人女子",
+    "weight": 1
+  },
+  {
+    "source": "#札幌",
+    "target": "#素人女子",
+    "weight": 1
+  },
+  {
+    "source": "#av",
+    "target": "#被写体",
+    "weight": 1
+  },
+  {
+    "source": "#av",
+    "target": "#副業",
+    "weight": 1
+  },
+  {
+    "source": "#av",
+    "target": "#身バレ無し",
+    "weight": 1
+  },
+  {
+    "source": "#av",
+    "target": "#オンラインサロン",
+    "weight": 1
+  },
+  {
+    "source": "#av",
+    "target": "#金欠女子",
+    "weight": 1
+  },
+  {
+    "source": "#av",
+    "target": "#不労収入",
+    "weight": 1
+  },
+  {
+    "source": "#av",
+    "target": "#モデル募集中",
+    "weight": 1
+  },
+  {
+    "source": "#av",
+    "target": "#ビジネスパートナー",
+    "weight": 1
+  },
+  {
+    "source": "#av",
+    "target": "#札幌",
+    "weight": 1
+  },
+  {
+    "source": "#副業",
+    "target": "#被写体",
+    "weight": 1
+  },
+  {
+    "source": "#被写体",
+    "target": "#身バレ無し",
+    "weight": 1
+  },
+  {
+    "source": "#オンラインサロン",
+    "target": "#被写体",
+    "weight": 1
+  },
+  {
+    "source": "#被写体",
+    "target": "#金欠女子",
+    "weight": 1
+  },
+  {
+    "source": "#不労収入",
+    "target": "#被写体",
+    "weight": 1
+  },
+  {
+    "source": "#モデル募集中",
+    "target": "#被写体",
+    "weight": 1
+  },
+  {
+    "source": "#ビジネスパートナー",
+    "target": "#被写体",
+    "weight": 1
+  },
+  {
+    "source": "#札幌",
+    "target": "#被写体",
+    "weight": 1
+  },
+  {
+    "source": "#副業",
+    "target": "#身バレ無し",
+    "weight": 1
+  },
+  {
+    "source": "#オンラインサロン",
+    "target": "#副業",
+    "weight": 1
+  },
+  {
+    "source": "#副業",
+    "target": "#金欠女子",
+    "weight": 1
+  },
+  {
+    "source": "#不労収入",
+    "target": "#副業",
+    "weight": 1
+  },
+  {
+    "source": "#モデル募集中",
+    "target": "#副業",
+    "weight": 1
+  },
+  {
+    "source": "#ビジネスパートナー",
+    "target": "#副業",
+    "weight": 1
+  },
+  {
+    "source": "#副業",
+    "target": "#札幌",
+    "weight": 1
+  },
+  {
+    "source": "#オンラインサロン",
+    "target": "#身バレ無し",
+    "weight": 1
+  },
+  {
+    "source": "#身バレ無し",
+    "target": "#金欠女子",
+    "weight": 1
+  },
+  {
+    "source": "#不労収入",
+    "target": "#身バレ無し",
+    "weight": 1
+  },
+  {
+    "source": "#モデル募集中",
+    "target": "#身バレ無し",
+    "weight": 1
+  },
+  {
+    "source": "#ビジネスパートナー",
+    "target": "#身バレ無し",
+    "weight": 1
+  },
+  {
+    "source": "#札幌",
+    "target": "#身バレ無し",
+    "weight": 1
+  },
+  {
+    "source": "#オンラインサロン",
+    "target": "#金欠女子",
+    "weight": 1
+  },
+  {
+    "source": "#オンラインサロン",
+    "target": "#不労収入",
+    "weight": 1
+  },
+  {
+    "source": "#オンラインサロン",
+    "target": "#モデル募集中",
+    "weight": 1
+  },
+  {
+    "source": "#オンラインサロン",
+    "target": "#ビジネスパートナー",
+    "weight": 1
+  },
+  {
+    "source": "#オンラインサロン",
+    "target": "#札幌",
+    "weight": 1
+  },
+  {
+    "source": "#不労収入",
+    "target": "#金欠女子",
+    "weight": 1
+  },
+  {
+    "source": "#モデル募集中",
+    "target": "#金欠女子",
+    "weight": 1
+  },
+  {
+    "source": "#ビジネスパートナー",
+    "target": "#金欠女子",
+    "weight": 1
+  },
+  {
+    "source": "#札幌",
+    "target": "#金欠女子",
+    "weight": 1
+  },
+  {
+    "source": "#モデル募集中",
+    "target": "#不労収入",
+    "weight": 1
+  },
+  {
+    "source": "#ビジネスパートナー",
+    "target": "#不労収入",
+    "weight": 1
+  },
+  {
+    "source": "#不労収入",
+    "target": "#札幌",
+    "weight": 1
+  },
+  {
+    "source": "#ビジネスパートナー",
+    "target": "#モデル募集中",
+    "weight": 1
+  },
+  {
+    "source": "#モデル募集中",
+    "target": "#札幌",
+    "weight": 1
+  },
+  {
+    "source": "#ビジネスパートナー",
+    "target": "#札幌",
+    "weight": 1
+  },
+  {
+    "source": "#Waymo",
+    "target": "#ZelfrijdendeAuto",
+    "weight": 1
+  },
+  {
+    "source": "#ZelfrijdendeAuto",
+    "target": "#autonoom",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#ZelfrijdendeAuto",
+    "weight": 1
+  },
+  {
+    "source": "#Waymo",
+    "target": "#autonoom",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#autonoom",
+    "weight": 1
+  },
+  {
+    "source": "#modely",
+    "target": "#tesla",
+    "weight": 1
+  },
+  {
+    "source": "#tesla",
+    "target": "#teslamodely",
+    "weight": 1
+  },
+  {
+    "source": "#juniper",
+    "target": "#tesla",
+    "weight": 1
+  },
+  {
+    "source": "#supercharger",
+    "target": "#tesla",
+    "weight": 1
+  },
+  {
+    "source": "#superchargertalk",
+    "target": "#tesla",
+    "weight": 1
+  },
+  {
+    "source": "#cybercab",
+    "target": "#tesla",
+    "weight": 1
+  },
+  {
+    "source": "#FSD",
+    "target": "#tesla",
+    "weight": 1
+  },
+  {
+    "source": "#modely",
+    "target": "#teslamodely",
+    "weight": 1
+  },
+  {
+    "source": "#juniper",
+    "target": "#modely",
+    "weight": 1
+  },
+  {
+    "source": "#modely",
+    "target": "#supercharger",
+    "weight": 1
+  },
+  {
+    "source": "#modely",
+    "target": "#superchargertalk",
+    "weight": 1
+  },
+  {
+    "source": "#modely",
+    "target": "#robotaxi",
+    "weight": 1
+  },
+  {
+    "source": "#cybercab",
+    "target": "#modely",
+    "weight": 1
+  },
+  {
+    "source": "#FSD",
+    "target": "#modely",
+    "weight": 1
+  },
+  {
+    "source": "#juniper",
+    "target": "#teslamodely",
+    "weight": 1
+  },
+  {
+    "source": "#supercharger",
+    "target": "#teslamodely",
+    "weight": 1
+  },
+  {
+    "source": "#superchargertalk",
+    "target": "#teslamodely",
+    "weight": 1
+  },
+  {
+    "source": "#robotaxi",
+    "target": "#teslamodely",
+    "weight": 1
+  },
+  {
+    "source": "#cybercab",
+    "target": "#teslamodely",
+    "weight": 1
+  },
+  {
+    "source": "#FSD",
+    "target": "#teslamodely",
+    "weight": 1
+  },
+  {
+    "source": "#juniper",
+    "target": "#supercharger",
+    "weight": 1
+  },
+  {
+    "source": "#juniper",
+    "target": "#superchargertalk",
+    "weight": 1
+  },
+  {
+    "source": "#juniper",
+    "target": "#robotaxi",
+    "weight": 1
+  },
+  {
+    "source": "#cybercab",
+    "target": "#juniper",
+    "weight": 1
+  },
+  {
+    "source": "#FSD",
+    "target": "#juniper",
+    "weight": 1
+  },
+  {
+    "source": "#supercharger",
+    "target": "#superchargertalk",
+    "weight": 1
+  },
+  {
+    "source": "#robotaxi",
+    "target": "#supercharger",
+    "weight": 1
+  },
+  {
+    "source": "#cybercab",
+    "target": "#supercharger",
+    "weight": 1
+  },
+  {
+    "source": "#FSD",
+    "target": "#supercharger",
+    "weight": 1
+  },
+  {
+    "source": "#robotaxi",
+    "target": "#superchargertalk",
+    "weight": 1
+  },
+  {
+    "source": "#cybercab",
+    "target": "#superchargertalk",
+    "weight": 1
+  },
+  {
+    "source": "#FSD",
+    "target": "#superchargertalk",
+    "weight": 1
+  },
+  {
+    "source": "#cybercab",
+    "target": "#robotaxi",
+    "weight": 1
+  },
+  {
+    "source": "#FSD",
+    "target": "#cybercab",
+    "weight": 1
+  },
+  {
+    "source": "#SlavaUkraini",
+    "target": "#Ukraine",
+    "weight": 1
+  },
+  {
+    "source": "#EleccionesAragón",
+    "target": "#EspecialAragónRTVE",
+    "weight": 1
+  },
+  {
+    "source": "#Canal24Horas",
+    "target": "#EspecialAragónRTVE",
+    "weight": 1
+  },
+  {
+    "source": "#Canal24Horas",
+    "target": "#EleccionesAragón",
+    "weight": 1
+  },
+  {
+    "source": "#booksky",
+    "target": "#romancelandia",
+    "weight": 1
+  },
+  {
+    "source": "#cunard",
+    "target": "#queenMary2",
+    "weight": 1
+  },
+  {
+    "source": "#cunard",
+    "target": "#queenmaryII",
+    "weight": 1
+  },
+  {
+    "source": "#cruise",
+    "target": "#cunard",
+    "weight": 1
+  },
+  {
+    "source": "#cruiseship",
+    "target": "#cunard",
+    "weight": 1
+  },
+  {
+    "source": "#cruise_ship",
+    "target": "#cunard",
+    "weight": 1
+  },
+  {
+    "source": "#cruiselife",
+    "target": "#cunard",
+    "weight": 1
+  },
+  {
+    "source": "#cruise_life",
+    "target": "#cunard",
+    "weight": 1
+  },
+  {
+    "source": "#crucero",
+    "target": "#cunard",
+    "weight": 1
+  },
+  {
+    "source": "#barco",
+    "target": "#cunard",
+    "weight": 1
+  },
+  {
+    "source": "#bateau",
+    "target": "#cunard",
+    "weight": 1
+  },
+  {
+    "source": "#cunard",
+    "target": "#travel",
+    "weight": 1
+  },
+  {
+    "source": "#cunard",
+    "target": "#luxury",
+    "weight": 1
+  },
+  {
+    "source": "#cunard",
+    "target": "#luxurytravel",
+    "weight": 1
+  },
+  {
+    "source": "#cunard",
+    "target": "#luxury_travel",
+    "weight": 1
+  },
+  {
+    "source": "#cunard",
+    "target": "#viajar",
+    "weight": 1
+  },
+  {
+    "source": "#cunard",
+    "target": "#voyage",
+    "weight": 1
+  },
+  {
+    "source": "#cunard",
+    "target": "#reisen",
+    "weight": 1
+  },
+  {
+    "source": "#cunard",
+    "target": "#traveler",
+    "weight": 1
+  },
+  {
+    "source": "#cunard",
+    "target": "#reis",
+    "weight": 1
+  },
+  {
+    "source": "#cunard",
+    "target": "#sea",
+    "weight": 1
+  },
+  {
+    "source": "#queenMary2",
+    "target": "#queenmaryII",
+    "weight": 1
+  },
+  {
+    "source": "#cruise",
+    "target": "#queenMary2",
+    "weight": 1
+  },
+  {
+    "source": "#cruiseship",
+    "target": "#queenMary2",
+    "weight": 1
+  },
+  {
+    "source": "#cruise_ship",
+    "target": "#queenMary2",
+    "weight": 1
+  },
+  {
+    "source": "#cruiselife",
+    "target": "#queenMary2",
+    "weight": 1
+  },
+  {
+    "source": "#cruise_life",
+    "target": "#queenMary2",
+    "weight": 1
+  },
+  {
+    "source": "#crucero",
+    "target": "#queenMary2",
+    "weight": 1
+  },
+  {
+    "source": "#barco",
+    "target": "#queenMary2",
+    "weight": 1
+  },
+  {
+    "source": "#bateau",
+    "target": "#queenMary2",
+    "weight": 1
+  },
+  {
+    "source": "#queenMary2",
+    "target": "#travel",
+    "weight": 1
+  },
+  {
+    "source": "#luxury",
+    "target": "#queenMary2",
+    "weight": 1
+  },
+  {
+    "source": "#luxurytravel",
+    "target": "#queenMary2",
+    "weight": 1
+  },
+  {
+    "source": "#luxury_travel",
+    "target": "#queenMary2",
+    "weight": 1
+  },
+  {
+    "source": "#queenMary2",
+    "target": "#viajar",
+    "weight": 1
+  },
+  {
+    "source": "#queenMary2",
+    "target": "#voyage",
+    "weight": 1
+  },
+  {
+    "source": "#queenMary2",
+    "target": "#reisen",
+    "weight": 1
+  },
+  {
+    "source": "#queenMary2",
+    "target": "#traveler",
+    "weight": 1
+  },
+  {
+    "source": "#queenMary2",
+    "target": "#reis",
+    "weight": 1
+  },
+  {
+    "source": "#queenMary2",
+    "target": "#sea",
+    "weight": 1
+  },
+  {
+    "source": "#cruise",
+    "target": "#queenmaryII",
+    "weight": 1
+  },
+  {
+    "source": "#cruiseship",
+    "target": "#queenmaryII",
+    "weight": 1
+  },
+  {
+    "source": "#cruise_ship",
+    "target": "#queenmaryII",
+    "weight": 1
+  },
+  {
+    "source": "#cruiselife",
+    "target": "#queenmaryII",
+    "weight": 1
+  },
+  {
+    "source": "#cruise_life",
+    "target": "#queenmaryII",
+    "weight": 1
+  },
+  {
+    "source": "#crucero",
+    "target": "#queenmaryII",
+    "weight": 1
+  },
+  {
+    "source": "#barco",
+    "target": "#queenmaryII",
+    "weight": 1
+  },
+  {
+    "source": "#bateau",
+    "target": "#queenmaryII",
+    "weight": 1
+  },
+  {
+    "source": "#queenmaryII",
+    "target": "#travel",
+    "weight": 1
+  },
+  {
+    "source": "#luxury",
+    "target": "#queenmaryII",
+    "weight": 1
+  },
+  {
+    "source": "#luxurytravel",
+    "target": "#queenmaryII",
+    "weight": 1
+  },
+  {
+    "source": "#luxury_travel",
+    "target": "#queenmaryII",
+    "weight": 1
+  },
+  {
+    "source": "#queenmaryII",
+    "target": "#viajar",
+    "weight": 1
+  },
+  {
+    "source": "#queenmaryII",
+    "target": "#voyage",
+    "weight": 1
+  },
+  {
+    "source": "#queenmaryII",
+    "target": "#reisen",
+    "weight": 1
+  },
+  {
+    "source": "#queenmaryII",
+    "target": "#traveler",
+    "weight": 1
+  },
+  {
+    "source": "#queenmaryII",
+    "target": "#reis",
+    "weight": 1
+  },
+  {
+    "source": "#queenmaryII",
+    "target": "#sea",
+    "weight": 1
+  },
+  {
+    "source": "#cruise",
+    "target": "#cruiseship",
+    "weight": 1
+  },
+  {
+    "source": "#cruise",
+    "target": "#cruise_ship",
+    "weight": 1
+  },
+  {
+    "source": "#cruise",
+    "target": "#cruiselife",
+    "weight": 1
+  },
+  {
+    "source": "#cruise",
+    "target": "#cruise_life",
+    "weight": 1
+  },
+  {
+    "source": "#crucero",
+    "target": "#cruise",
+    "weight": 1
+  },
+  {
+    "source": "#barco",
+    "target": "#cruise",
+    "weight": 1
+  },
+  {
+    "source": "#bateau",
+    "target": "#cruise",
+    "weight": 1
+  },
+  {
+    "source": "#cruise",
+    "target": "#luxury",
+    "weight": 1
+  },
+  {
+    "source": "#cruise",
+    "target": "#luxury_travel",
+    "weight": 1
+  },
+  {
+    "source": "#cruise",
+    "target": "#viajar",
+    "weight": 1
+  },
+  {
+    "source": "#cruise",
+    "target": "#voyage",
+    "weight": 1
+  },
+  {
+    "source": "#cruise",
+    "target": "#reisen",
+    "weight": 1
+  },
+  {
+    "source": "#cruise",
+    "target": "#traveler",
+    "weight": 1
+  },
+  {
+    "source": "#cruise",
+    "target": "#reis",
+    "weight": 1
+  },
+  {
+    "source": "#cruise",
+    "target": "#sea",
+    "weight": 1
+  },
+  {
+    "source": "#cruise_ship",
+    "target": "#cruiseship",
+    "weight": 1
+  },
+  {
+    "source": "#cruiselife",
+    "target": "#cruiseship",
+    "weight": 1
+  },
+  {
+    "source": "#cruise_life",
+    "target": "#cruiseship",
+    "weight": 1
+  },
+  {
+    "source": "#crucero",
+    "target": "#cruiseship",
+    "weight": 1
+  },
+  {
+    "source": "#barco",
+    "target": "#cruiseship",
+    "weight": 1
+  },
+  {
+    "source": "#bateau",
+    "target": "#cruiseship",
+    "weight": 1
+  },
+  {
+    "source": "#cruiseship",
+    "target": "#travel",
+    "weight": 1
+  },
+  {
+    "source": "#cruiseship",
+    "target": "#luxury",
+    "weight": 1
+  },
+  {
+    "source": "#cruiseship",
+    "target": "#luxurytravel",
+    "weight": 1
+  },
+  {
+    "source": "#cruiseship",
+    "target": "#luxury_travel",
+    "weight": 1
+  },
+  {
+    "source": "#cruiseship",
+    "target": "#viajar",
+    "weight": 1
+  },
+  {
+    "source": "#cruiseship",
+    "target": "#voyage",
+    "weight": 1
+  },
+  {
+    "source": "#cruiseship",
+    "target": "#reisen",
+    "weight": 1
+  },
+  {
+    "source": "#cruiseship",
+    "target": "#traveler",
+    "weight": 1
+  },
+  {
+    "source": "#cruiseship",
+    "target": "#reis",
+    "weight": 1
+  },
+  {
+    "source": "#cruiseship",
+    "target": "#sea",
+    "weight": 1
+  },
+  {
+    "source": "#cruise_ship",
+    "target": "#cruiselife",
+    "weight": 1
+  },
+  {
+    "source": "#cruise_life",
+    "target": "#cruise_ship",
+    "weight": 1
+  },
+  {
+    "source": "#crucero",
+    "target": "#cruise_ship",
+    "weight": 1
+  },
+  {
+    "source": "#barco",
+    "target": "#cruise_ship",
+    "weight": 1
+  },
+  {
+    "source": "#bateau",
+    "target": "#cruise_ship",
+    "weight": 1
+  },
+  {
+    "source": "#cruise_ship",
+    "target": "#travel",
+    "weight": 1
+  },
+  {
+    "source": "#cruise_ship",
+    "target": "#luxury",
+    "weight": 1
+  },
+  {
+    "source": "#cruise_ship",
+    "target": "#luxurytravel",
+    "weight": 1
+  },
+  {
+    "source": "#cruise_ship",
+    "target": "#luxury_travel",
+    "weight": 1
+  },
+  {
+    "source": "#cruise_ship",
+    "target": "#viajar",
+    "weight": 1
+  },
+  {
+    "source": "#cruise_ship",
+    "target": "#voyage",
+    "weight": 1
+  },
+  {
+    "source": "#cruise_ship",
+    "target": "#reisen",
+    "weight": 1
+  },
+  {
+    "source": "#cruise_ship",
+    "target": "#traveler",
+    "weight": 1
+  },
+  {
+    "source": "#cruise_ship",
+    "target": "#reis",
+    "weight": 1
+  },
+  {
+    "source": "#cruise_ship",
+    "target": "#sea",
+    "weight": 1
+  },
+  {
+    "source": "#cruise_life",
+    "target": "#cruiselife",
+    "weight": 1
+  },
+  {
+    "source": "#crucero",
+    "target": "#cruiselife",
+    "weight": 1
+  },
+  {
+    "source": "#barco",
+    "target": "#cruiselife",
+    "weight": 1
+  },
+  {
+    "source": "#bateau",
+    "target": "#cruiselife",
+    "weight": 1
+  },
+  {
+    "source": "#cruiselife",
+    "target": "#travel",
+    "weight": 1
+  },
+  {
+    "source": "#cruiselife",
+    "target": "#luxury",
+    "weight": 1
+  },
+  {
+    "source": "#cruiselife",
+    "target": "#luxurytravel",
+    "weight": 1
+  },
+  {
+    "source": "#cruiselife",
+    "target": "#luxury_travel",
+    "weight": 1
+  },
+  {
+    "source": "#cruiselife",
+    "target": "#viajar",
+    "weight": 1
+  },
+  {
+    "source": "#cruiselife",
+    "target": "#voyage",
+    "weight": 1
+  },
+  {
+    "source": "#cruiselife",
+    "target": "#reisen",
+    "weight": 1
+  },
+  {
+    "source": "#cruiselife",
+    "target": "#traveler",
+    "weight": 1
+  },
+  {
+    "source": "#cruiselife",
+    "target": "#reis",
+    "weight": 1
+  },
+  {
+    "source": "#cruiselife",
+    "target": "#sea",
+    "weight": 1
+  },
+  {
+    "source": "#crucero",
+    "target": "#cruise_life",
+    "weight": 1
+  },
+  {
+    "source": "#barco",
+    "target": "#cruise_life",
+    "weight": 1
+  },
+  {
+    "source": "#bateau",
+    "target": "#cruise_life",
+    "weight": 1
+  },
+  {
+    "source": "#cruise_life",
+    "target": "#travel",
+    "weight": 1
+  },
+  {
+    "source": "#cruise_life",
+    "target": "#luxury",
+    "weight": 1
+  },
+  {
+    "source": "#cruise_life",
+    "target": "#luxurytravel",
+    "weight": 1
+  },
+  {
+    "source": "#cruise_life",
+    "target": "#luxury_travel",
+    "weight": 1
+  },
+  {
+    "source": "#cruise_life",
+    "target": "#viajar",
+    "weight": 1
+  },
+  {
+    "source": "#cruise_life",
+    "target": "#voyage",
+    "weight": 1
+  },
+  {
+    "source": "#cruise_life",
+    "target": "#reisen",
+    "weight": 1
+  },
+  {
+    "source": "#cruise_life",
+    "target": "#traveler",
+    "weight": 1
+  },
+  {
+    "source": "#cruise_life",
+    "target": "#reis",
+    "weight": 1
+  },
+  {
+    "source": "#cruise_life",
+    "target": "#sea",
+    "weight": 1
+  },
+  {
+    "source": "#barco",
+    "target": "#crucero",
+    "weight": 1
+  },
+  {
+    "source": "#bateau",
+    "target": "#crucero",
+    "weight": 1
+  },
+  {
+    "source": "#crucero",
+    "target": "#travel",
+    "weight": 1
+  },
+  {
+    "source": "#crucero",
+    "target": "#luxury",
+    "weight": 1
+  },
+  {
+    "source": "#crucero",
+    "target": "#luxurytravel",
+    "weight": 1
+  },
+  {
+    "source": "#crucero",
+    "target": "#luxury_travel",
+    "weight": 1
+  },
+  {
+    "source": "#crucero",
+    "target": "#viajar",
+    "weight": 1
+  },
+  {
+    "source": "#crucero",
+    "target": "#voyage",
+    "weight": 1
+  },
+  {
+    "source": "#crucero",
+    "target": "#reisen",
+    "weight": 1
+  },
+  {
+    "source": "#crucero",
+    "target": "#traveler",
+    "weight": 1
+  },
+  {
+    "source": "#crucero",
+    "target": "#reis",
+    "weight": 1
+  },
+  {
+    "source": "#crucero",
+    "target": "#sea",
+    "weight": 1
+  },
+  {
+    "source": "#barco",
+    "target": "#bateau",
+    "weight": 1
+  },
+  {
+    "source": "#barco",
+    "target": "#travel",
+    "weight": 1
+  },
+  {
+    "source": "#barco",
+    "target": "#luxury",
+    "weight": 1
+  },
+  {
+    "source": "#barco",
+    "target": "#luxurytravel",
+    "weight": 1
+  },
+  {
+    "source": "#barco",
+    "target": "#luxury_travel",
+    "weight": 1
+  },
+  {
+    "source": "#barco",
+    "target": "#viajar",
+    "weight": 1
+  },
+  {
+    "source": "#barco",
+    "target": "#voyage",
+    "weight": 1
+  },
+  {
+    "source": "#barco",
+    "target": "#reisen",
+    "weight": 1
+  },
+  {
+    "source": "#barco",
+    "target": "#traveler",
+    "weight": 1
+  },
+  {
+    "source": "#barco",
+    "target": "#reis",
+    "weight": 1
+  },
+  {
+    "source": "#barco",
+    "target": "#sea",
+    "weight": 1
+  },
+  {
+    "source": "#bateau",
+    "target": "#travel",
+    "weight": 1
+  },
+  {
+    "source": "#bateau",
+    "target": "#luxury",
+    "weight": 1
+  },
+  {
+    "source": "#bateau",
+    "target": "#luxurytravel",
+    "weight": 1
+  },
+  {
+    "source": "#bateau",
+    "target": "#luxury_travel",
+    "weight": 1
+  },
+  {
+    "source": "#bateau",
+    "target": "#viajar",
+    "weight": 1
+  },
+  {
+    "source": "#bateau",
+    "target": "#voyage",
+    "weight": 1
+  },
+  {
+    "source": "#bateau",
+    "target": "#reisen",
+    "weight": 1
+  },
+  {
+    "source": "#bateau",
+    "target": "#traveler",
+    "weight": 1
+  },
+  {
+    "source": "#bateau",
+    "target": "#reis",
+    "weight": 1
+  },
+  {
+    "source": "#bateau",
+    "target": "#sea",
+    "weight": 1
+  },
+  {
+    "source": "#luxury",
+    "target": "#travel",
+    "weight": 1
+  },
+  {
+    "source": "#luxurytravel",
+    "target": "#travel",
+    "weight": 1
+  },
+  {
+    "source": "#luxury_travel",
+    "target": "#travel",
+    "weight": 1
+  },
+  {
+    "source": "#travel",
+    "target": "#viajar",
+    "weight": 1
+  },
+  {
+    "source": "#travel",
+    "target": "#voyage",
+    "weight": 1
+  },
+  {
+    "source": "#reisen",
+    "target": "#travel",
+    "weight": 1
+  },
+  {
+    "source": "#travel",
+    "target": "#traveler",
+    "weight": 1
+  },
+  {
+    "source": "#reis",
+    "target": "#travel",
+    "weight": 1
+  },
+  {
+    "source": "#sea",
+    "target": "#travel",
+    "weight": 1
+  },
+  {
+    "source": "#luxury",
+    "target": "#luxurytravel",
+    "weight": 1
+  },
+  {
+    "source": "#luxury",
+    "target": "#luxury_travel",
+    "weight": 1
+  },
+  {
+    "source": "#luxury",
+    "target": "#viajar",
+    "weight": 1
+  },
+  {
+    "source": "#luxury",
+    "target": "#voyage",
+    "weight": 1
+  },
+  {
+    "source": "#luxury",
+    "target": "#reisen",
+    "weight": 1
+  },
+  {
+    "source": "#luxury",
+    "target": "#traveler",
+    "weight": 1
+  },
+  {
+    "source": "#luxury",
+    "target": "#reis",
+    "weight": 1
+  },
+  {
+    "source": "#luxury",
+    "target": "#sea",
+    "weight": 1
+  },
+  {
+    "source": "#luxury_travel",
+    "target": "#luxurytravel",
+    "weight": 1
+  },
+  {
+    "source": "#luxurytravel",
+    "target": "#viajar",
+    "weight": 1
+  },
+  {
+    "source": "#luxurytravel",
+    "target": "#voyage",
+    "weight": 1
+  },
+  {
+    "source": "#luxurytravel",
+    "target": "#reisen",
+    "weight": 1
+  },
+  {
+    "source": "#luxurytravel",
+    "target": "#traveler",
+    "weight": 1
+  },
+  {
+    "source": "#luxurytravel",
+    "target": "#reis",
+    "weight": 1
+  },
+  {
+    "source": "#luxurytravel",
+    "target": "#sea",
+    "weight": 1
+  },
+  {
+    "source": "#luxury_travel",
+    "target": "#viajar",
+    "weight": 1
+  },
+  {
+    "source": "#luxury_travel",
+    "target": "#voyage",
+    "weight": 1
+  },
+  {
+    "source": "#luxury_travel",
+    "target": "#reisen",
+    "weight": 1
+  },
+  {
+    "source": "#luxury_travel",
+    "target": "#traveler",
+    "weight": 1
+  },
+  {
+    "source": "#luxury_travel",
+    "target": "#reis",
+    "weight": 1
+  },
+  {
+    "source": "#luxury_travel",
+    "target": "#sea",
+    "weight": 1
+  },
+  {
+    "source": "#viajar",
+    "target": "#voyage",
+    "weight": 1
+  },
+  {
+    "source": "#reisen",
+    "target": "#viajar",
+    "weight": 1
+  },
+  {
+    "source": "#traveler",
+    "target": "#viajar",
+    "weight": 1
+  },
+  {
+    "source": "#reis",
+    "target": "#viajar",
+    "weight": 1
+  },
+  {
+    "source": "#sea",
+    "target": "#viajar",
+    "weight": 1
+  },
+  {
+    "source": "#reisen",
+    "target": "#voyage",
+    "weight": 1
+  },
+  {
+    "source": "#traveler",
+    "target": "#voyage",
+    "weight": 1
+  },
+  {
+    "source": "#reis",
+    "target": "#voyage",
+    "weight": 1
+  },
+  {
+    "source": "#sea",
+    "target": "#voyage",
+    "weight": 1
+  },
+  {
+    "source": "#reisen",
+    "target": "#traveler",
+    "weight": 1
+  },
+  {
+    "source": "#reis",
+    "target": "#reisen",
+    "weight": 1
+  },
+  {
+    "source": "#reisen",
+    "target": "#sea",
+    "weight": 1
+  },
+  {
+    "source": "#reis",
+    "target": "#traveler",
+    "weight": 1
+  },
+  {
+    "source": "#sea",
+    "target": "#traveler",
+    "weight": 1
+  },
+  {
+    "source": "#reis",
+    "target": "#sea",
+    "weight": 1
+  },
+  {
+    "source": "#JAVStar",
+    "target": "#脚フェチ",
+    "weight": 1
+  },
+  {
+    "source": "#JAVStar",
+    "target": "#japanesewoman",
+    "weight": 1
+  },
+  {
+    "source": "#JAVIdol",
+    "target": "#脚フェチ",
+    "weight": 1
+  },
+  {
+    "source": "#オナニー",
+    "target": "#脚フェチ",
+    "weight": 1
+  },
+  {
+    "source": "#無修正",
+    "target": "#脚フェチ",
+    "weight": 1
+  },
+  {
+    "source": "#JAVModel",
+    "target": "#脚フェチ",
+    "weight": 1
+  },
+  {
+    "source": "#制服プレイ",
+    "target": "#脚フェチ",
+    "weight": 1
+  },
+  {
+    "source": "#japanesewoman",
+    "target": "#脚フェチ",
+    "weight": 1
+  },
+  {
+    "source": "#グラドル",
+    "target": "#脚フェチ",
+    "weight": 1
+  },
+  {
+    "source": "#JAVIdol",
+    "target": "#JAVModel",
+    "weight": 1
+  },
+  {
+    "source": "#JAVIdol",
+    "target": "#制服プレイ",
+    "weight": 1
+  },
+  {
+    "source": "#JAVIdol",
+    "target": "#japanesewoman",
+    "weight": 1
+  },
+  {
+    "source": "#オナニー",
+    "target": "#熟女",
+    "weight": 1
+  },
+  {
+    "source": "#japanesewoman",
+    "target": "#オナニー",
+    "weight": 1
+  },
+  {
+    "source": "#japanesewoman",
+    "target": "#無修正",
+    "weight": 1
+  },
+  {
+    "source": "#グラドル",
+    "target": "#無修正",
+    "weight": 1
+  },
+  {
+    "source": "#JAVModel",
+    "target": "#japanesewoman",
+    "weight": 1
+  },
+  {
+    "source": "#JAVModel",
+    "target": "#グラドル",
+    "weight": 1
+  },
+  {
+    "source": "#japanesewoman",
+    "target": "#制服プレイ",
+    "weight": 1
+  },
+  {
+    "source": "#グラドル",
+    "target": "#制服プレイ",
+    "weight": 1
+  },
+  {
+    "source": "#japanesewoman",
+    "target": "#熟女",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優",
+    "target": "#japanesewoman",
+    "weight": 1
+  },
+  {
+    "source": "#japanesewoman",
+    "target": "#グラドル",
+    "weight": 1
+  },
+  {
+    "source": "#東京熱",
+    "target": "#東京風俗",
+    "weight": 1
+  },
+  {
+    "source": "#大阪",
+    "target": "#東京風俗",
+    "weight": 1
+  },
+  {
+    "source": "#東京風俗",
+    "target": "#泡泡浴",
+    "weight": 1
+  },
+  {
+    "source": "#旅行",
+    "target": "#東京風俗",
+    "weight": 1
+  },
+  {
+    "source": "#東京風俗",
+    "target": "#風俗",
+    "weight": 1
+  },
+  {
+    "source": "#デリヘル",
+    "target": "#東京風俗",
+    "weight": 1
+  },
+  {
+    "source": "#大阪",
+    "target": "#東京熱",
+    "weight": 1
+  },
+  {
+    "source": "#東京熱",
+    "target": "#泡泡浴",
+    "weight": 1
+  },
+  {
+    "source": "#旅行",
+    "target": "#東京熱",
+    "weight": 1
+  },
+  {
+    "source": "#東京熱",
+    "target": "#風俗",
+    "weight": 1
+  },
+  {
+    "source": "#デリヘル",
+    "target": "#東京熱",
+    "weight": 1
+  },
+  {
+    "source": "#大阪",
+    "target": "#泡泡浴",
+    "weight": 1
+  },
+  {
+    "source": "#大阪",
+    "target": "#旅行",
+    "weight": 1
+  },
+  {
+    "source": "#大阪",
+    "target": "#風俗",
+    "weight": 1
+  },
+  {
+    "source": "#デリヘル",
+    "target": "#大阪",
+    "weight": 1
+  },
+  {
+    "source": "#旅行",
+    "target": "#泡泡浴",
+    "weight": 1
+  },
+  {
+    "source": "#泡泡浴",
+    "target": "#風俗",
+    "weight": 1
+  },
+  {
+    "source": "#デリヘル",
+    "target": "#泡泡浴",
+    "weight": 1
+  },
+  {
+    "source": "#旅行",
+    "target": "#風俗",
+    "weight": 1
+  },
+  {
+    "source": "#デリヘル",
+    "target": "#旅行",
+    "weight": 1
+  },
+  {
+    "source": "#デリヘル",
+    "target": "#風俗",
+    "weight": 1
+  },
+  {
+    "source": "#JAVStar",
+    "target": "#グラビアアイドル",
+    "weight": 1
+  },
+  {
+    "source": "#グラビアアイドル",
+    "target": "#無修正",
+    "weight": 1
+  },
+  {
+    "source": "#JapaneseFetish",
+    "target": "#グラビアアイドル",
+    "weight": 1
+  },
+  {
+    "source": "#グラビアアイドル",
+    "target": "#美少女",
+    "weight": 1
+  },
+  {
+    "source": "#JAVStar",
+    "target": "#小野六花",
+    "weight": 1
+  },
+  {
+    "source": "#JapanesePorn",
+    "target": "#コスプレ",
+    "weight": 1
+  },
+  {
+    "source": "#jpn",
+    "target": "#コスプレ",
+    "weight": 1
+  },
+  {
+    "source": "#JapanesePorn",
+    "target": "#無修正",
+    "weight": 1
+  },
+  {
+    "source": "#JapanesePorn",
+    "target": "#asianhottie",
+    "weight": 1
+  },
+  {
+    "source": "#JapaneseFetish",
+    "target": "#JapanesePorn",
+    "weight": 1
+  },
+  {
+    "source": "#AsianPorn",
+    "target": "#jpn",
+    "weight": 1
+  },
+  {
+    "source": "#asianhottie",
+    "target": "#無修正",
+    "weight": 1
+  },
+  {
+    "source": "#jpn",
+    "target": "#無修正",
+    "weight": 1
+  },
+  {
+    "source": "#JapaneseFetish",
+    "target": "#asianhottie",
+    "weight": 1
+  },
+  {
+    "source": "#asianhottie",
+    "target": "#美少女",
+    "weight": 1
+  },
+  {
+    "source": "#asianhottie",
+    "target": "#jpn",
+    "weight": 1
+  },
+  {
+    "source": "#JapaneseFetish",
+    "target": "#美少女",
+    "weight": 1
+  },
+  {
+    "source": "#JapaneseFetish",
+    "target": "#jpn",
+    "weight": 1
+  },
+  {
+    "source": "#ai",
+    "target": "#cars",
+    "weight": 1
+  },
+  {
+    "source": "#ai",
+    "target": "#google",
+    "weight": 1
+  },
+  {
+    "source": "#ai",
+    "target": "#selfDrivingCar",
+    "weight": 1
+  },
+  {
+    "source": "#cars",
+    "target": "#google",
+    "weight": 1
+  },
+  {
+    "source": "#cars",
+    "target": "#selfDrivingCar",
+    "weight": 1
+  },
+  {
+    "source": "#cars",
+    "target": "#waymo",
+    "weight": 1
+  },
+  {
+    "source": "#google",
+    "target": "#selfDrivingCar",
+    "weight": 1
+  },
+  {
+    "source": "#selfDrivingCar",
+    "target": "#waymo",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#Meta",
+    "weight": 1
+  },
+  {
+    "source": "#Meta",
+    "target": "#säkpol",
+    "weight": 1
+  },
+  {
+    "source": "#Meta",
+    "target": "#föpol",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#säkpol",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#föpol",
+    "weight": 1
+  },
+  {
+    "source": "#RussiaUkraineWar",
+    "target": "#StandWithUkraine",
+    "weight": 1
+  },
+  {
+    "source": "#Drone",
+    "target": "#RussiaUkraineWar",
+    "weight": 1
+  },
+  {
+    "source": "#Drone",
+    "target": "#StandWithUkraine",
+    "weight": 1
+  },
+  {
+    "source": "#3",
+    "target": "#fokustid",
+    "weight": 1
+  },
+  {
+    "source": "#AIAautonomy",
+    "target": "#Sage3",
+    "weight": 1
+  },
+  {
+    "source": "#Lebanon",
+    "target": "#StateSovereignty",
+    "weight": 1
+  },
+  {
+    "source": "#Lebanon",
+    "target": "#PoliticalDynamics",
+    "weight": 1
+  },
+  {
+    "source": "#PoliticalDynamics",
+    "target": "#StateSovereignty",
+    "weight": 1
+  },
+  {
+    "source": "#FuriousFiction",
+    "target": "#writers",
+    "weight": 1
+  },
+  {
+    "source": "#FuriousFiction",
+    "target": "#writing",
+    "weight": 1
+  },
+  {
+    "source": "#FuriousFiction",
+    "target": "#flashfiction",
+    "weight": 1
+  },
+  {
+    "source": "#FuriousFiction",
+    "target": "#shortstory",
+    "weight": 1
+  },
+  {
+    "source": "#writers",
+    "target": "#writing",
+    "weight": 1
+  },
+  {
+    "source": "#flashfiction",
+    "target": "#writers",
+    "weight": 1
+  },
+  {
+    "source": "#shortstory",
+    "target": "#writers",
+    "weight": 1
+  },
+  {
+    "source": "#flashfiction",
+    "target": "#writing",
+    "weight": 1
+  },
+  {
+    "source": "#shortstory",
+    "target": "#writing",
+    "weight": 1
+  },
+  {
+    "source": "#flashfiction",
+    "target": "#shortstory",
+    "weight": 1
+  },
+  {
+    "source": "#anal",
+    "target": "#肛門",
+    "weight": 1
+  },
+  {
+    "source": "#anal",
+    "target": "#analsex",
+    "weight": 1
+  },
+  {
+    "source": "#anal",
+    "target": "#男の娘",
+    "weight": 1
+  },
+  {
+    "source": "#anal",
+    "target": "#女装子",
+    "weight": 1
+  },
+  {
+    "source": "#anal",
+    "target": "#ニューハーフ",
+    "weight": 1
+  },
+  {
+    "source": "#anal",
+    "target": "#shemale",
+    "weight": 1
+  },
+  {
+    "source": "#anal",
+    "target": "#newhalf",
+    "weight": 1
+  },
+  {
+    "source": "#NSFW",
+    "target": "#anal",
+    "weight": 1
+  },
+  {
+    "source": "#anal",
+    "target": "#フタナリ",
+    "weight": 1
+  },
+  {
+    "source": "#anal",
+    "target": "#futanari",
+    "weight": 1
+  },
+  {
+    "source": "#analsex",
+    "target": "#肛門",
+    "weight": 1
+  },
+  {
+    "source": "#男の娘",
+    "target": "#肛門",
+    "weight": 1
+  },
+  {
+    "source": "#女装子",
+    "target": "#肛門",
+    "weight": 1
+  },
+  {
+    "source": "#ニューハーフ",
+    "target": "#肛門",
+    "weight": 1
+  },
+  {
+    "source": "#shemale",
+    "target": "#肛門",
+    "weight": 1
+  },
+  {
+    "source": "#newhalf",
+    "target": "#肛門",
+    "weight": 1
+  },
+  {
+    "source": "#NSFW",
+    "target": "#肛門",
+    "weight": 1
+  },
+  {
+    "source": "#フタナリ",
+    "target": "#肛門",
+    "weight": 1
+  },
+  {
+    "source": "#futanari",
+    "target": "#肛門",
+    "weight": 1
+  },
+  {
+    "source": "#analsex",
+    "target": "#男の娘",
+    "weight": 1
+  },
+  {
+    "source": "#analsex",
+    "target": "#女装子",
+    "weight": 1
+  },
+  {
+    "source": "#analsex",
+    "target": "#ニューハーフ",
+    "weight": 1
+  },
+  {
+    "source": "#analsex",
+    "target": "#shemale",
+    "weight": 1
+  },
+  {
+    "source": "#analsex",
+    "target": "#newhalf",
+    "weight": 1
+  },
+  {
+    "source": "#NSFW",
+    "target": "#analsex",
+    "weight": 1
+  },
+  {
+    "source": "#analsex",
+    "target": "#フタナリ",
+    "weight": 1
+  },
+  {
+    "source": "#analsex",
+    "target": "#futanari",
+    "weight": 1
+  },
+  {
+    "source": "#女装子",
+    "target": "#男の娘",
+    "weight": 1
+  },
+  {
+    "source": "#shemale",
+    "target": "#男の娘",
+    "weight": 1
+  },
+  {
+    "source": "#newhalf",
+    "target": "#男の娘",
+    "weight": 1
+  },
+  {
+    "source": "#NSFW",
+    "target": "#男の娘",
+    "weight": 1
+  },
+  {
+    "source": "#フタナリ",
+    "target": "#男の娘",
+    "weight": 1
+  },
+  {
+    "source": "#futanari",
+    "target": "#男の娘",
+    "weight": 1
+  },
+  {
+    "source": "#ニューハーフ",
+    "target": "#女装子",
+    "weight": 1
+  },
+  {
+    "source": "#shemale",
+    "target": "#女装子",
+    "weight": 1
+  },
+  {
+    "source": "#newhalf",
+    "target": "#女装子",
+    "weight": 1
+  },
+  {
+    "source": "#NSFW",
+    "target": "#女装子",
+    "weight": 1
+  },
+  {
+    "source": "#フタナリ",
+    "target": "#女装子",
+    "weight": 1
+  },
+  {
+    "source": "#futanari",
+    "target": "#女装子",
+    "weight": 1
+  },
+  {
+    "source": "#newhalf",
+    "target": "#ニューハーフ",
+    "weight": 1
+  },
+  {
+    "source": "#NSFW",
+    "target": "#ニューハーフ",
+    "weight": 1
+  },
+  {
+    "source": "#ニューハーフ",
+    "target": "#フタナリ",
+    "weight": 1
+  },
+  {
+    "source": "#futanari",
+    "target": "#ニューハーフ",
+    "weight": 1
+  },
+  {
+    "source": "#newhalf",
+    "target": "#shemale",
+    "weight": 1
+  },
+  {
+    "source": "#NSFW",
+    "target": "#shemale",
+    "weight": 1
+  },
+  {
+    "source": "#shemale",
+    "target": "#フタナリ",
+    "weight": 1
+  },
+  {
+    "source": "#futanari",
+    "target": "#shemale",
+    "weight": 1
+  },
+  {
+    "source": "#NSFW",
+    "target": "#newhalf",
+    "weight": 1
+  },
+  {
+    "source": "#newhalf",
+    "target": "#フタナリ",
+    "weight": 1
+  },
+  {
+    "source": "#futanari",
+    "target": "#newhalf",
+    "weight": 1
+  },
+  {
+    "source": "#NSFW",
+    "target": "#フタナリ",
+    "weight": 1
+  },
+  {
+    "source": "#NSFW",
+    "target": "#futanari",
+    "weight": 1
+  },
+  {
+    "source": "#futanari",
+    "target": "#フタナリ",
+    "weight": 1
+  },
+  {
+    "source": "#GenX",
+    "target": "#Intergenerational",
+    "weight": 1
+  },
+  {
+    "source": "#GenZ",
+    "target": "#Intergenerational",
+    "weight": 1
+  },
+  {
+    "source": "#Intergenerational",
+    "target": "#Millennial",
+    "weight": 1
+  },
+  {
+    "source": "#Boomer",
+    "target": "#Intergenerational",
+    "weight": 1
+  },
+  {
+    "source": "#Intergenerational",
+    "target": "#WorkplaceCulture",
+    "weight": 1
+  },
+  {
+    "source": "#GenX",
+    "target": "#GenZ",
+    "weight": 1
+  },
+  {
+    "source": "#GenX",
+    "target": "#Millennial",
+    "weight": 1
+  },
+  {
+    "source": "#Boomer",
+    "target": "#GenX",
+    "weight": 1
+  },
+  {
+    "source": "#GenX",
+    "target": "#WorkplaceCulture",
+    "weight": 1
+  },
+  {
+    "source": "#GenZ",
+    "target": "#Millennial",
+    "weight": 1
+  },
+  {
+    "source": "#Boomer",
+    "target": "#GenZ",
+    "weight": 1
+  },
+  {
+    "source": "#GenZ",
+    "target": "#WorkplaceCulture",
+    "weight": 1
+  },
+  {
+    "source": "#Boomer",
+    "target": "#Millennial",
+    "weight": 1
+  },
+  {
+    "source": "#Millennial",
+    "target": "#WorkplaceCulture",
+    "weight": 1
+  },
+  {
+    "source": "#Boomer",
+    "target": "#WorkplaceCulture",
+    "weight": 1
+  },
+  {
+    "source": "#Afghanistan",
+    "target": "#Ariana",
+    "weight": 1
+  },
+  {
+    "source": "#RoadAccident",
+    "target": "#VIC",
+    "weight": 1
+  },
+  {
+    "source": "#EMVAlert",
+    "target": "#RoadAccident",
+    "weight": 1
+  },
+  {
+    "source": "#RoadAccident",
+    "target": "#incident",
+    "weight": 1
+  },
+  {
+    "source": "#Accident",
+    "target": "#RoadAccident",
+    "weight": 1
+  },
+  {
+    "source": "#EaglesVsRavens",
+    "target": "#Fågelderby",
+    "weight": 1
+  },
+  {
+    "source": "#QatarTotalEnergiesOpen",
+    "target": "#TorontoSports",
+    "weight": 1
+  },
+  {
+    "source": "#MKOIWIN",
+    "target": "#TorontoSports",
+    "weight": 1
+  },
+  {
+    "source": "#RoadToTheSix",
+    "target": "#TorontoSports",
+    "weight": 1
+  },
+  {
+    "source": "#TorontoSports",
+    "target": "#WeTheNorth",
+    "weight": 1
+  },
+  {
+    "source": "#MKOIWIN",
+    "target": "#QatarTotalEnergiesOpen",
+    "weight": 1
+  },
+  {
+    "source": "#QatarTotalEnergiesOpen",
+    "target": "#RoadToTheSix",
+    "weight": 1
+  },
+  {
+    "source": "#QatarTotalEnergiesOpen",
+    "target": "#WeTheNorth",
+    "weight": 1
+  },
+  {
+    "source": "#MKOIWIN",
+    "target": "#RoadToTheSix",
+    "weight": 1
+  },
+  {
+    "source": "#MKOIWIN",
+    "target": "#WeTheNorth",
+    "weight": 1
+  },
+  {
+    "source": "#RoadToTheSix",
+    "target": "#WeTheNorth",
+    "weight": 1
+  },
+  {
+    "source": "#danandersson",
+    "target": "#spökhistorier",
+    "weight": 1
+  },
+  {
+    "source": "#danandersson",
+    "target": "#spöken",
+    "weight": 1
+  },
+  {
+    "source": "#danandersson",
+    "target": "#litteratur",
+    "weight": 1
+  },
+  {
+    "source": "#spöken",
+    "target": "#spökhistorier",
+    "weight": 1
+  },
+  {
+    "source": "#litteratur",
+    "target": "#spökhistorier",
+    "weight": 1
+  },
+  {
+    "source": "#litteratur",
+    "target": "#spöken",
+    "weight": 1
+  },
+  {
+    "source": "#StKitts",
+    "target": "#cruise",
+    "weight": 1
+  },
+  {
+    "source": "#bmw",
+    "target": "#carsky",
+    "weight": 1
+  },
+  {
+    "source": "#carsky",
+    "target": "#e36",
+    "weight": 1
+  },
+  {
+    "source": "#carsky",
+    "target": "#cruise",
+    "weight": 1
+  },
+  {
+    "source": "#bimmer",
+    "target": "#carsky",
+    "weight": 1
+  },
+  {
+    "source": "#bmw",
+    "target": "#e36",
+    "weight": 1
+  },
+  {
+    "source": "#bmw",
+    "target": "#cruise",
+    "weight": 1
+  },
+  {
+    "source": "#bimmer",
+    "target": "#bmw",
+    "weight": 1
+  },
+  {
+    "source": "#cruise",
+    "target": "#e36",
+    "weight": 1
+  },
+  {
+    "source": "#bimmer",
+    "target": "#e36",
+    "weight": 1
+  },
+  {
+    "source": "#bimmer",
+    "target": "#cruise",
+    "weight": 1
+  },
+  {
+    "source": "#gdelt",
+    "target": "#slovakia",
+    "weight": 1
+  },
+  {
+    "source": "#slovakia",
+    "target": "#sr",
+    "weight": 1
+  },
+  {
+    "source": "#program",
+    "target": "#slovakia",
+    "weight": 1
+  },
+  {
+    "source": "#avízo",
+    "target": "#slovakia",
+    "weight": 1
+  },
+  {
+    "source": "#gdelt",
+    "target": "#sr",
+    "weight": 1
+  },
+  {
+    "source": "#gdelt",
+    "target": "#program",
+    "weight": 1
+  },
+  {
+    "source": "#avízo",
+    "target": "#gdelt",
+    "weight": 1
+  },
+  {
+    "source": "#program",
+    "target": "#sr",
+    "weight": 1
+  },
+  {
+    "source": "#avízo",
+    "target": "#sr",
+    "weight": 1
+  },
+  {
+    "source": "#avízo",
+    "target": "#program",
+    "weight": 1
+  },
+  {
+    "source": "#ドキュメンタリー",
+    "target": "#即ヌキ",
+    "weight": 1
+  },
+  {
+    "source": "#ドキュメンタリー",
+    "target": "#人妻",
+    "weight": 1
+  },
+  {
+    "source": "#ドキュメンタリー",
+    "target": "#熟女",
+    "weight": 1
+  },
+  {
+    "source": "#ドキュメンタリー",
+    "target": "#中出し",
+    "weight": 1
+  },
+  {
+    "source": "#Cruise",
+    "target": "#Kyiv",
+    "weight": 1
+  },
+  {
+    "source": "#Cruise",
+    "target": "#Zelensky",
+    "weight": 1
+  },
+  {
+    "source": "#Kyiv",
+    "target": "#Missile",
+    "weight": 1
+  },
+  {
+    "source": "#Kyiv",
+    "target": "#Zelensky",
+    "weight": 1
+  },
+  {
+    "source": "#Missile",
+    "target": "#Zelensky",
+    "weight": 1
+  },
+  {
+    "source": "#AIAu",
+    "target": "#Sage3_0",
     "weight": 1
   }
 ]

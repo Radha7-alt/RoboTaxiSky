@@ -1,33 +1,33 @@
 {
-  "date": "2026-02-08",
+  "date": "2026-02-09",
   "complete": {
-    "total_posts": 4429,
+    "total_posts": 5687,
     "total_sentiments": 6,
     "total_emotions": 7,
-    "total_languages": 41,
+    "total_languages": 43,
     "total_topics": 8,
-    "total_hashtags": 1600,
-    "total_emojis": 255
+    "total_hashtags": 1874,
+    "total_emojis": 290
   },
   "last_week": {
-    "total_posts": 4429,
+    "total_posts": 5687,
     "total_sentiments": 6,
     "total_emotions": 7,
-    "total_languages": 41,
+    "total_languages": 43,
     "total_topics": 8,
-    "total_hashtags": 1600,
-    "total_emojis": 255
+    "total_hashtags": 1874,
+    "total_emojis": 290
   },
   "averages": {
-    "avg_posts_per_day": 632.71,
-    "avg_hashtags_per_day": 483.57,
-    "avg_emojis_per_day": 134.86
+    "avg_posts_per_day": 812.43,
+    "avg_hashtags_per_day": 649.57,
+    "avg_emojis_per_day": 177.57
   },
   "top": {
     "sentiment": "neutral",
     "emotion": "fear",
     "language": "en",
-    "hashtag": "#insynsregistret",
+    "hashtag": "#AIAutonomy",
     "emoji": "🚨"
   }
 }
