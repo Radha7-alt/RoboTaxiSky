@@ -1,58 +1,13 @@
 {
-  "2026-02-15": {
-    "volume": 683,
-    "sentiment": {
-      "neutral": 573,
-      "negative": 65,
-      "positive": 45
-    },
-    "emotion": {
-      "neutral": 161,
-      "fear": 353,
-      "sadness": 38,
-      "joy": 71,
-      "disgust": 5,
-      "anger": 33,
-      "surprise": 22
-    },
-    "language": {
-      "pt": 33,
-      "en": 230,
-      "nn": 6,
-      "en-US": 22,
-      "sv": 127,
-      "nb": 88,
-      "sv-SE": 25,
-      "lv-LV": 3,
-      "lv": 3,
-      "nb-NO": 25,
-      "no": 9,
-      "de": 10,
-      "fr": 9,
-      "ja": 19,
-      "tr": 5,
-      "no-NO": 2,
-      "sv-FI": 2,
-      "cs": 2,
-      "es": 4,
-      "fil": 1,
-      "it": 3,
-      "fi-FI": 1,
-      "fi": 1,
-      "pl": 1,
-      "it-IT": 2,
-      "ca": 2
-    }
-  },
   "2026-02-16": {
-    "volume": 1308,
+    "volume": 1309,
     "sentiment": {
       "negative": 137,
-      "neutral": 1094,
+      "neutral": 1095,
       "positive": 77
     },
     "emotion": {
-      "fear": 632,
+      "fear": 633,
       "anger": 68,
       "joy": 97,
       "neutral": 380,
@@ -340,6 +295,57 @@
       "nl": 1,
       "cs": 1,
       "ca": 1
+    }
+  },
+  "2026-02-22": {
+    "volume": 1146,
+    "sentiment": {
+      "neutral": 964,
+      "negative": 120,
+      "positive": 62
+    },
+    "emotion": {
+      "anger": 68,
+      "sadness": 65,
+      "neutral": 300,
+      "joy": 90,
+      "fear": 568,
+      "surprise": 45,
+      "disgust": 10
+    },
+    "language": {
+      "en": 398,
+      "pt": 44,
+      "en-US": 18,
+      "ja": 33,
+      "lv-LV": 5,
+      "lv": 6,
+      "sv-SE": 41,
+      "sv": 226,
+      "nb": 139,
+      "no": 9,
+      "nn": 9,
+      "fr": 20,
+      "nb-NO": 32,
+      "de": 7,
+      "uk": 3,
+      "pt-PT": 1,
+      "tr": 4,
+      "sl": 1,
+      "ko": 1,
+      "ro": 1,
+      "sv-FI": 3,
+      "es": 7,
+      "zh": 2,
+      "nl": 3,
+      "th": 2,
+      "pl": 1,
+      "fi-FI": 1,
+      "fi": 1,
+      "it": 1,
+      "ja-JP": 1,
+      "da": 1,
+      "cs": 1
     }
   }
 }
