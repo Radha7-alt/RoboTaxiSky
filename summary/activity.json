@@ -1,52 +1,4 @@
 {
-  "2026-02-17": {
-    "volume": 1320,
-    "sentiment": {
-      "neutral": 1029,
-      "negative": 170,
-      "positive": 121
-    },
-    "emotion": {
-      "sadness": 79,
-      "neutral": 373,
-      "fear": 625,
-      "surprise": 47,
-      "joy": 121,
-      "anger": 68,
-      "disgust": 7
-    },
-    "language": {
-      "nb": 123,
-      "sv": 208,
-      "en": 469,
-      "nb-NO": 33,
-      "en-US": 63,
-      "sv-SE": 37,
-      "fr": 13,
-      "no": 19,
-      "ja": 46,
-      "nn": 6,
-      "pt": 43,
-      "es": 10,
-      "de": 8,
-      "it": 2,
-      "sv-FI": 8,
-      "ar": 2,
-      "tr": 6,
-      "ru": 2,
-      "ja-JP": 1,
-      "ro": 1,
-      "nl": 2,
-      "lv-LV": 1,
-      "lv": 1,
-      "ab": 1,
-      "ca": 1,
-      "he": 1,
-      "th": 1,
-      "uk": 1,
-      "sk": 1
-    }
-  },
   "2026-02-18": {
     "volume": 1604,
     "sentiment": {
@@ -102,15 +54,15 @@
     }
   },
   "2026-02-19": {
-    "volume": 1456,
+    "volume": 1457,
     "sentiment": {
-      "neutral": 1181,
+      "neutral": 1182,
       "negative": 194,
       "positive": 81
     },
     "emotion": {
       "neutral": 438,
-      "fear": 630,
+      "fear": 631,
       "sadness": 115,
       "joy": 117,
       "surprise": 54,
@@ -344,6 +296,53 @@
       "lv": 1,
       "it": 1,
       "cs": 2
+    }
+  },
+  "2026-02-24": {
+    "volume": 1636,
+    "sentiment": {
+      "neutral": 1351,
+      "negative": 199,
+      "positive": 86
+    },
+    "emotion": {
+      "fear": 814,
+      "sadness": 121,
+      "neutral": 394,
+      "joy": 144,
+      "anger": 90,
+      "surprise": 66,
+      "disgust": 7
+    },
+    "language": {
+      "sv": 296,
+      "en": 544,
+      "lv-LV": 2,
+      "lv": 2,
+      "nb": 190,
+      "en-US": 74,
+      "no": 25,
+      "nb-NO": 43,
+      "ja": 21,
+      "pt": 49,
+      "sv-SE": 62,
+      "es": 9,
+      "ar": 2,
+      "cs": 5,
+      "da": 1,
+      "it": 4,
+      "tr": 3,
+      "fr": 12,
+      "fi": 2,
+      "nl": 5,
+      "de": 6,
+      "sv-FI": 6,
+      "nn": 7,
+      "zh": 8,
+      "id": 1,
+      "pt-PT": 2,
+      "ca": 2,
+      "ro": 1
     }
   }
 }
