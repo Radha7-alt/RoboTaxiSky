@@ -1,44 +1,215 @@
 {
+  "topic_6": {
+    "label": [
+      "stalled",
+      "house",
+      "new",
+      "just",
+      "bskysocial"
+    ],
+    "count": 541,
+    "daily": {
+      "2026-02-20": 90,
+      "2026-02-21": 74,
+      "2026-02-22": 43,
+      "2026-02-23": 35,
+      "2026-02-24": 85,
+      "2026-02-25": 128,
+      "2026-02-26": 86
+    },
+    "sentiment": {
+      "neutral": 366,
+      "negative": 126,
+      "positive": 49
+    },
+    "emotion": {
+      "joy": 44,
+      "neutral": 135,
+      "sadness": 83,
+      "fear": 187,
+      "anger": 53,
+      "surprise": 38,
+      "disgust": 1
+    },
+    "hashtags": [
+      "#insynsregistret",
+      "#EMVAlert",
+      "#incident",
+      "#nyc",
+      "#mta",
+      "#subway",
+      "#VIC",
+      "#cruise",
+      "#AV",
+      "#Fire"
+    ],
+    "emojis": [
+      "🚨",
+      "🛒",
+      "💥",
+      "👉",
+      "★",
+      "🎓",
+      "💤",
+      "🎉",
+      "💫",
+      "🇳"
+    ]
+  },
+  "topic_5": {
+    "label": [
+      "ab",
+      "aktier",
+      "transaktion",
+      "marknad",
+      "genomfört"
+    ],
+    "count": 865,
+    "daily": {
+      "2026-02-20": 137,
+      "2026-02-21": 50,
+      "2026-02-22": 114,
+      "2026-02-23": 121,
+      "2026-02-24": 230,
+      "2026-02-25": 161,
+      "2026-02-26": 52
+    },
+    "sentiment": {
+      "neutral": 750,
+      "negative": 95,
+      "positive": 20
+    },
+    "emotion": {
+      "fear": 513,
+      "neutral": 187,
+      "anger": 61,
+      "disgust": 3,
+      "sadness": 49,
+      "joy": 30,
+      "surprise": 22
+    },
+    "hashtags": [
+      "#insynsregistret",
+      "#VIC",
+      "#EMVAlert",
+      "#incident",
+      "#nyc",
+      "#mta",
+      "#subway",
+      "#NordicNews",
+      "#nyheter",
+      "#Norge"
+    ],
+    "emojis": [
+      "🚨",
+      "👉",
+      "🇳",
+      "💰",
+      "🇴",
+      "⚽",
+      "🇺",
+      "🔥",
+      "👇",
+      "★"
+    ]
+  },
+  "topic_4": {
+    "label": [
+      "og",
+      "er",
+      "til",
+      "det",
+      "jeg"
+    ],
+    "count": 1096,
+    "daily": {
+      "2026-02-20": 154,
+      "2026-02-21": 204,
+      "2026-02-22": 144,
+      "2026-02-23": 195,
+      "2026-02-24": 81,
+      "2026-02-25": 77,
+      "2026-02-26": 241
+    },
+    "sentiment": {
+      "negative": 115,
+      "neutral": 968,
+      "positive": 13
+    },
+    "emotion": {
+      "surprise": 18,
+      "neutral": 205,
+      "fear": 708,
+      "sadness": 70,
+      "anger": 64,
+      "disgust": 11,
+      "joy": 20
+    },
+    "hashtags": [
+      "#insynsregistret",
+      "#VIC",
+      "#EMVAlert",
+      "#incident",
+      "#nyc",
+      "#mta",
+      "#subway",
+      "#Fire",
+      "#Norge",
+      "#NordicNews"
+    ],
+    "emojis": [
+      "🚨",
+      "🇳",
+      "📎",
+      "🇺",
+      "🇴",
+      "🔥",
+      "🔗",
+      "😭",
+      "👉",
+      "📍"
+    ]
+  },
   "topic_0": {
     "label": [
-      "av",
-      "det",
-      "en",
       "och",
-      "som"
+      "att",
+      "av",
+      "som",
+      "en"
     ],
-    "count": 3048,
+    "count": 3142,
     "daily": {
-      "2026-02-19": 363,
       "2026-02-20": 463,
       "2026-02-21": 338,
       "2026-02-22": 458,
       "2026-02-23": 486,
       "2026-02-24": 504,
-      "2026-02-25": 436
+      "2026-02-25": 437,
+      "2026-02-26": 456
     },
     "sentiment": {
-      "neutral": 2959,
-      "negative": 57,
-      "positive": 32
+      "neutral": 3075,
+      "positive": 32,
+      "negative": 35
     },
     "emotion": {
-      "neutral": 935,
-      "fear": 1873,
-      "sadness": 66,
-      "joy": 93,
-      "anger": 46,
-      "disgust": 15,
-      "surprise": 20
+      "fear": 2020,
+      "neutral": 912,
+      "joy": 81,
+      "anger": 51,
+      "sadness": 46,
+      "surprise": 16,
+      "disgust": 16
     },
     "hashtags": [
       "#insynsregistret",
-      "#nyc",
-      "#mta",
-      "#subway",
       "#VIC",
       "#EMVAlert",
       "#incident",
+      "#nyc",
+      "#mta",
+      "#subway",
       "#NordicNews",
       "#nyheter",
       "#NRK"
@@ -47,217 +218,46 @@
       "🚨",
       "🇳",
       "🇴",
-      "👇",
       "🇺",
+      "👉",
+      "👇",
       "🇷",
-      "👉",
-      "💫",
-      "🚢",
-      "😭"
-    ]
-  },
-  "topic_6": {
-    "label": [
-      "waymo",
-      "chicago",
-      "cars",
-      "driverless",
-      "autonomous"
-    ],
-    "count": 653,
-    "daily": {
-      "2026-02-19": 198,
-      "2026-02-20": 90,
-      "2026-02-21": 74,
-      "2026-02-22": 43,
-      "2026-02-23": 35,
-      "2026-02-24": 85,
-      "2026-02-25": 128
-    },
-    "sentiment": {
-      "neutral": 520,
-      "negative": 93,
-      "positive": 40
-    },
-    "emotion": {
-      "fear": 319,
-      "neutral": 152,
-      "joy": 39,
-      "anger": 43,
-      "sadness": 63,
-      "surprise": 36,
-      "disgust": 1
-    },
-    "hashtags": [
-      "#insynsregistret",
-      "#nyc",
-      "#mta",
-      "#subway",
-      "#cruise",
-      "#VIC",
-      "#EMVAlert",
-      "#incident",
-      "#AV",
-      "#Fire"
-    ],
-    "emojis": [
-      "🚨",
-      "🛒",
-      "💥",
-      "🎉",
-      "👉",
-      "★",
-      "💫",
-      "🎓",
-      "💤",
-      "🔥"
-    ]
-  },
-  "topic_5": {
-    "label": [
-      "og",
-      "er",
-      "til",
-      "jeg",
-      "ikke"
-    ],
-    "count": 1016,
-    "daily": {
-      "2026-02-19": 203,
-      "2026-02-20": 137,
-      "2026-02-21": 50,
-      "2026-02-22": 114,
-      "2026-02-23": 121,
-      "2026-02-24": 230,
-      "2026-02-25": 161
-    },
-    "sentiment": {
-      "neutral": 899,
-      "negative": 97,
-      "positive": 20
-    },
-    "emotion": {
-      "fear": 666,
-      "neutral": 168,
-      "anger": 72,
-      "disgust": 8,
-      "joy": 31,
-      "sadness": 50,
-      "surprise": 21
-    },
-    "hashtags": [
-      "#insynsregistret",
-      "#nyc",
-      "#mta",
-      "#subway",
-      "#VIC",
-      "#EMVAlert",
-      "#incident",
-      "#NordicNews",
-      "#nyheter",
-      "#Norge"
-    ],
-    "emojis": [
-      "🚨",
-      "👉",
-      "💰",
-      "🇳",
-      "🇴",
-      "👇",
-      "⚽",
-      "😅",
-      "🇺",
-      "🔥"
-    ]
-  },
-  "topic_3": {
-    "label": [
-      "av",
-      "vibrator",
-      "trains",
-      "new",
-      "train"
-    ],
-    "count": 896,
-    "daily": {
-      "2026-02-19": 125,
-      "2026-02-20": 89,
-      "2026-02-21": 125,
-      "2026-02-22": 93,
-      "2026-02-23": 137,
-      "2026-02-24": 102,
-      "2026-02-25": 225
-    },
-    "sentiment": {
-      "neutral": 647,
-      "negative": 174,
-      "positive": 75
-    },
-    "emotion": {
-      "neutral": 243,
-      "anger": 81,
-      "surprise": 49,
-      "fear": 326,
-      "joy": 124,
-      "sadness": 65,
-      "disgust": 8
-    },
-    "hashtags": [
-      "#nyc",
-      "#mta",
-      "#subway",
-      "#insynsregistret",
-      "#VIC",
-      "#EMVAlert",
-      "#incident",
-      "#nude",
-      "#Norge",
-      "#NordicNews"
-    ],
-    "emojis": [
-      "🚨",
-      "🌊",
-      "⚽",
-      "🇳",
-      "🇴",
-      "💖",
-      "🇺",
-      "👉",
-      "🇦",
-      "🌸"
+      "😭",
+      "💙",
+      "🇦"
     ]
   },
   "topic_7": {
     "label": [
-      "ab",
-      "datum",
-      "rapporterar",
-      "transaktion",
-      "genomfört"
+      "trains",
+      "running",
+      "near",
+      "waymo",
+      "delays"
     ],
-    "count": 792,
+    "count": 742,
     "daily": {
-      "2026-02-19": 204,
       "2026-02-20": 106,
       "2026-02-21": 86,
       "2026-02-22": 57,
       "2026-02-23": 76,
       "2026-02-24": 211,
-      "2026-02-25": 52
+      "2026-02-25": 52,
+      "2026-02-26": 154
     },
     "sentiment": {
-      "negative": 139,
-      "neutral": 604,
-      "positive": 49
+      "positive": 45,
+      "neutral": 563,
+      "negative": 134
     },
     "emotion": {
-      "sadness": 82,
-      "fear": 243,
-      "joy": 61,
-      "neutral": 255,
-      "surprise": 50,
-      "anger": 94,
-      "disgust": 7
+      "joy": 55,
+      "fear": 235,
+      "neutral": 246,
+      "anger": 81,
+      "sadness": 73,
+      "surprise": 44,
+      "disgust": 8
     },
     "hashtags": [
       "#insynsregistret",
@@ -268,52 +268,52 @@
       "#EMVAlert",
       "#incident",
       "#cruise",
-      "#Fire",
-      "#travel"
+      "#travel",
+      "#AV"
     ],
     "emojis": [
       "🚨",
-      "👉",
+      "👏",
+      "😄",
+      "📍",
+      "🔗",
       "🇳",
       "🇴",
-      "🛳",
-      "📍",
-      "👏",
-      "🎉",
-      "👇",
+      "🔴",
+      "👉",
       "🛒"
     ]
   },
   "topic_1": {
     "label": [
       "cruise",
-      "tom",
+      "missiles",
       "ship",
-      "time",
-      "missiles"
+      "missile",
+      "tom"
     ],
-    "count": 1370,
+    "count": 1395,
     "daily": {
-      "2026-02-19": 212,
       "2026-02-20": 178,
       "2026-02-21": 202,
       "2026-02-22": 121,
       "2026-02-23": 205,
       "2026-02-24": 264,
-      "2026-02-25": 188
+      "2026-02-25": 188,
+      "2026-02-26": 237
     },
     "sentiment": {
-      "neutral": 782,
-      "negative": 268,
-      "positive": 320
+      "negative": 275,
+      "positive": 318,
+      "neutral": 802
     },
     "emotion": {
-      "joy": 371,
-      "fear": 290,
-      "neutral": 332,
-      "sadness": 151,
-      "anger": 90,
-      "surprise": 125,
+      "sadness": 154,
+      "neutral": 329,
+      "fear": 299,
+      "joy": 377,
+      "anger": 97,
+      "surprise": 128,
       "disgust": 11
     },
     "hashtags": [
@@ -325,130 +325,130 @@
       "#EMVAlert",
       "#incident",
       "#Norge",
+      "#cruise",
+      "#NordicNews"
+    ],
+    "emojis": [
+      "🚨",
+      "🛒",
+      "👉",
+      "🇦",
+      "👇",
+      "🇺",
+      "🚢",
+      "🇳",
+      "🎉",
+      "🇴"
+    ]
+  },
+  "topic_3": {
+    "label": [
+      "av",
+      "vibrator",
+      "pm",
+      "map",
+      "2026"
+    ],
+    "count": 951,
+    "daily": {
+      "2026-02-20": 89,
+      "2026-02-21": 125,
+      "2026-02-22": 93,
+      "2026-02-23": 137,
+      "2026-02-24": 102,
+      "2026-02-25": 225,
+      "2026-02-26": 180
+    },
+    "sentiment": {
+      "positive": 73,
+      "negative": 143,
+      "neutral": 735
+    },
+    "emotion": {
+      "fear": 378,
+      "neutral": 264,
+      "anger": 68,
+      "sadness": 66,
+      "surprise": 47,
+      "joy": 121,
+      "disgust": 7
+    },
+    "hashtags": [
+      "#nyc",
+      "#mta",
+      "#subway",
+      "#insynsregistret",
+      "#VIC",
+      "#EMVAlert",
+      "#incident",
+      "#nude",
       "#NordicNews",
       "#nyheter"
     ],
     "emojis": [
       "🚨",
-      "👉",
-      "🛒",
+      "🌊",
+      "⚽",
       "🇳",
       "🇴",
+      "💖",
+      "💫",
       "👇",
       "📍",
-      "🚢",
-      "🔥",
-      "🎶"
-    ]
-  },
-  "topic_4": {
-    "label": [
-      "stalled",
-      "vehicle",
-      "la",
-      "new",
-      "years"
-    ],
-    "count": 934,
-    "daily": {
-      "2026-02-19": 79,
-      "2026-02-20": 154,
-      "2026-02-21": 204,
-      "2026-02-22": 144,
-      "2026-02-23": 195,
-      "2026-02-24": 81,
-      "2026-02-25": 77
-    },
-    "sentiment": {
-      "negative": 148,
-      "neutral": 772,
-      "positive": 14
-    },
-    "emotion": {
-      "sadness": 95,
-      "neutral": 178,
-      "surprise": 20,
-      "fear": 547,
-      "anger": 63,
-      "joy": 21,
-      "disgust": 10
-    },
-    "hashtags": [
-      "#insynsregistret",
-      "#VIC",
-      "#EMVAlert",
-      "#incident",
-      "#nyc",
-      "#mta",
-      "#subway",
-      "#Fire",
-      "#Norge",
-      "#NordicNews"
-    ],
-    "emojis": [
-      "🚨",
-      "📎",
-      "🇳",
-      "🔥",
-      "🇺",
-      "🔗",
-      "😭",
-      "🇴",
-      "👉",
-      "🌴"
+      "💧"
     ]
   },
   "topic_2": {
     "label": [
       "autonomy",
-      "bodily",
       "people",
-      "control",
-      "need"
+      "bodily",
+      "ai",
+      "just"
     ],
-    "count": 708,
+    "count": 754,
     "daily": {
-      "2026-02-19": 73,
       "2026-02-20": 73,
       "2026-02-21": 97,
       "2026-02-22": 118,
       "2026-02-23": 89,
       "2026-02-24": 159,
-      "2026-02-25": 99
+      "2026-02-25": 99,
+      "2026-02-26": 119
     },
     "sentiment": {
-      "neutral": 543,
-      "negative": 118,
-      "positive": 47
+      "neutral": 524,
+      "negative": 167,
+      "positive": 63
     },
     "emotion": {
-      "neutral": 268,
-      "fear": 216,
-      "joy": 79,
-      "anger": 67,
-      "disgust": 3,
-      "surprise": 31,
-      "sadness": 44
+      "neutral": 216,
+      "anger": 92,
+      "fear": 258,
+      "joy": 97,
+      "disgust": 5,
+      "surprise": 36,
+      "sadness": 50
     },
     "hashtags": [
       "#insynsregistret",
-      "#nyc",
-      "#mta",
-      "#subway",
       "#VIC",
       "#EMVAlert",
       "#incident",
+      "#nyc",
+      "#mta",
+      "#subway",
+      "#AV",
       "#Norge",
-      "#NordicNews",
-      "#nyheter"
+      "#NordicNews"
     ],
     "emojis": [
       "🚨",
       "🔥",
-      "🇳",
-      "🇴",
       "😭",
       "👉",
+      "🇳",
+      "🇴",
       "🚢",
       "📍",
       "🛒",
