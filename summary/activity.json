@@ -1,51 +1,4 @@
 {
-  "2026-02-24": {
-    "volume": 1636,
-    "sentiment": {
-      "neutral": 1351,
-      "negative": 199,
-      "positive": 86
-    },
-    "emotion": {
-      "fear": 814,
-      "sadness": 121,
-      "neutral": 394,
-      "joy": 144,
-      "anger": 90,
-      "surprise": 66,
-      "disgust": 7
-    },
-    "language": {
-      "sv": 296,
-      "en": 544,
-      "lv-LV": 2,
-      "lv": 2,
-      "nb": 190,
-      "en-US": 74,
-      "no": 25,
-      "nb-NO": 43,
-      "ja": 21,
-      "pt": 49,
-      "sv-SE": 62,
-      "es": 9,
-      "ar": 2,
-      "cs": 5,
-      "da": 1,
-      "it": 4,
-      "tr": 3,
-      "fr": 12,
-      "fi": 2,
-      "nl": 5,
-      "de": 6,
-      "sv-FI": 6,
-      "nn": 7,
-      "zh": 8,
-      "id": 1,
-      "pt-PT": 2,
-      "ca": 2,
-      "ro": 1
-    }
-  },
   "2026-02-25": {
     "volume": 1367,
     "sentiment": {
@@ -298,15 +251,15 @@
     }
   },
   "2026-03-02": {
-    "volume": 1510,
+    "volume": 1511,
     "sentiment": {
       "negative": 196,
-      "neutral": 1238,
+      "neutral": 1239,
       "positive": 76
     },
     "emotion": {
       "anger": 84,
-      "fear": 775,
+      "fear": 776,
       "neutral": 380,
       "joy": 112,
       "sadness": 94,
@@ -352,6 +305,54 @@
       "lv-LV": 1,
       "lv": 1,
       "ca": 1
+    }
+  },
+  "2026-03-03": {
+    "volume": 1329,
+    "sentiment": {
+      "neutral": 1086,
+      "negative": 167,
+      "positive": 76
+    },
+    "emotion": {
+      "fear": 648,
+      "joy": 107,
+      "neutral": 333,
+      "sadness": 91,
+      "anger": 100,
+      "surprise": 42,
+      "disgust": 8
+    },
+    "language": {
+      "en": 482,
+      "ja": 32,
+      "sv": 222,
+      "en-US": 51,
+      "nn": 4,
+      "nb-NO": 50,
+      "nb": 154,
+      "pt": 45,
+      "tr": 6,
+      "ga": 1,
+      "no": 28,
+      "no-NO": 7,
+      "sv-FI": 5,
+      "sv-SE": 50,
+      "sl": 1,
+      "de": 7,
+      "es": 11,
+      "zh": 1,
+      "lv": 3,
+      "cs": 6,
+      "fr": 8,
+      "ca": 2,
+      "it": 2,
+      "en-AU": 1,
+      "lt-LT": 2,
+      "lt": 2,
+      "lv-LV": 1,
+      "fi": 1,
+      "ro": 1
     }
   }
 }
