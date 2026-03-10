@@ -1,61 +1,4 @@
 {
-  "2026-03-02": {
-    "volume": 1511,
-    "sentiment": {
-      "negative": 196,
-      "neutral": 1239,
-      "positive": 76
-    },
-    "emotion": {
-      "anger": 84,
-      "fear": 776,
-      "neutral": 380,
-      "joy": 112,
-      "sadness": 94,
-      "disgust": 7,
-      "surprise": 58
-    },
-    "language": {
-      "pt": 46,
-      "en": 529,
-      "ja": 33,
-      "nb": 190,
-      "sv": 241,
-      "no": 26,
-      "nb-NO": 44,
-      "sv-FI": 2,
-      "sv-SE": 63,
-      "nn": 12,
-      "en-US": 50,
-      "de": 22,
-      "da": 1,
-      "el": 1,
-      "es": 11,
-      "cs": 6,
-      "tr": 19,
-      "fr": 12,
-      "ga": 2,
-      "ro": 1,
-      "zh": 1,
-      "ja-JP": 1,
-      "ko": 2,
-      "fi": 2,
-      "uk": 2,
-      "nl": 2,
-      "it-IT": 1,
-      "it": 4,
-      "no-NO": 6,
-      "pl": 1,
-      "fi-FI": 1,
-      "la": 1,
-      "de-DE": 1,
-      "nl-NL": 1,
-      "sl": 1,
-      "lv-LV": 1,
-      "lv": 1,
-      "ca": 1
-    }
-  },
   "2026-03-03": {
     "volume": 1329,
     "sentiment": {
@@ -348,6 +291,58 @@
       "lv-LV": 1,
       "lv": 1,
       "el": 1,
+      "sk": 1
+    }
+  },
+  "2026-03-09": {
+    "volume": 1355,
+    "sentiment": {
+      "neutral": 1073,
+      "negative": 201,
+      "positive": 81
+    },
+    "emotion": {
+      "surprise": 75,
+      "fear": 638,
+      "neutral": 372,
+      "anger": 73,
+      "joy": 106,
+      "sadness": 83,
+      "disgust": 8
+    },
+    "language": {
+      "en": 488,
+      "sv": 198,
+      "sv-SE": 39,
+      "pt": 42,
+      "nb-NO": 44,
+      "nb": 142,
+      "en-US": 51,
+      "de": 6,
+      "fi": 2,
+      "no": 23,
+      "ja": 39,
+      "es": 8,
+      "ko": 1,
+      "tr": 9,
+      "zh": 23,
+      "sv-FI": 3,
+      "fr": 7,
+      "cs": 6,
+      "it": 1,
+      "nn": 7,
+      "lt-LT": 1,
+      "lt": 1,
+      "ar": 1,
+      "ru": 1,
+      "ca": 1,
+      "cy": 1,
+      "lv-LV": 2,
+      "lv": 2,
+      "et-EE": 1,
+      "et": 1,
+      "ro": 1,
+      "no-NO": 2,
       "sk": 1
     }
   }
