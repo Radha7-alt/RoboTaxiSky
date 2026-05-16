@@ -37,5 +37,62 @@
       "ca": 3,
       "de": 1
     }
+  },
+  "2026-05-15": {
+    "volume": 2087,
+    "sentiment": {
+      "neutral": 1643,
+      "negative": 344,
+      "positive": 100
+    },
+    "emotion": {
+      "fear": 882,
+      "sadness": 162,
+      "anger": 115,
+      "neutral": 612,
+      "surprise": 150,
+      "joy": 147,
+      "disgust": 19
+    },
+    "language": {
+      "en": 803,
+      "nb-NO": 51,
+      "nb": 209,
+      "tr": 8,
+      "ja": 181,
+      "sv": 233,
+      "ru": 1,
+      "en-US": 81,
+      "pt": 37,
+      "sv-SE": 42,
+      "lv-LV": 1,
+      "lv": 2,
+      "ja-JP": 2,
+      "da": 2,
+      "de": 13,
+      "no": 18,
+      "fr": 11,
+      "zh": 4,
+      "ca": 7,
+      "nn": 13,
+      "ms": 1,
+      "es": 10,
+      "en-GB": 1,
+      "fi": 2,
+      "cs": 5,
+      "pt-PT": 4,
+      "sv-FI": 2,
+      "fy": 1,
+      "ko": 6,
+      "cs-CZ": 1,
+      "nl": 2,
+      "sk": 2,
+      "ar": 1,
+      "no-NO": 1,
+      "it": 1,
+      "ak": 1,
+      "sq": 1,
+      "se": 1
+    }
   }
 }
