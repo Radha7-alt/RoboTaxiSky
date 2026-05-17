@@ -1,77 +1,80 @@
 {
   "topic_7": {
     "label": [
-      "att",
-      "och",
-      "är",
-      "för",
-      "jag"
+      "waymo",
+      "atlanta",
+      "cars",
+      "neighborhood",
+      "autonomous"
     ],
-    "count": 257,
+    "count": 430,
     "daily": {
       "2026-05-14": 75,
-      "2026-05-15": 182
+      "2026-05-15": 183,
+      "2026-05-16": 172
     },
     "sentiment": {
-      "neutral": 243,
-      "negative": 14
+      "neutral": 335,
+      "negative": 83,
+      "positive": 12
     },
     "emotion": {
-      "fear": 179,
-      "neutral": 53,
-      "sadness": 10,
-      "anger": 10,
-      "joy": 1,
-      "surprise": 3,
-      "disgust": 1
+      "fear": 247,
+      "neutral": 88,
+      "sadness": 27,
+      "anger": 26,
+      "joy": 12,
+      "surprise": 28,
+      "disgust": 2
     },
     "hashtags": [
       "#celebplanes",
       "#celebjettracking",
       "#privatejet",
       "#avgeek",
-      "#cruise",
-      "#FANZA",
-      "#News",
       "#AV",
+      "#FANZA",
       "#R18",
-      "#StandWithUkraine"
+      "#Norge",
+      "#NordicNews",
+      "#nyheter"
     ],
     "emojis": [
-      "📍",
-      "👇",
-      "📰",
       "🔽",
+      "🇳",
+      "🇴",
+      "👇",
+      "📍",
+      "📰",
+      "⚠",
       "🇨",
-      "🚌",
-      "♂",
-      "💕",
-      "💸",
-      "🏳"
+      "🇦",
+      "🚌"
     ]
   },
   "topic_2": {
     "label": [
-      "cruise",
-      "ship",
-      "hantavirus",
-      "gal",
-      "passengers"
+      "詳細",
+      "購入pr",
+      "2026",
+      "16",
+      "que"
     ],
-    "count": 483,
+    "count": 545,
     "daily": {
       "2026-05-14": 103,
-      "2026-05-15": 380
+      "2026-05-15": 381,
+      "2026-05-16": 61
     },
     "sentiment": {
-      "neutral": 341,
+      "neutral": 403,
       "negative": 88,
       "positive": 54
     },
     "emotion": {
       "fear": 143,
       "anger": 24,
-      "neutral": 115,
+      "neutral": 177,
       "surprise": 71,
       "joy": 70,
       "sadness": 56,
@@ -82,51 +85,52 @@
       "#celebjettracking",
       "#privatejet",
       "#avgeek",
+      "#AV",
+      "#Norge",
       "#NordicNews",
       "#nyheter",
-      "#Norge",
       "#NRK",
-      "#Innenriks",
-      "#Utenriks"
+      "#R18"
     ],
     "emojis": [
       "💨",
       "🇳",
       "🇴",
       "🚨",
+      "🔽",
+      "👇",
       "🔓",
       "😊",
       "⚠",
-      "👇",
-      "🇺",
-      "🔽"
+      "🇺"
     ]
   },
   "topic_1": {
     "label": [
-      "詳細",
-      "購入pr",
-      "ティッシュシコレール",
-      "いきなりエロざんまい",
-      "14"
+      "av",
+      "på",
+      "det",
+      "og",
+      "er"
     ],
-    "count": 288,
+    "count": 655,
     "daily": {
       "2026-05-14": 133,
-      "2026-05-15": 155
+      "2026-05-15": 155,
+      "2026-05-16": 367
     },
     "sentiment": {
-      "neutral": 235,
-      "negative": 26,
+      "neutral": 599,
+      "negative": 29,
       "positive": 27
     },
     "emotion": {
-      "neutral": 187,
-      "anger": 5,
-      "joy": 36,
-      "disgust": 3,
-      "fear": 33,
-      "sadness": 11,
+      "neutral": 263,
+      "anger": 13,
+      "joy": 40,
+      "disgust": 8,
+      "fear": 302,
+      "sadness": 16,
       "surprise": 13
     },
     "hashtags": [
@@ -134,52 +138,53 @@
       "#celebjettracking",
       "#privatejet",
       "#avgeek",
-      "#hantavirus",
-      "#cruise",
       "#AV",
-      "#insynsregistret",
-      "#Autonomy",
-      "#R18"
+      "#R18",
+      "#FANZA",
+      "#hantavirus",
+      "#選手権",
+      "#cruise"
     ],
     "emojis": [
       "💨",
-      "😂",
-      "👥",
-      "👀",
-      "🔓",
-      "🚢",
-      "🚨",
       "🔽",
+      "🚢",
+      "😂",
+      "👀",
+      "👥",
       "👇",
-      "♪"
+      "🔓",
+      "🔥",
+      "🛒"
     ]
   },
   "topic_4": {
     "label": [
-      "autonomy",
-      "bodily",
-      "new",
-      "ai",
-      "people"
+      "stalled",
+      "trump",
+      "la",
+      "just",
+      "gun"
     ],
-    "count": 228,
+    "count": 321,
     "daily": {
       "2026-05-14": 69,
-      "2026-05-15": 159
+      "2026-05-15": 159,
+      "2026-05-16": 93
     },
     "sentiment": {
-      "neutral": 125,
-      "negative": 80,
-      "positive": 23
+      "neutral": 171,
+      "negative": 120,
+      "positive": 30
     },
     "emotion": {
-      "surprise": 14,
-      "anger": 43,
-      "sadness": 24,
-      "fear": 61,
-      "neutral": 56,
-      "joy": 28,
-      "disgust": 2
+      "surprise": 21,
+      "anger": 51,
+      "sadness": 46,
+      "fear": 98,
+      "neutral": 70,
+      "joy": 32,
+      "disgust": 3
     },
     "hashtags": [
       "#celebplanes",
@@ -187,111 +192,113 @@
       "#privatejet",
       "#avgeek",
       "#AV",
-      "#写真集",
       "#R18",
-      "#巨乳",
-      "#Neo",
-      "#セクシー"
+      "#写真集",
+      "#FANZA",
+      "#選手権",
+      "#Amazon購入品"
     ],
     "emojis": [
       "💨",
       "🔓",
       "🔽",
       "🇺",
+      "♂",
       "📖",
+      "👥",
       "🇦",
       "🇳",
-      "🇴",
-      "🔗",
-      "📢"
+      "🇴"
     ]
   },
   "topic_6": {
     "label": [
-      "hantavirus",
-      "ship",
-      "outbreak",
-      "passengers",
-      "quarantine"
+      "att",
+      "och",
+      "är",
+      "för",
+      "inte"
     ],
-    "count": 212,
+    "count": 422,
     "daily": {
       "2026-05-14": 32,
-      "2026-05-15": 180
+      "2026-05-15": 181,
+      "2026-05-16": 209
     },
     "sentiment": {
-      "negative": 68,
-      "neutral": 139,
+      "negative": 69,
+      "neutral": 348,
       "positive": 5
     },
     "emotion": {
-      "sadness": 34,
-      "fear": 112,
-      "anger": 16,
-      "neutral": 36,
-      "joy": 6,
-      "surprise": 8
+      "sadness": 36,
+      "fear": 262,
+      "anger": 20,
+      "neutral": 86,
+      "joy": 7,
+      "surprise": 11
     },
     "hashtags": [
-      "#nyc",
-      "#mta",
-      "#subway",
       "#celebplanes",
       "#celebjettracking",
       "#privatejet",
       "#avgeek",
-      "#cruise",
-      "#Autonomy",
-      "#FutureOfWork"
+      "#FANZA",
+      "#CruiseShip",
+      "#nyc",
+      "#mta",
+      "#subway",
+      "#お買い物"
     ],
     "emojis": [
-      "🔗",
-      "📖",
-      "🔥",
-      "📢",
-      "🎶",
-      "💫",
       "🛒",
+      "👇",
+      "💫",
       "🇨",
-      "🇳",
+      "🚢",
+      "🇺",
+      "🇸",
+      "🇦",
+      "🔽",
       "📰"
     ]
   },
   "topic_0": {
     "label": [
-      "av",
-      "og",
-      "det",
-      "på",
-      "er"
+      "cruise",
+      "gal",
+      "tom",
+      "ship",
+      "just"
     ],
-    "count": 667,
+    "count": 1108,
     "daily": {
       "2026-05-14": 67,
-      "2026-05-15": 600
+      "2026-05-15": 602,
+      "2026-05-16": 439
     },
     "sentiment": {
-      "neutral": 617,
-      "positive": 39,
-      "negative": 11
+      "neutral": 932,
+      "positive": 91,
+      "negative": 85
     },
     "emotion": {
-      "neutral": 173,
-      "fear": 440,
-      "joy": 17,
-      "sadness": 12,
-      "anger": 16,
-      "surprise": 3,
-      "disgust": 6
+      "neutral": 341,
+      "fear": 528,
+      "joy": 92,
+      "sadness": 51,
+      "anger": 33,
+      "surprise": 55,
+      "disgust": 8
     },
     "hashtags": [
       "#Autonomy",
-      "#FutureOfWork",
       "#celebplanes",
       "#celebjettracking",
       "#privatejet",
       "#avgeek",
       "#AV",
+      "#FutureOfWork",
       "#FANZA",
       "#R18",
       "#選手権"
@@ -299,118 +306,120 @@
     "emojis": [
       "📖",
       "🔽",
-      "💨",
-      "📢",
-      "🚨",
-      "🔓",
-      "🔥",
       "🛒",
+      "💨",
+      "🚨",
+      "🚢",
+      "📢",
+      "🔥",
       "😐",
       "👇"
     ]
   },
   "topic_3": {
     "label": [
-      "waymo",
-      "cars",
-      "waymos",
-      "just",
-      "atlanta"
+      "av",
+      "trains",
+      "running",
+      "train",
+      "uptown"
     ],
-    "count": 300,
+    "count": 490,
     "daily": {
       "2026-05-14": 33,
-      "2026-05-15": 267
+      "2026-05-15": 268,
+      "2026-05-16": 189
     },
     "sentiment": {
-      "neutral": 162,
-      "negative": 121,
-      "positive": 17
+      "neutral": 321,
+      "negative": 145,
+      "positive": 24
     },
     "emotion": {
-      "surprise": 74,
-      "sadness": 32,
-      "joy": 24,
-      "fear": 67,
-      "neutral": 69,
-      "anger": 28,
-      "disgust": 6
+      "surprise": 80,
+      "sadness": 60,
+      "joy": 39,
+      "fear": 146,
+      "neutral": 126,
+      "anger": 32,
+      "disgust": 7
     },
     "hashtags": [
       "#celebplanes",
       "#celebjettracking",
       "#privatejet",
       "#avgeek",
-      "#gulfstreamg280",
-      "#gulfstreamv",
+      "#nyc",
+      "#mta",
+      "#subway",
       "#AV",
-      "#insynsregistret",
-      "#bombardierglobal7500",
-      "#marathonoil"
+      "#gulfstreamg280",
+      "#insynsregistret"
     ],
     "emojis": [
       "💨",
-      "🔓",
       "🚨",
+      "🔓",
       "📢",
+      "🚢",
       "📖",
       "🎓",
       "🎶",
       "😊",
-      "🇳",
-      "🇴"
+      "🇳"
     ]
   },
   "topic_5": {
     "label": [
-      "av",
-      "new",
-      "trains",
-      "running",
-      "st"
+      "ship",
+      "hantavirus",
+      "outbreak",
+      "positive",
+      "andes"
     ],
-    "count": 195,
+    "count": 395,
     "daily": {
       "2026-05-14": 31,
-      "2026-05-15": 164
+      "2026-05-15": 165,
+      "2026-05-16": 199
     },
     "sentiment": {
-      "negative": 39,
-      "neutral": 146,
-      "positive": 10
+      "negative": 86,
+      "neutral": 294,
+      "positive": 15
     },
     "emotion": {
-      "sadness": 32,
-      "fear": 73,
-      "neutral": 49,
-      "disgust": 1,
-      "surprise": 14,
-      "joy": 19,
-      "anger": 7
+      "sadness": 50,
+      "fear": 153,
+      "neutral": 124,
+      "disgust": 2,
+      "surprise": 21,
+      "joy": 31,
+      "anger": 14
     },
     "hashtags": [
+      "#AV",
       "#celebplanes",
       "#celebjettracking",
       "#privatejet",
       "#avgeek",
-      "#AV",
+      "#R18",
+      "#nude",
       "#FANZA",
       "#nyc",
-      "#R18",
-      "#選手権",
-      "#mta"
+      "#選手権"
     ],
     "emojis": [
-      "🎓",
       "🔽",
       "🚨",
-      "🔥",
       "👇",
+      "🎓",
+      "💚",
+      "👥",
+      "🙄",
+      "💸",
       "😡",
-      "⚕",
-      "🚑",
-      "💉",
-      "☠"
+      "🔥"
     ]
   }
 }
