@@ -2,17 +2,17 @@
   {
     "source": "#celebjettracking",
     "target": "#celebplanes",
-    "weight": 251
+    "weight": 308
   },
   {
     "source": "#celebplanes",
     "target": "#privatejet",
-    "weight": 251
+    "weight": 308
   },
   {
     "source": "#avgeek",
     "target": "#celebplanes",
-    "weight": 251
+    "weight": 308
   },
   {
     "source": "#celebplanes",
@@ -27,12 +27,12 @@
   {
     "source": "#celebjettracking",
     "target": "#privatejet",
-    "weight": 251
+    "weight": 308
   },
   {
     "source": "#avgeek",
     "target": "#celebjettracking",
-    "weight": 251
+    "weight": 308
   },
   {
     "source": "#celebjettracking",
@@ -47,7 +47,7 @@
   {
     "source": "#avgeek",
     "target": "#privatejet",
-    "weight": 251
+    "weight": 308
   },
   {
     "source": "#mattdamon",
@@ -97,7 +97,7 @@
   {
     "source": "#AV",
     "target": "#R18",
-    "weight": 95
+    "weight": 108
   },
   {
     "source": "#R18",
@@ -172,12 +172,12 @@
   {
     "source": "#Nato",
     "target": "#säkpol",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#Nato",
     "target": "#föpol",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#StandWithUkraine",
@@ -187,12 +187,12 @@
   {
     "source": "#drönare",
     "target": "#säkpol",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#drönare",
     "target": "#föpol",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#StandWithUkraine",
@@ -207,7 +207,7 @@
   {
     "source": "#föpol",
     "target": "#säkpol",
-    "weight": 6
+    "weight": 10
   },
   {
     "source": "#celebplanes",
@@ -257,47 +257,47 @@
   {
     "source": "#AV",
     "target": "#FANZA",
-    "weight": 113
+    "weight": 126
   },
   {
     "source": "#FANZA",
     "target": "#女優",
-    "weight": 23
+    "weight": 26
   },
   {
     "source": "#FANZA",
     "target": "#R18",
-    "weight": 69
+    "weight": 77
   },
   {
     "source": "#FANZA",
     "target": "#選手権",
-    "weight": 69
+    "weight": 77
   },
   {
     "source": "#AV",
     "target": "#女優",
-    "weight": 23
+    "weight": 26
   },
   {
     "source": "#AV",
     "target": "#選手権",
-    "weight": 69
+    "weight": 77
   },
   {
     "source": "#R18",
     "target": "#女優",
-    "weight": 23
+    "weight": 26
   },
   {
     "source": "#女優",
     "target": "#選手権",
-    "weight": 23
+    "weight": 26
   },
   {
     "source": "#R18",
     "target": "#選手権",
-    "weight": 72
+    "weight": 80
   },
   {
     "source": "#LGBTQ",
@@ -527,52 +527,52 @@
   {
     "source": "#defense",
     "target": "#geopolitics",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#geopolitics",
     "target": "#military",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#geopolitics",
     "target": "#missiles",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#defense",
     "target": "#military",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#defense",
     "target": "#missiles",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#military",
     "target": "#missiles",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#mta",
     "target": "#nyc",
-    "weight": 89
+    "weight": 112
   },
   {
     "source": "#nyc",
     "target": "#subway",
-    "weight": 89
+    "weight": 112
   },
   {
     "source": "#mta",
     "target": "#subway",
-    "weight": 89
+    "weight": 112
   },
   {
     "source": "#cruise",
     "target": "#hantavirus",
-    "weight": 9
+    "weight": 10
   },
   {
     "source": "#hantavirus",
@@ -587,12 +587,12 @@
   {
     "source": "#canada",
     "target": "#hantavirus",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#canada",
     "target": "#cruise",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#celebplanes",
@@ -667,17 +667,17 @@
   {
     "source": "#EMVAlert",
     "target": "#VIC",
-    "weight": 66
+    "weight": 78
   },
   {
     "source": "#VIC",
     "target": "#incident",
-    "weight": 66
+    "weight": 78
   },
   {
     "source": "#Fire",
     "target": "#VIC",
-    "weight": 38
+    "weight": 48
   },
   {
     "source": "#BuildingFire",
@@ -687,12 +687,12 @@
   {
     "source": "#EMVAlert",
     "target": "#incident",
-    "weight": 66
+    "weight": 78
   },
   {
     "source": "#EMVAlert",
     "target": "#Fire",
-    "weight": 38
+    "weight": 48
   },
   {
     "source": "#BuildingFire",
@@ -702,7 +702,7 @@
   {
     "source": "#Fire",
     "target": "#incident",
-    "weight": 38
+    "weight": 48
   },
   {
     "source": "#BuildingFire",
@@ -897,7 +897,7 @@
   {
     "source": "#nsfw",
     "target": "#porn",
-    "weight": 5
+    "weight": 14
   },
   {
     "source": "#goon",
@@ -937,152 +937,152 @@
   {
     "source": "#NordicNews",
     "target": "#Norge",
-    "weight": 44
+    "weight": 49
   },
   {
     "source": "#Norge",
     "target": "#nyheter",
-    "weight": 44
+    "weight": 49
   },
   {
     "source": "#NRK",
     "target": "#Norge",
-    "weight": 44
+    "weight": 49
   },
   {
     "source": "#Innenriks",
     "target": "#Norge",
-    "weight": 43
+    "weight": 48
   },
   {
     "source": "#Norge",
     "target": "#Utenriks",
-    "weight": 43
+    "weight": 48
   },
   {
     "source": "#Norge",
     "target": "#Sport",
-    "weight": 43
+    "weight": 48
   },
   {
     "source": "#NordicNews",
     "target": "#nyheter",
-    "weight": 47
+    "weight": 52
   },
   {
     "source": "#NRK",
     "target": "#NordicNews",
-    "weight": 43
+    "weight": 48
   },
   {
     "source": "#Innenriks",
     "target": "#NordicNews",
-    "weight": 43
+    "weight": 48
   },
   {
     "source": "#NordicNews",
     "target": "#Utenriks",
-    "weight": 43
+    "weight": 48
   },
   {
     "source": "#NordicNews",
     "target": "#Sport",
-    "weight": 43
+    "weight": 48
   },
   {
     "source": "#NRK",
     "target": "#nyheter",
-    "weight": 43
+    "weight": 48
   },
   {
     "source": "#Innenriks",
     "target": "#nyheter",
-    "weight": 43
+    "weight": 48
   },
   {
     "source": "#Utenriks",
     "target": "#nyheter",
-    "weight": 43
+    "weight": 48
   },
   {
     "source": "#Sport",
     "target": "#nyheter",
-    "weight": 43
+    "weight": 48
   },
   {
     "source": "#Innenriks",
     "target": "#NRK",
-    "weight": 43
+    "weight": 48
   },
   {
     "source": "#NRK",
     "target": "#Utenriks",
-    "weight": 43
+    "weight": 48
   },
   {
     "source": "#NRK",
     "target": "#Sport",
-    "weight": 43
+    "weight": 48
   },
   {
     "source": "#Innenriks",
     "target": "#Utenriks",
-    "weight": 43
+    "weight": 48
   },
   {
     "source": "#Innenriks",
     "target": "#Sport",
-    "weight": 43
+    "weight": 48
   },
   {
     "source": "#Sport",
     "target": "#Utenriks",
-    "weight": 43
+    "weight": 48
   },
   {
     "source": "#celebplanes",
     "target": "#nexteraenergy",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#celebplanes",
     "target": "#embraerpraetor600",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#celebjettracking",
     "target": "#nexteraenergy",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#celebjettracking",
     "target": "#embraerpraetor600",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#nexteraenergy",
     "target": "#privatejet",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#embraerpraetor600",
     "target": "#privatejet",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#avgeek",
     "target": "#nexteraenergy",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#avgeek",
     "target": "#embraerpraetor600",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#embraerpraetor600",
     "target": "#nexteraenergy",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#AuthenticJeanette",
@@ -1102,22 +1102,22 @@
   {
     "source": "#NAFO",
     "target": "#NAFOarticle3",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#NAFOarticle3",
     "target": "#Ukraine",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#DonateToUkraine",
     "target": "#NAFOarticle3",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#FNDRUA",
     "target": "#NAFOarticle3",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#NAFOarticle3",
@@ -1132,17 +1132,17 @@
   {
     "source": "#NAFO",
     "target": "#Ukraine",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#DonateToUkraine",
     "target": "#NAFO",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#FNDRUA",
     "target": "#NAFO",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#NAFO",
@@ -1157,12 +1157,12 @@
   {
     "source": "#DonateToUkraine",
     "target": "#Ukraine",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#FNDRUA",
     "target": "#Ukraine",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#StandWithUkraine",
@@ -1177,7 +1177,7 @@
   {
     "source": "#DonateToUkraine",
     "target": "#FNDRUA",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#DonateToUkraine",
@@ -1262,7 +1262,7 @@
   {
     "source": "#celebplanes",
     "target": "#gulfstreamg280",
-    "weight": 15
+    "weight": 19
   },
   {
     "source": "#celebjettracking",
@@ -1272,7 +1272,7 @@
   {
     "source": "#celebjettracking",
     "target": "#gulfstreamg280",
-    "weight": 15
+    "weight": 19
   },
   {
     "source": "#costcowholesale",
@@ -1282,7 +1282,7 @@
   {
     "source": "#gulfstreamg280",
     "target": "#privatejet",
-    "weight": 15
+    "weight": 19
   },
   {
     "source": "#avgeek",
@@ -1292,7 +1292,7 @@
   {
     "source": "#avgeek",
     "target": "#gulfstreamg280",
-    "weight": 15
+    "weight": 19
   },
   {
     "source": "#costcowholesale",
@@ -1307,7 +1307,7 @@
   {
     "source": "#celebplanes",
     "target": "#gulfstreamg650",
-    "weight": 10
+    "weight": 13
   },
   {
     "source": "#celebjettracking",
@@ -1317,7 +1317,7 @@
   {
     "source": "#celebjettracking",
     "target": "#gulfstreamg650",
-    "weight": 10
+    "weight": 13
   },
   {
     "source": "#philknight",
@@ -1327,7 +1327,7 @@
   {
     "source": "#gulfstreamg650",
     "target": "#privatejet",
-    "weight": 10
+    "weight": 13
   },
   {
     "source": "#avgeek",
@@ -1337,7 +1337,7 @@
   {
     "source": "#avgeek",
     "target": "#gulfstreamg650",
-    "weight": 10
+    "weight": 13
   },
   {
     "source": "#gulfstreamg650",
@@ -1347,27 +1347,27 @@
   {
     "source": "#celebplanes",
     "target": "#target",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#celebjettracking",
     "target": "#target",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#privatejet",
     "target": "#target",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#avgeek",
     "target": "#target",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#gulfstreamg280",
     "target": "#target",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#Rome",
@@ -1427,277 +1427,277 @@
   {
     "source": "#haiku",
     "target": "#travel",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#cruise",
     "target": "#haiku",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#haiku",
     "target": "#rivercruise",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#ABD",
     "target": "#haiku",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#Disney",
     "target": "#haiku",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#DCL",
     "target": "#haiku",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#follow",
     "target": "#haiku",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#Azamara",
     "target": "#haiku",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#AmaWaterways",
     "target": "#haiku",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#TravelAgent",
     "target": "#haiku",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#cruise",
     "target": "#travel",
-    "weight": 16
+    "weight": 19
   },
   {
     "source": "#rivercruise",
     "target": "#travel",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#ABD",
     "target": "#travel",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#Disney",
     "target": "#travel",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#DCL",
     "target": "#travel",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#follow",
     "target": "#travel",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#Azamara",
     "target": "#travel",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#AmaWaterways",
     "target": "#travel",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#TravelAgent",
     "target": "#travel",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#cruise",
     "target": "#rivercruise",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#ABD",
     "target": "#cruise",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#Disney",
     "target": "#cruise",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#DCL",
     "target": "#cruise",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#cruise",
     "target": "#follow",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#Azamara",
     "target": "#cruise",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#AmaWaterways",
     "target": "#cruise",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#TravelAgent",
     "target": "#cruise",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#ABD",
     "target": "#rivercruise",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#Disney",
     "target": "#rivercruise",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#DCL",
     "target": "#rivercruise",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#follow",
     "target": "#rivercruise",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#Azamara",
     "target": "#rivercruise",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#AmaWaterways",
     "target": "#rivercruise",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#TravelAgent",
     "target": "#rivercruise",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#ABD",
     "target": "#Disney",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#ABD",
     "target": "#DCL",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#ABD",
     "target": "#follow",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#ABD",
     "target": "#Azamara",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#ABD",
     "target": "#AmaWaterways",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#ABD",
     "target": "#TravelAgent",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#DCL",
     "target": "#Disney",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#Disney",
     "target": "#follow",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#Azamara",
     "target": "#Disney",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#AmaWaterways",
     "target": "#Disney",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#Disney",
     "target": "#TravelAgent",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#DCL",
     "target": "#follow",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#Azamara",
     "target": "#DCL",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#AmaWaterways",
     "target": "#DCL",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#DCL",
     "target": "#TravelAgent",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#Azamara",
     "target": "#follow",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#AmaWaterways",
     "target": "#follow",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#TravelAgent",
     "target": "#follow",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#AmaWaterways",
     "target": "#Azamara",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#Azamara",
     "target": "#TravelAgent",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#AmaWaterways",
     "target": "#TravelAgent",
-    "weight": 11
+    "weight": 12
   },
   {
     "source": "#celebplanes",
@@ -1747,47 +1747,47 @@
   {
     "source": "#celebplanes",
     "target": "#marathonoil",
-    "weight": 10
+    "weight": 16
   },
   {
     "source": "#celebplanes",
     "target": "#gulfstreamv",
-    "weight": 17
+    "weight": 24
   },
   {
     "source": "#celebjettracking",
     "target": "#marathonoil",
-    "weight": 10
+    "weight": 16
   },
   {
     "source": "#celebjettracking",
     "target": "#gulfstreamv",
-    "weight": 17
+    "weight": 24
   },
   {
     "source": "#marathonoil",
     "target": "#privatejet",
-    "weight": 10
+    "weight": 16
   },
   {
     "source": "#gulfstreamv",
     "target": "#privatejet",
-    "weight": 17
+    "weight": 24
   },
   {
     "source": "#avgeek",
     "target": "#marathonoil",
-    "weight": 10
+    "weight": 16
   },
   {
     "source": "#avgeek",
     "target": "#gulfstreamv",
-    "weight": 17
+    "weight": 24
   },
   {
     "source": "#gulfstreamv",
     "target": "#marathonoil",
-    "weight": 10
+    "weight": 16
   },
   {
     "source": "#news",
@@ -1827,7 +1827,7 @@
   {
     "source": "#Amazon購入品",
     "target": "#お買い物",
-    "weight": 7
+    "weight": 8
   },
   {
     "source": "#robinson",
@@ -2042,32 +2042,32 @@
   {
     "source": "#cruise",
     "target": "#cruises",
-    "weight": 17
+    "weight": 19
   },
   {
     "source": "#cruise",
     "target": "#cruisenews",
-    "weight": 14
+    "weight": 16
   },
   {
     "source": "#cruise",
     "target": "#travelnews",
-    "weight": 14
+    "weight": 16
   },
   {
     "source": "#cruisenews",
     "target": "#cruises",
-    "weight": 14
+    "weight": 16
   },
   {
     "source": "#cruises",
     "target": "#travelnews",
-    "weight": 14
+    "weight": 16
   },
   {
     "source": "#cruisenews",
     "target": "#travelnews",
-    "weight": 14
+    "weight": 16
   },
   {
     "source": "#celebplanes",
@@ -2197,27 +2197,27 @@
   {
     "source": "#aflac",
     "target": "#celebplanes",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#aflac",
     "target": "#celebjettracking",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#aflac",
     "target": "#privatejet",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#aflac",
     "target": "#avgeek",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#aflac",
     "target": "#gulfstreamg280",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#CruiseLife",
@@ -2272,22 +2272,22 @@
   {
     "source": "#FANZA",
     "target": "#素人",
-    "weight": 26
+    "weight": 28
   },
   {
     "source": "#AV",
     "target": "#素人",
-    "weight": 26
+    "weight": 28
   },
   {
     "source": "#R18",
     "target": "#素人",
-    "weight": 26
+    "weight": 28
   },
   {
     "source": "#素人",
     "target": "#選手権",
-    "weight": 26
+    "weight": 28
   },
   {
     "source": "#Waymo",
@@ -2397,22 +2397,22 @@
   {
     "source": "#FANZA",
     "target": "#巨乳",
-    "weight": 32
+    "weight": 37
   },
   {
     "source": "#AV",
     "target": "#巨乳",
-    "weight": 28
+    "weight": 33
   },
   {
     "source": "#R18",
     "target": "#巨乳",
-    "weight": 20
+    "weight": 23
   },
   {
     "source": "#巨乳",
     "target": "#選手権",
-    "weight": 20
+    "weight": 23
   },
   {
     "source": "#cruiseship",
@@ -2427,47 +2427,47 @@
   {
     "source": "#altria",
     "target": "#celebplanes",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#celebplanes",
     "target": "#gulfstreamg600",
-    "weight": 8
+    "weight": 9
   },
   {
     "source": "#altria",
     "target": "#celebjettracking",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#celebjettracking",
     "target": "#gulfstreamg600",
-    "weight": 8
+    "weight": 9
   },
   {
     "source": "#altria",
     "target": "#privatejet",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#gulfstreamg600",
     "target": "#privatejet",
-    "weight": 8
+    "weight": 9
   },
   {
     "source": "#altria",
     "target": "#avgeek",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#avgeek",
     "target": "#gulfstreamg600",
-    "weight": 8
+    "weight": 9
   },
   {
     "source": "#altria",
     "target": "#gulfstreamg600",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#AlPacino",
@@ -2542,47 +2542,47 @@
   {
     "source": "#celebplanes",
     "target": "#dupont",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#celebplanes",
     "target": "#gulfstreamg550",
-    "weight": 14
+    "weight": 24
   },
   {
     "source": "#celebjettracking",
     "target": "#dupont",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#celebjettracking",
     "target": "#gulfstreamg550",
-    "weight": 14
+    "weight": 24
   },
   {
     "source": "#dupont",
     "target": "#privatejet",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#gulfstreamg550",
     "target": "#privatejet",
-    "weight": 14
+    "weight": 24
   },
   {
     "source": "#avgeek",
     "target": "#dupont",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#avgeek",
     "target": "#gulfstreamg550",
-    "weight": 14
+    "weight": 24
   },
   {
     "source": "#dupont",
     "target": "#gulfstreamg550",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#TouristTax",
@@ -2602,7 +2602,7 @@
   {
     "source": "#FANZA",
     "target": "#エロ動画",
-    "weight": 17
+    "weight": 21
   },
   {
     "source": "#エロ動画",
@@ -2632,12 +2632,12 @@
   {
     "source": "#お買い物",
     "target": "#アマゾン",
-    "weight": 7
+    "weight": 9
   },
   {
     "source": "#celebplanes",
     "target": "#corning",
-    "weight": 9
+    "weight": 11
   },
   {
     "source": "#celebplanes",
@@ -2647,7 +2647,7 @@
   {
     "source": "#celebjettracking",
     "target": "#corning",
-    "weight": 9
+    "weight": 11
   },
   {
     "source": "#celebjettracking",
@@ -2657,7 +2657,7 @@
   {
     "source": "#corning",
     "target": "#privatejet",
-    "weight": 9
+    "weight": 11
   },
   {
     "source": "#dassaultfalcon900",
@@ -2667,7 +2667,7 @@
   {
     "source": "#avgeek",
     "target": "#corning",
-    "weight": 9
+    "weight": 11
   },
   {
     "source": "#avgeek",
@@ -2682,47 +2682,47 @@
   {
     "source": "#celebplanes",
     "target": "#fortunebrands",
-    "weight": 2
+    "weight": 4
   },
   {
     "source": "#celebplanes",
     "target": "#embraerlegacy500",
-    "weight": 7
+    "weight": 10
   },
   {
     "source": "#celebjettracking",
     "target": "#fortunebrands",
-    "weight": 2
+    "weight": 4
   },
   {
     "source": "#celebjettracking",
     "target": "#embraerlegacy500",
-    "weight": 7
+    "weight": 10
   },
   {
     "source": "#fortunebrands",
     "target": "#privatejet",
-    "weight": 2
+    "weight": 4
   },
   {
     "source": "#embraerlegacy500",
     "target": "#privatejet",
-    "weight": 7
+    "weight": 10
   },
   {
     "source": "#avgeek",
     "target": "#fortunebrands",
-    "weight": 2
+    "weight": 4
   },
   {
     "source": "#avgeek",
     "target": "#embraerlegacy500",
-    "weight": 7
+    "weight": 10
   },
   {
     "source": "#embraerlegacy500",
     "target": "#fortunebrands",
-    "weight": 2
+    "weight": 4
   },
   {
     "source": "#Antarctica",
@@ -2887,7 +2887,7 @@
   {
     "source": "#Maine",
     "target": "#cruiseships",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#cruiseships",
@@ -2942,47 +2942,47 @@
   {
     "source": "#celebplanes",
     "target": "#generalelectric",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#celebplanes",
     "target": "#hondajetha420",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#celebjettracking",
     "target": "#generalelectric",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#celebjettracking",
     "target": "#hondajetha420",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#generalelectric",
     "target": "#privatejet",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#hondajetha420",
     "target": "#privatejet",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#avgeek",
     "target": "#generalelectric",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#avgeek",
     "target": "#hondajetha420",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#generalelectric",
     "target": "#hondajetha420",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#ThisIsFine",
@@ -2992,47 +2992,47 @@
   {
     "source": "#celebplanes",
     "target": "#johnsonandjohnson",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#celebplanes",
     "target": "#gulfstreamg650er",
-    "weight": 28
+    "weight": 36
   },
   {
     "source": "#celebjettracking",
     "target": "#johnsonandjohnson",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#celebjettracking",
     "target": "#gulfstreamg650er",
-    "weight": 28
+    "weight": 36
   },
   {
     "source": "#johnsonandjohnson",
     "target": "#privatejet",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#gulfstreamg650er",
     "target": "#privatejet",
-    "weight": 28
+    "weight": 36
   },
   {
     "source": "#avgeek",
     "target": "#johnsonandjohnson",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#avgeek",
     "target": "#gulfstreamg650er",
-    "weight": 28
+    "weight": 36
   },
   {
     "source": "#gulfstreamg650er",
     "target": "#johnsonandjohnson",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#celebplanes",
@@ -3062,67 +3062,67 @@
   {
     "source": "#Amazon",
     "target": "#Amazonセール",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#StructureFire",
     "target": "#VIC",
-    "weight": 14
+    "weight": 21
   },
   {
     "source": "#EMVAlert",
     "target": "#StructureFire",
-    "weight": 14
+    "weight": 21
   },
   {
     "source": "#StructureFire",
     "target": "#incident",
-    "weight": 14
+    "weight": 21
   },
   {
     "source": "#Fire",
     "target": "#StructureFire",
-    "weight": 14
+    "weight": 21
   },
   {
     "source": "#celebplanes",
     "target": "#netflix",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#celebjettracking",
     "target": "#netflix",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#netflix",
     "target": "#privatejet",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#avgeek",
     "target": "#netflix",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#gulfstreamg550",
     "target": "#netflix",
-    "weight": 1
-  },
-  {
-    "source": "#Amazonセール",
-    "target": "#お買い物",
-    "weight": 6
-  },
-  {
-    "source": "#Amazon購入品",
-    "target": "#アマゾン",
     "weight": 3
   },
   {
     "source": "#Amazonセール",
-    "target": "#おすすめ商品",
+    "target": "#お買い物",
+    "weight": 7
+  },
+  {
+    "source": "#Amazon購入品",
+    "target": "#アマゾン",
     "weight": 6
+  },
+  {
+    "source": "#Amazonセール",
+    "target": "#おすすめ商品",
+    "weight": 7
   },
   {
     "source": "#celebplanes",
@@ -3152,17 +3152,17 @@
   {
     "source": "#Other",
     "target": "#VIC",
-    "weight": 20
+    "weight": 23
   },
   {
     "source": "#EMVAlert",
     "target": "#Other",
-    "weight": 20
+    "weight": 23
   },
   {
     "source": "#Other",
     "target": "#incident",
-    "weight": 20
+    "weight": 23
   },
   {
     "source": "#AV",
@@ -3182,7 +3182,7 @@
   {
     "source": "#AV",
     "target": "#爆乳",
-    "weight": 7
+    "weight": 9
   },
   {
     "source": "#AV",
@@ -3272,7 +3272,7 @@
   {
     "source": "#nude",
     "target": "#xxx",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#goon",
@@ -3367,52 +3367,52 @@
   {
     "source": "#celebplanes",
     "target": "#chevron",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#boeing737bbj",
     "target": "#celebplanes",
-    "weight": 8
+    "weight": 10
   },
   {
     "source": "#celebjettracking",
     "target": "#chevron",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#boeing737bbj",
     "target": "#celebjettracking",
-    "weight": 8
+    "weight": 10
   },
   {
     "source": "#chevron",
     "target": "#privatejet",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#boeing737bbj",
     "target": "#privatejet",
-    "weight": 8
+    "weight": 10
   },
   {
     "source": "#avgeek",
     "target": "#chevron",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#avgeek",
     "target": "#boeing737bbj",
-    "weight": 8
+    "weight": 10
   },
   {
     "source": "#boeing737bbj",
     "target": "#chevron",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#Amazon",
     "target": "#お買い物",
-    "weight": 7
+    "weight": 8
   },
   {
     "source": "#FALENO",
@@ -3442,12 +3442,12 @@
   {
     "source": "#写真集",
     "target": "#巨乳",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#乱交",
     "target": "#写真集",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#お姉さん",
@@ -3462,7 +3462,7 @@
   {
     "source": "#乱交",
     "target": "#巨乳",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AsianPorn",
@@ -3477,7 +3477,7 @@
   {
     "source": "#AsianPorn",
     "target": "#JAV",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#AsianPorn",
@@ -3747,7 +3747,7 @@
   {
     "source": "#AV女優",
     "target": "#中出し",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#asianhottie",
@@ -3772,12 +3772,12 @@
   {
     "source": "#JAVQueen",
     "target": "#レイプ",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#AV女優",
     "target": "#レイプ",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#asianhottie",
@@ -3797,12 +3797,12 @@
   {
     "source": "#レイプ",
     "target": "#制服プレイ",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AV女優",
     "target": "#JAVQueen",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVQueen",
@@ -3822,7 +3822,7 @@
   {
     "source": "#JAVQueen",
     "target": "#制服プレイ",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AV女優",
@@ -3842,7 +3842,7 @@
   {
     "source": "#AV女優",
     "target": "#制服プレイ",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#KawaiiGirl",
@@ -3877,12 +3877,12 @@
   {
     "source": "#JAVQueen",
     "target": "#パンチラ",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#パンチラ",
     "target": "#素人",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#パンチラ",
@@ -3907,7 +3907,7 @@
   {
     "source": "#JapaneseGirl",
     "target": "#パンチラ",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#パンチラ",
@@ -3917,7 +3917,7 @@
   {
     "source": "#JAVQueen",
     "target": "#素人",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVQueen",
@@ -3937,7 +3937,7 @@
   {
     "source": "#JAVQueen",
     "target": "#JapaneseGirl",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#楓カレン",
@@ -3947,7 +3947,7 @@
   {
     "source": "#人妻",
     "target": "#素人",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#KawaiiGirl",
@@ -3962,7 +3962,7 @@
   {
     "source": "#JapaneseGirl",
     "target": "#素人",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#中出し",
@@ -4012,7 +4012,7 @@
   {
     "source": "#中出し",
     "target": "#人妻",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVCosplay",
@@ -4087,7 +4087,7 @@
   {
     "source": "#4K",
     "target": "#ハイビジョン",
-    "weight": 4
+    "weight": 6
   },
   {
     "source": "#ハイビジョン",
@@ -4167,7 +4167,7 @@
   {
     "source": "#Amazon",
     "target": "#おすすめ商品",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#driverless",
@@ -4247,7 +4247,7 @@
   {
     "source": "#Amazonセール",
     "target": "#Amazon購入品",
-    "weight": 8
+    "weight": 9
   },
   {
     "source": "#Cruises",
@@ -4487,7 +4487,7 @@
   {
     "source": "#Amazon",
     "target": "#Amazon購入品",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#GuessIt",
@@ -4892,7 +4892,7 @@
   {
     "source": "#Hantavirus",
     "target": "#PublicHealth",
-    "weight": 6
+    "weight": 8
   },
   {
     "source": "#notoDigitalID",
@@ -5217,7 +5217,7 @@
   {
     "source": "#動画検索",
     "target": "#安心安全",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#FANZA",
@@ -5287,332 +5287,332 @@
   {
     "source": "#同人AV",
     "target": "#素人AV",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#個撮",
     "target": "#同人AV",
-    "weight": 4
+    "weight": 6
   },
   {
     "source": "#個人撮影",
     "target": "#同人AV",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#P活",
     "target": "#同人AV",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#ハメ撮り",
     "target": "#同人AV",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#同人AV",
     "target": "#裏アカ女子とつながりたい",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#同人AV",
     "target": "#妊婦",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#おとこの娘",
     "target": "#同人AV",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#同人AV",
     "target": "#川口",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#同人AV",
     "target": "#越谷",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#同人AV",
     "target": "#大宮",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#個撮",
     "target": "#素人AV",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#個人撮影",
     "target": "#素人AV",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#P活",
     "target": "#素人AV",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#ハメ撮り",
     "target": "#素人AV",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#素人AV",
     "target": "#裏アカ女子とつながりたい",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#妊婦",
     "target": "#素人AV",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#おとこの娘",
     "target": "#素人AV",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#川口",
     "target": "#素人AV",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#素人AV",
     "target": "#越谷",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#大宮",
     "target": "#素人AV",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#個人撮影",
     "target": "#個撮",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#P活",
     "target": "#個撮",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#ハメ撮り",
+    "target": "#個撮",
+    "weight": 6
+  },
+  {
+    "source": "#個撮",
+    "target": "#裏アカ女子とつながりたい",
+    "weight": 5
+  },
+  {
+    "source": "#個撮",
+    "target": "#妊婦",
+    "weight": 5
+  },
+  {
+    "source": "#おとこの娘",
     "target": "#個撮",
     "weight": 5
   },
   {
     "source": "#個撮",
-    "target": "#裏アカ女子とつながりたい",
-    "weight": 4
-  },
-  {
-    "source": "#個撮",
-    "target": "#妊婦",
-    "weight": 4
-  },
-  {
-    "source": "#おとこの娘",
-    "target": "#個撮",
-    "weight": 4
-  },
-  {
-    "source": "#個撮",
     "target": "#川口",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#個撮",
     "target": "#越谷",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#個撮",
     "target": "#大宮",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#P活",
     "target": "#個人撮影",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#ハメ撮り",
     "target": "#個人撮影",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#個人撮影",
     "target": "#裏アカ女子とつながりたい",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#個人撮影",
     "target": "#妊婦",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#おとこの娘",
     "target": "#個人撮影",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#個人撮影",
     "target": "#川口",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#個人撮影",
     "target": "#越谷",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#個人撮影",
     "target": "#大宮",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#P活",
     "target": "#ハメ撮り",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#P活",
     "target": "#裏アカ女子とつながりたい",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#P活",
     "target": "#妊婦",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#P活",
     "target": "#おとこの娘",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#P活",
     "target": "#川口",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#P活",
     "target": "#越谷",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#P活",
     "target": "#大宮",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#ハメ撮り",
     "target": "#裏アカ女子とつながりたい",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#ハメ撮り",
     "target": "#妊婦",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#おとこの娘",
     "target": "#ハメ撮り",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#ハメ撮り",
     "target": "#川口",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#ハメ撮り",
     "target": "#越谷",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#ハメ撮り",
     "target": "#大宮",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#妊婦",
     "target": "#裏アカ女子とつながりたい",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#おとこの娘",
     "target": "#裏アカ女子とつながりたい",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#川口",
     "target": "#裏アカ女子とつながりたい",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#裏アカ女子とつながりたい",
     "target": "#越谷",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#大宮",
     "target": "#裏アカ女子とつながりたい",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#おとこの娘",
     "target": "#妊婦",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#妊婦",
     "target": "#川口",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#妊婦",
     "target": "#越谷",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#大宮",
     "target": "#妊婦",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#おとこの娘",
     "target": "#川口",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#おとこの娘",
     "target": "#越谷",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#おとこの娘",
     "target": "#大宮",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#川口",
     "target": "#越谷",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#大宮",
     "target": "#川口",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#大宮",
     "target": "#越谷",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#ApuntesyViajesChile",
@@ -6002,12 +6002,12 @@
   {
     "source": "#FANZA",
     "target": "#フェラ",
-    "weight": 2
+    "weight": 4
   },
   {
     "source": "#フェラ",
     "target": "#新作AV",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#キス",
@@ -6032,7 +6032,7 @@
   {
     "source": "#FANZA",
     "target": "#新作AV",
-    "weight": 5
+    "weight": 8
   },
   {
     "source": "#Hantavirus",
@@ -6117,7 +6117,7 @@
   {
     "source": "#AsianPorn",
     "target": "#グラドル",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AsianBeauty",
@@ -6182,12 +6182,12 @@
   {
     "source": "#javidol",
     "target": "#楓カレン",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVLove",
     "target": "#javidol",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#グラドル",
@@ -6237,7 +6237,7 @@
   {
     "source": "#JAVLove",
     "target": "#楓カレン",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#イングラム",
@@ -6277,7 +6277,7 @@
   {
     "source": "#CruiseShip",
     "target": "#Hantavirus",
-    "weight": 10
+    "weight": 11
   },
   {
     "source": "#CruiseShip",
@@ -6517,7 +6517,7 @@
   {
     "source": "#Fire",
     "target": "#Other",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#LetterboxdFriday",
@@ -6537,47 +6537,47 @@
   {
     "source": "#celebplanes",
     "target": "#dominionenergy",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#celebplanes",
     "target": "#gulfstreamg450",
-    "weight": 7
+    "weight": 8
   },
   {
     "source": "#celebjettracking",
     "target": "#dominionenergy",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#celebjettracking",
     "target": "#gulfstreamg450",
-    "weight": 7
+    "weight": 8
   },
   {
     "source": "#dominionenergy",
     "target": "#privatejet",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#gulfstreamg450",
     "target": "#privatejet",
-    "weight": 7
+    "weight": 8
   },
   {
     "source": "#avgeek",
     "target": "#dominionenergy",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#avgeek",
     "target": "#gulfstreamg450",
-    "weight": 7
+    "weight": 8
   },
   {
     "source": "#dominionenergy",
     "target": "#gulfstreamg450",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#Amazon",
@@ -6632,7 +6632,7 @@
   {
     "source": "#Amazon購入品",
     "target": "#おすすめ商品",
-    "weight": 8
+    "weight": 10
   },
   {
     "source": "#JapaneseAV",
@@ -6672,12 +6672,12 @@
   {
     "source": "#JapaneseAV",
     "target": "#パンチラ",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JapaneseAV",
     "target": "#kawaii",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JapaneseAV",
@@ -6712,7 +6712,7 @@
   {
     "source": "#kawaii",
     "target": "#パンチラ",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#jpn",
@@ -6767,12 +6767,12 @@
   {
     "source": "#JAV",
     "target": "#レイプ",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAV",
     "target": "#JAVQueen",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAV",
@@ -6827,7 +6827,7 @@
   {
     "source": "#AsianPorn",
     "target": "#レイプ",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVQueen",
@@ -6852,7 +6852,7 @@
   {
     "source": "#AsianPorn",
     "target": "#JAVQueen",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVFans",
@@ -7832,7 +7832,7 @@
   {
     "source": "#AV",
     "target": "#動画",
-    "weight": 10
+    "weight": 12
   },
   {
     "source": "#AV",
@@ -7877,7 +7877,7 @@
   {
     "source": "#AV",
     "target": "#ニューハーフ",
-    "weight": 11
+    "weight": 13
   },
   {
     "source": "#Food",
@@ -7922,7 +7922,7 @@
   {
     "source": "#celebplanes",
     "target": "#gulfstreamg700",
-    "weight": 13
+    "weight": 14
   },
   {
     "source": "#celebjettracking",
@@ -7932,7 +7932,7 @@
   {
     "source": "#celebjettracking",
     "target": "#gulfstreamg700",
-    "weight": 13
+    "weight": 14
   },
   {
     "source": "#markzuckerberg",
@@ -7942,7 +7942,7 @@
   {
     "source": "#gulfstreamg700",
     "target": "#privatejet",
-    "weight": 13
+    "weight": 14
   },
   {
     "source": "#avgeek",
@@ -7952,7 +7952,7 @@
   {
     "source": "#avgeek",
     "target": "#gulfstreamg700",
-    "weight": 13
+    "weight": 14
   },
   {
     "source": "#gulfstreamg700",
@@ -8122,7 +8122,7 @@
   {
     "source": "#porn",
     "target": "#sex",
-    "weight": 16
+    "weight": 25
   },
   {
     "source": "#관전",
@@ -10112,7 +10112,7 @@
   {
     "source": "#AV女優",
     "target": "#VR動画",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#VR動画",
@@ -10382,7 +10382,7 @@
   {
     "source": "#FANZA",
     "target": "#中出し",
-    "weight": 10
+    "weight": 13
   },
   {
     "source": "#FANZA",
@@ -10397,27 +10397,27 @@
   {
     "source": "#celebplanes",
     "target": "#goldmansachs",
-    "weight": 2
+    "weight": 4
   },
   {
     "source": "#celebjettracking",
     "target": "#goldmansachs",
-    "weight": 2
+    "weight": 4
   },
   {
     "source": "#goldmansachs",
     "target": "#privatejet",
-    "weight": 2
+    "weight": 4
   },
   {
     "source": "#avgeek",
     "target": "#goldmansachs",
-    "weight": 2
+    "weight": 4
   },
   {
     "source": "#goldmansachs",
     "target": "#gulfstreamg650er",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#gay",
@@ -10667,7 +10667,7 @@
   {
     "source": "#Robotaxi",
     "target": "#Waymo",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Speilet",
@@ -10752,27 +10752,27 @@
   {
     "source": "#celebplanes",
     "target": "#mgmresorts",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#celebjettracking",
     "target": "#mgmresorts",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#mgmresorts",
     "target": "#privatejet",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#avgeek",
     "target": "#mgmresorts",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#embraerlegacy500",
     "target": "#mgmresorts",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#NorwegianAqua",
@@ -11547,47 +11547,47 @@
   {
     "source": "#AV",
     "target": "#NTR",
-    "weight": 10
+    "weight": 15
   },
   {
     "source": "#NTR",
     "target": "#寝取られ",
-    "weight": 10
+    "weight": 15
   },
   {
     "source": "#NTR",
     "target": "#R18",
-    "weight": 10
+    "weight": 15
   },
   {
     "source": "#NTR",
     "target": "#エロ",
-    "weight": 10
+    "weight": 15
   },
   {
     "source": "#AV",
     "target": "#寝取られ",
-    "weight": 10
+    "weight": 15
   },
   {
     "source": "#AV",
     "target": "#エロ",
-    "weight": 12
+    "weight": 17
   },
   {
     "source": "#R18",
     "target": "#寝取られ",
-    "weight": 10
+    "weight": 15
   },
   {
     "source": "#エロ",
     "target": "#寝取られ",
-    "weight": 10
+    "weight": 15
   },
   {
     "source": "#R18",
     "target": "#エロ",
-    "weight": 10
+    "weight": 15
   },
   {
     "source": "#motostorie",
@@ -11652,7 +11652,7 @@
   {
     "source": "#JAVBabe",
     "target": "#楓カレン",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#小野六花",
@@ -11687,7 +11687,7 @@
   {
     "source": "#Dior",
     "target": "#LosAngeles",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Dior",
@@ -11982,7 +11982,7 @@
   {
     "source": "#FSD",
     "target": "#Tesla",
-    "weight": 2
+    "weight": 4
   },
   {
     "source": "#Robotaxi",
@@ -12182,27 +12182,27 @@
   {
     "source": "#celebplanes",
     "target": "#stevewynn",
-    "weight": 8
+    "weight": 9
   },
   {
     "source": "#celebjettracking",
     "target": "#stevewynn",
-    "weight": 8
+    "weight": 9
   },
   {
     "source": "#privatejet",
     "target": "#stevewynn",
-    "weight": 8
+    "weight": 9
   },
   {
     "source": "#avgeek",
     "target": "#stevewynn",
-    "weight": 8
+    "weight": 9
   },
   {
     "source": "#gulfstreamg700",
     "target": "#stevewynn",
-    "weight": 8
+    "weight": 9
   },
   {
     "source": "#celebplanes",
@@ -12262,7 +12262,7 @@
   {
     "source": "#16mmfilms",
     "target": "#avgeeks",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#celebplanes",
@@ -12412,7 +12412,7 @@
   {
     "source": "#celebplanes",
     "target": "#cessnacitationlatitude",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#celebjettracking",
@@ -12422,7 +12422,7 @@
   {
     "source": "#celebjettracking",
     "target": "#cessnacitationlatitude",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#privatejet",
@@ -12432,7 +12432,7 @@
   {
     "source": "#cessnacitationlatitude",
     "target": "#privatejet",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#avgeek",
@@ -12442,7 +12442,7 @@
   {
     "source": "#avgeek",
     "target": "#cessnacitationlatitude",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#cessnacitationlatitude",
@@ -12517,57 +12517,57 @@
   {
     "source": "#DLR",
     "target": "#Disneyland",
-    "weight": 31
+    "weight": 40
   },
   {
     "source": "#California",
     "target": "#Disneyland",
-    "weight": 31
+    "weight": 40
   },
   {
     "source": "#DisneyParks",
     "target": "#Disneyland",
-    "weight": 31
+    "weight": 40
   },
   {
     "source": "#Disneyland",
     "target": "#MagicIsHere",
-    "weight": 31
+    "weight": 40
   },
   {
     "source": "#California",
     "target": "#DLR",
-    "weight": 31
+    "weight": 40
   },
   {
     "source": "#DLR",
     "target": "#DisneyParks",
-    "weight": 31
+    "weight": 40
   },
   {
     "source": "#DLR",
     "target": "#MagicIsHere",
-    "weight": 31
+    "weight": 40
   },
   {
     "source": "#California",
     "target": "#DisneyParks",
-    "weight": 31
+    "weight": 40
   },
   {
     "source": "#California",
     "target": "#MagicIsHere",
-    "weight": 31
+    "weight": 40
   },
   {
     "source": "#DisneyParks",
     "target": "#MagicIsHere",
-    "weight": 31
+    "weight": 40
   },
   {
     "source": "#Hantavirus",
     "target": "#WHO",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#tipsadfilm",
@@ -12662,7 +12662,7 @@
   {
     "source": "#bombardierchallenger300",
     "target": "#celebplanes",
-    "weight": 7
+    "weight": 9
   },
   {
     "source": "#celebjettracking",
@@ -12672,7 +12672,7 @@
   {
     "source": "#bombardierchallenger300",
     "target": "#celebjettracking",
-    "weight": 7
+    "weight": 9
   },
   {
     "source": "#privatejet",
@@ -12682,7 +12682,7 @@
   {
     "source": "#bombardierchallenger300",
     "target": "#privatejet",
-    "weight": 7
+    "weight": 9
   },
   {
     "source": "#avgeek",
@@ -12692,7 +12692,7 @@
   {
     "source": "#avgeek",
     "target": "#bombardierchallenger300",
-    "weight": 7
+    "weight": 9
   },
   {
     "source": "#bombardierchallenger300",
@@ -12782,27 +12782,27 @@
   {
     "source": "#celebplanes",
     "target": "#pncfinancial",
-    "weight": 3
+    "weight": 5
   },
   {
     "source": "#celebjettracking",
     "target": "#pncfinancial",
-    "weight": 3
+    "weight": 5
   },
   {
     "source": "#pncfinancial",
     "target": "#privatejet",
-    "weight": 3
+    "weight": 5
   },
   {
     "source": "#avgeek",
     "target": "#pncfinancial",
-    "weight": 3
+    "weight": 5
   },
   {
     "source": "#bombardierchallenger300",
     "target": "#pncfinancial",
-    "weight": 3
+    "weight": 5
   },
   {
     "source": "#JetTrack",
@@ -12812,17 +12812,17 @@
   {
     "source": "#LawTails",
     "target": "#Shorts",
-    "weight": 3
+    "weight": 5
   },
   {
     "source": "#LawTails",
     "target": "#Waymo",
-    "weight": 3
+    "weight": 5
   },
   {
     "source": "#LawTails",
     "target": "#SelfDrivingCars",
-    "weight": 2
+    "weight": 4
   },
   {
     "source": "#AutonomousVehicles",
@@ -12837,12 +12837,12 @@
   {
     "source": "#Shorts",
     "target": "#Waymo",
-    "weight": 3
+    "weight": 5
   },
   {
     "source": "#SelfDrivingCars",
     "target": "#Shorts",
-    "weight": 2
+    "weight": 4
   },
   {
     "source": "#AutonomousVehicles",
@@ -12857,7 +12857,7 @@
   {
     "source": "#SelfDrivingCars",
     "target": "#Waymo",
-    "weight": 3
+    "weight": 5
   },
   {
     "source": "#AutonomousVehicles",
@@ -12942,7 +12942,7 @@
   {
     "source": "#エロ動画",
     "target": "#巨乳",
-    "weight": 9
+    "weight": 11
   },
   {
     "source": "#エロ動画",
@@ -13012,7 +13012,7 @@
   {
     "source": "#AV女優",
     "target": "#パンチラ",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#AV女優",
@@ -13022,7 +13022,7 @@
   {
     "source": "#AV女優",
     "target": "#kawaii",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#コスプレ",
@@ -13102,7 +13102,7 @@
   {
     "source": "#パンチラ",
     "target": "#制服プレイ",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#JapaneseIdol",
@@ -13112,7 +13112,7 @@
   {
     "source": "#kawaii",
     "target": "#制服プレイ",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVBabe",
@@ -13132,7 +13132,7 @@
   {
     "source": "#JAVBabe",
     "target": "#JapaneseIdol",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#JAVBabe",
@@ -13487,27 +13487,27 @@
   {
     "source": "#celebplanes",
     "target": "#elonmusk",
-    "weight": 8
+    "weight": 11
   },
   {
     "source": "#celebjettracking",
     "target": "#elonmusk",
-    "weight": 8
+    "weight": 11
   },
   {
     "source": "#elonmusk",
     "target": "#privatejet",
-    "weight": 8
+    "weight": 11
   },
   {
     "source": "#avgeek",
     "target": "#elonmusk",
-    "weight": 8
+    "weight": 11
   },
   {
     "source": "#elonmusk",
     "target": "#gulfstreamg550",
-    "weight": 5
+    "weight": 8
   },
   {
     "source": "#UncensoredJAV",
@@ -13607,7 +13607,7 @@
   {
     "source": "#JAVBabe",
     "target": "#javidol",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#JAVVideo",
@@ -13787,47 +13787,47 @@
   {
     "source": "#bostonscientific",
     "target": "#celebplanes",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#bombardierchallenger650",
     "target": "#celebplanes",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#bostonscientific",
     "target": "#celebjettracking",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#bombardierchallenger650",
     "target": "#celebjettracking",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#bostonscientific",
     "target": "#privatejet",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#bombardierchallenger650",
     "target": "#privatejet",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#avgeek",
     "target": "#bostonscientific",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#avgeek",
     "target": "#bombardierchallenger650",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#bombardierchallenger650",
     "target": "#bostonscientific",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#americansEvacuated",
@@ -14347,7 +14347,7 @@
   {
     "source": "#DEEP",
     "target": "#写真集",
-    "weight": 3
+    "weight": 6
   },
   {
     "source": "#DEEP",
@@ -14362,7 +14362,7 @@
   {
     "source": "#DEEP",
     "target": "#素人",
-    "weight": 2
+    "weight": 4
   },
   {
     "source": "#写真集",
@@ -14377,7 +14377,7 @@
   {
     "source": "#写真集",
     "target": "#素人",
-    "weight": 2
+    "weight": 4
   },
   {
     "source": "#女子大生",
@@ -14597,7 +14597,7 @@
   {
     "source": "#JAVFans",
     "target": "#楓カレン",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVVideo",
@@ -14712,7 +14712,7 @@
   {
     "source": "#BookReview",
     "target": "#cruise",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#4Hearts",
@@ -14757,12 +14757,12 @@
   {
     "source": "#JapaneseAV",
     "target": "#japanesemodel",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JapaneseAV",
     "target": "#レイプ",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#KawaiiGirl",
@@ -14777,7 +14777,7 @@
   {
     "source": "#japanesemodel",
     "target": "#レイプ",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Abbotsford",
@@ -14997,47 +14997,47 @@
   {
     "source": "#celebplanes",
     "target": "#spacex",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#boeing737800",
     "target": "#celebplanes",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#celebjettracking",
     "target": "#spacex",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#boeing737800",
     "target": "#celebjettracking",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#privatejet",
     "target": "#spacex",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#boeing737800",
     "target": "#privatejet",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#avgeek",
     "target": "#spacex",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#avgeek",
     "target": "#boeing737800",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#boeing737800",
     "target": "#spacex",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#disease",
@@ -15067,7 +15067,7 @@
   {
     "source": "#AV",
     "target": "#中出し",
-    "weight": 19
+    "weight": 22
   },
   {
     "source": "#R18",
@@ -15112,42 +15112,42 @@
   {
     "source": "#celebplanes",
     "target": "#jpmorganchase",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#celebjettracking",
     "target": "#jpmorganchase",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#jpmorganchase",
     "target": "#privatejet",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#avgeek",
     "target": "#jpmorganchase",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#gulfstreamg650er",
     "target": "#jpmorganchase",
-    "weight": 5
+    "weight": 6
   },
   {
     "source": "#Politics",
     "target": "#USNews",
-    "weight": 2
+    "weight": 4
   },
   {
     "source": "#NationalNews",
     "target": "#USNews",
-    "weight": 2
+    "weight": 4
   },
   {
     "source": "#NationalNews",
     "target": "#Politics",
-    "weight": 2
+    "weight": 4
   },
   {
     "source": "#AutonomousVehicles",
@@ -15177,22 +15177,22 @@
   {
     "source": "#NonStructureFire",
     "target": "#VIC",
-    "weight": 8
+    "weight": 9
   },
   {
     "source": "#EMVAlert",
     "target": "#NonStructureFire",
-    "weight": 8
+    "weight": 9
   },
   {
     "source": "#NonStructureFire",
     "target": "#incident",
-    "weight": 8
+    "weight": 9
   },
   {
     "source": "#Fire",
     "target": "#NonStructureFire",
-    "weight": 8
+    "weight": 9
   },
   {
     "source": "#RFKJr",
@@ -15307,7 +15307,7 @@
   {
     "source": "#おすすめ商品",
     "target": "#お買い物",
-    "weight": 4
+    "weight": 6
   },
   {
     "source": "#andesStrain",
@@ -15682,7 +15682,7 @@
   {
     "source": "#FANZA",
     "target": "#爆乳",
-    "weight": 7
+    "weight": 9
   },
   {
     "source": "#FANZA",
@@ -16052,7 +16052,7 @@
   {
     "source": "#Russia",
     "target": "#Ukraine",
-    "weight": 6
+    "weight": 7
   },
   {
     "source": "#NewsGroup",
@@ -16347,27 +16347,27 @@
   {
     "source": "#celebplanes",
     "target": "#nike",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#celebjettracking",
     "target": "#nike",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#nike",
     "target": "#privatejet",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#avgeek",
     "target": "#nike",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#gulfstreamg650",
     "target": "#nike",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#Brains",
@@ -16442,7 +16442,7 @@
   {
     "source": "#Tesla",
     "target": "#robotaxi",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#autonomousdriving",
@@ -16982,7 +16982,7 @@
   {
     "source": "#cruise",
     "target": "#royalcaribbean",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#cruises",
@@ -17077,47 +17077,47 @@
   {
     "source": "#bradgarlinghouse",
     "target": "#celebplanes",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#bombardierglobal6000",
     "target": "#celebplanes",
-    "weight": 9
+    "weight": 12
   },
   {
     "source": "#bradgarlinghouse",
     "target": "#celebjettracking",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#bombardierglobal6000",
     "target": "#celebjettracking",
-    "weight": 9
+    "weight": 12
   },
   {
     "source": "#bradgarlinghouse",
     "target": "#privatejet",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#bombardierglobal6000",
     "target": "#privatejet",
-    "weight": 9
+    "weight": 12
   },
   {
     "source": "#avgeek",
     "target": "#bradgarlinghouse",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#avgeek",
     "target": "#bombardierglobal6000",
-    "weight": 9
+    "weight": 12
   },
   {
     "source": "#bombardierglobal6000",
     "target": "#bradgarlinghouse",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#Sea_Tours",
@@ -17777,7 +17777,7 @@
   {
     "source": "#Health",
     "target": "#News",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#Medicine",
@@ -18487,7 +18487,7 @@
   {
     "source": "#Bigtits",
     "target": "#NSFW",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Blackmail",
@@ -18507,7 +18507,7 @@
   {
     "source": "#NSFW",
     "target": "#Oralsex",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#NSFW",
@@ -18517,7 +18517,7 @@
   {
     "source": "#NSFW",
     "target": "#Vaginalsex",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Analsex",
@@ -18732,7 +18732,7 @@
   {
     "source": "#Bigtits",
     "target": "#Oralsex",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Bigtits",
@@ -18742,7 +18742,7 @@
   {
     "source": "#Bigtits",
     "target": "#Vaginalsex",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Analsex",
@@ -18972,7 +18972,7 @@
   {
     "source": "#Oralsex",
     "target": "#Vaginalsex",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Analsex",
@@ -19662,7 +19662,7 @@
   {
     "source": "#中出し",
     "target": "#巨乳",
-    "weight": 6
+    "weight": 8
   },
   {
     "source": "#個撮",
@@ -20172,7 +20172,7 @@
   {
     "source": "#sissy",
     "target": "#ニューハーフ",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#chastity",
@@ -22772,7 +22772,7 @@
   {
     "source": "#コスプレ",
     "target": "#個撮",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#コスプレ",
@@ -24117,27 +24117,27 @@
   {
     "source": "#celebplanes",
     "target": "#truistfinancial",
-    "weight": 3
+    "weight": 5
   },
   {
     "source": "#celebjettracking",
     "target": "#truistfinancial",
-    "weight": 3
+    "weight": 5
   },
   {
     "source": "#privatejet",
     "target": "#truistfinancial",
-    "weight": 3
+    "weight": 5
   },
   {
     "source": "#avgeek",
     "target": "#truistfinancial",
-    "weight": 3
+    "weight": 5
   },
   {
     "source": "#cessnacitationlatitude",
     "target": "#truistfinancial",
-    "weight": 3
+    "weight": 5
   },
   {
     "source": "#Democrats",
@@ -24212,12 +24212,12 @@
   {
     "source": "#FANZA",
     "target": "#単体作品",
-    "weight": 12
+    "weight": 14
   },
   {
     "source": "#単体作品",
     "target": "#新作AV",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#女子大生",
@@ -24337,7 +24337,7 @@
   {
     "source": "#Iran",
     "target": "#US",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Iran",
@@ -25017,7 +25017,7 @@
   {
     "source": "#Japaneselonghair",
     "target": "#japanesemodel",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JapaneseIdol",
@@ -25282,27 +25282,27 @@
   {
     "source": "#celebplanes",
     "target": "#marcbenioff",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#celebjettracking",
     "target": "#marcbenioff",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#marcbenioff",
     "target": "#privatejet",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#avgeek",
     "target": "#marcbenioff",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#gulfstreamg650",
     "target": "#marcbenioff",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#celebplanes",
@@ -25417,12 +25417,12 @@
   {
     "source": "#AV女優",
     "target": "#JapaneseGirl",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#JapaneseGirl",
     "target": "#制服プレイ",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVActress",
@@ -25452,7 +25452,7 @@
   {
     "source": "#JapaneseGirl",
     "target": "#風俗",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JapaneseGirl",
@@ -25462,7 +25462,7 @@
   {
     "source": "#JAV",
     "target": "#JapaneseGirl",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVFans",
@@ -25482,12 +25482,12 @@
   {
     "source": "#AV女優",
     "target": "#素人",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#制服プレイ",
     "target": "#素人",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVActress",
@@ -25517,7 +25517,7 @@
   {
     "source": "#素人",
     "target": "#風俗",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#素人",
@@ -25527,7 +25527,7 @@
   {
     "source": "#JAV",
     "target": "#素人",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVFans",
@@ -25607,7 +25607,7 @@
   {
     "source": "#AV女優",
     "target": "#風俗",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AV女優",
@@ -25617,7 +25617,7 @@
   {
     "source": "#AV女優",
     "target": "#JAV",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AV女優",
@@ -25652,7 +25652,7 @@
   {
     "source": "#制服プレイ",
     "target": "#風俗",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#制服プレイ",
@@ -25662,7 +25662,7 @@
   {
     "source": "#JAV",
     "target": "#制服プレイ",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVFans",
@@ -25932,12 +25932,12 @@
   {
     "source": "#JAV",
     "target": "#風俗",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVFans",
     "target": "#風俗",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVCosplay",
@@ -25952,7 +25952,7 @@
   {
     "source": "#セクシー",
     "target": "#風俗",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAV",
@@ -26002,7 +26002,7 @@
   {
     "source": "#JAVFans",
     "target": "#セクシー",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVCosplay",
@@ -26422,7 +26422,7 @@
   {
     "source": "#エロ動画",
     "target": "#人妻",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#エロ動画",
@@ -26502,7 +26502,7 @@
   {
     "source": "#Amazonセール",
     "target": "#アマゾン",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#NSFW",
@@ -26877,27 +26877,27 @@
   {
     "source": "#celebplanes",
     "target": "#citigroup",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#celebjettracking",
     "target": "#citigroup",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#citigroup",
     "target": "#privatejet",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#avgeek",
     "target": "#citigroup",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#bombardierglobal6000",
     "target": "#citigroup",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AppleMusic",
@@ -27087,7 +27087,7 @@
   {
     "source": "#japanesemodel",
     "target": "#セクシー女優",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#セクシー女優",
@@ -27112,7 +27112,7 @@
   {
     "source": "#セクシー女優",
     "target": "#風俗",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#japanesemodel",
@@ -27147,7 +27147,7 @@
   {
     "source": "#japanesemodel",
     "target": "#風俗",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVModel",
@@ -27172,7 +27172,7 @@
   {
     "source": "#JAVLove",
     "target": "#風俗",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVModel",
@@ -27412,7 +27412,7 @@
   {
     "source": "#fanza",
     "target": "#美少女",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#DEEP",
@@ -27592,7 +27592,7 @@
   {
     "source": "#FANZA",
     "target": "#セール",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#FANZA",
@@ -27807,7 +27807,7 @@
   {
     "source": "#AV女優",
     "target": "#FANZA",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#FANZA",
@@ -27822,7 +27822,7 @@
   {
     "source": "#AV女優",
     "target": "#巨乳",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#デビュー作",
@@ -27947,7 +27947,7 @@
   {
     "source": "#Hantavirus",
     "target": "#News",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Hantavirus",
@@ -28062,7 +28062,7 @@
   {
     "source": "#naked",
     "target": "#xxx",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#gay",
@@ -28072,7 +28072,7 @@
   {
     "source": "#bi",
     "target": "#naked",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#cruise",
@@ -28127,7 +28127,7 @@
   {
     "source": "#bi",
     "target": "#xxx",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#cruise",
@@ -28362,7 +28362,7 @@
   {
     "source": "#3brasaker",
     "target": "#trebrasaker",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Paradise",
@@ -29402,7 +29402,7 @@
   {
     "source": "#BarHarbor",
     "target": "#cruiseships",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Eastport",
@@ -29427,7 +29427,7 @@
   {
     "source": "#BarHarbor",
     "target": "#Maine",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Eastport",
@@ -29662,7 +29662,7 @@
   {
     "source": "#JAVBabe",
     "target": "#脚フェチ",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVBabe",
@@ -29977,27 +29977,27 @@
   {
     "source": "#celebplanes",
     "target": "#verizon",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#celebjettracking",
     "target": "#verizon",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#privatejet",
     "target": "#verizon",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#avgeek",
     "target": "#verizon",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#gulfstreamg550",
     "target": "#verizon",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#0172",
@@ -30017,7 +30017,7 @@
   {
     "source": "#a64ba82a003",
     "target": "#fe8b3ff1d33",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#FloridaNews",
@@ -30057,7 +30057,7 @@
   {
     "source": "#AV",
     "target": "#アダルト動画",
-    "weight": 16
+    "weight": 19
   },
   {
     "source": "#アダルト動画",
@@ -30067,7 +30067,7 @@
   {
     "source": "#FANZA",
     "target": "#アダルト動画",
-    "weight": 16
+    "weight": 19
   },
   {
     "source": "#TheNetherlands",
@@ -30397,27 +30397,27 @@
   {
     "source": "#bombardierchallenger850",
     "target": "#celebplanes",
-    "weight": 4
+    "weight": 6
   },
   {
     "source": "#bombardierchallenger850",
     "target": "#celebjettracking",
-    "weight": 4
+    "weight": 6
   },
   {
     "source": "#bombardierchallenger850",
     "target": "#privatejet",
-    "weight": 4
+    "weight": 6
   },
   {
     "source": "#avgeek",
     "target": "#bombardierchallenger850",
-    "weight": 4
+    "weight": 6
   },
   {
     "source": "#bombardierchallenger850",
     "target": "#corning",
-    "weight": 4
+    "weight": 6
   },
   {
     "source": "#Cruise",
@@ -32227,7 +32227,7 @@
   {
     "source": "#CruiseShip",
     "target": "#PublicHealth",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Quarantine",
@@ -32562,27 +32562,27 @@
   {
     "source": "#celebplanes",
     "target": "#ibm",
-    "weight": 1
+    "weight": 4
   },
   {
     "source": "#celebjettracking",
     "target": "#ibm",
-    "weight": 1
+    "weight": 4
   },
   {
     "source": "#ibm",
     "target": "#privatejet",
-    "weight": 1
+    "weight": 4
   },
   {
     "source": "#avgeek",
     "target": "#ibm",
-    "weight": 1
+    "weight": 4
   },
   {
     "source": "#gulfstreamg650er",
     "target": "#ibm",
-    "weight": 1
+    "weight": 4
   },
   {
     "source": "#Akerix",
@@ -33487,22 +33487,22 @@
   {
     "source": "#celebplanes",
     "target": "#gulfstreamg500",
-    "weight": 2
+    "weight": 4
   },
   {
     "source": "#celebjettracking",
     "target": "#gulfstreamg500",
-    "weight": 2
+    "weight": 4
   },
   {
     "source": "#gulfstreamg500",
     "target": "#privatejet",
-    "weight": 2
+    "weight": 4
   },
   {
     "source": "#avgeek",
     "target": "#gulfstreamg500",
-    "weight": 2
+    "weight": 4
   },
   {
     "source": "#gulfstreamg500",
@@ -33877,7 +33877,7 @@
   {
     "source": "#Bestseller",
     "target": "#TopUKDeals",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#GOnavidio",
@@ -33892,27 +33892,27 @@
   {
     "source": "#FANZA",
     "target": "#深夜",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#FANZA",
     "target": "#えろい",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#AV",
     "target": "#エロ動画",
-    "weight": 15
+    "weight": 19
   },
   {
     "source": "#AV",
     "target": "#深夜",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#AV",
     "target": "#えろい",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#AV",
@@ -33922,22 +33922,22 @@
   {
     "source": "#AV",
     "target": "#単体作品",
-    "weight": 10
+    "weight": 11
   },
   {
     "source": "#アダルト動画",
     "target": "#エロ動画",
-    "weight": 15
+    "weight": 18
   },
   {
     "source": "#アダルト動画",
     "target": "#深夜",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#えろい",
     "target": "#アダルト動画",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#アダルト動画",
@@ -33947,22 +33947,22 @@
   {
     "source": "#アダルト動画",
     "target": "#単体作品",
-    "weight": 10
+    "weight": 11
   },
   {
     "source": "#アダルト動画",
     "target": "#中出し",
-    "weight": 8
+    "weight": 11
   },
   {
     "source": "#エロ動画",
     "target": "#深夜",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#えろい",
     "target": "#エロ動画",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#エロ動画",
@@ -33972,17 +33972,17 @@
   {
     "source": "#エロ動画",
     "target": "#単体作品",
-    "weight": 10
+    "weight": 11
   },
   {
     "source": "#エロ動画",
     "target": "#中出し",
-    "weight": 8
+    "weight": 12
   },
   {
     "source": "#えろい",
     "target": "#深夜",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#佐山愛",
@@ -33997,7 +33997,7 @@
   {
     "source": "#中出し",
     "target": "#深夜",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#えろい",
@@ -34012,7 +34012,7 @@
   {
     "source": "#えろい",
     "target": "#中出し",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#佐山愛",
@@ -34027,7 +34027,7 @@
   {
     "source": "#中出し",
     "target": "#単体作品",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#AVcontrol",
@@ -34142,7 +34142,7 @@
   {
     "source": "#おっぱい",
     "target": "#エロ動画",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#エロ動画",
@@ -34367,7 +34367,7 @@
   {
     "source": "#JAVIdol",
     "target": "#JapaneseAV",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVActress",
@@ -34392,12 +34392,12 @@
   {
     "source": "#AsianPorn",
     "target": "#JAVIdol",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVIdol",
     "target": "#風俗",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVActress",
@@ -34422,12 +34422,12 @@
   {
     "source": "#AsianPorn",
     "target": "#JapaneseAV",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JapaneseAV",
     "target": "#風俗",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVActress",
@@ -34482,7 +34482,7 @@
   {
     "source": "#AsianPorn",
     "target": "#風俗",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#デビュー作",
@@ -35312,12 +35312,12 @@
   {
     "source": "#CruiseShip",
     "target": "#Health",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Hantavirus",
     "target": "#Health",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#explore",
@@ -35692,12 +35692,12 @@
   {
     "source": "#kirkeneskonferansen",
     "target": "#sørvaranger",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#arktis",
     "target": "#kirkeneskonferansen",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#kirkeneskonferansen",
@@ -35732,7 +35732,7 @@
   {
     "source": "#arktis",
     "target": "#sørvaranger",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#nordområdene",
@@ -38017,12 +38017,12 @@
   {
     "source": "#セクシー女優",
     "target": "#パンチラ",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#セクシー女優",
     "target": "#制服プレイ",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#FHI",
@@ -38247,7 +38247,7 @@
   {
     "source": "#AV",
     "target": "#フェラ",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AV",
@@ -38262,7 +38262,7 @@
   {
     "source": "#アダルト動画",
     "target": "#フェラ",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#アダルト動画",
@@ -38282,7 +38282,7 @@
   {
     "source": "#エロ動画",
     "target": "#フェラ",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#エロ動画",
@@ -38302,7 +38302,7 @@
   {
     "source": "#フェラ",
     "target": "#中出し",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#中出し",
@@ -39247,17 +39247,17 @@
   {
     "source": "#アダルト動画",
     "target": "#巨乳",
-    "weight": 7
+    "weight": 9
   },
   {
     "source": "#アダルト動画",
     "target": "#爆乳",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#エロ動画",
     "target": "#爆乳",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#佐山愛",
@@ -39267,22 +39267,22 @@
   {
     "source": "#単体作品",
     "target": "#巨乳",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#単体作品",
     "target": "#爆乳",
-    "weight": 4
+    "weight": 5
   },
   {
     "source": "#中出し",
     "target": "#爆乳",
-    "weight": 3
+    "weight": 5
   },
   {
     "source": "#巨乳",
     "target": "#爆乳",
-    "weight": 5
+    "weight": 7
   },
   {
     "source": "#CruiseNews",
@@ -39737,37 +39737,37 @@
   {
     "source": "#celebplanes",
     "target": "#hess",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#celebjettracking",
     "target": "#hess",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#hess",
     "target": "#privatejet",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#avgeek",
     "target": "#hess",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#gulfstreamg650er",
     "target": "#hess",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "#DEEP",
     "target": "#人妻",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#人妻",
     "target": "#写真集",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#人妻",
@@ -39997,12 +39997,12 @@
   {
     "source": "#AV",
     "target": "#人気作品",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#FANZA",
     "target": "#人気作品",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#dommepenpals",
@@ -40017,7 +40017,7 @@
   {
     "source": "#a26a20e1eaa",
     "target": "#f5d10b2abe8",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Waymo",
@@ -40027,12 +40027,12 @@
   {
     "source": "#JAVLove",
     "target": "#フェラ",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVLove",
     "target": "#脚フェチ",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVLove",
@@ -40042,7 +40042,7 @@
   {
     "source": "#フェラ",
     "target": "#脚フェチ",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#オナニー",
@@ -40067,7 +40067,7 @@
   {
     "source": "#おすすめ商品",
     "target": "#アマゾン",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#CruiseNews",
@@ -40132,57 +40132,57 @@
   {
     "source": "#Vegas",
     "target": "#haiku",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Vegas",
     "target": "#travel",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Vegas",
     "target": "#cruise",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Vegas",
     "target": "#rivercruise",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#ABD",
     "target": "#Vegas",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Disney",
     "target": "#Vegas",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#DCL",
     "target": "#Vegas",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Vegas",
     "target": "#follow",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#Azamara",
     "target": "#Vegas",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#AmaWaterways",
     "target": "#Vegas",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#TravelAgent",
     "target": "#Vegas",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#celebplanes",
@@ -40482,7 +40482,7 @@
   {
     "source": "#JAVIdol",
     "target": "#Japaneselonghair",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVIdol",
@@ -40527,7 +40527,7 @@
   {
     "source": "#javidol",
     "target": "#脚フェチ",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#グラビア",
@@ -40557,27 +40557,27 @@
   {
     "source": "#celebplanes",
     "target": "#elililly",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#celebjettracking",
     "target": "#elililly",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#elililly",
     "target": "#privatejet",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#avgeek",
     "target": "#elililly",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#elililly",
     "target": "#gulfstreamg500",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#IA",
@@ -40587,12 +40587,12 @@
   {
     "source": "#ausnews",
     "target": "#vicnews",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#ausnews",
     "target": "#av",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#ausnews",
@@ -40622,7 +40622,7 @@
   {
     "source": "#ausnews",
     "target": "#paramedics",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#ausnews",
@@ -40637,7 +40637,7 @@
   {
     "source": "#av",
     "target": "#vicnews",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#vicnews",
@@ -40667,7 +40667,7 @@
   {
     "source": "#paramedics",
     "target": "#vicnews",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#care",
@@ -40707,7 +40707,7 @@
   {
     "source": "#av",
     "target": "#paramedics",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#av",
@@ -40997,7 +40997,7 @@
   {
     "source": "#audioerotica",
     "target": "#nsfw",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#audioerotica",
@@ -41117,7 +41117,7 @@
   {
     "source": "#kawaii",
     "target": "#セクシー女優",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVBabe",
@@ -41167,7 +41167,7 @@
   {
     "source": "#JAVBabe",
     "target": "#JAVLove",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#JAVLove",
@@ -41392,7 +41392,7 @@
   {
     "source": "#av",
     "target": "#nsfw",
-    "weight": 1
+    "weight": 10
   },
   {
     "source": "#needy",
@@ -41432,7 +41432,7 @@
   {
     "source": "#nsfw",
     "target": "#sex",
-    "weight": 1
+    "weight": 10
   },
   {
     "source": "#cock",
@@ -41602,7 +41602,7 @@
   {
     "source": "#av",
     "target": "#porn",
-    "weight": 1
+    "weight": 10
   },
   {
     "source": "#av",
@@ -41627,7 +41627,7 @@
   {
     "source": "#av",
     "target": "#sex",
-    "weight": 1
+    "weight": 10
   },
   {
     "source": "#av",
@@ -42702,7 +42702,7 @@
   {
     "source": "#Norge",
     "target": "#Oslo",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#celebplanes",
@@ -42732,27 +42732,27 @@
   {
     "source": "#celebplanes",
     "target": "#fortive",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#celebjettracking",
     "target": "#fortive",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#fortive",
     "target": "#privatejet",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#avgeek",
     "target": "#fortive",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#bombardierglobal6000",
     "target": "#fortive",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#Hantavirus",
@@ -43142,7 +43142,7 @@
   {
     "source": "#caribbean",
     "target": "#cruise",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "#caribbean",
@@ -43162,27 +43162,27 @@
   {
     "source": "#caribbean",
     "target": "#travel",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#honduras",
     "target": "#travel",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#portofroatan",
     "target": "#travel",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#roatan",
     "target": "#travel",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#royalcaribbean",
     "target": "#travel",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#enchantmentoftheseas",
@@ -43192,22 +43192,22 @@
   {
     "source": "#discoverroatan",
     "target": "#travel",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#cruise",
     "target": "#honduras",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#cruise",
     "target": "#portofroatan",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#cruise",
     "target": "#roatan",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#cruise",
@@ -43217,12 +43217,12 @@
   {
     "source": "#cruise",
     "target": "#discoverroatan",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#caribbean",
     "target": "#honduras",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#caribbean",
@@ -43232,7 +43232,7 @@
   {
     "source": "#caribbean",
     "target": "#roatan",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#caribbean",
@@ -43247,22 +43247,22 @@
   {
     "source": "#caribbean",
     "target": "#discoverroatan",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#honduras",
     "target": "#portofroatan",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#honduras",
     "target": "#roatan",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#honduras",
     "target": "#royalcaribbean",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#enchantmentoftheseas",
@@ -43272,17 +43272,17 @@
   {
     "source": "#discoverroatan",
     "target": "#honduras",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#portofroatan",
     "target": "#roatan",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#portofroatan",
     "target": "#royalcaribbean",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#enchantmentoftheseas",
@@ -43292,12 +43292,12 @@
   {
     "source": "#discoverroatan",
     "target": "#portofroatan",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#roatan",
     "target": "#royalcaribbean",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#enchantmentoftheseas",
@@ -43307,7 +43307,7 @@
   {
     "source": "#discoverroatan",
     "target": "#roatan",
-    "weight": 1
+    "weight": 3
   },
   {
     "source": "#enchantmentoftheseas",
@@ -43317,7 +43317,7 @@
   {
     "source": "#discoverroatan",
     "target": "#royalcaribbean",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#discoverroatan",
@@ -45102,7 +45102,7 @@
   {
     "source": "#RobotaxiSafety",
     "target": "#Shorts",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#InsuranceCoverage",
@@ -45112,7 +45112,7 @@
   {
     "source": "#RobotaxiSafety",
     "target": "#Waymo",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#InsuranceCoverage",
@@ -45127,7 +45127,7 @@
   {
     "source": "#LawTails",
     "target": "#RobotaxiSafety",
-    "weight": 1
+    "weight": 2
   },
   {
     "source": "#InsuranceCoverage",
@@ -45157,6 +45157,6451 @@
   {
     "source": "#AV女優図鑑",
     "target": "#赤名いと",
+    "weight": 1
+  },
+  {
+    "source": "#adult",
+    "target": "#nsfw",
+    "weight": 9
+  },
+  {
+    "source": "#adult",
+    "target": "#porn",
+    "weight": 9
+  },
+  {
+    "source": "#adult",
+    "target": "#sex",
+    "weight": 9
+  },
+  {
+    "source": "#adult",
+    "target": "#av",
+    "weight": 9
+  },
+  {
+    "source": "#Energikrise",
+    "target": "#Naturkrise",
+    "weight": 1
+  },
+  {
+    "source": "#Energikrise",
+    "target": "#strømpriskrise",
+    "weight": 1
+  },
+  {
+    "source": "#Naturkrise",
+    "target": "#strømpriskrise",
+    "weight": 1
+  },
+  {
+    "source": "#celebplanes",
+    "target": "#davidgeffen",
+    "weight": 1
+  },
+  {
+    "source": "#celebjettracking",
+    "target": "#davidgeffen",
+    "weight": 1
+  },
+  {
+    "source": "#davidgeffen",
+    "target": "#privatejet",
+    "weight": 1
+  },
+  {
+    "source": "#avgeek",
+    "target": "#davidgeffen",
+    "weight": 1
+  },
+  {
+    "source": "#davidgeffen",
+    "target": "#gulfstreamg650",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#Anthropic",
+    "weight": 1
+  },
+  {
+    "source": "#Anthropic",
+    "target": "#Claude",
+    "weight": 1
+  },
+  {
+    "source": "#Anthropic",
+    "target": "#InfoQ",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#Claude",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#InfoQ",
+    "weight": 1
+  },
+  {
+    "source": "#Claude",
+    "target": "#InfoQ",
+    "weight": 1
+  },
+  {
+    "source": "#berlevåg",
+    "target": "#hammerfest",
+    "weight": 1
+  },
+  {
+    "source": "#hammerfest",
+    "target": "#sørvaranger",
+    "weight": 1
+  },
+  {
+    "source": "#finnmark",
+    "target": "#hammerfest",
+    "weight": 1
+  },
+  {
+    "source": "#hammerfest",
+    "target": "#kirkeneskonferansen",
+    "weight": 1
+  },
+  {
+    "source": "#hammerfest",
+    "target": "#industri",
+    "weight": 1
+  },
+  {
+    "source": "#hammerfest",
+    "target": "#politikk",
+    "weight": 1
+  },
+  {
+    "source": "#arktis",
+    "target": "#hammerfest",
+    "weight": 1
+  },
+  {
+    "source": "#hammerfest",
+    "target": "#nordnorge",
+    "weight": 1
+  },
+  {
+    "source": "#berlevåg",
+    "target": "#sørvaranger",
+    "weight": 1
+  },
+  {
+    "source": "#berlevåg",
+    "target": "#finnmark",
+    "weight": 1
+  },
+  {
+    "source": "#berlevåg",
+    "target": "#kirkeneskonferansen",
+    "weight": 1
+  },
+  {
+    "source": "#berlevåg",
+    "target": "#industri",
+    "weight": 1
+  },
+  {
+    "source": "#berlevåg",
+    "target": "#politikk",
+    "weight": 1
+  },
+  {
+    "source": "#arktis",
+    "target": "#berlevåg",
+    "weight": 1
+  },
+  {
+    "source": "#berlevåg",
+    "target": "#nordnorge",
+    "weight": 1
+  },
+  {
+    "source": "#finnmark",
+    "target": "#sørvaranger",
+    "weight": 1
+  },
+  {
+    "source": "#industri",
+    "target": "#sørvaranger",
+    "weight": 1
+  },
+  {
+    "source": "#politikk",
+    "target": "#sørvaranger",
+    "weight": 1
+  },
+  {
+    "source": "#nordnorge",
+    "target": "#sørvaranger",
+    "weight": 1
+  },
+  {
+    "source": "#finnmark",
+    "target": "#kirkeneskonferansen",
+    "weight": 1
+  },
+  {
+    "source": "#finnmark",
+    "target": "#industri",
+    "weight": 1
+  },
+  {
+    "source": "#finnmark",
+    "target": "#politikk",
+    "weight": 1
+  },
+  {
+    "source": "#arktis",
+    "target": "#finnmark",
+    "weight": 1
+  },
+  {
+    "source": "#finnmark",
+    "target": "#nordnorge",
+    "weight": 1
+  },
+  {
+    "source": "#industri",
+    "target": "#kirkeneskonferansen",
+    "weight": 1
+  },
+  {
+    "source": "#kirkeneskonferansen",
+    "target": "#politikk",
+    "weight": 1
+  },
+  {
+    "source": "#kirkeneskonferansen",
+    "target": "#nordnorge",
+    "weight": 1
+  },
+  {
+    "source": "#industri",
+    "target": "#politikk",
+    "weight": 1
+  },
+  {
+    "source": "#arktis",
+    "target": "#industri",
+    "weight": 1
+  },
+  {
+    "source": "#industri",
+    "target": "#nordnorge",
+    "weight": 1
+  },
+  {
+    "source": "#arktis",
+    "target": "#politikk",
+    "weight": 1
+  },
+  {
+    "source": "#nordnorge",
+    "target": "#politikk",
+    "weight": 1
+  },
+  {
+    "source": "#arktis",
+    "target": "#nordnorge",
+    "weight": 1
+  },
+  {
+    "source": "#エロ動画",
+    "target": "#飯豊みる",
+    "weight": 1
+  },
+  {
+    "source": "#中出し",
+    "target": "#飯豊みる",
+    "weight": 1
+  },
+  {
+    "source": "#Atlanta",
+    "target": "#ÉtatsUnis",
+    "weight": 1
+  },
+  {
+    "source": "#Atlanta",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#Waymo",
+    "target": "#ÉtatsUnis",
+    "weight": 1
+  },
+  {
+    "source": "#Level",
+    "target": "#自駕車",
+    "weight": 2
+  },
+  {
+    "source": "#4",
+    "target": "#自駕車",
+    "weight": 2
+  },
+  {
+    "source": "#robotaxi",
+    "target": "#自駕車",
+    "weight": 2
+  },
+  {
+    "source": "#Tesla",
+    "target": "#自駕車",
+    "weight": 2
+  },
+  {
+    "source": "#Unsupervised",
+    "target": "#自駕車",
+    "weight": 2
+  },
+  {
+    "source": "#FSD",
+    "target": "#自駕車",
+    "weight": 2
+  },
+  {
+    "source": "#無人車",
+    "target": "#自駕車",
+    "weight": 1
+  },
+  {
+    "source": "#自動駕駛",
+    "target": "#自駕車",
+    "weight": 1
+  },
+  {
+    "source": "#4",
+    "target": "#Level",
+    "weight": 2
+  },
+  {
+    "source": "#Level",
+    "target": "#robotaxi",
+    "weight": 2
+  },
+  {
+    "source": "#Level",
+    "target": "#Tesla",
+    "weight": 2
+  },
+  {
+    "source": "#Level",
+    "target": "#Unsupervised",
+    "weight": 2
+  },
+  {
+    "source": "#FSD",
+    "target": "#Level",
+    "weight": 2
+  },
+  {
+    "source": "#Level",
+    "target": "#無人車",
+    "weight": 1
+  },
+  {
+    "source": "#Level",
+    "target": "#自動駕駛",
+    "weight": 1
+  },
+  {
+    "source": "#4",
+    "target": "#robotaxi",
+    "weight": 2
+  },
+  {
+    "source": "#4",
+    "target": "#Tesla",
+    "weight": 2
+  },
+  {
+    "source": "#4",
+    "target": "#Unsupervised",
+    "weight": 2
+  },
+  {
+    "source": "#4",
+    "target": "#FSD",
+    "weight": 2
+  },
+  {
+    "source": "#4",
+    "target": "#無人車",
+    "weight": 1
+  },
+  {
+    "source": "#4",
+    "target": "#自動駕駛",
+    "weight": 1
+  },
+  {
+    "source": "#Unsupervised",
+    "target": "#robotaxi",
+    "weight": 2
+  },
+  {
+    "source": "#FSD",
+    "target": "#robotaxi",
+    "weight": 2
+  },
+  {
+    "source": "#robotaxi",
+    "target": "#無人車",
+    "weight": 1
+  },
+  {
+    "source": "#robotaxi",
+    "target": "#自動駕駛",
+    "weight": 1
+  },
+  {
+    "source": "#Tesla",
+    "target": "#Unsupervised",
+    "weight": 2
+  },
+  {
+    "source": "#Tesla",
+    "target": "#無人車",
+    "weight": 1
+  },
+  {
+    "source": "#Tesla",
+    "target": "#自動駕駛",
+    "weight": 1
+  },
+  {
+    "source": "#FSD",
+    "target": "#Unsupervised",
+    "weight": 2
+  },
+  {
+    "source": "#Unsupervised",
+    "target": "#無人車",
+    "weight": 1
+  },
+  {
+    "source": "#Unsupervised",
+    "target": "#自動駕駛",
+    "weight": 1
+  },
+  {
+    "source": "#FSD",
+    "target": "#無人車",
+    "weight": 1
+  },
+  {
+    "source": "#FSD",
+    "target": "#自動駕駛",
+    "weight": 1
+  },
+  {
+    "source": "#無人車",
+    "target": "#自動駕駛",
+    "weight": 1
+  },
+  {
+    "source": "#CruiseShip",
+    "target": "#Norovirus",
+    "weight": 1
+  },
+  {
+    "source": "#Norovirus",
+    "target": "#PublicHealth",
+    "weight": 1
+  },
+  {
+    "source": "#AlumniVentures",
+    "target": "#VentureCapital",
+    "weight": 1
+  },
+  {
+    "source": "#AlumniVentures",
+    "target": "#SeedStage",
+    "weight": 1
+  },
+  {
+    "source": "#SeedStage",
+    "target": "#VentureCapital",
+    "weight": 1
+  },
+  {
+    "source": "#FANZA",
+    "target": "#吉根ゆりあ",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#吉根ゆりあ",
+    "weight": 1
+  },
+  {
+    "source": "#アダルト動画",
+    "target": "#吉根ゆりあ",
+    "weight": 1
+  },
+  {
+    "source": "#エロ動画",
+    "target": "#吉根ゆりあ",
+    "weight": 1
+  },
+  {
+    "source": "#吉根ゆりあ",
+    "target": "#深夜",
+    "weight": 1
+  },
+  {
+    "source": "#フェラ",
+    "target": "#深夜",
+    "weight": 1
+  },
+  {
+    "source": "#えろい",
+    "target": "#吉根ゆりあ",
+    "weight": 1
+  },
+  {
+    "source": "#えろい",
+    "target": "#フェラ",
+    "weight": 1
+  },
+  {
+    "source": "#中出し",
+    "target": "#吉根ゆりあ",
+    "weight": 1
+  },
+  {
+    "source": "#フェラ",
+    "target": "#吉根ゆりあ",
+    "weight": 1
+  },
+  {
+    "source": "#AlumniVentures",
+    "target": "#CNBCDisruptor50",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#AlumniVentures",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#CNBCDisruptor50",
+    "weight": 1
+  },
+  {
+    "source": "#Hantavirus",
+    "target": "#norovirus",
+    "weight": 1
+  },
+  {
+    "source": "#PublicHealth",
+    "target": "#norovirus",
+    "weight": 1
+  },
+  {
+    "source": "#Brentwood",
+    "target": "#Pittsburgh",
+    "weight": 1
+  },
+  {
+    "source": "#Brentwood",
+    "target": "#iPhone",
+    "weight": 1
+  },
+  {
+    "source": "#Pittsburgh",
+    "target": "#iPhone",
+    "weight": 1
+  },
+  {
+    "source": "#汽車科技",
+    "target": "#自駕車",
+    "weight": 1
+  },
+  {
+    "source": "#Level",
+    "target": "#汽車科技",
+    "weight": 1
+  },
+  {
+    "source": "#4",
+    "target": "#汽車科技",
+    "weight": 1
+  },
+  {
+    "source": "#robotaxi",
+    "target": "#汽車科技",
+    "weight": 1
+  },
+  {
+    "source": "#Tesla",
+    "target": "#汽車科技",
+    "weight": 1
+  },
+  {
+    "source": "#Unsupervised",
+    "target": "#汽車科技",
+    "weight": 1
+  },
+  {
+    "source": "#FSD",
+    "target": "#汽車科技",
+    "weight": 1
+  },
+  {
+    "source": "#汽車科技",
+    "target": "#特斯拉",
+    "weight": 1
+  },
+  {
+    "source": "#汽車科技",
+    "target": "#自駕計程車",
+    "weight": 1
+  },
+  {
+    "source": "#特斯拉",
+    "target": "#自駕車",
+    "weight": 1
+  },
+  {
+    "source": "#自駕計程車",
+    "target": "#自駕車",
+    "weight": 1
+  },
+  {
+    "source": "#Level",
+    "target": "#特斯拉",
+    "weight": 1
+  },
+  {
+    "source": "#Level",
+    "target": "#自駕計程車",
+    "weight": 1
+  },
+  {
+    "source": "#4",
+    "target": "#特斯拉",
+    "weight": 1
+  },
+  {
+    "source": "#4",
+    "target": "#自駕計程車",
+    "weight": 1
+  },
+  {
+    "source": "#robotaxi",
+    "target": "#特斯拉",
+    "weight": 1
+  },
+  {
+    "source": "#robotaxi",
+    "target": "#自駕計程車",
+    "weight": 1
+  },
+  {
+    "source": "#Tesla",
+    "target": "#特斯拉",
+    "weight": 1
+  },
+  {
+    "source": "#Tesla",
+    "target": "#自駕計程車",
+    "weight": 1
+  },
+  {
+    "source": "#Unsupervised",
+    "target": "#特斯拉",
+    "weight": 1
+  },
+  {
+    "source": "#Unsupervised",
+    "target": "#自駕計程車",
+    "weight": 1
+  },
+  {
+    "source": "#FSD",
+    "target": "#特斯拉",
+    "weight": 1
+  },
+  {
+    "source": "#FSD",
+    "target": "#自駕計程車",
+    "weight": 1
+  },
+  {
+    "source": "#特斯拉",
+    "target": "#自駕計程車",
+    "weight": 1
+  },
+  {
+    "source": "#a23a2ed3e25",
+    "target": "#facb42aeae9",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優",
+    "target": "#加藤あやの",
+    "weight": 1
+  },
+  {
+    "source": "#加藤あやの",
+    "target": "#巨乳",
+    "weight": 1
+  },
+  {
+    "source": "#3m",
+    "target": "#celebplanes",
+    "weight": 3
+  },
+  {
+    "source": "#3m",
+    "target": "#celebjettracking",
+    "weight": 3
+  },
+  {
+    "source": "#3m",
+    "target": "#privatejet",
+    "weight": 3
+  },
+  {
+    "source": "#3m",
+    "target": "#avgeek",
+    "weight": 3
+  },
+  {
+    "source": "#3m",
+    "target": "#gulfstreamg550",
+    "weight": 3
+  },
+  {
+    "source": "#TechNews",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#Automotive",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#CarNews",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#Robotaxi",
+    "target": "#TechNews",
+    "weight": 1
+  },
+  {
+    "source": "#Automotive",
+    "target": "#Robotaxi",
+    "weight": 1
+  },
+  {
+    "source": "#CarNews",
+    "target": "#Robotaxi",
+    "weight": 1
+  },
+  {
+    "source": "#Automotive",
+    "target": "#TechNews",
+    "weight": 1
+  },
+  {
+    "source": "#CarNews",
+    "target": "#TechNews",
+    "weight": 1
+  },
+  {
+    "source": "#Automotive",
+    "target": "#CarNews",
+    "weight": 1
+  },
+  {
+    "source": "#ai",
+    "target": "#llm",
+    "weight": 1
+  },
+  {
+    "source": "#developer_productivity",
+    "target": "#llm",
+    "weight": 1
+  },
+  {
+    "source": "#llm",
+    "target": "#rag",
+    "weight": 1
+  },
+  {
+    "source": "#agents",
+    "target": "#llm",
+    "weight": 1
+  },
+  {
+    "source": "#ai",
+    "target": "#developer_productivity",
+    "weight": 1
+  },
+  {
+    "source": "#ai",
+    "target": "#rag",
+    "weight": 1
+  },
+  {
+    "source": "#agents",
+    "target": "#ai",
+    "weight": 1
+  },
+  {
+    "source": "#developer_productivity",
+    "target": "#rag",
+    "weight": 1
+  },
+  {
+    "source": "#agents",
+    "target": "#developer_productivity",
+    "weight": 1
+  },
+  {
+    "source": "#agents",
+    "target": "#rag",
+    "weight": 1
+  },
+  {
+    "source": "#Toledo",
+    "target": "#Vecindario",
+    "weight": 1
+  },
+  {
+    "source": "#Deporte",
+    "target": "#Toledo",
+    "weight": 1
+  },
+  {
+    "source": "#Deporte",
+    "target": "#Vecindario",
+    "weight": 1
+  },
+  {
+    "source": "#AV作品",
+    "target": "#木下ひまり",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優",
+    "target": "#木下ひまり",
+    "weight": 1
+  },
+  {
+    "source": "#ハイビジョン",
+    "target": "#木下ひまり",
+    "weight": 1
+  },
+  {
+    "source": "#4K",
+    "target": "#木下ひまり",
+    "weight": 1
+  },
+  {
+    "source": "#AV作品",
+    "target": "#AV女優",
+    "weight": 1
+  },
+  {
+    "source": "#AV作品",
+    "target": "#ハイビジョン",
+    "weight": 1
+  },
+  {
+    "source": "#4K",
+    "target": "#AV作品",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優",
+    "target": "#ハイビジョン",
+    "weight": 2
+  },
+  {
+    "source": "#4K",
+    "target": "#AV女優",
+    "weight": 2
+  },
+  {
+    "source": "#AnarchistStruggle",
+    "target": "#FreedomFighter",
+    "weight": 1
+  },
+  {
+    "source": "#Coquitlam",
+    "target": "#DBCalert",
+    "weight": 3
+  },
+  {
+    "source": "#不倫",
+    "target": "#瀧本雫葉",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#瀧本雫葉",
+    "weight": 1
+  },
+  {
+    "source": "#欲望",
+    "target": "#瀧本雫葉",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#不倫",
+    "weight": 1
+  },
+  {
+    "source": "#不倫",
+    "target": "#欲望",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#欲望",
+    "weight": 1
+  },
+  {
+    "source": "#AnimalResearch",
+    "target": "#hantavirus",
+    "weight": 1
+  },
+  {
+    "source": "#hantavirus",
+    "target": "#vaccine",
+    "weight": 1
+  },
+  {
+    "source": "#hamster",
+    "target": "#hantavirus",
+    "weight": 1
+  },
+  {
+    "source": "#hantavirus",
+    "target": "#research",
+    "weight": 1
+  },
+  {
+    "source": "#AnimalResearch",
+    "target": "#vaccine",
+    "weight": 1
+  },
+  {
+    "source": "#AnimalResearch",
+    "target": "#hamster",
+    "weight": 1
+  },
+  {
+    "source": "#AnimalResearch",
+    "target": "#research",
+    "weight": 1
+  },
+  {
+    "source": "#hamster",
+    "target": "#vaccine",
+    "weight": 1
+  },
+  {
+    "source": "#research",
+    "target": "#vaccine",
+    "weight": 1
+  },
+  {
+    "source": "#hamster",
+    "target": "#research",
+    "weight": 1
+  },
+  {
+    "source": "#GuessTheShip",
+    "target": "#MSCCruises",
+    "weight": 1
+  },
+  {
+    "source": "#MSCCruises",
+    "target": "#ShipGeek",
+    "weight": 1
+  },
+  {
+    "source": "#MSCCruises",
+    "target": "#NauticalQuiz",
+    "weight": 1
+  },
+  {
+    "source": "#MSCCruises",
+    "target": "#NavalQuiz",
+    "weight": 1
+  },
+  {
+    "source": "#GuessTheShip",
+    "target": "#ShipGeek",
+    "weight": 1
+  },
+  {
+    "source": "#GuessTheShip",
+    "target": "#NauticalQuiz",
+    "weight": 1
+  },
+  {
+    "source": "#GuessTheShip",
+    "target": "#NavalQuiz",
+    "weight": 1
+  },
+  {
+    "source": "#NauticalQuiz",
+    "target": "#ShipGeek",
+    "weight": 1
+  },
+  {
+    "source": "#NavalQuiz",
+    "target": "#ShipGeek",
+    "weight": 1
+  },
+  {
+    "source": "#NauticalQuiz",
+    "target": "#NavalQuiz",
+    "weight": 1
+  },
+  {
+    "source": "#OL",
+    "target": "#エロ動画",
+    "weight": 1
+  },
+  {
+    "source": "#DLsite",
+    "target": "#同人",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#月野かすみ",
+    "weight": 1
+  },
+  {
+    "source": "#動画",
+    "target": "#月野かすみ",
+    "weight": 1
+  },
+  {
+    "source": "#TheTribunal",
+    "target": "#VIS145b",
+    "weight": 2
+  },
+  {
+    "source": "#Deontology",
+    "target": "#TheTribunal",
+    "weight": 2
+  },
+  {
+    "source": "#Deontology",
+    "target": "#VIS145b",
+    "weight": 2
+  },
+  {
+    "source": "#ニューハーフ",
+    "target": "#鞠るり",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#鞠るり",
+    "weight": 1
+  },
+  {
+    "source": "#ニューハーフ",
+    "target": "#星乃すずね",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#星乃すずね",
+    "weight": 1
+  },
+  {
+    "source": "#European",
+    "target": "#Türkiye",
+    "weight": 1
+  },
+  {
+    "source": "#Türkiye",
+    "target": "#VişneKorkmaz",
+    "weight": 1
+  },
+  {
+    "source": "#Türkiye",
+    "target": "#YunusSoner",
+    "weight": 1
+  },
+  {
+    "source": "#European",
+    "target": "#VişneKorkmaz",
+    "weight": 1
+  },
+  {
+    "source": "#European",
+    "target": "#YunusSoner",
+    "weight": 1
+  },
+  {
+    "source": "#VişneKorkmaz",
+    "target": "#YunusSoner",
+    "weight": 1
+  },
+  {
+    "source": "#ForYourLittleOne",
+    "target": "#TopUKDeals",
+    "weight": 1
+  },
+  {
+    "source": "#Bestseller",
+    "target": "#ForYourLittleOne",
+    "weight": 1
+  },
+  {
+    "source": "#MINIClassic",
+    "target": "#minifan",
+    "weight": 1
+  },
+  {
+    "source": "#MINIClassic",
+    "target": "#minilife",
+    "weight": 1
+  },
+  {
+    "source": "#minifan",
+    "target": "#minilife",
+    "weight": 1
+  },
+  {
+    "source": "#Putin",
+    "target": "#XiJinping",
+    "weight": 1
+  },
+  {
+    "source": "#GasPipeline",
+    "target": "#Putin",
+    "weight": 1
+  },
+  {
+    "source": "#PowerOfSiberia",
+    "target": "#Putin",
+    "weight": 1
+  },
+  {
+    "source": "#EnergySecurity",
+    "target": "#Putin",
+    "weight": 1
+  },
+  {
+    "source": "#GasPipeline",
+    "target": "#XiJinping",
+    "weight": 1
+  },
+  {
+    "source": "#PowerOfSiberia",
+    "target": "#XiJinping",
+    "weight": 1
+  },
+  {
+    "source": "#EnergySecurity",
+    "target": "#XiJinping",
+    "weight": 1
+  },
+  {
+    "source": "#GasPipeline",
+    "target": "#PowerOfSiberia",
+    "weight": 1
+  },
+  {
+    "source": "#EnergySecurity",
+    "target": "#GasPipeline",
+    "weight": 1
+  },
+  {
+    "source": "#EnergySecurity",
+    "target": "#PowerOfSiberia",
+    "weight": 1
+  },
+  {
+    "source": "#breaking",
+    "target": "#geopolitics",
+    "weight": 1
+  },
+  {
+    "source": "#Iran",
+    "target": "#MilitaryTraining",
+    "weight": 1
+  },
+  {
+    "source": "#boatcruise",
+    "target": "#perfectweather",
+    "weight": 1
+  },
+  {
+    "source": "#perfectweather",
+    "target": "#viral",
+    "weight": 1
+  },
+  {
+    "source": "#fyp",
+    "target": "#perfectweather",
+    "weight": 1
+  },
+  {
+    "source": "#boatcruise",
+    "target": "#viral",
+    "weight": 1
+  },
+  {
+    "source": "#boatcruise",
+    "target": "#fyp",
+    "weight": 1
+  },
+  {
+    "source": "#fyp",
+    "target": "#viral",
+    "weight": 1
+  },
+  {
+    "source": "#FANZA",
+    "target": "#熟女",
+    "weight": 1
+  },
+  {
+    "source": "#FANZA",
+    "target": "#新妻ゆうか",
+    "weight": 1
+  },
+  {
+    "source": "#新妻ゆうか",
+    "target": "#熟女",
+    "weight": 1
+  },
+  {
+    "source": "#SOCOM",
+    "target": "#USAF",
+    "weight": 1
+  },
+  {
+    "source": "#SOCOM",
+    "target": "#säkpol",
+    "weight": 1
+  },
+  {
+    "source": "#SOCOM",
+    "target": "#föpol",
+    "weight": 1
+  },
+  {
+    "source": "#USAF",
+    "target": "#säkpol",
+    "weight": 1
+  },
+  {
+    "source": "#USAF",
+    "target": "#föpol",
+    "weight": 1
+  },
+  {
+    "source": "#PaiSafado",
+    "target": "#Paizao",
+    "weight": 1
+  },
+  {
+    "source": "#Paizao",
+    "target": "#SilverDaddy",
+    "weight": 1
+  },
+  {
+    "source": "#MatureBear",
+    "target": "#Paizao",
+    "weight": 1
+  },
+  {
+    "source": "#DadBear",
+    "target": "#Paizao",
+    "weight": 1
+  },
+  {
+    "source": "#MachoPeludo",
+    "target": "#Paizao",
+    "weight": 1
+  },
+  {
+    "source": "#Bear",
+    "target": "#Paizao",
+    "weight": 1
+  },
+  {
+    "source": "#HairyBear",
+    "target": "#Paizao",
+    "weight": 1
+  },
+  {
+    "source": "#PaiSafado",
+    "target": "#SilverDaddy",
+    "weight": 1
+  },
+  {
+    "source": "#MatureBear",
+    "target": "#PaiSafado",
+    "weight": 1
+  },
+  {
+    "source": "#DadBear",
+    "target": "#PaiSafado",
+    "weight": 1
+  },
+  {
+    "source": "#MachoPeludo",
+    "target": "#PaiSafado",
+    "weight": 1
+  },
+  {
+    "source": "#Bear",
+    "target": "#PaiSafado",
+    "weight": 1
+  },
+  {
+    "source": "#HairyBear",
+    "target": "#PaiSafado",
+    "weight": 1
+  },
+  {
+    "source": "#MatureBear",
+    "target": "#SilverDaddy",
+    "weight": 1
+  },
+  {
+    "source": "#DadBear",
+    "target": "#SilverDaddy",
+    "weight": 1
+  },
+  {
+    "source": "#MachoPeludo",
+    "target": "#SilverDaddy",
+    "weight": 1
+  },
+  {
+    "source": "#Bear",
+    "target": "#SilverDaddy",
+    "weight": 1
+  },
+  {
+    "source": "#HairyBear",
+    "target": "#SilverDaddy",
+    "weight": 1
+  },
+  {
+    "source": "#DadBear",
+    "target": "#MatureBear",
+    "weight": 1
+  },
+  {
+    "source": "#MachoPeludo",
+    "target": "#MatureBear",
+    "weight": 1
+  },
+  {
+    "source": "#Bear",
+    "target": "#MatureBear",
+    "weight": 1
+  },
+  {
+    "source": "#HairyBear",
+    "target": "#MatureBear",
+    "weight": 1
+  },
+  {
+    "source": "#DadBear",
+    "target": "#MachoPeludo",
+    "weight": 1
+  },
+  {
+    "source": "#Bear",
+    "target": "#DadBear",
+    "weight": 1
+  },
+  {
+    "source": "#DadBear",
+    "target": "#HairyBear",
+    "weight": 1
+  },
+  {
+    "source": "#Bear",
+    "target": "#MachoPeludo",
+    "weight": 1
+  },
+  {
+    "source": "#HairyBear",
+    "target": "#MachoPeludo",
+    "weight": 1
+  },
+  {
+    "source": "#Bear",
+    "target": "#HairyBear",
+    "weight": 1
+  },
+  {
+    "source": "#DitaduraNuncaMais",
+    "target": "#SemAnistiaParaGolpista",
+    "weight": 1
+  },
+  {
+    "source": "#claude",
+    "target": "#codex",
+    "weight": 1
+  },
+  {
+    "source": "#chatgpt",
+    "target": "#claude",
+    "weight": 1
+  },
+  {
+    "source": "#aitools",
+    "target": "#claude",
+    "weight": 1
+  },
+  {
+    "source": "#claude",
+    "target": "#software",
+    "weight": 1
+  },
+  {
+    "source": "#chatgpt",
+    "target": "#codex",
+    "weight": 1
+  },
+  {
+    "source": "#aitools",
+    "target": "#codex",
+    "weight": 1
+  },
+  {
+    "source": "#codex",
+    "target": "#software",
+    "weight": 1
+  },
+  {
+    "source": "#aitools",
+    "target": "#chatgpt",
+    "weight": 1
+  },
+  {
+    "source": "#chatgpt",
+    "target": "#software",
+    "weight": 1
+  },
+  {
+    "source": "#aitools",
+    "target": "#software",
+    "weight": 1
+  },
+  {
+    "source": "#kärnkraft",
+    "target": "#säkpol",
+    "weight": 2
+  },
+  {
+    "source": "#MovieNews",
+    "target": "#topgun",
+    "weight": 1
+  },
+  {
+    "source": "#FastFurious",
+    "target": "#MovieNews",
+    "weight": 1
+  },
+  {
+    "source": "#BoxOffice",
+    "target": "#MovieNews",
+    "weight": 1
+  },
+  {
+    "source": "#FastFurious",
+    "target": "#topgun",
+    "weight": 1
+  },
+  {
+    "source": "#BoxOffice",
+    "target": "#topgun",
+    "weight": 1
+  },
+  {
+    "source": "#BoxOffice",
+    "target": "#FastFurious",
+    "weight": 1
+  },
+  {
+    "source": "#エロ動画",
+    "target": "#竹内梨恵",
+    "weight": 1
+  },
+  {
+    "source": "#人妻",
+    "target": "#竹内梨恵",
+    "weight": 1
+  },
+  {
+    "source": "#FANZA",
+    "target": "#割引",
+    "weight": 1
+  },
+  {
+    "source": "#セール",
+    "target": "#割引",
+    "weight": 1
+  },
+  {
+    "source": "#3DCG",
+    "target": "#NSFW",
+    "weight": 1
+  },
+  {
+    "source": "#Bigass",
+    "target": "#NSFW",
+    "weight": 1
+  },
+  {
+    "source": "#3DCG",
+    "target": "#Bigass",
+    "weight": 1
+  },
+  {
+    "source": "#3DCG",
+    "target": "#Bigtits",
+    "weight": 1
+  },
+  {
+    "source": "#3DCG",
+    "target": "#Oralsex",
+    "weight": 1
+  },
+  {
+    "source": "#3DCG",
+    "target": "#Vaginalsex",
+    "weight": 1
+  },
+  {
+    "source": "#Bigass",
+    "target": "#Bigtits",
+    "weight": 1
+  },
+  {
+    "source": "#Bigass",
+    "target": "#Oralsex",
+    "weight": 1
+  },
+  {
+    "source": "#Bigass",
+    "target": "#Vaginalsex",
+    "weight": 1
+  },
+  {
+    "source": "#999",
+    "target": "#avtweeps",
+    "weight": 1
+  },
+  {
+    "source": "#tech",
+    "target": "#telecoms",
+    "weight": 1
+  },
+  {
+    "source": "#alldup",
+    "target": "#recuva",
+    "weight": 1
+  },
+  {
+    "source": "#alldup",
+    "target": "#exiftool",
+    "weight": 1
+  },
+  {
+    "source": "#exiftool",
+    "target": "#recuva",
+    "weight": 1
+  },
+  {
+    "source": "#ASMR",
+    "target": "#同人音声",
+    "weight": 1
+  },
+  {
+    "source": "#FANZA",
+    "target": "#同人音声",
+    "weight": 1
+  },
+  {
+    "source": "#ASMR",
+    "target": "#FANZA",
+    "weight": 1
+  },
+  {
+    "source": "#Budgetvänligt",
+    "target": "#Mobilteknik",
+    "weight": 1
+  },
+  {
+    "source": "#BlitzBox",
+    "target": "#drönare",
+    "weight": 1
+  },
+  {
+    "source": "#drönare",
+    "target": "#teknik",
+    "weight": 1
+  },
+  {
+    "source": "#BlitzBox",
+    "target": "#teknik",
+    "weight": 1
+  },
+  {
+    "source": "#BlitzBox",
+    "target": "#säkpol",
+    "weight": 1
+  },
+  {
+    "source": "#BlitzBox",
+    "target": "#föpol",
+    "weight": 1
+  },
+  {
+    "source": "#säkpol",
+    "target": "#teknik",
+    "weight": 1
+  },
+  {
+    "source": "#föpol",
+    "target": "#teknik",
+    "weight": 1
+  },
+  {
+    "source": "#ausnews",
+    "target": "#aviation",
+    "weight": 1
+  },
+  {
+    "source": "#ausnews",
+    "target": "#helimed",
+    "weight": 1
+  },
+  {
+    "source": "#ambulance",
+    "target": "#ausnews",
+    "weight": 2
+  },
+  {
+    "source": "#aviation",
+    "target": "#vicnews",
+    "weight": 1
+  },
+  {
+    "source": "#helimed",
+    "target": "#vicnews",
+    "weight": 1
+  },
+  {
+    "source": "#ambulance",
+    "target": "#vicnews",
+    "weight": 2
+  },
+  {
+    "source": "#av",
+    "target": "#aviation",
+    "weight": 1
+  },
+  {
+    "source": "#av",
+    "target": "#helimed",
+    "weight": 1
+  },
+  {
+    "source": "#ambulance",
+    "target": "#av",
+    "weight": 2
+  },
+  {
+    "source": "#aviation",
+    "target": "#helimed",
+    "weight": 1
+  },
+  {
+    "source": "#aviation",
+    "target": "#paramedics",
+    "weight": 1
+  },
+  {
+    "source": "#ambulance",
+    "target": "#aviation",
+    "weight": 1
+  },
+  {
+    "source": "#helimed",
+    "target": "#paramedics",
+    "weight": 1
+  },
+  {
+    "source": "#ambulance",
+    "target": "#helimed",
+    "weight": 1
+  },
+  {
+    "source": "#ambulance",
+    "target": "#paramedics",
+    "weight": 2
+  },
+  {
+    "source": "#AV女優図鑑",
+    "target": "#おすすめAV",
+    "weight": 1
+  },
+  {
+    "source": "#おすすめAV",
+    "target": "#粒楽あむ",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優図鑑",
+    "target": "#粒楽あむ",
+    "weight": 1
+  },
+  {
+    "source": "#Booksky",
+    "target": "#CurrentlyReading",
+    "weight": 1
+  },
+  {
+    "source": "#Dior",
+    "target": "#Fashion",
+    "weight": 1
+  },
+  {
+    "source": "#Fashion",
+    "target": "#LosAngeles",
+    "weight": 1
+  },
+  {
+    "source": "#Bomberscat",
+    "target": "#GRAE",
+    "weight": 1
+  },
+  {
+    "source": "#同棲",
+    "target": "#野々浦暖",
+    "weight": 1
+  },
+  {
+    "source": "#恋愛",
+    "target": "#野々浦暖",
+    "weight": 1
+  },
+  {
+    "source": "#新作",
+    "target": "#野々浦暖",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#野々浦暖",
+    "weight": 1
+  },
+  {
+    "source": "#同棲",
+    "target": "#恋愛",
+    "weight": 1
+  },
+  {
+    "source": "#同棲",
+    "target": "#新作",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#同棲",
+    "weight": 1
+  },
+  {
+    "source": "#恋愛",
+    "target": "#新作",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#恋愛",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#新作",
+    "weight": 1
+  },
+  {
+    "source": "#BookReview",
+    "target": "#Romance",
+    "weight": 1
+  },
+  {
+    "source": "#BookReview",
+    "target": "#amreading",
+    "weight": 1
+  },
+  {
+    "source": "#BookReview",
+    "target": "#amreadingromance",
+    "weight": 1
+  },
+  {
+    "source": "#BookReview",
+    "target": "#cruiselife",
+    "weight": 1
+  },
+  {
+    "source": "#Bahamas",
+    "target": "#BookReview",
+    "weight": 1
+  },
+  {
+    "source": "#BookReview",
+    "target": "#Cozumel",
+    "weight": 1
+  },
+  {
+    "source": "#BookReview",
+    "target": "#Galveston",
+    "weight": 1
+  },
+  {
+    "source": "#BookReview",
+    "target": "#BookSky",
+    "weight": 1
+  },
+  {
+    "source": "#Romance",
+    "target": "#amreading",
+    "weight": 1
+  },
+  {
+    "source": "#Romance",
+    "target": "#amreadingromance",
+    "weight": 1
+  },
+  {
+    "source": "#Romance",
+    "target": "#cruise",
+    "weight": 1
+  },
+  {
+    "source": "#Romance",
+    "target": "#cruiselife",
+    "weight": 1
+  },
+  {
+    "source": "#Bahamas",
+    "target": "#Romance",
+    "weight": 1
+  },
+  {
+    "source": "#Cozumel",
+    "target": "#Romance",
+    "weight": 1
+  },
+  {
+    "source": "#Galveston",
+    "target": "#Romance",
+    "weight": 1
+  },
+  {
+    "source": "#BookSky",
+    "target": "#Romance",
+    "weight": 1
+  },
+  {
+    "source": "#amreading",
+    "target": "#amreadingromance",
+    "weight": 1
+  },
+  {
+    "source": "#amreading",
+    "target": "#cruise",
+    "weight": 1
+  },
+  {
+    "source": "#amreading",
+    "target": "#cruiselife",
+    "weight": 1
+  },
+  {
+    "source": "#Bahamas",
+    "target": "#amreading",
+    "weight": 1
+  },
+  {
+    "source": "#Cozumel",
+    "target": "#amreading",
+    "weight": 1
+  },
+  {
+    "source": "#Galveston",
+    "target": "#amreading",
+    "weight": 1
+  },
+  {
+    "source": "#BookSky",
+    "target": "#amreading",
+    "weight": 1
+  },
+  {
+    "source": "#amreadingromance",
+    "target": "#cruise",
+    "weight": 1
+  },
+  {
+    "source": "#amreadingromance",
+    "target": "#cruiselife",
+    "weight": 1
+  },
+  {
+    "source": "#Bahamas",
+    "target": "#amreadingromance",
+    "weight": 1
+  },
+  {
+    "source": "#Cozumel",
+    "target": "#amreadingromance",
+    "weight": 1
+  },
+  {
+    "source": "#Galveston",
+    "target": "#amreadingromance",
+    "weight": 1
+  },
+  {
+    "source": "#BookSky",
+    "target": "#amreadingromance",
+    "weight": 1
+  },
+  {
+    "source": "#cruise",
+    "target": "#cruiselife",
+    "weight": 1
+  },
+  {
+    "source": "#Bahamas",
+    "target": "#cruise",
+    "weight": 1
+  },
+  {
+    "source": "#Cozumel",
+    "target": "#cruise",
+    "weight": 1
+  },
+  {
+    "source": "#Galveston",
+    "target": "#cruise",
+    "weight": 1
+  },
+  {
+    "source": "#BookSky",
+    "target": "#cruise",
+    "weight": 1
+  },
+  {
+    "source": "#Bahamas",
+    "target": "#cruiselife",
+    "weight": 1
+  },
+  {
+    "source": "#Cozumel",
+    "target": "#cruiselife",
+    "weight": 1
+  },
+  {
+    "source": "#Galveston",
+    "target": "#cruiselife",
+    "weight": 1
+  },
+  {
+    "source": "#BookSky",
+    "target": "#cruiselife",
+    "weight": 1
+  },
+  {
+    "source": "#Bahamas",
+    "target": "#Cozumel",
+    "weight": 1
+  },
+  {
+    "source": "#Bahamas",
+    "target": "#Galveston",
+    "weight": 1
+  },
+  {
+    "source": "#Bahamas",
+    "target": "#BookSky",
+    "weight": 1
+  },
+  {
+    "source": "#Cozumel",
+    "target": "#Galveston",
+    "weight": 1
+  },
+  {
+    "source": "#BookSky",
+    "target": "#Cozumel",
+    "weight": 1
+  },
+  {
+    "source": "#BookSky",
+    "target": "#Galveston",
+    "weight": 1
+  },
+  {
+    "source": "#1",
+    "target": "#6",
+    "weight": 1
+  },
+  {
+    "source": "#1",
+    "target": "#9",
+    "weight": 1
+  },
+  {
+    "source": "#1",
+    "target": "#12",
+    "weight": 1
+  },
+  {
+    "source": "#1",
+    "target": "#14",
+    "weight": 1
+  },
+  {
+    "source": "#6",
+    "target": "#9",
+    "weight": 1
+  },
+  {
+    "source": "#12",
+    "target": "#6",
+    "weight": 1
+  },
+  {
+    "source": "#14",
+    "target": "#6",
+    "weight": 1
+  },
+  {
+    "source": "#12",
+    "target": "#9",
+    "weight": 1
+  },
+  {
+    "source": "#14",
+    "target": "#9",
+    "weight": 1
+  },
+  {
+    "source": "#12",
+    "target": "#14",
+    "weight": 1
+  },
+  {
+    "source": "#cybersecurity",
+    "target": "#digitalforensics",
+    "weight": 1
+  },
+  {
+    "source": "#Myanmar",
+    "target": "#SriLanka",
+    "weight": 1
+  },
+  {
+    "source": "#Kerala",
+    "target": "#SriLanka",
+    "weight": 1
+  },
+  {
+    "source": "#India",
+    "target": "#SriLanka",
+    "weight": 1
+  },
+  {
+    "source": "#Kerala",
+    "target": "#Myanmar",
+    "weight": 1
+  },
+  {
+    "source": "#India",
+    "target": "#Myanmar",
+    "weight": 1
+  },
+  {
+    "source": "#India",
+    "target": "#Kerala",
+    "weight": 1
+  },
+  {
+    "source": "#DBCalert",
+    "target": "#Surrey",
+    "weight": 1
+  },
+  {
+    "source": "#TFEveryday",
+    "target": "#TFTuesday",
+    "weight": 1
+  },
+  {
+    "source": "#audioerotica",
+    "target": "#cuckold",
+    "weight": 1
+  },
+  {
+    "source": "#audioerotica",
+    "target": "#hotwife",
+    "weight": 1
+  },
+  {
+    "source": "#audioerotica",
+    "target": "#humiliation",
+    "weight": 1
+  },
+  {
+    "source": "#cuckold",
+    "target": "#hotwife",
+    "weight": 1
+  },
+  {
+    "source": "#cuckold",
+    "target": "#humiliation",
+    "weight": 1
+  },
+  {
+    "source": "#cuckold",
+    "target": "#nsfw",
+    "weight": 1
+  },
+  {
+    "source": "#hotwife",
+    "target": "#humiliation",
+    "weight": 1
+  },
+  {
+    "source": "#hotwife",
+    "target": "#nsfw",
+    "weight": 1
+  },
+  {
+    "source": "#humiliation",
+    "target": "#nsfw",
+    "weight": 1
+  },
+  {
+    "source": "#Covid",
+    "target": "#Hantavirus",
+    "weight": 1
+  },
+  {
+    "source": "#dikt",
+    "target": "#gryning",
+    "weight": 1
+  },
+  {
+    "source": "#gryning",
+    "target": "#gryningensgudinna",
+    "weight": 1
+  },
+  {
+    "source": "#gryning",
+    "target": "#snooza",
+    "weight": 1
+  },
+  {
+    "source": "#gryning",
+    "target": "#poesi",
+    "weight": 1
+  },
+  {
+    "source": "#dikt",
+    "target": "#gryningensgudinna",
+    "weight": 1
+  },
+  {
+    "source": "#dikt",
+    "target": "#snooza",
+    "weight": 1
+  },
+  {
+    "source": "#dikt",
+    "target": "#poesi",
+    "weight": 1
+  },
+  {
+    "source": "#gryningensgudinna",
+    "target": "#snooza",
+    "weight": 1
+  },
+  {
+    "source": "#gryningensgudinna",
+    "target": "#poesi",
+    "weight": 1
+  },
+  {
+    "source": "#poesi",
+    "target": "#snooza",
+    "weight": 1
+  },
+  {
+    "source": "#CruiseData",
+    "target": "#CruiseHistory",
+    "weight": 1
+  },
+  {
+    "source": "#CruiseHistory",
+    "target": "#CruiseInfo",
+    "weight": 1
+  },
+  {
+    "source": "#CruiseHistory",
+    "target": "#CruiseWorld",
+    "weight": 1
+  },
+  {
+    "source": "#CruiseHistory",
+    "target": "#CruiseStats",
+    "weight": 1
+  },
+  {
+    "source": "#CruiseData",
+    "target": "#CruiseInfo",
+    "weight": 1
+  },
+  {
+    "source": "#CruiseData",
+    "target": "#CruiseWorld",
+    "weight": 1
+  },
+  {
+    "source": "#CruiseData",
+    "target": "#CruiseStats",
+    "weight": 1
+  },
+  {
+    "source": "#CruiseInfo",
+    "target": "#CruiseWorld",
+    "weight": 1
+  },
+  {
+    "source": "#CruiseInfo",
+    "target": "#CruiseStats",
+    "weight": 1
+  },
+  {
+    "source": "#CruiseStats",
+    "target": "#CruiseWorld",
+    "weight": 1
+  },
+  {
+    "source": "#038",
+    "target": "#Finance",
+    "weight": 1
+  },
+  {
+    "source": "#8212",
+    "target": "#Finance",
+    "weight": 1
+  },
+  {
+    "source": "#038",
+    "target": "#8212",
+    "weight": 1
+  },
+  {
+    "source": "#FANZAレビュー",
+    "target": "#宍戸里帆",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優",
+    "target": "#宍戸里帆",
+    "weight": 1
+  },
+  {
+    "source": "#ハイビジョン",
+    "target": "#宍戸里帆",
+    "weight": 1
+  },
+  {
+    "source": "#4K",
+    "target": "#宍戸里帆",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優",
+    "target": "#FANZAレビュー",
+    "weight": 1
+  },
+  {
+    "source": "#FANZAレビュー",
+    "target": "#ハイビジョン",
+    "weight": 1
+  },
+  {
+    "source": "#4K",
+    "target": "#FANZAレビュー",
+    "weight": 1
+  },
+  {
+    "source": "#AITransparency",
+    "target": "#Waymo",
+    "weight": 1
+  },
+  {
+    "source": "#AITransparency",
+    "target": "#SelfDrivingCars",
+    "weight": 1
+  },
+  {
+    "source": "#AITransparency",
+    "target": "#LawTails",
+    "weight": 1
+  },
+  {
+    "source": "#AITransparency",
+    "target": "#Shorts",
+    "weight": 1
+  },
+  {
+    "source": "#InfectiousDisease",
+    "target": "#Norovirus",
+    "weight": 1
+  },
+  {
+    "source": "#Norovirus",
+    "target": "#PedsResearch",
+    "weight": 1
+  },
+  {
+    "source": "#InfectiousDisease",
+    "target": "#PedsResearch",
+    "weight": 1
+  },
+  {
+    "source": "#品川区",
+    "target": "#東京都",
+    "weight": 1
+  },
+  {
+    "source": "#パナソニック",
+    "target": "#東京都",
+    "weight": 1
+  },
+  {
+    "source": "#オルガテック",
+    "target": "#東京都",
+    "weight": 1
+  },
+  {
+    "source": "#AVソリューション",
+    "target": "#東京都",
+    "weight": 1
+  },
+  {
+    "source": "#パナソニック",
+    "target": "#品川区",
+    "weight": 1
+  },
+  {
+    "source": "#オルガテック",
+    "target": "#品川区",
+    "weight": 1
+  },
+  {
+    "source": "#AVソリューション",
+    "target": "#品川区",
+    "weight": 1
+  },
+  {
+    "source": "#オルガテック",
+    "target": "#パナソニック",
+    "weight": 1
+  },
+  {
+    "source": "#AVソリューション",
+    "target": "#パナソニック",
+    "weight": 1
+  },
+  {
+    "source": "#AVソリューション",
+    "target": "#オルガテック",
+    "weight": 1
+  },
+  {
+    "source": "#Hantavirus",
+    "target": "#Nature",
+    "weight": 1
+  },
+  {
+    "source": "#ALaVenezolana",
+    "target": "#VenezolanosEnPanamá",
+    "weight": 1
+  },
+  {
+    "source": "#AutonomousVehicles",
+    "target": "#TMIShow",
+    "weight": 1
+  },
+  {
+    "source": "#global",
+    "target": "#humanitaria",
+    "weight": 1
+  },
+  {
+    "source": "#crisis",
+    "target": "#humanitaria",
+    "weight": 1
+  },
+  {
+    "source": "#emergency",
+    "target": "#humanitaria",
+    "weight": 1
+  },
+  {
+    "source": "#disaster",
+    "target": "#humanitaria",
+    "weight": 1
+  },
+  {
+    "source": "#crisis",
+    "target": "#global",
+    "weight": 1
+  },
+  {
+    "source": "#emergency",
+    "target": "#global",
+    "weight": 1
+  },
+  {
+    "source": "#disaster",
+    "target": "#global",
+    "weight": 1
+  },
+  {
+    "source": "#crisis",
+    "target": "#emergency",
+    "weight": 1
+  },
+  {
+    "source": "#crisis",
+    "target": "#disaster",
+    "weight": 1
+  },
+  {
+    "source": "#disaster",
+    "target": "#emergency",
+    "weight": 1
+  },
+  {
+    "source": "#Margaritaville",
+    "target": "#vacation",
+    "weight": 1
+  },
+  {
+    "source": "#Margaritaville",
+    "target": "#naked",
+    "weight": 1
+  },
+  {
+    "source": "#Margaritaville",
+    "target": "#nude",
+    "weight": 1
+  },
+  {
+    "source": "#Margaritaville",
+    "target": "#exhibitionist",
+    "weight": 1
+  },
+  {
+    "source": "#Margaritaville",
+    "target": "#horny",
+    "weight": 1
+  },
+  {
+    "source": "#Margaritaville",
+    "target": "#exposed",
+    "weight": 1
+  },
+  {
+    "source": "#Margaritaville",
+    "target": "#balcony",
+    "weight": 1
+  },
+  {
+    "source": "#Margaritaville",
+    "target": "#bi",
+    "weight": 1
+  },
+  {
+    "source": "#Margaritaville",
+    "target": "#xxx",
+    "weight": 1
+  },
+  {
+    "source": "#naked",
+    "target": "#vacation",
+    "weight": 1
+  },
+  {
+    "source": "#nude",
+    "target": "#vacation",
+    "weight": 1
+  },
+  {
+    "source": "#exhibitionist",
+    "target": "#vacation",
+    "weight": 1
+  },
+  {
+    "source": "#horny",
+    "target": "#vacation",
+    "weight": 1
+  },
+  {
+    "source": "#exposed",
+    "target": "#vacation",
+    "weight": 1
+  },
+  {
+    "source": "#balcony",
+    "target": "#vacation",
+    "weight": 1
+  },
+  {
+    "source": "#bi",
+    "target": "#vacation",
+    "weight": 1
+  },
+  {
+    "source": "#vacation",
+    "target": "#xxx",
+    "weight": 1
+  },
+  {
+    "source": "#naked",
+    "target": "#nude",
+    "weight": 1
+  },
+  {
+    "source": "#exhibitionist",
+    "target": "#naked",
+    "weight": 1
+  },
+  {
+    "source": "#horny",
+    "target": "#naked",
+    "weight": 1
+  },
+  {
+    "source": "#exposed",
+    "target": "#naked",
+    "weight": 1
+  },
+  {
+    "source": "#balcony",
+    "target": "#naked",
+    "weight": 1
+  },
+  {
+    "source": "#exhibitionist",
+    "target": "#nude",
+    "weight": 1
+  },
+  {
+    "source": "#horny",
+    "target": "#nude",
+    "weight": 1
+  },
+  {
+    "source": "#exposed",
+    "target": "#nude",
+    "weight": 1
+  },
+  {
+    "source": "#balcony",
+    "target": "#nude",
+    "weight": 1
+  },
+  {
+    "source": "#bi",
+    "target": "#nude",
+    "weight": 1
+  },
+  {
+    "source": "#exhibitionist",
+    "target": "#horny",
+    "weight": 1
+  },
+  {
+    "source": "#exhibitionist",
+    "target": "#exposed",
+    "weight": 1
+  },
+  {
+    "source": "#balcony",
+    "target": "#exhibitionist",
+    "weight": 1
+  },
+  {
+    "source": "#bi",
+    "target": "#exhibitionist",
+    "weight": 1
+  },
+  {
+    "source": "#exhibitionist",
+    "target": "#xxx",
+    "weight": 1
+  },
+  {
+    "source": "#exposed",
+    "target": "#horny",
+    "weight": 1
+  },
+  {
+    "source": "#balcony",
+    "target": "#horny",
+    "weight": 1
+  },
+  {
+    "source": "#bi",
+    "target": "#horny",
+    "weight": 1
+  },
+  {
+    "source": "#horny",
+    "target": "#xxx",
+    "weight": 1
+  },
+  {
+    "source": "#balcony",
+    "target": "#exposed",
+    "weight": 1
+  },
+  {
+    "source": "#bi",
+    "target": "#exposed",
+    "weight": 1
+  },
+  {
+    "source": "#exposed",
+    "target": "#xxx",
+    "weight": 1
+  },
+  {
+    "source": "#balcony",
+    "target": "#bi",
+    "weight": 1
+  },
+  {
+    "source": "#balcony",
+    "target": "#xxx",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優",
+    "target": "#水原冴香",
+    "weight": 1
+  },
+  {
+    "source": "#FANZA",
+    "target": "#水原冴香",
+    "weight": 1
+  },
+  {
+    "source": "#おすすめ",
+    "target": "#水原冴香",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優",
+    "target": "#おすすめ",
+    "weight": 1
+  },
+  {
+    "source": "#FANZA",
+    "target": "#おすすめ",
+    "weight": 2
+  },
+  {
+    "source": "#OL",
+    "target": "#同人",
+    "weight": 1
+  },
+  {
+    "source": "#JAVIdol",
+    "target": "#素人",
+    "weight": 1
+  },
+  {
+    "source": "#JAVIdol",
+    "target": "#japanesewoman",
+    "weight": 1
+  },
+  {
+    "source": "#JAVIdol",
+    "target": "#kawaii",
+    "weight": 1
+  },
+  {
+    "source": "#JAVIdol",
+    "target": "#JapaneseGirl",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優",
+    "target": "#JAVIdol",
+    "weight": 1
+  },
+  {
+    "source": "#JAVIdol",
+    "target": "#パンチラ",
+    "weight": 1
+  },
+  {
+    "source": "#JAVIdol",
+    "target": "#セクシー女優",
+    "weight": 1
+  },
+  {
+    "source": "#JAVIdol",
+    "target": "#グラドル",
+    "weight": 1
+  },
+  {
+    "source": "#JAV",
+    "target": "#JAVIdol",
+    "weight": 1
+  },
+  {
+    "source": "#JAVIdol",
+    "target": "#JAVQueen",
+    "weight": 1
+  },
+  {
+    "source": "#JAVIdol",
+    "target": "#制服プレイ",
+    "weight": 1
+  },
+  {
+    "source": "#JAVIdol",
+    "target": "#レイプ",
+    "weight": 1
+  },
+  {
+    "source": "#JAVIdol",
+    "target": "#japanesemodel",
+    "weight": 1
+  },
+  {
+    "source": "#japanesewoman",
+    "target": "#素人",
+    "weight": 1
+  },
+  {
+    "source": "#AsianPorn",
+    "target": "#素人",
+    "weight": 1
+  },
+  {
+    "source": "#JapaneseAV",
+    "target": "#素人",
+    "weight": 1
+  },
+  {
+    "source": "#kawaii",
+    "target": "#素人",
+    "weight": 1
+  },
+  {
+    "source": "#Japaneselonghair",
+    "target": "#素人",
+    "weight": 1
+  },
+  {
+    "source": "#セクシー女優",
+    "target": "#素人",
+    "weight": 1
+  },
+  {
+    "source": "#グラドル",
+    "target": "#素人",
+    "weight": 1
+  },
+  {
+    "source": "#レイプ",
+    "target": "#素人",
+    "weight": 1
+  },
+  {
+    "source": "#japanesemodel",
+    "target": "#素人",
+    "weight": 1
+  },
+  {
+    "source": "#AsianPorn",
+    "target": "#japanesewoman",
+    "weight": 1
+  },
+  {
+    "source": "#JapaneseAV",
+    "target": "#japanesewoman",
+    "weight": 1
+  },
+  {
+    "source": "#japanesewoman",
+    "target": "#kawaii",
+    "weight": 1
+  },
+  {
+    "source": "#JapaneseGirl",
+    "target": "#japanesewoman",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優",
+    "target": "#japanesewoman",
+    "weight": 1
+  },
+  {
+    "source": "#japanesewoman",
+    "target": "#パンチラ",
+    "weight": 1
+  },
+  {
+    "source": "#Japaneselonghair",
+    "target": "#japanesewoman",
+    "weight": 1
+  },
+  {
+    "source": "#japanesewoman",
+    "target": "#セクシー女優",
+    "weight": 1
+  },
+  {
+    "source": "#japanesewoman",
+    "target": "#グラドル",
+    "weight": 1
+  },
+  {
+    "source": "#JAV",
+    "target": "#japanesewoman",
+    "weight": 1
+  },
+  {
+    "source": "#JAVQueen",
+    "target": "#japanesewoman",
+    "weight": 1
+  },
+  {
+    "source": "#japanesewoman",
+    "target": "#風俗",
+    "weight": 1
+  },
+  {
+    "source": "#japanesewoman",
+    "target": "#制服プレイ",
+    "weight": 1
+  },
+  {
+    "source": "#japanesewoman",
+    "target": "#レイプ",
+    "weight": 1
+  },
+  {
+    "source": "#japanesemodel",
+    "target": "#japanesewoman",
+    "weight": 1
+  },
+  {
+    "source": "#AsianPorn",
+    "target": "#kawaii",
+    "weight": 1
+  },
+  {
+    "source": "#AsianPorn",
+    "target": "#JapaneseGirl",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優",
+    "target": "#AsianPorn",
+    "weight": 1
+  },
+  {
+    "source": "#AsianPorn",
+    "target": "#パンチラ",
+    "weight": 1
+  },
+  {
+    "source": "#AsianPorn",
+    "target": "#Japaneselonghair",
+    "weight": 1
+  },
+  {
+    "source": "#AsianPorn",
+    "target": "#セクシー女優",
+    "weight": 1
+  },
+  {
+    "source": "#AsianPorn",
+    "target": "#制服プレイ",
+    "weight": 1
+  },
+  {
+    "source": "#AsianPorn",
+    "target": "#japanesemodel",
+    "weight": 1
+  },
+  {
+    "source": "#JapaneseAV",
+    "target": "#JapaneseGirl",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優",
+    "target": "#JapaneseAV",
+    "weight": 1
+  },
+  {
+    "source": "#JapaneseAV",
+    "target": "#Japaneselonghair",
+    "weight": 1
+  },
+  {
+    "source": "#JapaneseAV",
+    "target": "#セクシー女優",
+    "weight": 1
+  },
+  {
+    "source": "#JapaneseAV",
+    "target": "#グラドル",
+    "weight": 1
+  },
+  {
+    "source": "#JAV",
+    "target": "#JapaneseAV",
+    "weight": 1
+  },
+  {
+    "source": "#JAVQueen",
+    "target": "#JapaneseAV",
+    "weight": 1
+  },
+  {
+    "source": "#JapaneseAV",
+    "target": "#制服プレイ",
+    "weight": 1
+  },
+  {
+    "source": "#JapaneseGirl",
+    "target": "#kawaii",
+    "weight": 1
+  },
+  {
+    "source": "#Japaneselonghair",
+    "target": "#kawaii",
+    "weight": 1
+  },
+  {
+    "source": "#kawaii",
+    "target": "#グラドル",
+    "weight": 1
+  },
+  {
+    "source": "#JAV",
+    "target": "#kawaii",
+    "weight": 1
+  },
+  {
+    "source": "#JAVQueen",
+    "target": "#kawaii",
+    "weight": 1
+  },
+  {
+    "source": "#kawaii",
+    "target": "#風俗",
+    "weight": 1
+  },
+  {
+    "source": "#kawaii",
+    "target": "#レイプ",
+    "weight": 1
+  },
+  {
+    "source": "#japanesemodel",
+    "target": "#kawaii",
+    "weight": 1
+  },
+  {
+    "source": "#JapaneseGirl",
+    "target": "#Japaneselonghair",
+    "weight": 1
+  },
+  {
+    "source": "#JapaneseGirl",
+    "target": "#セクシー女優",
+    "weight": 1
+  },
+  {
+    "source": "#JapaneseGirl",
+    "target": "#グラドル",
+    "weight": 1
+  },
+  {
+    "source": "#JapaneseGirl",
+    "target": "#レイプ",
+    "weight": 1
+  },
+  {
+    "source": "#JapaneseGirl",
+    "target": "#japanesemodel",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優",
+    "target": "#Japaneselonghair",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優",
+    "target": "#セクシー女優",
+    "weight": 2
+  },
+  {
+    "source": "#AV女優",
+    "target": "#グラドル",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優",
+    "target": "#japanesemodel",
+    "weight": 1
+  },
+  {
+    "source": "#Japaneselonghair",
+    "target": "#パンチラ",
+    "weight": 1
+  },
+  {
+    "source": "#グラドル",
+    "target": "#パンチラ",
+    "weight": 1
+  },
+  {
+    "source": "#JAV",
+    "target": "#パンチラ",
+    "weight": 1
+  },
+  {
+    "source": "#パンチラ",
+    "target": "#風俗",
+    "weight": 1
+  },
+  {
+    "source": "#パンチラ",
+    "target": "#レイプ",
+    "weight": 1
+  },
+  {
+    "source": "#japanesemodel",
+    "target": "#パンチラ",
+    "weight": 1
+  },
+  {
+    "source": "#Japaneselonghair",
+    "target": "#セクシー女優",
+    "weight": 1
+  },
+  {
+    "source": "#Japaneselonghair",
+    "target": "#グラドル",
+    "weight": 1
+  },
+  {
+    "source": "#JAV",
+    "target": "#Japaneselonghair",
+    "weight": 1
+  },
+  {
+    "source": "#JAVQueen",
+    "target": "#Japaneselonghair",
+    "weight": 1
+  },
+  {
+    "source": "#Japaneselonghair",
+    "target": "#風俗",
+    "weight": 1
+  },
+  {
+    "source": "#Japaneselonghair",
+    "target": "#制服プレイ",
+    "weight": 1
+  },
+  {
+    "source": "#Japaneselonghair",
+    "target": "#レイプ",
+    "weight": 1
+  },
+  {
+    "source": "#グラドル",
+    "target": "#セクシー女優",
+    "weight": 1
+  },
+  {
+    "source": "#JAV",
+    "target": "#セクシー女優",
+    "weight": 1
+  },
+  {
+    "source": "#JAVQueen",
+    "target": "#セクシー女優",
+    "weight": 1
+  },
+  {
+    "source": "#セクシー女優",
+    "target": "#レイプ",
+    "weight": 1
+  },
+  {
+    "source": "#JAV",
+    "target": "#グラドル",
+    "weight": 1
+  },
+  {
+    "source": "#JAVQueen",
+    "target": "#グラドル",
+    "weight": 1
+  },
+  {
+    "source": "#グラドル",
+    "target": "#風俗",
+    "weight": 1
+  },
+  {
+    "source": "#グラドル",
+    "target": "#制服プレイ",
+    "weight": 1
+  },
+  {
+    "source": "#グラドル",
+    "target": "#レイプ",
+    "weight": 1
+  },
+  {
+    "source": "#japanesemodel",
+    "target": "#グラドル",
+    "weight": 1
+  },
+  {
+    "source": "#JAV",
+    "target": "#japanesemodel",
+    "weight": 1
+  },
+  {
+    "source": "#JAVQueen",
+    "target": "#風俗",
+    "weight": 1
+  },
+  {
+    "source": "#JAVQueen",
+    "target": "#japanesemodel",
+    "weight": 1
+  },
+  {
+    "source": "#レイプ",
+    "target": "#風俗",
+    "weight": 1
+  },
+  {
+    "source": "#japanesemodel",
+    "target": "#制服プレイ",
+    "weight": 1
+  },
+  {
+    "source": "#FANZA",
+    "target": "#椿りか",
+    "weight": 1
+  },
+  {
+    "source": "#FANZA",
+    "target": "#泉りおん",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#椿りか",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#泉りおん",
+    "weight": 1
+  },
+  {
+    "source": "#アダルト動画",
+    "target": "#椿りか",
+    "weight": 1
+  },
+  {
+    "source": "#アダルト動画",
+    "target": "#泉りおん",
+    "weight": 1
+  },
+  {
+    "source": "#エロ動画",
+    "target": "#椿りか",
+    "weight": 1
+  },
+  {
+    "source": "#エロ動画",
+    "target": "#泉りおん",
+    "weight": 1
+  },
+  {
+    "source": "#椿りか",
+    "target": "#泉りおん",
+    "weight": 1
+  },
+  {
+    "source": "#中出し",
+    "target": "#椿りか",
+    "weight": 1
+  },
+  {
+    "source": "#巨乳",
+    "target": "#椿りか",
+    "weight": 1
+  },
+  {
+    "source": "#椿りか",
+    "target": "#爆乳",
+    "weight": 1
+  },
+  {
+    "source": "#中出し",
+    "target": "#泉りおん",
+    "weight": 1
+  },
+  {
+    "source": "#巨乳",
+    "target": "#泉りおん",
+    "weight": 1
+  },
+  {
+    "source": "#泉りおん",
+    "target": "#爆乳",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優",
+    "target": "#sissy",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優",
+    "target": "#femboy",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優",
+    "target": "#bodystocking",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優",
+    "target": "#tsjuliax",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優",
+    "target": "#juliax",
+    "weight": 2
+  },
+  {
+    "source": "#AV女優",
+    "target": "#男の娘",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優",
+    "target": "#初音ヒョリ",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優",
+    "target": "#ニューハーフ",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優",
+    "target": "#ladyboy",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優",
+    "target": "#쉬멜",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優",
+    "target": "#줄리아",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優",
+    "target": "#효리",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優",
+    "target": "#hyori",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優",
+    "target": "#hyorihatsune",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優",
+    "target": "#transgender",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優",
+    "target": "#트랜스젠더",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優",
+    "target": "#스타킹",
+    "weight": 1
+  },
+  {
+    "source": "#femboy",
+    "target": "#sissy",
+    "weight": 1
+  },
+  {
+    "source": "#bodystocking",
+    "target": "#sissy",
+    "weight": 1
+  },
+  {
+    "source": "#sissy",
+    "target": "#tsjuliax",
+    "weight": 1
+  },
+  {
+    "source": "#juliax",
+    "target": "#sissy",
+    "weight": 2
+  },
+  {
+    "source": "#sissy",
+    "target": "#男の娘",
+    "weight": 1
+  },
+  {
+    "source": "#sissy",
+    "target": "#初音ヒョリ",
+    "weight": 1
+  },
+  {
+    "source": "#ladyboy",
+    "target": "#sissy",
+    "weight": 1
+  },
+  {
+    "source": "#sissy",
+    "target": "#쉬멜",
+    "weight": 1
+  },
+  {
+    "source": "#sissy",
+    "target": "#줄리아",
+    "weight": 1
+  },
+  {
+    "source": "#sissy",
+    "target": "#효리",
+    "weight": 1
+  },
+  {
+    "source": "#hyori",
+    "target": "#sissy",
+    "weight": 1
+  },
+  {
+    "source": "#hyorihatsune",
+    "target": "#sissy",
+    "weight": 1
+  },
+  {
+    "source": "#sissy",
+    "target": "#transgender",
+    "weight": 1
+  },
+  {
+    "source": "#sissy",
+    "target": "#트랜스젠더",
+    "weight": 1
+  },
+  {
+    "source": "#sissy",
+    "target": "#스타킹",
+    "weight": 1
+  },
+  {
+    "source": "#bodystocking",
+    "target": "#femboy",
+    "weight": 1
+  },
+  {
+    "source": "#femboy",
+    "target": "#tsjuliax",
+    "weight": 1
+  },
+  {
+    "source": "#femboy",
+    "target": "#juliax",
+    "weight": 2
+  },
+  {
+    "source": "#femboy",
+    "target": "#男の娘",
+    "weight": 1
+  },
+  {
+    "source": "#femboy",
+    "target": "#初音ヒョリ",
+    "weight": 1
+  },
+  {
+    "source": "#femboy",
+    "target": "#ニューハーフ",
+    "weight": 1
+  },
+  {
+    "source": "#femboy",
+    "target": "#ladyboy",
+    "weight": 1
+  },
+  {
+    "source": "#femboy",
+    "target": "#쉬멜",
+    "weight": 1
+  },
+  {
+    "source": "#femboy",
+    "target": "#줄리아",
+    "weight": 1
+  },
+  {
+    "source": "#femboy",
+    "target": "#효리",
+    "weight": 1
+  },
+  {
+    "source": "#femboy",
+    "target": "#hyori",
+    "weight": 1
+  },
+  {
+    "source": "#femboy",
+    "target": "#hyorihatsune",
+    "weight": 1
+  },
+  {
+    "source": "#femboy",
+    "target": "#transgender",
+    "weight": 1
+  },
+  {
+    "source": "#femboy",
+    "target": "#트랜스젠더",
+    "weight": 1
+  },
+  {
+    "source": "#femboy",
+    "target": "#스타킹",
+    "weight": 1
+  },
+  {
+    "source": "#bodystocking",
+    "target": "#tsjuliax",
+    "weight": 1
+  },
+  {
+    "source": "#bodystocking",
+    "target": "#juliax",
+    "weight": 2
+  },
+  {
+    "source": "#bodystocking",
+    "target": "#男の娘",
+    "weight": 1
+  },
+  {
+    "source": "#bodystocking",
+    "target": "#初音ヒョリ",
+    "weight": 1
+  },
+  {
+    "source": "#bodystocking",
+    "target": "#ニューハーフ",
+    "weight": 1
+  },
+  {
+    "source": "#bodystocking",
+    "target": "#ladyboy",
+    "weight": 1
+  },
+  {
+    "source": "#bodystocking",
+    "target": "#쉬멜",
+    "weight": 1
+  },
+  {
+    "source": "#bodystocking",
+    "target": "#줄리아",
+    "weight": 1
+  },
+  {
+    "source": "#bodystocking",
+    "target": "#효리",
+    "weight": 1
+  },
+  {
+    "source": "#bodystocking",
+    "target": "#hyori",
+    "weight": 1
+  },
+  {
+    "source": "#bodystocking",
+    "target": "#hyorihatsune",
+    "weight": 1
+  },
+  {
+    "source": "#bodystocking",
+    "target": "#transgender",
+    "weight": 1
+  },
+  {
+    "source": "#bodystocking",
+    "target": "#트랜스젠더",
+    "weight": 1
+  },
+  {
+    "source": "#bodystocking",
+    "target": "#스타킹",
+    "weight": 1
+  },
+  {
+    "source": "#juliax",
+    "target": "#tsjuliax",
+    "weight": 2
+  },
+  {
+    "source": "#tsjuliax",
+    "target": "#男の娘",
+    "weight": 1
+  },
+  {
+    "source": "#tsjuliax",
+    "target": "#初音ヒョリ",
+    "weight": 1
+  },
+  {
+    "source": "#tsjuliax",
+    "target": "#ニューハーフ",
+    "weight": 1
+  },
+  {
+    "source": "#ladyboy",
+    "target": "#tsjuliax",
+    "weight": 1
+  },
+  {
+    "source": "#tsjuliax",
+    "target": "#쉬멜",
+    "weight": 1
+  },
+  {
+    "source": "#tsjuliax",
+    "target": "#줄리아",
+    "weight": 1
+  },
+  {
+    "source": "#tsjuliax",
+    "target": "#효리",
+    "weight": 1
+  },
+  {
+    "source": "#hyori",
+    "target": "#tsjuliax",
+    "weight": 1
+  },
+  {
+    "source": "#hyorihatsune",
+    "target": "#tsjuliax",
+    "weight": 1
+  },
+  {
+    "source": "#transgender",
+    "target": "#tsjuliax",
+    "weight": 1
+  },
+  {
+    "source": "#tsjuliax",
+    "target": "#트랜스젠더",
+    "weight": 1
+  },
+  {
+    "source": "#tsjuliax",
+    "target": "#스타킹",
+    "weight": 1
+  },
+  {
+    "source": "#juliax",
+    "target": "#男の娘",
+    "weight": 2
+  },
+  {
+    "source": "#juliax",
+    "target": "#初音ヒョリ",
+    "weight": 2
+  },
+  {
+    "source": "#juliax",
+    "target": "#ニューハーフ",
+    "weight": 2
+  },
+  {
+    "source": "#juliax",
+    "target": "#ladyboy",
+    "weight": 2
+  },
+  {
+    "source": "#juliax",
+    "target": "#쉬멜",
+    "weight": 2
+  },
+  {
+    "source": "#juliax",
+    "target": "#줄리아",
+    "weight": 2
+  },
+  {
+    "source": "#juliax",
+    "target": "#효리",
+    "weight": 2
+  },
+  {
+    "source": "#hyori",
+    "target": "#juliax",
+    "weight": 2
+  },
+  {
+    "source": "#hyorihatsune",
+    "target": "#juliax",
+    "weight": 2
+  },
+  {
+    "source": "#juliax",
+    "target": "#juliax",
+    "weight": 1
+  },
+  {
+    "source": "#juliax",
+    "target": "#transgender",
+    "weight": 2
+  },
+  {
+    "source": "#juliax",
+    "target": "#트랜스젠더",
+    "weight": 2
+  },
+  {
+    "source": "#juliax",
+    "target": "#스타킹",
+    "weight": 2
+  },
+  {
+    "source": "#初音ヒョリ",
+    "target": "#男の娘",
+    "weight": 1
+  },
+  {
+    "source": "#ニューハーフ",
+    "target": "#男の娘",
+    "weight": 1
+  },
+  {
+    "source": "#ladyboy",
+    "target": "#男の娘",
+    "weight": 1
+  },
+  {
+    "source": "#男の娘",
+    "target": "#쉬멜",
+    "weight": 1
+  },
+  {
+    "source": "#男の娘",
+    "target": "#줄리아",
+    "weight": 1
+  },
+  {
+    "source": "#男の娘",
+    "target": "#효리",
+    "weight": 1
+  },
+  {
+    "source": "#hyori",
+    "target": "#男の娘",
+    "weight": 1
+  },
+  {
+    "source": "#hyorihatsune",
+    "target": "#男の娘",
+    "weight": 1
+  },
+  {
+    "source": "#transgender",
+    "target": "#男の娘",
+    "weight": 1
+  },
+  {
+    "source": "#男の娘",
+    "target": "#트랜스젠더",
+    "weight": 1
+  },
+  {
+    "source": "#男の娘",
+    "target": "#스타킹",
+    "weight": 1
+  },
+  {
+    "source": "#ニューハーフ",
+    "target": "#初音ヒョリ",
+    "weight": 1
+  },
+  {
+    "source": "#ladyboy",
+    "target": "#初音ヒョリ",
+    "weight": 1
+  },
+  {
+    "source": "#初音ヒョリ",
+    "target": "#쉬멜",
+    "weight": 1
+  },
+  {
+    "source": "#初音ヒョリ",
+    "target": "#줄리아",
+    "weight": 1
+  },
+  {
+    "source": "#初音ヒョリ",
+    "target": "#효리",
+    "weight": 1
+  },
+  {
+    "source": "#hyori",
+    "target": "#初音ヒョリ",
+    "weight": 1
+  },
+  {
+    "source": "#hyorihatsune",
+    "target": "#初音ヒョリ",
+    "weight": 1
+  },
+  {
+    "source": "#transgender",
+    "target": "#初音ヒョリ",
+    "weight": 1
+  },
+  {
+    "source": "#初音ヒョリ",
+    "target": "#트랜스젠더",
+    "weight": 1
+  },
+  {
+    "source": "#初音ヒョリ",
+    "target": "#스타킹",
+    "weight": 1
+  },
+  {
+    "source": "#ladyboy",
+    "target": "#ニューハーフ",
+    "weight": 1
+  },
+  {
+    "source": "#ニューハーフ",
+    "target": "#쉬멜",
+    "weight": 1
+  },
+  {
+    "source": "#ニューハーフ",
+    "target": "#줄리아",
+    "weight": 1
+  },
+  {
+    "source": "#ニューハーフ",
+    "target": "#효리",
+    "weight": 1
+  },
+  {
+    "source": "#hyori",
+    "target": "#ニューハーフ",
+    "weight": 1
+  },
+  {
+    "source": "#hyorihatsune",
+    "target": "#ニューハーフ",
+    "weight": 1
+  },
+  {
+    "source": "#transgender",
+    "target": "#ニューハーフ",
+    "weight": 1
+  },
+  {
+    "source": "#ニューハーフ",
+    "target": "#트랜스젠더",
+    "weight": 1
+  },
+  {
+    "source": "#ニューハーフ",
+    "target": "#스타킹",
+    "weight": 1
+  },
+  {
+    "source": "#ladyboy",
+    "target": "#쉬멜",
+    "weight": 1
+  },
+  {
+    "source": "#ladyboy",
+    "target": "#줄리아",
+    "weight": 1
+  },
+  {
+    "source": "#ladyboy",
+    "target": "#효리",
+    "weight": 1
+  },
+  {
+    "source": "#hyori",
+    "target": "#ladyboy",
+    "weight": 1
+  },
+  {
+    "source": "#hyorihatsune",
+    "target": "#ladyboy",
+    "weight": 1
+  },
+  {
+    "source": "#ladyboy",
+    "target": "#transgender",
+    "weight": 1
+  },
+  {
+    "source": "#ladyboy",
+    "target": "#트랜스젠더",
+    "weight": 1
+  },
+  {
+    "source": "#ladyboy",
+    "target": "#스타킹",
+    "weight": 1
+  },
+  {
+    "source": "#쉬멜",
+    "target": "#줄리아",
+    "weight": 1
+  },
+  {
+    "source": "#쉬멜",
+    "target": "#효리",
+    "weight": 1
+  },
+  {
+    "source": "#hyori",
+    "target": "#쉬멜",
+    "weight": 1
+  },
+  {
+    "source": "#hyorihatsune",
+    "target": "#쉬멜",
+    "weight": 1
+  },
+  {
+    "source": "#transgender",
+    "target": "#쉬멜",
+    "weight": 1
+  },
+  {
+    "source": "#쉬멜",
+    "target": "#트랜스젠더",
+    "weight": 1
+  },
+  {
+    "source": "#쉬멜",
+    "target": "#스타킹",
+    "weight": 1
+  },
+  {
+    "source": "#줄리아",
+    "target": "#효리",
+    "weight": 1
+  },
+  {
+    "source": "#hyori",
+    "target": "#줄리아",
+    "weight": 1
+  },
+  {
+    "source": "#hyorihatsune",
+    "target": "#줄리아",
+    "weight": 1
+  },
+  {
+    "source": "#transgender",
+    "target": "#줄리아",
+    "weight": 1
+  },
+  {
+    "source": "#줄리아",
+    "target": "#트랜스젠더",
+    "weight": 1
+  },
+  {
+    "source": "#스타킹",
+    "target": "#줄리아",
+    "weight": 1
+  },
+  {
+    "source": "#hyori",
+    "target": "#효리",
+    "weight": 1
+  },
+  {
+    "source": "#hyorihatsune",
+    "target": "#효리",
+    "weight": 1
+  },
+  {
+    "source": "#transgender",
+    "target": "#효리",
+    "weight": 1
+  },
+  {
+    "source": "#트랜스젠더",
+    "target": "#효리",
+    "weight": 1
+  },
+  {
+    "source": "#스타킹",
+    "target": "#효리",
+    "weight": 1
+  },
+  {
+    "source": "#hyori",
+    "target": "#hyorihatsune",
+    "weight": 1
+  },
+  {
+    "source": "#hyori",
+    "target": "#transgender",
+    "weight": 1
+  },
+  {
+    "source": "#hyori",
+    "target": "#트랜스젠더",
+    "weight": 1
+  },
+  {
+    "source": "#hyori",
+    "target": "#스타킹",
+    "weight": 1
+  },
+  {
+    "source": "#hyorihatsune",
+    "target": "#transgender",
+    "weight": 1
+  },
+  {
+    "source": "#hyorihatsune",
+    "target": "#트랜스젠더",
+    "weight": 1
+  },
+  {
+    "source": "#hyorihatsune",
+    "target": "#스타킹",
+    "weight": 1
+  },
+  {
+    "source": "#transgender",
+    "target": "#트랜스젠더",
+    "weight": 1
+  },
+  {
+    "source": "#transgender",
+    "target": "#스타킹",
+    "weight": 1
+  },
+  {
+    "source": "#스타킹",
+    "target": "#트랜스젠더",
+    "weight": 1
+  },
+  {
+    "source": "#ausnews",
+    "target": "#response",
+    "weight": 1
+  },
+  {
+    "source": "#response",
+    "target": "#vicnews",
+    "weight": 1
+  },
+  {
+    "source": "#av",
+    "target": "#response",
+    "weight": 1
+  },
+  {
+    "source": "#ambulance",
+    "target": "#response",
+    "weight": 1
+  },
+  {
+    "source": "#paramedics",
+    "target": "#response",
+    "weight": 1
+  },
+  {
+    "source": "#Deep",
+    "target": "#Dive",
+    "weight": 1
+  },
+  {
+    "source": "#Deep",
+    "target": "#Rebreather",
+    "weight": 1
+  },
+  {
+    "source": "#Dive",
+    "target": "#Rebreather",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優",
+    "target": "#沙月恵奈",
+    "weight": 1
+  },
+  {
+    "source": "#セクシー女優",
+    "target": "#中出し",
+    "weight": 1
+  },
+  {
+    "source": "#セクシー女優",
+    "target": "#沙月恵奈",
+    "weight": 1
+  },
+  {
+    "source": "#中出し",
+    "target": "#沙月恵奈",
+    "weight": 1
+  },
+  {
+    "source": "#LineaBelgranoSur",
+    "target": "#TrenRoca",
+    "weight": 1
+  },
+  {
+    "source": "#LineaBelgranoSur",
+    "target": "#TrenBelgranoSur",
+    "weight": 1
+  },
+  {
+    "source": "#TrenBelgranoSur",
+    "target": "#TrenRoca",
+    "weight": 1
+  },
+  {
+    "source": "#JAVFans",
+    "target": "#javidol",
+    "weight": 1
+  },
+  {
+    "source": "#javidol",
+    "target": "#セクシー",
+    "weight": 1
+  },
+  {
+    "source": "#JapaneseIdol",
+    "target": "#javidol",
+    "weight": 1
+  },
+  {
+    "source": "#javidol",
+    "target": "#風俗",
+    "weight": 1
+  },
+  {
+    "source": "#javidol",
+    "target": "#フェラ",
+    "weight": 1
+  },
+  {
+    "source": "#セクシー",
+    "target": "#楓カレン",
+    "weight": 1
+  },
+  {
+    "source": "#楓カレン",
+    "target": "#脚フェチ",
+    "weight": 1
+  },
+  {
+    "source": "#JapaneseIdol",
+    "target": "#楓カレン",
+    "weight": 1
+  },
+  {
+    "source": "#楓カレン",
+    "target": "#風俗",
+    "weight": 1
+  },
+  {
+    "source": "#フェラ",
+    "target": "#楓カレン",
+    "weight": 1
+  },
+  {
+    "source": "#JAVFans",
+    "target": "#JAVLove",
+    "weight": 1
+  },
+  {
+    "source": "#JAVLove",
+    "target": "#セクシー",
+    "weight": 1
+  },
+  {
+    "source": "#JAVLove",
+    "target": "#JapaneseIdol",
+    "weight": 1
+  },
+  {
+    "source": "#JAVFans",
+    "target": "#脚フェチ",
+    "weight": 1
+  },
+  {
+    "source": "#JAVFans",
+    "target": "#JapaneseIdol",
+    "weight": 1
+  },
+  {
+    "source": "#JAVBabe",
+    "target": "#JAVFans",
+    "weight": 1
+  },
+  {
+    "source": "#JAVFans",
+    "target": "#フェラ",
+    "weight": 1
+  },
+  {
+    "source": "#セクシー",
+    "target": "#脚フェチ",
+    "weight": 1
+  },
+  {
+    "source": "#JapaneseIdol",
+    "target": "#セクシー",
+    "weight": 1
+  },
+  {
+    "source": "#JAVBabe",
+    "target": "#セクシー",
+    "weight": 1
+  },
+  {
+    "source": "#セクシー",
+    "target": "#フェラ",
+    "weight": 1
+  },
+  {
+    "source": "#JapaneseIdol",
+    "target": "#脚フェチ",
+    "weight": 1
+  },
+  {
+    "source": "#脚フェチ",
+    "target": "#風俗",
+    "weight": 1
+  },
+  {
+    "source": "#JapaneseIdol",
+    "target": "#風俗",
+    "weight": 1
+  },
+  {
+    "source": "#JapaneseIdol",
+    "target": "#フェラ",
+    "weight": 1
+  },
+  {
+    "source": "#JAVBabe",
+    "target": "#風俗",
+    "weight": 1
+  },
+  {
+    "source": "#フェラ",
+    "target": "#風俗",
+    "weight": 1
+  },
+  {
+    "source": "#JAVBabe",
+    "target": "#フェラ",
+    "weight": 1
+  },
+  {
+    "source": "#HobbyStreak",
+    "target": "#MurderTurks",
+    "weight": 1
+  },
+  {
+    "source": "#HobbyStreak",
+    "target": "#OilPaint",
+    "weight": 1
+  },
+  {
+    "source": "#MurderTurks",
+    "target": "#OilPaint",
+    "weight": 1
+  },
+  {
+    "source": "#canon",
+    "target": "#filmphotography",
+    "weight": 1
+  },
+  {
+    "source": "#FANZA",
+    "target": "#宍戸里帆",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#宍戸里帆",
+    "weight": 1
+  },
+  {
+    "source": "#アダルト動画",
+    "target": "#宍戸里帆",
+    "weight": 1
+  },
+  {
+    "source": "#エロ動画",
+    "target": "#宍戸里帆",
+    "weight": 1
+  },
+  {
+    "source": "#単体作品",
+    "target": "#宍戸里帆",
+    "weight": 1
+  },
+  {
+    "source": "#宍戸里帆",
+    "target": "#巨乳",
+    "weight": 1
+  },
+  {
+    "source": "#宍戸里帆",
+    "target": "#爆乳",
+    "weight": 1
+  },
+  {
+    "source": "#中出し",
+    "target": "#宍戸里帆",
+    "weight": 1
+  },
+  {
+    "source": "#BradCooper",
+    "target": "#U",
+    "weight": 1
+  },
+  {
+    "source": "#BradCooper",
+    "target": "#MinabSchool",
+    "weight": 1
+  },
+  {
+    "source": "#BradCooper",
+    "target": "#Tomahawk",
+    "weight": 1
+  },
+  {
+    "source": "#BradCooper",
+    "target": "#WarCriminals",
+    "weight": 1
+  },
+  {
+    "source": "#MinabSchool",
+    "target": "#U",
+    "weight": 1
+  },
+  {
+    "source": "#Tomahawk",
+    "target": "#U",
+    "weight": 1
+  },
+  {
+    "source": "#U",
+    "target": "#WarCriminals",
+    "weight": 1
+  },
+  {
+    "source": "#MinabSchool",
+    "target": "#Tomahawk",
+    "weight": 1
+  },
+  {
+    "source": "#MinabSchool",
+    "target": "#WarCriminals",
+    "weight": 1
+  },
+  {
+    "source": "#Tomahawk",
+    "target": "#WarCriminals",
+    "weight": 1
+  },
+  {
+    "source": "#Ann_Arbor",
+    "target": "#United_States",
+    "weight": 1
+  },
+  {
+    "source": "#May_Mobility",
+    "target": "#United_States",
+    "weight": 1
+  },
+  {
+    "source": "#Autonomous_Vehicle",
+    "target": "#United_States",
+    "weight": 1
+  },
+  {
+    "source": "#AV_Technology",
+    "target": "#United_States",
+    "weight": 1
+  },
+  {
+    "source": "#Ann_Arbor",
+    "target": "#May_Mobility",
+    "weight": 1
+  },
+  {
+    "source": "#Ann_Arbor",
+    "target": "#Autonomous_Vehicle",
+    "weight": 1
+  },
+  {
+    "source": "#AV_Technology",
+    "target": "#Ann_Arbor",
+    "weight": 1
+  },
+  {
+    "source": "#Autonomous_Vehicle",
+    "target": "#May_Mobility",
+    "weight": 1
+  },
+  {
+    "source": "#AV_Technology",
+    "target": "#May_Mobility",
+    "weight": 1
+  },
+  {
+    "source": "#AV_Technology",
+    "target": "#Autonomous_Vehicle",
+    "weight": 1
+  },
+  {
+    "source": "#RobotaxiSafety",
+    "target": "#SelfDrivingCars",
+    "weight": 1
+  },
+  {
+    "source": "#AlaskaCruises",
+    "target": "#CruiseNews",
+    "weight": 1
+  },
+  {
+    "source": "#CruiseNews",
+    "target": "#MaritimeLeadership",
+    "weight": 1
+  },
+  {
+    "source": "#AlaskaCruises",
+    "target": "#MaritimeLeadership",
+    "weight": 1
+  },
+  {
+    "source": "#runchat",
+    "target": "#running",
+    "weight": 1
+  },
+  {
+    "source": "#Israel",
+    "target": "#Palestina",
+    "weight": 2
+  },
+  {
+    "source": "#HE",
+    "target": "#universities",
+    "weight": 1
+  },
+  {
+    "source": "#FANZA",
+    "target": "#FANZAランキング",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#FANZAランキング",
+    "weight": 1
+  },
+  {
+    "source": "#FANZAランキング",
+    "target": "#エロ動画",
+    "weight": 1
+  },
+  {
+    "source": "#FANZAランキング",
+    "target": "#抜ける",
+    "weight": 1
+  },
+  {
+    "source": "#FANZAランキング",
+    "target": "#おすすめ",
+    "weight": 1
+  },
+  {
+    "source": "#FANZA",
+    "target": "#抜ける",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#抜ける",
+    "weight": 1
+  },
+  {
+    "source": "#AV",
+    "target": "#おすすめ",
+    "weight": 1
+  },
+  {
+    "source": "#エロ動画",
+    "target": "#抜ける",
+    "weight": 1
+  },
+  {
+    "source": "#おすすめ",
+    "target": "#エロ動画",
+    "weight": 1
+  },
+  {
+    "source": "#おすすめ",
+    "target": "#抜ける",
+    "weight": 1
+  },
+  {
+    "source": "#ローション",
+    "target": "#単体作品",
+    "weight": 1
+  },
+  {
+    "source": "#フェラ",
+    "target": "#単体作品",
+    "weight": 1
+  },
+  {
+    "source": "#フェラ",
+    "target": "#ローション",
+    "weight": 1
+  },
+  {
+    "source": "#FANZA",
+    "target": "#ローション",
+    "weight": 1
+  },
+  {
+    "source": "#ローション",
+    "target": "#新作AV",
+    "weight": 1
+  },
+  {
+    "source": "#EnergyTalks",
+    "target": "#PutinXi",
+    "weight": 1
+  },
+  {
+    "source": "#BoatSale",
+    "target": "#NewBoat",
+    "weight": 1
+  },
+  {
+    "source": "#BoatSale",
+    "target": "#CruiseBoat",
+    "weight": 1
+  },
+  {
+    "source": "#CruiseBoat",
+    "target": "#NewBoat",
+    "weight": 1
+  },
+  {
+    "source": "#2wordprompt",
+    "target": "#vss365",
+    "weight": 1
+  },
+  {
+    "source": "#betrayal",
+    "target": "#vss365",
+    "weight": 1
+  },
+  {
+    "source": "#turn",
+    "target": "#vss365",
+    "weight": 1
+  },
+  {
+    "source": "#three",
+    "target": "#vss365",
+    "weight": 1
+  },
+  {
+    "source": "#2wordprompt",
+    "target": "#betrayal",
+    "weight": 1
+  },
+  {
+    "source": "#2wordprompt",
+    "target": "#turn",
+    "weight": 1
+  },
+  {
+    "source": "#2wordprompt",
+    "target": "#three",
+    "weight": 1
+  },
+  {
+    "source": "#betrayal",
+    "target": "#turn",
+    "weight": 1
+  },
+  {
+    "source": "#betrayal",
+    "target": "#three",
+    "weight": 1
+  },
+  {
+    "source": "#three",
+    "target": "#turn",
+    "weight": 1
+  },
+  {
+    "source": "#goldmansachs",
+    "target": "#gulfstreamg280",
+    "weight": 1
+  },
+  {
+    "source": "#celebplanes",
+    "target": "#tysonfoods",
+    "weight": 1
+  },
+  {
+    "source": "#celebplanes",
+    "target": "#dassaultfalcon2000ex",
+    "weight": 1
+  },
+  {
+    "source": "#celebjettracking",
+    "target": "#tysonfoods",
+    "weight": 1
+  },
+  {
+    "source": "#celebjettracking",
+    "target": "#dassaultfalcon2000ex",
+    "weight": 1
+  },
+  {
+    "source": "#privatejet",
+    "target": "#tysonfoods",
+    "weight": 1
+  },
+  {
+    "source": "#dassaultfalcon2000ex",
+    "target": "#privatejet",
+    "weight": 1
+  },
+  {
+    "source": "#avgeek",
+    "target": "#tysonfoods",
+    "weight": 1
+  },
+  {
+    "source": "#avgeek",
+    "target": "#dassaultfalcon2000ex",
+    "weight": 1
+  },
+  {
+    "source": "#dassaultfalcon2000ex",
+    "target": "#tysonfoods",
+    "weight": 1
+  },
+  {
+    "source": "#China",
+    "target": "#Taiwan",
+    "weight": 1
+  },
+  {
+    "source": "#DEEP",
+    "target": "#企画",
+    "weight": 1
+  },
+  {
+    "source": "#企画",
+    "target": "#写真集",
+    "weight": 1
+  },
+  {
+    "source": "#人妻",
+    "target": "#企画",
+    "weight": 1
+  },
+  {
+    "source": "#企画",
+    "target": "#素人",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#artificialintelligence",
+    "weight": 1
+  },
+  {
+    "source": "#浜崎真緒",
+    "target": "#笠木いちか",
+    "weight": 1
+  },
+  {
+    "source": "#MAX",
+    "target": "#浜崎真緒",
+    "weight": 1
+  },
+  {
+    "source": "#写真集",
+    "target": "#浜崎真緒",
+    "weight": 1
+  },
+  {
+    "source": "#巨乳",
+    "target": "#浜崎真緒",
+    "weight": 1
+  },
+  {
+    "source": "#乱交",
+    "target": "#浜崎真緒",
+    "weight": 1
+  },
+  {
+    "source": "#ドキュメンタリー",
+    "target": "#浜崎真緒",
+    "weight": 1
+  },
+  {
+    "source": "#MAX",
+    "target": "#笠木いちか",
+    "weight": 1
+  },
+  {
+    "source": "#写真集",
+    "target": "#笠木いちか",
+    "weight": 1
+  },
+  {
+    "source": "#巨乳",
+    "target": "#笠木いちか",
+    "weight": 1
+  },
+  {
+    "source": "#乱交",
+    "target": "#笠木いちか",
+    "weight": 1
+  },
+  {
+    "source": "#ドキュメンタリー",
+    "target": "#笠木いちか",
+    "weight": 1
+  },
+  {
+    "source": "#MAX",
+    "target": "#写真集",
+    "weight": 1
+  },
+  {
+    "source": "#MAX",
+    "target": "#巨乳",
+    "weight": 1
+  },
+  {
+    "source": "#MAX",
+    "target": "#乱交",
+    "weight": 1
+  },
+  {
+    "source": "#MAX",
+    "target": "#ドキュメンタリー",
+    "weight": 1
+  },
+  {
+    "source": "#ドキュメンタリー",
+    "target": "#写真集",
+    "weight": 1
+  },
+  {
+    "source": "#ドキュメンタリー",
+    "target": "#巨乳",
+    "weight": 1
+  },
+  {
+    "source": "#ドキュメンタリー",
+    "target": "#乱交",
+    "weight": 1
+  },
+  {
+    "source": "#エロ動画",
+    "target": "#黒木れいな",
+    "weight": 1
+  },
+  {
+    "source": "#おっぱい",
+    "target": "#黒木れいな",
+    "weight": 1
+  },
+  {
+    "source": "#DEEP",
+    "target": "#坂本なつ歩",
+    "weight": 1
+  },
+  {
+    "source": "#写真集",
+    "target": "#坂本なつ歩",
+    "weight": 1
+  },
+  {
+    "source": "#人妻",
+    "target": "#坂本なつ歩",
+    "weight": 1
+  },
+  {
+    "source": "#単体作品",
+    "target": "#坂本なつ歩",
+    "weight": 1
+  },
+  {
+    "source": "#中出し",
+    "target": "#坂本なつ歩",
+    "weight": 1
+  },
+  {
+    "source": "#DEEP",
+    "target": "#単体作品",
+    "weight": 1
+  },
+  {
+    "source": "#DEEP",
+    "target": "#中出し",
+    "weight": 1
+  },
+  {
+    "source": "#写真集",
+    "target": "#単体作品",
+    "weight": 1
+  },
+  {
+    "source": "#中出し",
+    "target": "#写真集",
+    "weight": 1
+  },
+  {
+    "source": "#人妻",
+    "target": "#単体作品",
+    "weight": 1
+  },
+  {
+    "source": "#DEEP",
+    "target": "#寝取り",
+    "weight": 1
+  },
+  {
+    "source": "#DEEP",
+    "target": "#カップル",
+    "weight": 1
+  },
+  {
+    "source": "#写真集",
+    "target": "#寝取り",
+    "weight": 1
+  },
+  {
+    "source": "#カップル",
+    "target": "#写真集",
+    "weight": 1
+  },
+  {
+    "source": "#寝取り",
+    "target": "#素人",
+    "weight": 1
+  },
+  {
+    "source": "#カップル",
+    "target": "#素人",
+    "weight": 1
+  },
+  {
+    "source": "#カップル",
+    "target": "#寝取り",
+    "weight": 1
+  },
+  {
+    "source": "#ふたなり",
+    "target": "#ニューハーフ",
+    "weight": 1
+  },
+  {
+    "source": "#ニューハーフ",
+    "target": "#女装",
+    "weight": 1
+  },
+  {
+    "source": "#チンポ女子",
+    "target": "#ニューハーフ",
+    "weight": 1
+  },
+  {
+    "source": "#ニューハーフ",
+    "target": "#ニューハーフAV",
+    "weight": 1
+  },
+  {
+    "source": "#アジア妄想族",
+    "target": "#ニューハーフ",
+    "weight": 1
+  },
+  {
+    "source": "#ふたなり",
+    "target": "#女装",
+    "weight": 1
+  },
+  {
+    "source": "#ふたなり",
+    "target": "#チンポ女子",
+    "weight": 1
+  },
+  {
+    "source": "#ふたなり",
+    "target": "#ニューハーフAV",
+    "weight": 1
+  },
+  {
+    "source": "#ふたなり",
+    "target": "#アジア妄想族",
+    "weight": 1
+  },
+  {
+    "source": "#チンポ女子",
+    "target": "#女装",
+    "weight": 1
+  },
+  {
+    "source": "#ニューハーフAV",
+    "target": "#女装",
+    "weight": 1
+  },
+  {
+    "source": "#アジア妄想族",
+    "target": "#女装",
+    "weight": 1
+  },
+  {
+    "source": "#チンポ女子",
+    "target": "#ニューハーフAV",
+    "weight": 1
+  },
+  {
+    "source": "#アジア妄想族",
+    "target": "#チンポ女子",
+    "weight": 1
+  },
+  {
+    "source": "#アジア妄想族",
+    "target": "#ニューハーフAV",
+    "weight": 1
+  },
+  {
+    "source": "#CruiseEnthusiast",
+    "target": "#DreamCruises",
+    "weight": 1
+  },
+  {
+    "source": "#CruiseFan",
+    "target": "#DreamCruises",
+    "weight": 1
+  },
+  {
+    "source": "#DreamCruises",
+    "target": "#NauticalQuiz",
+    "weight": 1
+  },
+  {
+    "source": "#CruiseCommunity",
+    "target": "#DreamCruises",
+    "weight": 1
+  },
+  {
+    "source": "#CruiseEnthusiast",
+    "target": "#CruiseFan",
+    "weight": 1
+  },
+  {
+    "source": "#CruiseEnthusiast",
+    "target": "#NauticalQuiz",
+    "weight": 1
+  },
+  {
+    "source": "#CruiseCommunity",
+    "target": "#CruiseEnthusiast",
+    "weight": 1
+  },
+  {
+    "source": "#CruiseFan",
+    "target": "#NauticalQuiz",
+    "weight": 1
+  },
+  {
+    "source": "#CruiseCommunity",
+    "target": "#CruiseFan",
+    "weight": 1
+  },
+  {
+    "source": "#CruiseCommunity",
+    "target": "#NauticalQuiz",
+    "weight": 1
+  },
+  {
+    "source": "#CruiseHistory",
+    "target": "#OnThisDay",
+    "weight": 1
+  },
+  {
+    "source": "#Södertälje",
+    "target": "#hockey",
+    "weight": 1
+  },
+  {
+    "source": "#個撮",
+    "target": "#同人",
+    "weight": 1
+  },
+  {
+    "source": "#フェチ",
+    "target": "#個撮",
+    "weight": 1
+  },
+  {
+    "source": "#同人",
+    "target": "#同人AV",
+    "weight": 1
+  },
+  {
+    "source": "#フェチ",
+    "target": "#同人",
+    "weight": 1
+  },
+  {
+    "source": "#コスプレ",
+    "target": "#同人",
+    "weight": 1
+  },
+  {
+    "source": "#フェチ",
+    "target": "#同人AV",
+    "weight": 1
+  },
+  {
+    "source": "#コスプレ",
+    "target": "#同人AV",
+    "weight": 1
+  },
+  {
+    "source": "#コスプレ",
+    "target": "#フェチ",
+    "weight": 1
+  },
+  {
+    "source": "#nowplaying",
+    "target": "#spotify",
+    "weight": 1
+  },
+  {
+    "source": "#nowplaying",
+    "target": "#webhamster",
+    "weight": 1
+  },
+  {
+    "source": "#spotify",
+    "target": "#webhamster",
+    "weight": 1
+  },
+  {
+    "source": "#SIGINT",
+    "target": "#telekrig",
+    "weight": 1
+  },
+  {
+    "source": "#EW",
+    "target": "#SIGINT",
+    "weight": 1
+  },
+  {
+    "source": "#ELINT",
+    "target": "#SIGINT",
+    "weight": 1
+  },
+  {
+    "source": "#SIGINT",
+    "target": "#säkpol",
+    "weight": 1
+  },
+  {
+    "source": "#SIGINT",
+    "target": "#föpol",
+    "weight": 1
+  },
+  {
+    "source": "#EW",
+    "target": "#telekrig",
+    "weight": 1
+  },
+  {
+    "source": "#ELINT",
+    "target": "#telekrig",
+    "weight": 1
+  },
+  {
+    "source": "#säkpol",
+    "target": "#telekrig",
+    "weight": 1
+  },
+  {
+    "source": "#föpol",
+    "target": "#telekrig",
+    "weight": 1
+  },
+  {
+    "source": "#ELINT",
+    "target": "#EW",
+    "weight": 1
+  },
+  {
+    "source": "#EW",
+    "target": "#säkpol",
+    "weight": 1
+  },
+  {
+    "source": "#EW",
+    "target": "#föpol",
+    "weight": 1
+  },
+  {
+    "source": "#ELINT",
+    "target": "#säkpol",
+    "weight": 1
+  },
+  {
+    "source": "#ELINT",
+    "target": "#föpol",
+    "weight": 1
+  },
+  {
+    "source": "#Cruises",
+    "target": "#Dublin",
+    "weight": 1
+  },
+  {
+    "source": "#Dublin",
+    "target": "#Environment",
+    "weight": 1
+  },
+  {
+    "source": "#Dublin",
+    "target": "#Photography",
+    "weight": 1
+  },
+  {
+    "source": "#Dublin",
+    "target": "#Streetphotography",
+    "weight": 1
+  },
+  {
+    "source": "#Cruises",
+    "target": "#Environment",
+    "weight": 1
+  },
+  {
+    "source": "#Cruises",
+    "target": "#Photography",
+    "weight": 1
+  },
+  {
+    "source": "#Cruises",
+    "target": "#Streetphotography",
+    "weight": 1
+  },
+  {
+    "source": "#Environment",
+    "target": "#Photography",
+    "weight": 1
+  },
+  {
+    "source": "#Environment",
+    "target": "#Streetphotography",
+    "weight": 1
+  },
+  {
+    "source": "#Photography",
+    "target": "#Streetphotography",
+    "weight": 1
+  },
+  {
+    "source": "#California",
+    "target": "#GavinNewsom",
+    "weight": 1
+  },
+  {
+    "source": "#California",
+    "target": "#LosAngeles",
+    "weight": 1
+  },
+  {
+    "source": "#California",
+    "target": "#WildfireRecovery",
+    "weight": 1
+  },
+  {
+    "source": "#California",
+    "target": "#FireRebuild",
+    "weight": 1
+  },
+  {
+    "source": "#GavinNewsom",
+    "target": "#LosAngeles",
+    "weight": 1
+  },
+  {
+    "source": "#GavinNewsom",
+    "target": "#WildfireRecovery",
+    "weight": 1
+  },
+  {
+    "source": "#FireRebuild",
+    "target": "#GavinNewsom",
+    "weight": 1
+  },
+  {
+    "source": "#LosAngeles",
+    "target": "#WildfireRecovery",
+    "weight": 1
+  },
+  {
+    "source": "#FireRebuild",
+    "target": "#LosAngeles",
+    "weight": 1
+  },
+  {
+    "source": "#FireRebuild",
+    "target": "#WildfireRecovery",
+    "weight": 1
+  },
+  {
+    "source": "#CruiseShip",
+    "target": "#News",
+    "weight": 1
+  },
+  {
+    "source": "#PR",
+    "target": "#アマゾン",
+    "weight": 1
+  },
+  {
+    "source": "#PR",
+    "target": "#防振パット",
+    "weight": 1
+  },
+  {
+    "source": "#PR",
+    "target": "#天然ゴム",
+    "weight": 1
+  },
+  {
+    "source": "#PR",
+    "target": "#粘着式",
+    "weight": 1
+  },
+  {
+    "source": "#AV機器",
+    "target": "#PR",
+    "weight": 1
+  },
+  {
+    "source": "#PR",
+    "target": "#防振対策",
+    "weight": 1
+  },
+  {
+    "source": "#アマゾン",
+    "target": "#防振パット",
+    "weight": 1
+  },
+  {
+    "source": "#アマゾン",
+    "target": "#天然ゴム",
+    "weight": 1
+  },
+  {
+    "source": "#アマゾン",
+    "target": "#粘着式",
+    "weight": 1
+  },
+  {
+    "source": "#AV機器",
+    "target": "#アマゾン",
+    "weight": 1
+  },
+  {
+    "source": "#アマゾン",
+    "target": "#防振対策",
+    "weight": 1
+  },
+  {
+    "source": "#天然ゴム",
+    "target": "#防振パット",
+    "weight": 1
+  },
+  {
+    "source": "#粘着式",
+    "target": "#防振パット",
+    "weight": 1
+  },
+  {
+    "source": "#AV機器",
+    "target": "#防振パット",
+    "weight": 1
+  },
+  {
+    "source": "#防振パット",
+    "target": "#防振対策",
+    "weight": 1
+  },
+  {
+    "source": "#天然ゴム",
+    "target": "#粘着式",
+    "weight": 1
+  },
+  {
+    "source": "#AV機器",
+    "target": "#天然ゴム",
+    "weight": 1
+  },
+  {
+    "source": "#天然ゴム",
+    "target": "#防振対策",
+    "weight": 1
+  },
+  {
+    "source": "#AV機器",
+    "target": "#粘着式",
+    "weight": 1
+  },
+  {
+    "source": "#粘着式",
+    "target": "#防振対策",
+    "weight": 1
+  },
+  {
+    "source": "#AV機器",
+    "target": "#防振対策",
+    "weight": 1
+  },
+  {
+    "source": "#Robotaxi",
+    "target": "#SelfDriving",
+    "weight": 1
+  },
+  {
+    "source": "#princesscruises",
+    "target": "#travel",
+    "weight": 1
+  },
+  {
+    "source": "#regalprincess",
+    "target": "#travel",
+    "weight": 1
+  },
+  {
+    "source": "#islatropicale",
+    "target": "#travel",
+    "weight": 1
+  },
+  {
+    "source": "#mahoganybay",
+    "target": "#travel",
+    "weight": 1
+  },
+  {
+    "source": "#cruise",
+    "target": "#princesscruises",
+    "weight": 1
+  },
+  {
+    "source": "#cruise",
+    "target": "#regalprincess",
+    "weight": 1
+  },
+  {
+    "source": "#cruise",
+    "target": "#islatropicale",
+    "weight": 1
+  },
+  {
+    "source": "#cruise",
+    "target": "#mahoganybay",
+    "weight": 1
+  },
+  {
+    "source": "#caribbean",
+    "target": "#princesscruises",
+    "weight": 1
+  },
+  {
+    "source": "#caribbean",
+    "target": "#regalprincess",
+    "weight": 1
+  },
+  {
+    "source": "#caribbean",
+    "target": "#islatropicale",
+    "weight": 1
+  },
+  {
+    "source": "#caribbean",
+    "target": "#mahoganybay",
+    "weight": 1
+  },
+  {
+    "source": "#honduras",
+    "target": "#princesscruises",
+    "weight": 1
+  },
+  {
+    "source": "#honduras",
+    "target": "#regalprincess",
+    "weight": 1
+  },
+  {
+    "source": "#honduras",
+    "target": "#islatropicale",
+    "weight": 1
+  },
+  {
+    "source": "#honduras",
+    "target": "#mahoganybay",
+    "weight": 1
+  },
+  {
+    "source": "#princesscruises",
+    "target": "#roatan",
+    "weight": 1
+  },
+  {
+    "source": "#regalprincess",
+    "target": "#roatan",
+    "weight": 1
+  },
+  {
+    "source": "#islatropicale",
+    "target": "#roatan",
+    "weight": 1
+  },
+  {
+    "source": "#mahoganybay",
+    "target": "#roatan",
+    "weight": 1
+  },
+  {
+    "source": "#princesscruises",
+    "target": "#regalprincess",
+    "weight": 1
+  },
+  {
+    "source": "#islatropicale",
+    "target": "#princesscruises",
+    "weight": 1
+  },
+  {
+    "source": "#mahoganybay",
+    "target": "#princesscruises",
+    "weight": 1
+  },
+  {
+    "source": "#discoverroatan",
+    "target": "#princesscruises",
+    "weight": 1
+  },
+  {
+    "source": "#islatropicale",
+    "target": "#regalprincess",
+    "weight": 1
+  },
+  {
+    "source": "#mahoganybay",
+    "target": "#regalprincess",
+    "weight": 1
+  },
+  {
+    "source": "#discoverroatan",
+    "target": "#regalprincess",
+    "weight": 1
+  },
+  {
+    "source": "#islatropicale",
+    "target": "#mahoganybay",
+    "weight": 1
+  },
+  {
+    "source": "#discoverroatan",
+    "target": "#islatropicale",
+    "weight": 1
+  },
+  {
+    "source": "#discoverroatan",
+    "target": "#mahoganybay",
+    "weight": 1
+  },
+  {
+    "source": "#endometriose",
+    "target": "#kvinnehelse",
+    "weight": 1
+  },
+  {
+    "source": "#BMT",
+    "target": "#PortOfDover",
+    "weight": 1
+  },
+  {
+    "source": "#PortOfDover",
+    "target": "#cybersecurity",
+    "weight": 1
+  },
+  {
+    "source": "#BMT",
+    "target": "#cybersecurity",
+    "weight": 1
+  },
+  {
+    "source": "#Seattle",
+    "target": "#cruiseships",
+    "weight": 1
+  },
+  {
+    "source": "#EuropeanDefense",
+    "target": "#StrategicAutonomy",
+    "weight": 1
+  },
+  {
+    "source": "#EuropeanDefense",
+    "target": "#Geopolitics",
+    "weight": 1
+  },
+  {
+    "source": "#EuropeanDefense",
+    "target": "#Germany",
+    "weight": 1
+  },
+  {
+    "source": "#Geopolitics",
+    "target": "#StrategicAutonomy",
+    "weight": 1
+  },
+  {
+    "source": "#Germany",
+    "target": "#StrategicAutonomy",
+    "weight": 1
+  },
+  {
+    "source": "#Geopolitics",
+    "target": "#Germany",
+    "weight": 1
+  },
+  {
+    "source": "#rccl",
+    "target": "#travel",
+    "weight": 1
+  },
+  {
+    "source": "#symphonyoftheseas",
+    "target": "#travel",
+    "weight": 1
+  },
+  {
+    "source": "#cruise",
+    "target": "#rccl",
+    "weight": 1
+  },
+  {
+    "source": "#cruise",
+    "target": "#symphonyoftheseas",
+    "weight": 1
+  },
+  {
+    "source": "#honduras",
+    "target": "#rccl",
+    "weight": 1
+  },
+  {
+    "source": "#honduras",
+    "target": "#symphonyoftheseas",
+    "weight": 1
+  },
+  {
+    "source": "#rccl",
+    "target": "#roatan",
+    "weight": 1
+  },
+  {
+    "source": "#roatan",
+    "target": "#symphonyoftheseas",
+    "weight": 1
+  },
+  {
+    "source": "#rccl",
+    "target": "#royalcaribbean",
+    "weight": 1
+  },
+  {
+    "source": "#royalcaribbean",
+    "target": "#symphonyoftheseas",
+    "weight": 1
+  },
+  {
+    "source": "#rccl",
+    "target": "#symphonyoftheseas",
+    "weight": 1
+  },
+  {
+    "source": "#portofroatan",
+    "target": "#rccl",
+    "weight": 1
+  },
+  {
+    "source": "#discoverroatan",
+    "target": "#rccl",
+    "weight": 1
+  },
+  {
+    "source": "#portofroatan",
+    "target": "#symphonyoftheseas",
+    "weight": 1
+  },
+  {
+    "source": "#discoverroatan",
+    "target": "#symphonyoftheseas",
+    "weight": 1
+  },
+  {
+    "source": "#celebplanes",
+    "target": "#pfizer",
+    "weight": 1
+  },
+  {
+    "source": "#celebjettracking",
+    "target": "#pfizer",
+    "weight": 1
+  },
+  {
+    "source": "#pfizer",
+    "target": "#privatejet",
+    "weight": 1
+  },
+  {
+    "source": "#avgeek",
+    "target": "#pfizer",
+    "weight": 1
+  },
+  {
+    "source": "#gulfstreamg650er",
+    "target": "#pfizer",
+    "weight": 1
+  },
+  {
+    "source": "#yyj",
+    "target": "#yyjpoli",
+    "weight": 1
+  },
+  {
+    "source": "#Draghi",
+    "target": "#EU",
+    "weight": 1
+  },
+  {
+    "source": "#EU",
+    "target": "#Germany",
+    "weight": 1
+  },
+  {
+    "source": "#EU",
+    "target": "#Merkel",
+    "weight": 1
+  },
+  {
+    "source": "#EU",
+    "target": "#Putin",
+    "weight": 1
+  },
+  {
+    "source": "#EU",
+    "target": "#Stubb",
+    "weight": 1
+  },
+  {
+    "source": "#EU",
+    "target": "#Ukraine",
+    "weight": 1
+  },
+  {
+    "source": "#EU",
+    "target": "#Russia",
+    "weight": 1
+  },
+  {
+    "source": "#EU",
+    "target": "#UkraineWar",
+    "weight": 1
+  },
+  {
+    "source": "#Draghi",
+    "target": "#Germany",
+    "weight": 1
+  },
+  {
+    "source": "#Draghi",
+    "target": "#Merkel",
+    "weight": 1
+  },
+  {
+    "source": "#Draghi",
+    "target": "#Putin",
+    "weight": 1
+  },
+  {
+    "source": "#Draghi",
+    "target": "#Stubb",
+    "weight": 1
+  },
+  {
+    "source": "#Draghi",
+    "target": "#Ukraine",
+    "weight": 1
+  },
+  {
+    "source": "#Draghi",
+    "target": "#Russia",
+    "weight": 1
+  },
+  {
+    "source": "#Draghi",
+    "target": "#UkraineWar",
+    "weight": 1
+  },
+  {
+    "source": "#Germany",
+    "target": "#Merkel",
+    "weight": 1
+  },
+  {
+    "source": "#Germany",
+    "target": "#Putin",
+    "weight": 1
+  },
+  {
+    "source": "#Germany",
+    "target": "#Stubb",
+    "weight": 1
+  },
+  {
+    "source": "#Germany",
+    "target": "#Ukraine",
+    "weight": 1
+  },
+  {
+    "source": "#Germany",
+    "target": "#Russia",
+    "weight": 1
+  },
+  {
+    "source": "#Germany",
+    "target": "#UkraineWar",
+    "weight": 1
+  },
+  {
+    "source": "#Merkel",
+    "target": "#Putin",
+    "weight": 1
+  },
+  {
+    "source": "#Merkel",
+    "target": "#Stubb",
+    "weight": 1
+  },
+  {
+    "source": "#Merkel",
+    "target": "#Ukraine",
+    "weight": 1
+  },
+  {
+    "source": "#Merkel",
+    "target": "#Russia",
+    "weight": 1
+  },
+  {
+    "source": "#Merkel",
+    "target": "#UkraineWar",
+    "weight": 1
+  },
+  {
+    "source": "#Putin",
+    "target": "#Stubb",
+    "weight": 1
+  },
+  {
+    "source": "#Putin",
+    "target": "#Ukraine",
+    "weight": 1
+  },
+  {
+    "source": "#Putin",
+    "target": "#Russia",
+    "weight": 1
+  },
+  {
+    "source": "#Putin",
+    "target": "#UkraineWar",
+    "weight": 1
+  },
+  {
+    "source": "#Stubb",
+    "target": "#Ukraine",
+    "weight": 1
+  },
+  {
+    "source": "#Russia",
+    "target": "#Stubb",
+    "weight": 1
+  },
+  {
+    "source": "#Stubb",
+    "target": "#UkraineWar",
+    "weight": 1
+  },
+  {
+    "source": "#Ukraine",
+    "target": "#UkraineWar",
+    "weight": 1
+  },
+  {
+    "source": "#Russia",
+    "target": "#UkraineWar",
+    "weight": 1
+  },
+  {
+    "source": "#celebplanes",
+    "target": "#peterthiel",
+    "weight": 1
+  },
+  {
+    "source": "#celebjettracking",
+    "target": "#peterthiel",
+    "weight": 1
+  },
+  {
+    "source": "#peterthiel",
+    "target": "#privatejet",
+    "weight": 1
+  },
+  {
+    "source": "#avgeek",
+    "target": "#peterthiel",
+    "weight": 1
+  },
+  {
+    "source": "#gulfstreamv",
+    "target": "#peterthiel",
+    "weight": 1
+  },
+  {
+    "source": "#AV女優",
+    "target": "#百瀬あすか",
+    "weight": 1
+  },
+  {
+    "source": "#VR動画",
+    "target": "#百瀬あすか",
+    "weight": 1
+  },
+  {
+    "source": "#bikini",
+    "target": "#whitebikini",
+    "weight": 1
+  },
+  {
+    "source": "#Nvidia",
+    "target": "#Stellantis",
+    "weight": 1
+  },
+  {
+    "source": "#Accentur",
+    "target": "#Stellantis",
+    "weight": 1
+  },
+  {
+    "source": "#Stellantis",
+    "target": "#Uber",
+    "weight": 1
+  },
+  {
+    "source": "#Foxconn",
+    "target": "#Stellantis",
+    "weight": 1
+  },
+  {
+    "source": "#KI",
+    "target": "#Stellantis",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#Stellantis",
+    "weight": 1
+  },
+  {
+    "source": "#RoboTaxi",
+    "target": "#Stellantis",
+    "weight": 1
+  },
+  {
+    "source": "#Stellantis",
+    "target": "#Tesla",
+    "weight": 1
+  },
+  {
+    "source": "#DigitalTwins",
+    "target": "#Stellantis",
+    "weight": 1
+  },
+  {
+    "source": "#Produktion",
+    "target": "#Stellantis",
+    "weight": 1
+  },
+  {
+    "source": "#Industrie",
+    "target": "#Stellantis",
+    "weight": 1
+  },
+  {
+    "source": "#Engineering",
+    "target": "#Stellantis",
+    "weight": 1
+  },
+  {
+    "source": "#Accentur",
+    "target": "#Nvidia",
+    "weight": 1
+  },
+  {
+    "source": "#Nvidia",
+    "target": "#Uber",
+    "weight": 1
+  },
+  {
+    "source": "#Foxconn",
+    "target": "#Nvidia",
+    "weight": 1
+  },
+  {
+    "source": "#KI",
+    "target": "#Nvidia",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#Nvidia",
+    "weight": 1
+  },
+  {
+    "source": "#Nvidia",
+    "target": "#RoboTaxi",
+    "weight": 1
+  },
+  {
+    "source": "#Nvidia",
+    "target": "#Tesla",
+    "weight": 1
+  },
+  {
+    "source": "#DigitalTwins",
+    "target": "#Nvidia",
+    "weight": 1
+  },
+  {
+    "source": "#Nvidia",
+    "target": "#Produktion",
+    "weight": 1
+  },
+  {
+    "source": "#Industrie",
+    "target": "#Nvidia",
+    "weight": 1
+  },
+  {
+    "source": "#Engineering",
+    "target": "#Nvidia",
+    "weight": 1
+  },
+  {
+    "source": "#Accentur",
+    "target": "#Uber",
+    "weight": 1
+  },
+  {
+    "source": "#Accentur",
+    "target": "#Foxconn",
+    "weight": 1
+  },
+  {
+    "source": "#Accentur",
+    "target": "#KI",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#Accentur",
+    "weight": 1
+  },
+  {
+    "source": "#Accentur",
+    "target": "#RoboTaxi",
+    "weight": 1
+  },
+  {
+    "source": "#Accentur",
+    "target": "#Tesla",
+    "weight": 1
+  },
+  {
+    "source": "#Accentur",
+    "target": "#DigitalTwins",
+    "weight": 1
+  },
+  {
+    "source": "#Accentur",
+    "target": "#Produktion",
+    "weight": 1
+  },
+  {
+    "source": "#Accentur",
+    "target": "#Industrie",
+    "weight": 1
+  },
+  {
+    "source": "#Accentur",
+    "target": "#Engineering",
+    "weight": 1
+  },
+  {
+    "source": "#Foxconn",
+    "target": "#Uber",
+    "weight": 1
+  },
+  {
+    "source": "#KI",
+    "target": "#Uber",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#Uber",
+    "weight": 1
+  },
+  {
+    "source": "#RoboTaxi",
+    "target": "#Uber",
+    "weight": 1
+  },
+  {
+    "source": "#Tesla",
+    "target": "#Uber",
+    "weight": 1
+  },
+  {
+    "source": "#DigitalTwins",
+    "target": "#Uber",
+    "weight": 1
+  },
+  {
+    "source": "#Produktion",
+    "target": "#Uber",
+    "weight": 1
+  },
+  {
+    "source": "#Industrie",
+    "target": "#Uber",
+    "weight": 1
+  },
+  {
+    "source": "#Engineering",
+    "target": "#Uber",
+    "weight": 1
+  },
+  {
+    "source": "#Foxconn",
+    "target": "#KI",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#Foxconn",
+    "weight": 1
+  },
+  {
+    "source": "#Foxconn",
+    "target": "#RoboTaxi",
+    "weight": 1
+  },
+  {
+    "source": "#Foxconn",
+    "target": "#Tesla",
+    "weight": 1
+  },
+  {
+    "source": "#DigitalTwins",
+    "target": "#Foxconn",
+    "weight": 1
+  },
+  {
+    "source": "#Foxconn",
+    "target": "#Produktion",
+    "weight": 1
+  },
+  {
+    "source": "#Foxconn",
+    "target": "#Industrie",
+    "weight": 1
+  },
+  {
+    "source": "#Engineering",
+    "target": "#Foxconn",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#KI",
+    "weight": 1
+  },
+  {
+    "source": "#KI",
+    "target": "#RoboTaxi",
+    "weight": 1
+  },
+  {
+    "source": "#KI",
+    "target": "#Tesla",
+    "weight": 1
+  },
+  {
+    "source": "#DigitalTwins",
+    "target": "#KI",
+    "weight": 1
+  },
+  {
+    "source": "#KI",
+    "target": "#Produktion",
+    "weight": 1
+  },
+  {
+    "source": "#Industrie",
+    "target": "#KI",
+    "weight": 1
+  },
+  {
+    "source": "#Engineering",
+    "target": "#KI",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#RoboTaxi",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#Tesla",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#DigitalTwins",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#Produktion",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#Industrie",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#Engineering",
+    "weight": 1
+  },
+  {
+    "source": "#RoboTaxi",
+    "target": "#Tesla",
+    "weight": 1
+  },
+  {
+    "source": "#DigitalTwins",
+    "target": "#RoboTaxi",
+    "weight": 1
+  },
+  {
+    "source": "#Produktion",
+    "target": "#RoboTaxi",
+    "weight": 1
+  },
+  {
+    "source": "#Industrie",
+    "target": "#RoboTaxi",
+    "weight": 1
+  },
+  {
+    "source": "#Engineering",
+    "target": "#RoboTaxi",
+    "weight": 1
+  },
+  {
+    "source": "#DigitalTwins",
+    "target": "#Tesla",
+    "weight": 1
+  },
+  {
+    "source": "#Produktion",
+    "target": "#Tesla",
+    "weight": 1
+  },
+  {
+    "source": "#Industrie",
+    "target": "#Tesla",
+    "weight": 1
+  },
+  {
+    "source": "#Engineering",
+    "target": "#Tesla",
+    "weight": 1
+  },
+  {
+    "source": "#DigitalTwins",
+    "target": "#Produktion",
+    "weight": 1
+  },
+  {
+    "source": "#DigitalTwins",
+    "target": "#Industrie",
+    "weight": 1
+  },
+  {
+    "source": "#DigitalTwins",
+    "target": "#Engineering",
+    "weight": 1
+  },
+  {
+    "source": "#Industrie",
+    "target": "#Produktion",
+    "weight": 1
+  },
+  {
+    "source": "#Engineering",
+    "target": "#Produktion",
+    "weight": 1
+  },
+  {
+    "source": "#Engineering",
+    "target": "#Industrie",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#SLM",
+    "weight": 1
+  },
+  {
+    "source": "#AI",
+    "target": "#trends",
+    "weight": 1
+  },
+  {
+    "source": "#SLM",
+    "target": "#trends",
+    "weight": 1
+  },
+  {
+    "source": "#BoGy",
+    "target": "#borgå",
+    "weight": 1
+  },
+  {
+    "source": "#anal",
+    "target": "#dildo",
+    "weight": 1
+  },
+  {
+    "source": "#anal",
+    "target": "#prolapse",
+    "weight": 1
+  },
+  {
+    "source": "#anal",
+    "target": "#porn",
+    "weight": 1
+  },
+  {
+    "source": "#anal",
+    "target": "#fisting",
+    "weight": 1
+  },
+  {
+    "source": "#anal",
+    "target": "#gape",
+    "weight": 1
+  },
+  {
+    "source": "#dildo",
+    "target": "#prolapse",
+    "weight": 1
+  },
+  {
+    "source": "#dildo",
+    "target": "#porn",
+    "weight": 1
+  },
+  {
+    "source": "#dildo",
+    "target": "#fisting",
+    "weight": 1
+  },
+  {
+    "source": "#dildo",
+    "target": "#gape",
+    "weight": 1
+  },
+  {
+    "source": "#porn",
+    "target": "#prolapse",
+    "weight": 1
+  },
+  {
+    "source": "#fisting",
+    "target": "#prolapse",
+    "weight": 1
+  },
+  {
+    "source": "#gape",
+    "target": "#prolapse",
+    "weight": 1
+  },
+  {
+    "source": "#fisting",
+    "target": "#porn",
+    "weight": 1
+  },
+  {
+    "source": "#gape",
+    "target": "#porn",
+    "weight": 1
+  },
+  {
+    "source": "#fisting",
+    "target": "#gape",
+    "weight": 1
+  },
+  {
+    "source": "#17mai",
+    "target": "#INP",
+    "weight": 1
+  },
+  {
+    "source": "#JK",
+    "target": "#エロ動画",
+    "weight": 1
+  },
+  {
+    "source": "#ae86b02fd2a",
+    "target": "#f3f69ebde4f",
+    "weight": 1
+  },
+  {
+    "source": "#Mexico",
+    "target": "#cruiseships",
+    "weight": 1
+  },
+  {
+    "source": "#Argentina",
+    "target": "#Hantavirus",
+    "weight": 1
+  },
+  {
+    "source": "#Argentina",
+    "target": "#PublicHealth",
+    "weight": 1
+  },
+  {
+    "source": "#Argentina",
+    "target": "#WHO",
+    "weight": 1
+  },
+  {
+    "source": "#Argentina",
+    "target": "#CruiseShipOutbreak",
+    "weight": 1
+  },
+  {
+    "source": "#CruiseShipOutbreak",
+    "target": "#Hantavirus",
+    "weight": 1
+  },
+  {
+    "source": "#PublicHealth",
+    "target": "#WHO",
+    "weight": 1
+  },
+  {
+    "source": "#CruiseShipOutbreak",
+    "target": "#PublicHealth",
+    "weight": 1
+  },
+  {
+    "source": "#CruiseShipOutbreak",
+    "target": "#WHO",
+    "weight": 1
+  },
+  {
+    "source": "#MorningPrayer",
+    "target": "#PrayerPrompt",
+    "weight": 1
+  },
+  {
+    "source": "#Breakthrough",
+    "target": "#PrayerPrompt",
+    "weight": 1
+  },
+  {
+    "source": "#NewBeginnings",
+    "target": "#PrayerPrompt",
+    "weight": 1
+  },
+  {
+    "source": "#FaithOverFear",
+    "target": "#PrayerPrompt",
+    "weight": 1
+  },
+  {
+    "source": "#Breakthrough",
+    "target": "#MorningPrayer",
+    "weight": 1
+  },
+  {
+    "source": "#MorningPrayer",
+    "target": "#NewBeginnings",
+    "weight": 1
+  },
+  {
+    "source": "#FaithOverFear",
+    "target": "#MorningPrayer",
+    "weight": 1
+  },
+  {
+    "source": "#Breakthrough",
+    "target": "#NewBeginnings",
+    "weight": 1
+  },
+  {
+    "source": "#Breakthrough",
+    "target": "#FaithOverFear",
+    "weight": 1
+  },
+  {
+    "source": "#FaithOverFear",
+    "target": "#NewBeginnings",
     "weight": 1
   }
 ]
