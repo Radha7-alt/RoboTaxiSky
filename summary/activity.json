@@ -1,59 +1,4 @@
 {
-  "2026-05-22": {
-    "volume": 1777,
-    "sentiment": {
-      "neutral": 1490,
-      "negative": 194,
-      "positive": 93
-    },
-    "emotion": {
-      "fear": 786,
-      "surprise": 95,
-      "neutral": 550,
-      "disgust": 13,
-      "joy": 124,
-      "anger": 82,
-      "sadness": 127
-    },
-    "language": {
-      "ja": 151,
-      "nb": 212,
-      "nn": 13,
-      "no": 12,
-      "en": 554,
-      "sv": 249,
-      "sv-FI": 5,
-      "sv-SE": 49,
-      "en-US": 90,
-      "pt": 39,
-      "ro": 2,
-      "es": 13,
-      "cs": 4,
-      "nb-NO": 54,
-      "de": 10,
-      "tr": 7,
-      "it": 3,
-      "fr": 13,
-      "pt-BR": 1,
-      "ca": 6,
-      "no-NO": 3,
-      "en-GB": 1,
-      "sk": 2,
-      "gl": 1,
-      "de-DE": 1,
-      "ja-JP": 1,
-      "lt-LT": 1,
-      "lt": 1,
-      "nl": 2,
-      "da": 3,
-      "zh": 1,
-      "pt-PT": 2,
-      "en-us": 1,
-      "id": 1,
-      "ko": 5,
-      "ar": 1
-    }
-  },
   "2026-05-23": {
     "volume": 1372,
     "sentiment": {
@@ -371,6 +316,59 @@
       "no-NO": 1,
       "tr": 2,
       "sk": 1
+    }
+  },
+  "2026-05-29": {
+    "volume": 1639,
+    "sentiment": {
+      "neutral": 1363,
+      "negative": 181,
+      "positive": 95
+    },
+    "emotion": {
+      "fear": 742,
+      "sadness": 109,
+      "neutral": 477,
+      "joy": 120,
+      "surprise": 119,
+      "anger": 60,
+      "disgust": 12
+    },
+    "language": {
+      "en": 545,
+      "sv": 237,
+      "en-US": 58,
+      "nb": 190,
+      "pt": 28,
+      "ja": 94,
+      "sv-FI": 2,
+      "sv-SE": 43,
+      "nb-NO": 48,
+      "nn": 18,
+      "es": 6,
+      "de": 5,
+      "no": 30,
+      "fr-FR": 1,
+      "fr": 11,
+      "ja-JP": 2,
+      "uk": 3,
+      "ca": 7,
+      "it": 3,
+      "ru": 2,
+      "da": 1,
+      "sk": 2,
+      "ro": 1,
+      "no-NO": 4,
+      "fi": 1,
+      "tr": 4,
+      "el": 1,
+      "zh": 2,
+      "nl": 1,
+      "pt-PT": 1,
+      "ko": 3,
+      "id": 2,
+      "cs": 3,
+      "hi": 1
     }
   }
 }
