@@ -38,5 +38,52 @@
       "es": 1,
       "gl": 1
     }
+  },
+  "2026-07-02": {
+    "volume": 1502,
+    "sentiment": {
+      "neutral": 1236,
+      "positive": 86,
+      "negative": 180
+    },
+    "emotion": {
+      "fear": 673,
+      "joy": 134,
+      "surprise": 108,
+      "neutral": 415,
+      "anger": 55,
+      "sadness": 109,
+      "disgust": 8
+    },
+    "language": {
+      "ja": 155,
+      "sv": 195,
+      "en": 484,
+      "pt": 29,
+      "ca": 12,
+      "nb": 145,
+      "no": 22,
+      "ko": 57,
+      "sv-SE": 42,
+      "fr": 11,
+      "sk": 14,
+      "en-US": 26,
+      "es": 7,
+      "tr": 7,
+      "nb-NO": 24,
+      "th": 1,
+      "nn": 7,
+      "sq": 1,
+      "ro": 1,
+      "de": 13,
+      "sv-FI": 2,
+      "aa": 1,
+      "fi": 3,
+      "it": 1,
+      "en-GB": 1,
+      "nl": 2,
+      "ak": 1,
+      "da": 1
+    }
   }
 }

@@ -1,34 +1,37 @@
 {
   "topic_3": {
-    "anger": 4,
-    "fear": 9,
-    "surprise": 1,
-    "sadness": 6,
-    "neutral": 2
+    "anger": 9,
+    "fear": 70,
+    "surprise": 10,
+    "sadness": 33,
+    "neutral": 46,
+    "joy": 15
   },
   "topic_1": {
-    "neutral": 25,
-    "fear": 44,
-    "surprise": 1,
-    "sadness": 3,
-    "anger": 2,
-    "joy": 2
+    "neutral": 104,
+    "fear": 153,
+    "surprise": 80,
+    "sadness": 47,
+    "anger": 20,
+    "joy": 71,
+    "disgust": 2
   },
   "topic_0": {
-    "joy": 11,
-    "surprise": 11,
-    "neutral": 41,
-    "fear": 29,
-    "sadness": 6,
-    "anger": 1,
-    "disgust": 1
+    "joy": 19,
+    "surprise": 21,
+    "neutral": 199,
+    "fear": 308,
+    "sadness": 7,
+    "anger": 4,
+    "disgust": 3
   },
   "topic_7": {
-    "anger": 1,
-    "fear": 36,
-    "neutral": 11,
-    "disgust": 1,
-    "sadness": 1
+    "anger": 8,
+    "fear": 171,
+    "neutral": 56,
+    "disgust": 4,
+    "sadness": 2,
+    "joy": 1
   },
   "topic_4": {
     "joy": 2,
@@ -36,27 +39,30 @@
     "fear": 7,
     "surprise": 2,
     "sadness": 12,
-    "neutral": 4
+    "neutral": 46
   },
   "topic_6": {
-    "anger": 7,
-    "fear": 6,
-    "surprise": 3,
-    "joy": 2,
-    "sadness": 2,
-    "neutral": 5
+    "anger": 17,
+    "fear": 29,
+    "surprise": 7,
+    "joy": 16,
+    "sadness": 5,
+    "neutral": 27
   },
   "topic_2": {
-    "neutral": 3,
-    "fear": 5,
-    "sadness": 1,
+    "neutral": 19,
+    "fear": 29,
+    "sadness": 5,
     "anger": 1,
-    "joy": 4
+    "joy": 19
   },
   "topic_5": {
-    "surprise": 18,
-    "fear": 4,
-    "joy": 2,
-    "sadness": 1
+    "surprise": 24,
+    "fear": 46,
+    "joy": 14,
+    "sadness": 30,
+    "neutral": 9,
+    "anger": 12,
+    "disgust": 1
   }
 }
