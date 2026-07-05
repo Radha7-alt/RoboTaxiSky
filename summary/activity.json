@@ -152,5 +152,53 @@
       "zh": 1,
       "lv": 1
     }
+  },
+  "2026-07-04": {
+    "volume": 1300,
+    "sentiment": {
+      "positive": 83,
+      "neutral": 1056,
+      "negative": 161
+    },
+    "emotion": {
+      "fear": 531,
+      "neutral": 377,
+      "joy": 120,
+      "surprise": 70,
+      "sadness": 115,
+      "anger": 76,
+      "disgust": 11
+    },
+    "language": {
+      "en": 411,
+      "nn": 13,
+      "nb": 132,
+      "pt": 30,
+      "ko": 70,
+      "ja": 186,
+      "en-US": 19,
+      "sv": 179,
+      "sk": 4,
+      "nb-NO": 30,
+      "es": 17,
+      "gl": 2,
+      "no": 11,
+      "de": 5,
+      "tr": 6,
+      "fi": 1,
+      "sv-FI": 3,
+      "sv-SE": 28,
+      "fr": 9,
+      "hi": 2,
+      "lv": 3,
+      "lv-LV": 2,
+      "ca": 3,
+      "cs": 2,
+      "it": 1,
+      "fr-FR": 1,
+      "fi-FI": 1,
+      "ak": 1,
+      "sq": 1
+    }
   }
 }
