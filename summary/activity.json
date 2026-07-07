@@ -154,16 +154,16 @@
     }
   },
   "2026-07-04": {
-    "volume": 1301,
+    "volume": 1303,
     "sentiment": {
-      "positive": 83,
-      "neutral": 1057,
+      "positive": 84,
+      "neutral": 1058,
       "negative": 161
     },
     "emotion": {
-      "fear": 532,
+      "fear": 533,
       "neutral": 377,
-      "joy": 120,
+      "joy": 121,
       "surprise": 70,
       "sadness": 115,
       "anger": 76,
@@ -202,19 +202,19 @@
     }
   },
   "2026-07-05": {
-    "volume": 1414,
+    "volume": 1416,
     "sentiment": {
-      "neutral": 1214,
+      "neutral": 1216,
       "negative": 129,
       "positive": 71
     },
     "emotion": {
       "neutral": 406,
-      "fear": 643,
+      "fear": 644,
       "surprise": 80,
       "joy": 137,
       "anger": 69,
-      "sadness": 72,
+      "sadness": 73,
       "disgust": 7
     },
     "language": {
@@ -249,5 +249,72 @@
       "lv": 1,
       "fi": 1
     }
+  },
+  "2026-07-06": {
+    "volume": 1714,
+    "sentiment": {
+      "positive": 83,
+      "neutral": 1432,
+      "negative": 199
+    },
+    "emotion": {
+      "joy": 147,
+      "fear": 754,
+      "neutral": 478,
+      "anger": 86,
+      "sadness": 127,
+      "surprise": 113,
+      "disgust": 9
+    },
+    "language": {
+      "en": 506,
+      "nb": 188,
+      "sv": 252,
+      "no": 24,
+      "pt": 37,
+      "fr": 16,
+      "ko": 59,
+      "ja": 211,
+      "sv-SE": 63,
+      "en-US": 45,
+      "nb-NO": 36,
+      "fr-FR": 1,
+      "zh": 4,
+      "es": 9,
+      "nl": 1,
+      "nn": 4,
+      "fi": 2,
+      "sk": 6,
+      "sv-FI": 6,
+      "tr": 11,
+      "cs-CZ": 1,
+      "ca": 8,
+      "en-GB": 1,
+      "de": 5,
+      "hi": 1,
+      "eo": 1,
+      "lv-LV": 1,
+      "lv": 1,
+      "da": 1,
+      "cs": 2,
+      "it": 2,
+      "sq": 1,
+      "uk": 3,
+      "lt-LT": 1,
+      "lt": 1,
+      "ja-JP": 2,
+      "no-NO": 1,
+      "ro": 1
+    }
+  },
+  "2026-06-30": {
+    "volume": 1,
+    "sentiment": {
+      "negative": 1
+    },
+    "emotion": {
+      "fear": 1
+    },
+    "language": {}
   }
 }
