@@ -307,14 +307,52 @@
       "ro": 1
     }
   },
-  "2026-06-30": {
-    "volume": 1,
+  "2026-07-07": {
+    "volume": 1628,
     "sentiment": {
-      "negative": 1
+      "neutral": 1297,
+      "negative": 243,
+      "positive": 88
     },
     "emotion": {
-      "fear": 1
+      "neutral": 481,
+      "fear": 702,
+      "anger": 87,
+      "sadness": 112,
+      "surprise": 98,
+      "joy": 132,
+      "disgust": 16
     },
-    "language": {}
+    "language": {
+      "ko": 55,
+      "ja": 197,
+      "nb": 152,
+      "en": 525,
+      "fi": 5,
+      "en-US": 44,
+      "nb-NO": 42,
+      "sv": 171,
+      "pt": 36,
+      "sk": 6,
+      "sv-SE": 31,
+      "tr": 4,
+      "no": 42,
+      "se": 2,
+      "es": 13,
+      "fr": 17,
+      "de": 10,
+      "nn": 7,
+      "ja-JP": 9,
+      "no-NO": 3,
+      "ca": 11,
+      "sv-FI": 6,
+      "nl": 2,
+      "pt-PT": 1,
+      "en-GB": 2,
+      "zh": 1,
+      "sk-SK": 1,
+      "ta": 1,
+      "it": 1
+    }
   }
 }
