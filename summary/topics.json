@@ -1,34 +1,205 @@
 {
+  "topic_6": {
+    "label": [
+      "stalled",
+      "la",
+      "2026",
+      "going",
+      "need"
+    ],
+    "count": 834,
+    "daily": {
+      "2026-07-08": 65,
+      "2026-07-09": 90,
+      "2026-07-10": 132,
+      "2026-07-11": 205,
+      "2026-07-12": 79,
+      "2026-07-13": 180,
+      "2026-07-14": 83
+    },
+    "sentiment": {
+      "negative": 194,
+      "positive": 24,
+      "neutral": 616
+    },
+    "emotion": {
+      "sadness": 108,
+      "anger": 93,
+      "fear": 440,
+      "neutral": 134,
+      "surprise": 24,
+      "joy": 28,
+      "disgust": 7
+    },
+    "hashtags": [
+      "#무료웹하드",
+      "#넷파일",
+      "#야동",
+      "#FANZA",
+      "#celebplanes",
+      "#celebjettracking",
+      "#privatejet",
+      "#avgeek",
+      "#해외AV",
+      "#AV女優"
+    ],
+    "emojis": [
+      "🔥",
+      "🏠",
+      "🎁",
+      "🎬",
+      "🚨",
+      "👇",
+      "★",
+      "🇷",
+      "🌧",
+      "🇰"
+    ]
+  },
+  "topic_1": {
+    "label": [
+      "cruise",
+      "gal",
+      "ship",
+      "missiles",
+      "tom"
+    ],
+    "count": 2054,
+    "daily": {
+      "2026-07-08": 288,
+      "2026-07-09": 356,
+      "2026-07-10": 115,
+      "2026-07-11": 333,
+      "2026-07-12": 254,
+      "2026-07-13": 408,
+      "2026-07-14": 300
+    },
+    "sentiment": {
+      "neutral": 1594,
+      "positive": 201,
+      "negative": 259
+    },
+    "emotion": {
+      "neutral": 521,
+      "joy": 271,
+      "sadness": 161,
+      "fear": 797,
+      "surprise": 185,
+      "anger": 106,
+      "disgust": 13
+    },
+    "hashtags": [
+      "#FANZA",
+      "#무료웹하드",
+      "#넷파일",
+      "#야동",
+      "#celebplanes",
+      "#celebjettracking",
+      "#privatejet",
+      "#avgeek",
+      "#해외AV",
+      "#AV"
+    ],
+    "emojis": [
+      "🔥",
+      "🎬",
+      "🏠",
+      "🎁",
+      "🇳",
+      "★",
+      "👇",
+      "🇷",
+      "🇺",
+      "🇮"
+    ]
+  },
+  "topic_7": {
+    "label": [
+      "tom",
+      "digger",
+      "trailer",
+      "la",
+      "film"
+    ],
+    "count": 1248,
+    "daily": {
+      "2026-07-08": 92,
+      "2026-07-09": 155,
+      "2026-07-10": 147,
+      "2026-07-11": 81,
+      "2026-07-12": 153,
+      "2026-07-13": 318,
+      "2026-07-14": 302
+    },
+    "sentiment": {
+      "neutral": 945,
+      "positive": 84,
+      "negative": 219
+    },
+    "emotion": {
+      "neutral": 312,
+      "fear": 503,
+      "joy": 124,
+      "anger": 113,
+      "sadness": 84,
+      "surprise": 95,
+      "disgust": 17
+    },
+    "hashtags": [
+      "#FANZA",
+      "#무료웹하드",
+      "#넷파일",
+      "#야동",
+      "#해외AV",
+      "#celebplanes",
+      "#celebjettracking",
+      "#privatejet",
+      "#avgeek",
+      "#AV"
+    ],
+    "emojis": [
+      "🔥",
+      "🎬",
+      "🏠",
+      "🎁",
+      "🇳",
+      "🇺",
+      "🇮",
+      "🇸",
+      "🚨",
+      "🇷"
+    ]
+  },
   "topic_3": {
     "label": [
-      "digger",
-      "tom",
-      "trailer",
-      "alejandro",
-      "iñárritu"
+      "autonomy",
+      "world",
+      "ai",
+      "av",
+      "like"
     ],
-    "count": 872,
+    "count": 1009,
     "daily": {
-      "2026-07-07": 53,
       "2026-07-08": 192,
       "2026-07-09": 62,
       "2026-07-10": 72,
       "2026-07-11": 137,
       "2026-07-12": 137,
-      "2026-07-13": 219
+      "2026-07-13": 219,
+      "2026-07-14": 190
     },
     "sentiment": {
-      "neutral": 650,
-      "negative": 176,
-      "positive": 46
+      "negative": 226,
+      "neutral": 716,
+      "positive": 67
     },
     "emotion": {
-      "neutral": 292,
-      "fear": 287,
-      "anger": 62,
-      "sadness": 62,
-      "joy": 93,
-      "surprise": 66,
+      "joy": 113,
+      "anger": 88,
+      "neutral": 298,
+      "fear": 333,
+      "sadness": 94,
+      "surprise": 73,
       "disgust": 10
     },
     "hashtags": [
@@ -48,45 +219,45 @@
       "🏠",
       "🎁",
       "🎬",
-      "💥",
       "🇳",
+      "💥",
       "🚨",
       "🇮",
-      "🇺",
-      "🇸"
+      "🇴",
+      "👇"
     ]
   },
   "topic_0": {
     "label": [
-      "cruise",
-      "tom",
-      "ship",
-      "digger",
-      "gal"
+      "av",
+      "på",
+      "en",
+      "er",
+      "og"
     ],
-    "count": 3869,
+    "count": 3807,
     "daily": {
-      "2026-07-07": 593,
       "2026-07-08": 593,
       "2026-07-09": 585,
       "2026-07-10": 542,
       "2026-07-11": 456,
       "2026-07-12": 525,
-      "2026-07-13": 575
+      "2026-07-13": 575,
+      "2026-07-14": 531
     },
     "sentiment": {
-      "neutral": 3469,
-      "negative": 232,
-      "positive": 168
+      "neutral": 3416,
+      "negative": 220,
+      "positive": 171
     },
     "emotion": {
-      "fear": 1828,
-      "neutral": 1351,
-      "sadness": 141,
-      "disgust": 28,
-      "joy": 261,
-      "surprise": 128,
-      "anger": 132
+      "neutral": 1335,
+      "fear": 1784,
+      "joy": 259,
+      "anger": 127,
+      "sadness": 145,
+      "disgust": 25,
+      "surprise": 132
     },
     "hashtags": [
       "#FANZA",
@@ -102,75 +273,75 @@
     ],
     "emojis": [
       "🔥",
+      "🎬",
       "🎁",
       "🏠",
-      "🎬",
       "🇳",
-      "🚨",
       "👇",
       "🇺",
       "🇸",
+      "🚨",
       "🇷"
     ]
   },
-  "topic_1": {
+  "topic_5": {
     "label": [
-      "av",
-      "på",
-      "en",
+      "att",
       "och",
+      "det",
+      "är",
       "som"
     ],
-    "count": 2051,
+    "count": 1500,
     "daily": {
-      "2026-07-07": 297,
-      "2026-07-08": 288,
-      "2026-07-09": 356,
-      "2026-07-10": 115,
-      "2026-07-11": 333,
-      "2026-07-12": 254,
-      "2026-07-13": 408
+      "2026-07-08": 246,
+      "2026-07-09": 247,
+      "2026-07-10": 229,
+      "2026-07-11": 165,
+      "2026-07-12": 87,
+      "2026-07-13": 231,
+      "2026-07-14": 295
     },
     "sentiment": {
-      "negative": 231,
-      "neutral": 1624,
-      "positive": 196
+      "neutral": 1127,
+      "positive": 78,
+      "negative": 295
     },
     "emotion": {
-      "fear": 779,
-      "neutral": 528,
-      "surprise": 202,
-      "joy": 278,
-      "anger": 96,
-      "sadness": 155,
-      "disgust": 13
+      "fear": 720,
+      "neutral": 358,
+      "joy": 108,
+      "sadness": 135,
+      "anger": 102,
+      "surprise": 70,
+      "disgust": 7
     },
     "hashtags": [
-      "#avgeek",
+      "#FANZA",
+      "#무료웹하드",
+      "#야동",
+      "#넷파일",
+      "#해외AV",
       "#celebplanes",
       "#celebjettracking",
       "#privatejet",
-      "#FANZA",
-      "#야동",
-      "#무료웹하드",
-      "#넷파일",
-      "#해외AV",
+      "#avgeek",
       "#AV"
     ],
     "emojis": [
       "🔥",
+      "🎬",
       "🏠",
       "🎁",
-      "🎬",
       "🇳",
-      "🇷",
-      "🇺",
+      "🚨",
+      "♡",
       "👇",
-      "🇮",
-      "🚨"
+      "🇸",
+      "🇷"
     ]
   },
-  "topic_4": {
+  "topic_2": {
     "label": [
       "홈페이지",
       "텔레그램",
@@ -178,255 +349,27 @@
       "제공",
       "무조건"
     ],
-    "count": 678,
+    "count": 737,
     "daily": {
-      "2026-07-07": 103,
-      "2026-07-08": 57,
-      "2026-07-09": 152,
-      "2026-07-10": 123,
-      "2026-07-11": 32,
-      "2026-07-12": 150,
-      "2026-07-13": 61
-    },
-    "sentiment": {
-      "negative": 118,
-      "neutral": 536,
-      "positive": 24
-    },
-    "emotion": {
-      "sadness": 77,
-      "neutral": 214,
-      "fear": 278,
-      "anger": 46,
-      "joy": 40,
-      "surprise": 22,
-      "disgust": 1
-    },
-    "hashtags": [
-      "#FANZA",
-      "#무료웹하드",
-      "#넷파일",
-      "#야동",
-      "#해외AV",
-      "#celebplanes",
-      "#celebjettracking",
-      "#privatejet",
-      "#avgeek",
-      "#AV女優"
-    ],
-    "emojis": [
-      "🔥",
-      "🏠",
-      "🎁",
-      "🎬",
-      "🇳",
-      "🇺",
-      "🇮",
-      "🇸",
-      "🇷",
-      "★"
-    ]
-  },
-  "topic_5": {
-    "label": [
-      "av",
-      "new",
-      "trains",
-      "running",
-      "2026"
-    ],
-    "count": 1460,
-    "daily": {
-      "2026-07-07": 256,
-      "2026-07-08": 246,
-      "2026-07-09": 247,
-      "2026-07-10": 229,
-      "2026-07-11": 165,
-      "2026-07-12": 87,
-      "2026-07-13": 230
-    },
-    "sentiment": {
-      "neutral": 1089,
-      "negative": 294,
-      "positive": 77
-    },
-    "emotion": {
-      "neutral": 340,
-      "fear": 690,
-      "joy": 108,
-      "disgust": 8,
-      "anger": 106,
-      "sadness": 136,
-      "surprise": 72
-    },
-    "hashtags": [
-      "#FANZA",
-      "#무료웹하드",
-      "#야동",
-      "#넷파일",
-      "#celebplanes",
-      "#celebjettracking",
-      "#privatejet",
-      "#avgeek",
-      "#해외AV",
-      "#AV"
-    ],
-    "emojis": [
-      "🔥",
-      "🎬",
-      "🏠",
-      "🎁",
-      "🇳",
-      "🚨",
-      "👇",
-      "🇸",
-      "🇷",
-      "🇰"
-    ]
-  },
-  "topic_6": {
-    "label": [
-      "og",
-      "er",
-      "det",
-      "til",
-      "ikke"
-    ],
-    "count": 892,
-    "daily": {
-      "2026-07-07": 141,
-      "2026-07-08": 65,
-      "2026-07-09": 90,
-      "2026-07-10": 132,
-      "2026-07-11": 205,
-      "2026-07-12": 79,
-      "2026-07-13": 180
-    },
-    "sentiment": {
-      "neutral": 637,
-      "negative": 230,
-      "positive": 25
-    },
-    "emotion": {
-      "fear": 457,
-      "joy": 31,
-      "neutral": 156,
-      "anger": 111,
-      "surprise": 32,
-      "disgust": 17,
-      "sadness": 88
-    },
-    "hashtags": [
-      "#FANZA",
-      "#무료웹하드",
-      "#넷파일",
-      "#야동",
-      "#celebplanes",
-      "#celebjettracking",
-      "#privatejet",
-      "#avgeek",
-      "#해외AV",
-      "#AV女優"
-    ],
-    "emojis": [
-      "🔥",
-      "🏠",
-      "🎁",
-      "🎬",
-      "★",
-      "🚨",
-      "👇",
-      "🇷",
-      "🛒",
-      "🇸"
-    ]
-  },
-  "topic_7": {
-    "label": [
-      "stalled",
-      "autonomy",
-      "la",
-      "vehicle",
-      "2026"
-    ],
-    "count": 1070,
-    "daily": {
-      "2026-07-07": 124,
-      "2026-07-08": 92,
-      "2026-07-09": 155,
-      "2026-07-10": 147,
-      "2026-07-11": 81,
-      "2026-07-12": 153,
-      "2026-07-13": 318
-    },
-    "sentiment": {
-      "negative": 231,
-      "neutral": 772,
-      "positive": 67
-    },
-    "emotion": {
-      "fear": 422,
-      "sadness": 85,
-      "neutral": 294,
-      "surprise": 76,
-      "joy": 76,
-      "anger": 102,
-      "disgust": 15
-    },
-    "hashtags": [
-      "#FANZA",
-      "#무료웹하드",
-      "#넷파일",
-      "#야동",
-      "#celebplanes",
-      "#celebjettracking",
-      "#privatejet",
-      "#avgeek",
-      "#해외AV",
-      "#AV"
-    ],
-    "emojis": [
-      "🔥",
-      "🎬",
-      "🏠",
-      "🎁",
-      "🇺",
-      "🇳",
-      "🇸",
-      "🚨",
-      "🇷",
-      "🇮"
-    ]
-  },
-  "topic_2": {
-    "label": [
-      "女優判定",
-      "購入pr",
-      "いきなりエロざんまい",
-      "ティッシュシコレール",
-      "trains"
-    ],
-    "count": 743,
-    "daily": {
-      "2026-07-07": 65,
       "2026-07-08": 67,
       "2026-07-09": 62,
       "2026-07-10": 328,
       "2026-07-11": 69,
       "2026-07-12": 71,
-      "2026-07-13": 81
+      "2026-07-13": 81,
+      "2026-07-14": 59
     },
     "sentiment": {
-      "neutral": 595,
-      "negative": 93,
-      "positive": 55
+      "neutral": 581,
+      "negative": 99,
+      "positive": 57
     },
     "emotion": {
-      "neutral": 299,
-      "fear": 162,
-      "joy": 125,
-      "anger": 42,
-      "sadness": 57,
+      "fear": 187,
+      "joy": 135,
+      "neutral": 252,
+      "anger": 44,
+      "sadness": 61,
       "surprise": 55,
       "disgust": 3
     },
@@ -439,8 +382,8 @@
       "#일본AV",
       "#AV배우",
       "#신작품번",
-      "#인도AV",
-      "#celebplanes"
+      "#celebplanes",
+      "#celebjettracking"
     ],
     "emojis": [
       "🔥",
@@ -449,10 +392,67 @@
       "🎬",
       "🇳",
       "🇮",
-      "🚨",
       "🇺",
       "🇸",
+      "🚨",
       "👇"
+    ]
+  },
+  "topic_4": {
+    "label": [
+      "女優判定",
+      "購入pr",
+      "missiles",
+      "リンク先はこちら",
+      "defense"
+    ],
+    "count": 668,
+    "daily": {
+      "2026-07-08": 57,
+      "2026-07-09": 152,
+      "2026-07-10": 123,
+      "2026-07-11": 32,
+      "2026-07-12": 150,
+      "2026-07-13": 61,
+      "2026-07-14": 93
+    },
+    "sentiment": {
+      "neutral": 572,
+      "negative": 76,
+      "positive": 20
+    },
+    "emotion": {
+      "neutral": 295,
+      "sadness": 46,
+      "surprise": 16,
+      "fear": 239,
+      "joy": 37,
+      "anger": 34,
+      "disgust": 1
+    },
+    "hashtags": [
+      "#FANZA",
+      "#무료웹하드",
+      "#넷파일",
+      "#야동",
+      "#해외AV",
+      "#celebplanes",
+      "#celebjettracking",
+      "#privatejet",
+      "#avgeek",
+      "#AV"
+    ],
+    "emojis": [
+      "🔥",
+      "🏠",
+      "🎁",
+      "🎬",
+      "🇳",
+      "🇮",
+      "🇺",
+      "🇸",
+      "★",
+      "♡"
     ]
   }
 }
