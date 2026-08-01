@@ -1,64 +1,4 @@
 {
-  "2026-07-24": {
-    "volume": 1764,
-    "sentiment": {
-      "negative": 244,
-      "neutral": 1430,
-      "positive": 90
-    },
-    "emotion": {
-      "fear": 741,
-      "neutral": 492,
-      "sadness": 157,
-      "joy": 144,
-      "anger": 112,
-      "surprise": 107,
-      "disgust": 11
-    },
-    "language": {
-      "nb": 163,
-      "en": 574,
-      "sv": 224,
-      "ja": 160,
-      "tr": 7,
-      "en-US": 42,
-      "nb-NO": 37,
-      "sk": 8,
-      "no": 27,
-      "sv-SE": 48,
-      "ca": 18,
-      "es": 13,
-      "nn": 14,
-      "gl": 1,
-      "sv-FI": 2,
-      "it": 3,
-      "pt": 35,
-      "ak": 1,
-      "sq": 1,
-      "cs": 3,
-      "nl": 1,
-      "de": 10,
-      "fr": 10,
-      "ko": 3,
-      "th": 1,
-      "zh": 3,
-      "es-ES": 4,
-      "pt-PT": 3,
-      "el": 1,
-      "da": 2,
-      "de-DE": 1,
-      "en-CA": 1,
-      "no-NO": 2,
-      "uk": 3,
-      "gd": 1,
-      "fi": 4,
-      "lv-LV": 1,
-      "lv": 1,
-      "ru": 1,
-      "he": 1,
-      "sl": 1
-    }
-  },
   "2026-07-25": {
     "volume": 1460,
     "sentiment": {
@@ -419,6 +359,63 @@
       "pt-PT": 2,
       "it-IT": 1,
       "el": 1
+    }
+  },
+  "2026-07-31": {
+    "volume": 1842,
+    "sentiment": {
+      "neutral": 1555,
+      "negative": 188,
+      "positive": 99
+    },
+    "emotion": {
+      "surprise": 103,
+      "fear": 802,
+      "sadness": 115,
+      "neutral": 577,
+      "anger": 97,
+      "joy": 135,
+      "disgust": 13
+    },
+    "language": {
+      "en": 505,
+      "ja": 234,
+      "no": 26,
+      "sv": 274,
+      "pt": 41,
+      "ca": 13,
+      "sv-SE": 70,
+      "nb": 180,
+      "en-US": 28,
+      "nb-NO": 52,
+      "sk": 17,
+      "pt-PT": 1,
+      "ko": 10,
+      "fr": 23,
+      "de": 15,
+      "it": 7,
+      "nn": 13,
+      "cs": 6,
+      "ro": 2,
+      "zh": 2,
+      "es": 11,
+      "sv-FI": 6,
+      "ru": 4,
+      "it-IT": 3,
+      "tr": 12,
+      "pl": 2,
+      "lv-LV": 3,
+      "lv": 3,
+      "da": 2,
+      "ja-JP": 2,
+      "th": 9,
+      "nl": 1,
+      "zh-TW": 1,
+      "ak": 1,
+      "sq": 1,
+      "gl": 1,
+      "en-AU": 1,
+      "en-GB": 1
     }
   }
 }
