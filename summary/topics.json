@@ -1,100 +1,43 @@
 {
-  "topic_0": {
+  "topic_7": {
     "label": [
-      "av",
-      "en",
-      "på",
-      "det",
-      "er"
+      "gal",
+      "ft",
+      "gulfstream",
+      "closed",
+      "run"
     ],
-    "count": 3547,
+    "count": 805,
     "daily": {
-      "2026-07-28": 420,
-      "2026-07-29": 545,
-      "2026-07-30": 654,
-      "2026-07-31": 340,
-      "2026-08-01": 503,
-      "2026-08-02": 526,
-      "2026-08-03": 559
+      "2026-07-29": 160,
+      "2026-07-30": 85,
+      "2026-07-31": 96,
+      "2026-08-01": 92,
+      "2026-08-02": 87,
+      "2026-08-03": 143,
+      "2026-08-04": 142
     },
     "sentiment": {
-      "positive": 119,
-      "neutral": 3295,
-      "negative": 133
+      "neutral": 713,
+      "positive": 41,
+      "negative": 51
     },
     "emotion": {
-      "joy": 205,
-      "neutral": 1413,
-      "fear": 1624,
-      "surprise": 112,
-      "sadness": 91,
-      "anger": 79,
-      "disgust": 23
+      "fear": 145,
+      "surprise": 225,
+      "anger": 40,
+      "joy": 91,
+      "neutral": 227,
+      "sadness": 73,
+      "disgust": 4
     },
     "hashtags": [
-      "#privatejet",
       "#celebplanes",
       "#celebjettracking",
-      "#avgeek",
-      "#FANZA",
-      "#AV",
-      "#AV女優",
-      "#hiring",
-      "#jobalert",
-      "#jobsearch"
-    ],
-    "emojis": [
-      "♡",
-      "🔗",
-      "📢",
-      "🚨",
-      "🌎",
-      "🔥",
-      "🇺",
-      "🇪",
-      "👇",
-      "👉"
-    ]
-  },
-  "topic_1": {
-    "label": [
-      "cruise",
-      "tom",
-      "ship",
-      "missiles",
-      "missile"
-    ],
-    "count": 2189,
-    "daily": {
-      "2026-07-28": 325,
-      "2026-07-29": 238,
-      "2026-07-30": 395,
-      "2026-07-31": 436,
-      "2026-08-01": 323,
-      "2026-08-02": 226,
-      "2026-08-03": 246
-    },
-    "sentiment": {
-      "neutral": 1739,
-      "negative": 216,
-      "positive": 234
-    },
-    "emotion": {
-      "fear": 1021,
-      "neutral": 481,
-      "joy": 297,
-      "anger": 98,
-      "sadness": 107,
-      "disgust": 10,
-      "surprise": 175
-    },
-    "hashtags": [
       "#privatejet",
-      "#celebplanes",
-      "#celebjettracking",
       "#avgeek",
       "#FANZA",
-      "#AV女優",
+      "#insynsregistret",
       "#hiring",
       "#jobalert",
       "#jobsearch",
@@ -102,48 +45,276 @@
     ],
     "emojis": [
       "♡",
-      "🔗",
       "🚨",
+      "🔗",
+      "⚕",
+      "🌎",
+      "📢",
+      "👇",
+      "🇺",
+      "🔥",
+      "👩"
+    ]
+  },
+  "topic_0": {
+    "label": [
+      "av",
+      "en",
+      "som",
+      "på",
+      "och"
+    ],
+    "count": 3714,
+    "daily": {
+      "2026-07-29": 545,
+      "2026-07-30": 654,
+      "2026-07-31": 340,
+      "2026-08-01": 503,
+      "2026-08-02": 526,
+      "2026-08-03": 559,
+      "2026-08-04": 587
+    },
+    "sentiment": {
+      "neutral": 3517,
+      "positive": 90,
+      "negative": 107
+    },
+    "emotion": {
+      "neutral": 1469,
+      "fear": 1840,
+      "sadness": 67,
+      "joy": 174,
+      "anger": 71,
+      "disgust": 27,
+      "surprise": 66
+    },
+    "hashtags": [
+      "#privatejet",
+      "#celebplanes",
+      "#celebjettracking",
+      "#avgeek",
+      "#FANZA",
+      "#hiring",
+      "#jobalert",
+      "#jobsearch",
+      "#ecommercejobs",
+      "#AV"
+    ],
+    "emojis": [
+      "♡",
+      "🔗",
       "📢",
       "🌎",
-      "★",
-      "👇",
       "🔥",
+      "🚨",
+      "🇺",
+      "🇪",
+      "👉",
+      "👇"
+    ]
+  },
+  "topic_5": {
+    "label": [
+      "autonomy",
+      "bodily",
+      "just",
+      "like",
+      "ai"
+    ],
+    "count": 1040,
+    "daily": {
+      "2026-07-29": 186,
+      "2026-07-30": 131,
+      "2026-07-31": 136,
+      "2026-08-01": 159,
+      "2026-08-02": 167,
+      "2026-08-03": 149,
+      "2026-08-04": 112
+    },
+    "sentiment": {
+      "neutral": 886,
+      "positive": 31,
+      "negative": 123
+    },
+    "emotion": {
+      "fear": 653,
+      "neutral": 178,
+      "anger": 79,
+      "surprise": 24,
+      "disgust": 8,
+      "sadness": 57,
+      "joy": 41
+    },
+    "hashtags": [
+      "#celebplanes",
+      "#celebjettracking",
+      "#privatejet",
+      "#avgeek",
+      "#FANZA",
+      "#AV女優",
+      "#nyc",
+      "#mta",
+      "#hiring",
+      "#jobalert"
+    ],
+    "emojis": [
+      "♡",
+      "🔥",
+      "🚨",
+      "🔗",
+      "★",
+      "🇺",
+      "📢",
+      "🌎",
+      "🇦",
+      "⚡"
+    ]
+  },
+  "topic_1": {
+    "label": [
+      "cruise",
+      "tom",
+      "ship",
+      "gal",
+      "missiles"
+    ],
+    "count": 2140,
+    "daily": {
+      "2026-07-29": 238,
+      "2026-07-30": 395,
+      "2026-07-31": 436,
+      "2026-08-01": 323,
+      "2026-08-02": 226,
+      "2026-08-03": 246,
+      "2026-08-04": 276
+    },
+    "sentiment": {
+      "neutral": 1607,
+      "positive": 296,
+      "negative": 237
+    },
+    "emotion": {
+      "surprise": 204,
+      "neutral": 460,
+      "sadness": 116,
+      "joy": 380,
+      "fear": 875,
+      "anger": 96,
+      "disgust": 9
+    },
+    "hashtags": [
+      "#privatejet",
+      "#celebplanes",
+      "#celebjettracking",
+      "#avgeek",
+      "#FANZA",
+      "#hiring",
+      "#jobalert",
+      "#jobsearch",
+      "#ecommercejobs",
+      "#AV女優"
+    ],
+    "emojis": [
+      "♡",
+      "🔗",
+      "📢",
+      "🌎",
+      "👇",
+      "★",
+      "🚨",
+      "🇺",
       "🔴",
-      "🇺"
+      "🔥"
+    ]
+  },
+  "topic_2": {
+    "label": [
+      "購入pr",
+      "女優判定",
+      "que",
+      "line",
+      "avó"
+    ],
+    "count": 994,
+    "daily": {
+      "2026-07-29": 143,
+      "2026-07-30": 197,
+      "2026-07-31": 282,
+      "2026-08-01": 78,
+      "2026-08-02": 164,
+      "2026-08-03": 83,
+      "2026-08-04": 47
+    },
+    "sentiment": {
+      "neutral": 740,
+      "negative": 171,
+      "positive": 83
+    },
+    "emotion": {
+      "neutral": 316,
+      "fear": 306,
+      "sadness": 141,
+      "joy": 116,
+      "disgust": 1,
+      "anger": 53,
+      "surprise": 61
+    },
+    "hashtags": [
+      "#celebplanes",
+      "#celebjettracking",
+      "#privatejet",
+      "#avgeek",
+      "#gulfstreamg650er",
+      "#FANZA",
+      "#insynsregistret",
+      "#VIC",
+      "#EMVAlert",
+      "#incident"
+    ],
+    "emojis": [
+      "♡",
+      "🇺",
+      "🚨",
+      "🇳",
+      "🇴",
+      "🇷",
+      "🇦",
+      "🇪",
+      "🔴",
+      "👇"
     ]
   },
   "topic_3": {
     "label": [
-      "autonomy",
-      "ai",
-      "just",
-      "need",
-      "dont"
+      "stalled",
+      "av",
+      "new",
+      "train",
+      "trump"
     ],
-    "count": 1018,
+    "count": 1053,
     "daily": {
-      "2026-07-28": 142,
       "2026-07-29": 94,
       "2026-07-30": 212,
       "2026-07-31": 237,
       "2026-08-01": 164,
       "2026-08-02": 90,
-      "2026-08-03": 79
+      "2026-08-03": 79,
+      "2026-08-04": 177
     },
     "sentiment": {
-      "negative": 315,
-      "positive": 67,
-      "neutral": 636
+      "negative": 321,
+      "neutral": 673,
+      "positive": 59
     },
     "emotion": {
-      "neutral": 177,
-      "fear": 426,
-      "anger": 126,
-      "disgust": 13,
-      "joy": 63,
+      "sadness": 179,
+      "fear": 458,
+      "joy": 62,
+      "anger": 117,
       "surprise": 65,
-      "sadness": 148
+      "neutral": 167,
+      "disgust": 5
     },
     "hashtags": [
       "#celebplanes",
@@ -158,106 +329,49 @@
       "#AV女優"
     ],
     "emojis": [
-      "★",
-      "♡",
       "🔗",
       "📢",
       "🌎",
       "🇺",
-      "🔥",
-      "🚨",
-      "👇",
-      "🇱"
-    ]
-  },
-  "topic_5": {
-    "label": [
-      "och",
-      "att",
-      "är",
-      "för",
-      "jag"
-    ],
-    "count": 1034,
-    "daily": {
-      "2026-07-28": 106,
-      "2026-07-29": 186,
-      "2026-07-30": 131,
-      "2026-07-31": 136,
-      "2026-08-01": 159,
-      "2026-08-02": 167,
-      "2026-08-03": 149
-    },
-    "sentiment": {
-      "neutral": 894,
-      "negative": 117,
-      "positive": 23
-    },
-    "emotion": {
-      "fear": 641,
-      "neutral": 179,
-      "sadness": 86,
-      "joy": 27,
-      "surprise": 23,
-      "anger": 70,
-      "disgust": 8
-    },
-    "hashtags": [
-      "#celebplanes",
-      "#celebjettracking",
-      "#privatejet",
-      "#avgeek",
-      "#FANZA",
-      "#AV女優",
-      "#insynsregistret",
-      "#nyc",
-      "#mta",
-      "#subway"
-    ],
-    "emojis": [
       "♡",
-      "🚨",
       "🔥",
-      "🔗",
       "★",
-      "🇺",
-      "📢",
-      "⚡",
-      "🌎",
-      "🇦"
+      "🔴",
+      "🇱",
+      "🇵"
     ]
   },
   "topic_4": {
     "label": [
-      "av",
-      "train",
-      "trains",
-      "new",
-      "delays"
+      "stalled",
+      "det",
+      "att",
+      "är",
+      "som"
     ],
-    "count": 836,
+    "count": 762,
     "daily": {
-      "2026-07-28": 173,
       "2026-07-29": 78,
       "2026-07-30": 161,
       "2026-07-31": 113,
       "2026-08-01": 121,
       "2026-08-02": 42,
-      "2026-08-03": 148
+      "2026-08-03": 148,
+      "2026-08-04": 99
     },
     "sentiment": {
-      "neutral": 610,
-      "negative": 171,
-      "positive": 55
+      "neutral": 548,
+      "positive": 51,
+      "negative": 163
     },
     "emotion": {
-      "neutral": 259,
-      "fear": 272,
-      "surprise": 41,
-      "joy": 75,
-      "disgust": 7,
-      "sadness": 99,
-      "anger": 83
+      "fear": 319,
+      "neutral": 197,
+      "joy": 53,
+      "anger": 72,
+      "sadness": 86,
+      "disgust": 3,
+      "surprise": 32
     },
     "hashtags": [
       "#privatejet",
@@ -267,110 +381,53 @@
       "#FANZA",
       "#insynsregistret",
       "#AV",
-      "#nyc",
-      "#mta",
-      "#subway"
+      "#Ukraine",
+      "#hiring",
+      "#jobalert"
     ],
     "emojis": [
       "🚨",
-      "🇺",
       "♡",
+      "🇺",
       "🔴",
       "🇦",
       "🔗",
-      "👇",
       "📢",
       "🌎",
+      "👇",
       "🔥"
-    ]
-  },
-  "topic_7": {
-    "label": [
-      "time",
-      "mopar",
-      "2026",
-      "make",
-      "great"
-    ],
-    "count": 834,
-    "daily": {
-      "2026-07-28": 171,
-      "2026-07-29": 160,
-      "2026-07-30": 85,
-      "2026-07-31": 96,
-      "2026-08-01": 92,
-      "2026-08-02": 87,
-      "2026-08-03": 143
-    },
-    "sentiment": {
-      "negative": 46,
-      "neutral": 748,
-      "positive": 40
-    },
-    "emotion": {
-      "sadness": 54,
-      "fear": 242,
-      "neutral": 237,
-      "anger": 44,
-      "joy": 80,
-      "surprise": 171,
-      "disgust": 6
-    },
-    "hashtags": [
-      "#celebplanes",
-      "#celebjettracking",
-      "#privatejet",
-      "#avgeek",
-      "#insynsregistret",
-      "#FANZA",
-      "#gulfstreamg650er",
-      "#VIC",
-      "#EMVAlert",
-      "#incident"
-    ],
-    "emojis": [
-      "🚨",
-      "♡",
-      "👇",
-      "🔗",
-      "⚕",
-      "🌎",
-      "🔥",
-      "📢",
-      "👩",
-      "👉"
     ]
   },
   "topic_6": {
     "label": [
-      "gal",
-      "gulfstream",
-      "ft",
-      "wheels",
-      "closed"
+      "er",
+      "og",
+      "til",
+      "jeg",
+      "ikke"
     ],
-    "count": 943,
+    "count": 968,
     "daily": {
-      "2026-07-28": 172,
       "2026-07-29": 108,
       "2026-07-30": 172,
       "2026-07-31": 222,
       "2026-08-01": 93,
       "2026-08-02": 106,
-      "2026-08-03": 70
+      "2026-08-03": 70,
+      "2026-08-04": 197
     },
     "sentiment": {
-      "neutral": 786,
-      "positive": 35,
-      "negative": 122
+      "neutral": 841,
+      "negative": 102,
+      "positive": 25
     },
     "emotion": {
-      "neutral": 158,
-      "fear": 445,
-      "joy": 59,
-      "anger": 71,
-      "surprise": 137,
-      "sadness": 65,
+      "surprise": 133,
+      "fear": 501,
+      "sadness": 48,
+      "neutral": 154,
+      "joy": 49,
+      "anger": 75,
       "disgust": 8
     },
     "hashtags": [
@@ -379,80 +436,23 @@
       "#privatejet",
       "#avgeek",
       "#FANZA",
-      "#AV",
-      "#AV女優",
       "#hiring",
       "#jobalert",
-      "#jobsearch"
+      "#jobsearch",
+      "#ecommercejobs",
+      "#AV"
     ],
     "emojis": [
       "🔥",
+      "★",
       "🔗",
-      "♡",
-      "🚨",
-      "🇪",
-      "👇",
       "📢",
       "🌎",
-      "🇺",
-      "🇦"
-    ]
-  },
-  "topic_2": {
-    "label": [
-      "stalled",
-      "trump",
-      "iran",
-      "new",
-      "la"
-    ],
-    "count": 1005,
-    "daily": {
-      "2026-07-28": 58,
-      "2026-07-29": 143,
-      "2026-07-30": 197,
-      "2026-07-31": 282,
-      "2026-08-01": 78,
-      "2026-08-02": 164,
-      "2026-08-03": 83
-    },
-    "sentiment": {
-      "neutral": 751,
-      "negative": 171,
-      "positive": 83
-    },
-    "emotion": {
-      "neutral": 327,
-      "fear": 306,
-      "sadness": 141,
-      "joy": 116,
-      "disgust": 1,
-      "anger": 53,
-      "surprise": 61
-    },
-    "hashtags": [
-      "#celebplanes",
-      "#celebjettracking",
-      "#privatejet",
-      "#avgeek",
-      "#FANZA",
-      "#AV女優",
-      "#gulfstreamg650er",
-      "#insynsregistret",
-      "#VIC",
-      "#EMVAlert"
-    ],
-    "emojis": [
       "♡",
-      "🇺",
       "🚨",
-      "🇳",
-      "🇴",
-      "🇪",
-      "🔴",
-      "🔥",
-      "🇷",
-      "🇦"
+      "🇺",
+      "👇",
+      "🇪"
     ]
   }
 }
