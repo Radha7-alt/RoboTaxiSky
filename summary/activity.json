@@ -1,61 +1,4 @@
 {
-  "2026-07-31": {
-    "volume": 1862,
-    "sentiment": {
-      "neutral": 1572,
-      "negative": 190,
-      "positive": 100
-    },
-    "emotion": {
-      "surprise": 103,
-      "fear": 809,
-      "sadness": 116,
-      "neutral": 585,
-      "anger": 98,
-      "joy": 138,
-      "disgust": 13
-    },
-    "language": {
-      "en": 505,
-      "ja": 234,
-      "no": 26,
-      "sv": 274,
-      "pt": 41,
-      "ca": 13,
-      "sv-SE": 70,
-      "nb": 180,
-      "en-US": 28,
-      "nb-NO": 52,
-      "sk": 17,
-      "pt-PT": 1,
-      "ko": 10,
-      "fr": 23,
-      "de": 15,
-      "it": 7,
-      "nn": 13,
-      "cs": 6,
-      "ro": 2,
-      "zh": 2,
-      "es": 11,
-      "sv-FI": 6,
-      "ru": 4,
-      "it-IT": 3,
-      "tr": 12,
-      "pl": 2,
-      "lv-LV": 3,
-      "lv": 3,
-      "da": 2,
-      "ja-JP": 2,
-      "th": 9,
-      "nl": 1,
-      "zh-TW": 1,
-      "ak": 1,
-      "sq": 1,
-      "gl": 1,
-      "en-AU": 1,
-      "en-GB": 1
-    }
-  },
   "2026-08-01": {
     "volume": 1533,
     "sentiment": {
@@ -370,6 +313,58 @@
       "lv": 1,
       "zh": 1,
       "uk": 1
+    }
+  },
+  "2026-08-07": {
+    "volume": 1750,
+    "sentiment": {
+      "neutral": 1477,
+      "positive": 82,
+      "negative": 191
+    },
+    "emotion": {
+      "neutral": 420,
+      "fear": 796,
+      "surprise": 120,
+      "sadness": 149,
+      "anger": 87,
+      "joy": 171,
+      "disgust": 7
+    },
+    "language": {
+      "en": 479,
+      "fr": 10,
+      "sk": 11,
+      "ja": 122,
+      "sv": 274,
+      "sv-FI": 6,
+      "sv-SE": 68,
+      "pt": 72,
+      "nb": 189,
+      "nb-NO": 50,
+      "nn": 15,
+      "no": 28,
+      "ca": 24,
+      "en-US": 26,
+      "de": 8,
+      "pt-PT": 2,
+      "tr": 11,
+      "es": 13,
+      "fr-FR": 2,
+      "uk": 1,
+      "nl-NL": 1,
+      "fi": 3,
+      "pl": 2,
+      "cs": 1,
+      "ko": 8,
+      "ru": 1,
+      "sl": 1,
+      "ja-JP": 1,
+      "tl": 1,
+      "pt-BR": 1,
+      "id": 2,
+      "zh": 2,
+      "af": 1
     }
   }
 }
