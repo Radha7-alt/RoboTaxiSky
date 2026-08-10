@@ -1,34 +1,148 @@
 {
+  "topic_0": {
+    "label": [
+      "av",
+      "på",
+      "en",
+      "som",
+      "det"
+    ],
+    "count": 4075,
+    "daily": {
+      "2026-08-03": 560,
+      "2026-08-04": 587,
+      "2026-08-05": 619,
+      "2026-08-06": 633,
+      "2026-08-07": 615,
+      "2026-08-08": 481,
+      "2026-08-09": 580
+    },
+    "sentiment": {
+      "neutral": 3974,
+      "positive": 46,
+      "negative": 55
+    },
+    "emotion": {
+      "neutral": 1378,
+      "fear": 2383,
+      "joy": 112,
+      "sadness": 59,
+      "disgust": 30,
+      "surprise": 47,
+      "anger": 66
+    },
+    "hashtags": [
+      "#celebplanes",
+      "#celebjettracking",
+      "#privatejet",
+      "#avgeek",
+      "#FANZA",
+      "#hiring",
+      "#jobalert",
+      "#jobsearch",
+      "#ecommercejobs",
+      "#AV女優"
+    ],
+    "emojis": [
+      "🇷",
+      "🇧",
+      "♡",
+      "🔗",
+      "📢",
+      "🌎",
+      "★",
+      "👇",
+      "🇪",
+      "🇹"
+    ]
+  },
   "topic_1": {
     "label": [
       "cruise",
-      "gal",
       "ship",
       "tom",
-      "just"
+      "just",
+      "gal"
     ],
-    "count": 1908,
+    "count": 1997,
     "daily": {
-      "2026-08-02": 226,
       "2026-08-03": 246,
       "2026-08-04": 276,
       "2026-08-05": 387,
       "2026-08-06": 214,
       "2026-08-07": 235,
-      "2026-08-08": 324
+      "2026-08-08": 324,
+      "2026-08-09": 315
     },
     "sentiment": {
-      "neutral": 1243,
-      "negative": 301,
-      "positive": 364
+      "neutral": 1330,
+      "positive": 366,
+      "negative": 301
     },
     "emotion": {
-      "fear": 431,
-      "anger": 117,
-      "joy": 524,
-      "surprise": 275,
-      "neutral": 380,
-      "sadness": 173,
+      "fear": 472,
+      "surprise": 291,
+      "joy": 530,
+      "neutral": 402,
+      "sadness": 175,
+      "anger": 116,
+      "disgust": 11
+    },
+    "hashtags": [
+      "#celebplanes",
+      "#celebjettracking",
+      "#privatejet",
+      "#avgeek",
+      "#hiring",
+      "#jobalert",
+      "#jobsearch",
+      "#ecommercejobs",
+      "#AV",
+      "#FANZA"
+    ],
+    "emojis": [
+      "🔗",
+      "📢",
+      "🌎",
+      "🇷",
+      "♡",
+      "🇧",
+      "👇",
+      "🇺",
+      "🇦",
+      "🛒"
+    ]
+  },
+  "topic_4": {
+    "label": [
+      "autonomy",
+      "bodily",
+      "ai",
+      "people",
+      "like"
+    ],
+    "count": 868,
+    "daily": {
+      "2026-08-03": 148,
+      "2026-08-04": 99,
+      "2026-08-05": 177,
+      "2026-08-06": 137,
+      "2026-08-07": 199,
+      "2026-08-08": 44,
+      "2026-08-09": 64
+    },
+    "sentiment": {
+      "neutral": 692,
+      "negative": 152,
+      "positive": 24
+    },
+    "emotion": {
+      "fear": 378,
+      "sadness": 86,
+      "neutral": 227,
+      "joy": 51,
+      "surprise": 55,
+      "anger": 63,
       "disgust": 8
     },
     "hashtags": [
@@ -41,108 +155,108 @@
       "#jobsearch",
       "#ecommercejobs",
       "#FANZA",
-      "#AV"
+      "#nyc"
     ],
     "emojis": [
-      "🔗",
+      "♡",
       "📢",
       "🌎",
-      "🇷",
-      "♡",
-      "🇧",
-      "★",
-      "👇",
+      "🔗",
+      "🚨",
       "🇺",
-      "🇦"
+      "👉",
+      "🔥",
+      "🙄",
+      "🛒"
     ]
   },
-  "topic_0": {
+  "topic_5": {
     "label": [
-      "av",
-      "en",
-      "och",
-      "det",
-      "att"
+      "baja",
+      "por",
+      "oferta",
+      "si",
+      "comprar"
     ],
-    "count": 4021,
+    "count": 737,
     "daily": {
-      "2026-08-02": 526,
-      "2026-08-03": 560,
-      "2026-08-04": 587,
-      "2026-08-05": 619,
-      "2026-08-06": 633,
-      "2026-08-07": 615,
-      "2026-08-08": 481
+      "2026-08-03": 149,
+      "2026-08-04": 113,
+      "2026-08-05": 93,
+      "2026-08-06": 203,
+      "2026-08-07": 50,
+      "2026-08-08": 40,
+      "2026-08-09": 89
     },
     "sentiment": {
-      "neutral": 3925,
-      "negative": 53,
-      "positive": 43
+      "neutral": 636,
+      "negative": 74,
+      "positive": 27
     },
     "emotion": {
-      "fear": 2373,
-      "neutral": 1342,
-      "anger": 58,
-      "joy": 114,
-      "surprise": 52,
-      "disgust": 26,
-      "sadness": 56
+      "fear": 433,
+      "joy": 70,
+      "neutral": 157,
+      "sadness": 9,
+      "anger": 45,
+      "surprise": 20,
+      "disgust": 3
     },
     "hashtags": [
       "#celebplanes",
       "#celebjettracking",
       "#privatejet",
       "#avgeek",
-      "#FANZA",
-      "#AV女優",
       "#hiring",
       "#jobalert",
       "#jobsearch",
-      "#ecommercejobs"
+      "#ecommercejobs",
+      "#FANZA",
+      "#VIC"
     ],
     "emojis": [
-      "🇷",
-      "🇧",
-      "♡",
       "🔗",
+      "🌨",
       "📢",
       "🌎",
-      "👇",
+      "👉",
       "★",
-      "🇪",
-      "🇹"
+      "🚨",
+      "🇴",
+      "⚠",
+      "🌴"
     ]
   },
-  "topic_6": {
+  "topic_2": {
     "label": [
-      "autonomy",
-      "like",
-      "dont",
-      "people",
-      "ai"
+      "av",
+      "trains",
+      "train",
+      "new",
+      "2026"
     ],
-    "count": 822,
+    "count": 757,
     "daily": {
-      "2026-08-02": 106,
-      "2026-08-03": 70,
-      "2026-08-04": 197,
-      "2026-08-05": 110,
-      "2026-08-06": 34,
-      "2026-08-07": 181,
-      "2026-08-08": 124
+      "2026-08-03": 83,
+      "2026-08-04": 47,
+      "2026-08-05": 61,
+      "2026-08-06": 186,
+      "2026-08-07": 144,
+      "2026-08-08": 92,
+      "2026-08-09": 144
     },
     "sentiment": {
-      "neutral": 645,
-      "negative": 128,
-      "positive": 49
+      "neutral": 537,
+      "negative": 184,
+      "positive": 36
     },
     "emotion": {
-      "joy": 54,
-      "anger": 73,
-      "fear": 381,
-      "sadness": 62,
-      "neutral": 162,
-      "surprise": 85,
+      "neutral": 238,
+      "fear": 236,
+      "sadness": 141,
+      "anger": 51,
+      "joy": 50,
+      "surprise": 36,
       "disgust": 5
     },
     "hashtags": [
@@ -150,56 +264,56 @@
       "#celebjettracking",
       "#privatejet",
       "#avgeek",
-      "#FANZA",
       "#hiring",
       "#jobalert",
       "#jobsearch",
       "#ecommercejobs",
-      "#AV"
+      "#AV",
+      "#VIC"
     ],
     "emojis": [
-      "🇷",
-      "🇧",
-      "★",
+      "♡",
       "🔗",
-      "🇵",
-      "🇹",
+      "🇧",
+      "🇷",
+      "★",
       "📢",
       "🌎",
-      "🚨",
-      "🇪"
+      "⚠",
+      "👉",
+      "🚨"
     ]
   },
   "topic_3": {
     "label": [
-      "av",
-      "new",
-      "trains",
-      "2026",
-      "st"
+      "stalled",
+      "trump",
+      "la",
+      "just",
+      "ai"
     ],
-    "count": 876,
+    "count": 895,
     "daily": {
-      "2026-08-02": 90,
       "2026-08-03": 79,
       "2026-08-04": 177,
       "2026-08-05": 100,
       "2026-08-06": 116,
       "2026-08-07": 117,
-      "2026-08-08": 197
+      "2026-08-08": 197,
+      "2026-08-09": 109
     },
     "sentiment": {
-      "neutral": 573,
-      "negative": 252,
-      "positive": 51
+      "negative": 247,
+      "neutral": 598,
+      "positive": 50
     },
     "emotion": {
-      "anger": 105,
-      "neutral": 220,
-      "sadness": 127,
-      "fear": 287,
-      "joy": 75,
-      "surprise": 59,
+      "neutral": 228,
+      "sadness": 117,
+      "fear": 301,
+      "joy": 76,
+      "anger": 101,
+      "surprise": 69,
       "disgust": 3
     },
     "hashtags": [
@@ -221,42 +335,42 @@
       "🔗",
       "🌎",
       "👇",
+      "🔥",
       "♡",
       "🇹",
-      "🇳",
-      "🇴"
+      "😭"
     ]
   },
-  "topic_2": {
+  "topic_6": {
     "label": [
-      "stalled",
-      "trump",
-      "need",
-      "just",
-      "help"
+      "og",
+      "er",
+      "til",
+      "jeg",
+      "ikke"
     ],
-    "count": 777,
+    "count": 847,
     "daily": {
-      "2026-08-02": 164,
-      "2026-08-03": 83,
-      "2026-08-04": 47,
-      "2026-08-05": 61,
-      "2026-08-06": 186,
-      "2026-08-07": 144,
-      "2026-08-08": 92
+      "2026-08-03": 70,
+      "2026-08-04": 197,
+      "2026-08-05": 110,
+      "2026-08-06": 34,
+      "2026-08-07": 181,
+      "2026-08-08": 124,
+      "2026-08-09": 131
     },
     "sentiment": {
-      "neutral": 554,
-      "negative": 189,
-      "positive": 34
+      "neutral": 729,
+      "negative": 80,
+      "positive": 38
     },
     "emotion": {
-      "fear": 270,
-      "surprise": 37,
-      "sadness": 148,
-      "joy": 47,
-      "neutral": 222,
-      "anger": 49,
+      "surprise": 73,
+      "fear": 445,
+      "sadness": 54,
+      "anger": 56,
+      "neutral": 165,
+      "joy": 50,
       "disgust": 4
     },
     "hashtags": [
@@ -268,122 +382,65 @@
       "#jobalert",
       "#jobsearch",
       "#ecommercejobs",
-      "#VIC",
-      "#EMVAlert"
+      "#FANZA",
+      "#AV"
     ],
     "emojis": [
-      "♡",
-      "🔗",
-      "📢",
-      "🌎",
-      "🇧",
       "🇷",
-      "⚠",
-      "👉",
-      "🗼",
-      "🚨"
-    ]
-  },
-  "topic_5": {
-    "label": [
-      "silversea",
-      "executive",
-      "chef",
-      "sous",
-      "worldwide"
-    ],
-    "count": 815,
-    "daily": {
-      "2026-08-02": 167,
-      "2026-08-03": 149,
-      "2026-08-04": 113,
-      "2026-08-05": 93,
-      "2026-08-06": 203,
-      "2026-08-07": 50,
-      "2026-08-08": 40
-    },
-    "sentiment": {
-      "neutral": 713,
-      "negative": 76,
-      "positive": 26
-    },
-    "emotion": {
-      "fear": 498,
-      "neutral": 163,
-      "surprise": 21,
-      "sadness": 12,
-      "anger": 51,
-      "joy": 66,
-      "disgust": 4
-    },
-    "hashtags": [
-      "#celebplanes",
-      "#celebjettracking",
-      "#privatejet",
-      "#avgeek",
-      "#hiring",
-      "#jobalert",
-      "#jobsearch",
-      "#ecommercejobs",
-      "#nyc",
-      "#mta"
-    ],
-    "emojis": [
+      "🇧",
+      "★",
       "🔗",
-      "🌨",
       "📢",
       "🌎",
+      "🇹",
+      "🇵",
       "🚨",
-      "★",
-      "🇴",
-      "⚠",
-      "🇳",
-      "👉"
+      "🇪"
     ]
   },
   "topic_7": {
     "label": [
-      "og",
-      "er",
-      "jeg",
-      "til",
-      "på"
+      "gal",
+      "closed",
+      "run",
+      "gulfstream",
+      "just"
     ],
-    "count": 1131,
+    "count": 1155,
     "daily": {
-      "2026-08-02": 87,
       "2026-08-03": 143,
       "2026-08-04": 142,
       "2026-08-05": 212,
       "2026-08-06": 137,
       "2026-08-07": 212,
-      "2026-08-08": 198
+      "2026-08-08": 198,
+      "2026-08-09": 111
     },
     "sentiment": {
-      "neutral": 1046,
-      "negative": 44,
-      "positive": 41
+      "neutral": 1065,
+      "positive": 43,
+      "negative": 47
     },
     "emotion": {
-      "surprise": 264,
-      "fear": 416,
-      "joy": 98,
-      "sadness": 107,
-      "neutral": 201,
-      "disgust": 5,
-      "anger": 40
+      "joy": 101,
+      "anger": 40,
+      "sadness": 118,
+      "fear": 417,
+      "surprise": 273,
+      "neutral": 202,
+      "disgust": 4
     },
     "hashtags": [
       "#celebplanes",
       "#celebjettracking",
       "#privatejet",
       "#avgeek",
-      "#FANZA",
-      "#VIC",
-      "#EMVAlert",
-      "#incident",
       "#hiring",
-      "#jobalert"
+      "#jobalert",
+      "#jobsearch",
+      "#ecommercejobs",
+      "#FANZA",
+      "#VIC"
     ],
     "emojis": [
       "🇷",
@@ -393,66 +450,9 @@
       "📢",
       "🌎",
       "🇵",
-      "👇",
       "🇪",
-      "🇺"
-    ]
-  },
-  "topic_4": {
-    "label": [
-      "購入pr",
-      "女優判定",
-      "av女優判定ai",
-      "20",
-      "que"
-    ],
-    "count": 846,
-    "daily": {
-      "2026-08-02": 42,
-      "2026-08-03": 148,
-      "2026-08-04": 99,
-      "2026-08-05": 177,
-      "2026-08-06": 137,
-      "2026-08-07": 199,
-      "2026-08-08": 44
-    },
-    "sentiment": {
-      "neutral": 706,
-      "negative": 120,
-      "positive": 20
-    },
-    "emotion": {
-      "fear": 366,
-      "neutral": 247,
-      "sadness": 84,
-      "joy": 43,
-      "surprise": 51,
-      "anger": 49,
-      "disgust": 6
-    },
-    "hashtags": [
-      "#celebplanes",
-      "#celebjettracking",
-      "#privatejet",
-      "#avgeek",
-      "#hiring",
-      "#jobalert",
-      "#jobsearch",
-      "#ecommercejobs",
-      "#FANZA",
-      "#nyc"
-    ],
-    "emojis": [
-      "♡",
-      "🔗",
-      "📢",
-      "🌎",
-      "🚨",
       "🇺",
-      "🔥",
-      "🙄",
-      "👉",
-      "😂"
+      "👇"
     ]
   }
 }
