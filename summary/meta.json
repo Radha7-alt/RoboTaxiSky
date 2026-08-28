@@ -1,33 +1,33 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "complete": {
-    "total_posts": 211422,
+    "total_posts": 213373,
     "total_sentiments": 6,
     "total_emotions": 7,
     "total_languages": 119,
     "total_topics": 8,
-    "total_hashtags": 32459,
+    "total_hashtags": 32644,
     "total_emojis": 841
   },
   "last_week": {
-    "total_posts": 12096,
+    "total_posts": 12250,
     "total_sentiments": 3,
     "total_emotions": 7,
-    "total_languages": 55,
+    "total_languages": 53,
     "total_topics": 8,
-    "total_hashtags": 3434,
-    "total_emojis": 394
+    "total_hashtags": 3473,
+    "total_emojis": 383
   },
   "averages": {
-    "avg_posts_per_day": 1728.0,
-    "avg_hashtags_per_day": 1894.43,
-    "avg_emojis_per_day": 818.29
+    "avg_posts_per_day": 1750.0,
+    "avg_hashtags_per_day": 1912.0,
+    "avg_emojis_per_day": 828.43
   },
   "top": {
     "sentiment": "neutral",
     "emotion": "fear",
     "language": "en",
     "hashtag": "#avgeek",
-    "emoji": "🚨"
+    "emoji": "👇"
   }
 }

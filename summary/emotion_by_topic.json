@@ -1,73 +1,74 @@
 {
   "topic_1": {
-    "surprise": 516,
-    "fear": 754,
-    "joy": 421,
-    "sadness": 268,
-    "neutral": 484,
-    "anger": 132,
-    "disgust": 17
+    "joy": 433,
+    "fear": 735,
+    "sadness": 262,
+    "neutral": 500,
+    "anger": 117,
+    "surprise": 500,
+    "disgust": 18
   },
   "topic_0": {
-    "fear": 2477,
-    "neutral": 1509,
-    "sadness": 117,
-    "joy": 172,
-    "anger": 117,
+    "neutral": 1587,
+    "fear": 2574,
+    "sadness": 101,
+    "surprise": 70,
     "disgust": 20,
-    "surprise": 76
+    "anger": 115,
+    "joy": 161
   },
   "topic_7": {
-    "neutral": 356,
-    "fear": 169,
-    "joy": 78,
-    "surprise": 107,
-    "anger": 87,
-    "sadness": 86,
-    "disgust": 6
+    "neutral": 349,
+    "fear": 251,
+    "joy": 99,
+    "surprise": 117,
+    "anger": 98,
+    "sadness": 130,
+    "disgust": 7
   },
   "topic_6": {
-    "fear": 419,
-    "anger": 47,
-    "neutral": 483,
-    "joy": 50,
-    "sadness": 74,
-    "surprise": 35,
+    "anger": 48,
+    "neutral": 486,
+    "fear": 302,
+    "surprise": 39,
+    "joy": 65,
+    "sadness": 83,
     "disgust": 3
   },
   "topic_5": {
-    "neutral": 291,
-    "fear": 333,
-    "sadness": 127,
-    "surprise": 55,
-    "joy": 64,
-    "anger": 92,
-    "disgust": 2
+    "sadness": 90,
+    "anger": 84,
+    "neutral": 271,
+    "surprise": 49,
+    "fear": 340,
+    "joy": 61,
+    "disgust": 3
   },
   "topic_4": {
-    "neutral": 214,
-    "anger": 65,
-    "joy": 35,
-    "fear": 499,
-    "sadness": 48,
-    "surprise": 17,
-    "disgust": 5
-  },
-  "topic_2": {
-    "neutral": 481,
-    "fear": 76,
-    "anger": 5,
-    "surprise": 3,
-    "joy": 5,
-    "disgust": 1
+    "fear": 481,
+    "anger": 41,
+    "sadness": 40,
+    "joy": 12,
+    "surprise": 9,
+    "neutral": 263,
+    "disgust": 3
   },
   "topic_3": {
-    "fear": 176,
-    "neutral": 368,
-    "anger": 9,
-    "joy": 21,
+    "neutral": 411,
+    "fear": 163,
+    "joy": 27,
+    "anger": 14,
     "disgust": 2,
-    "surprise": 6,
-    "sadness": 16
+    "surprise": 13,
+    "sadness": 19
+  },
+  "topic_2": {
+    "fear": 78,
+    "neutral": 489,
+    "anger": 7,
+    "surprise": 3,
+    "joy": 5,
+    "disgust": 1,
+    "sadness": 1
   }
 }
