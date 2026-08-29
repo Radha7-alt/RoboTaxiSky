@@ -1,33 +1,33 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "complete": {
-    "total_posts": 213373,
+    "total_posts": 215199,
     "total_sentiments": 6,
     "total_emotions": 7,
     "total_languages": 119,
     "total_topics": 8,
-    "total_hashtags": 32644,
-    "total_emojis": 841
+    "total_hashtags": 32815,
+    "total_emojis": 842
   },
   "last_week": {
-    "total_posts": 12250,
+    "total_posts": 12156,
     "total_sentiments": 3,
     "total_emotions": 7,
-    "total_languages": 53,
+    "total_languages": 51,
     "total_topics": 8,
-    "total_hashtags": 3473,
-    "total_emojis": 383
+    "total_hashtags": 3406,
+    "total_emojis": 382
   },
   "averages": {
-    "avg_posts_per_day": 1750.0,
-    "avg_hashtags_per_day": 1912.0,
-    "avg_emojis_per_day": 828.43
+    "avg_posts_per_day": 1736.57,
+    "avg_hashtags_per_day": 1920.57,
+    "avg_emojis_per_day": 837.71
   },
   "top": {
     "sentiment": "neutral",
     "emotion": "fear",
     "language": "en",
-    "hashtag": "#avgeek",
+    "hashtag": "#privatejet",
     "emoji": "👇"
   }
 }
