@@ -1,63 +1,17 @@
 {
-  "2026-08-30": {
-    "volume": 1754,
-    "sentiment": {
-      "neutral": 1530,
-      "negative": 139,
-      "positive": 85
-    },
-    "emotion": {
-      "joy": 154,
-      "surprise": 110,
-      "neutral": 685,
-      "anger": 71,
-      "sadness": 75,
-      "fear": 650,
-      "disgust": 9
-    },
-    "language": {
-      "en-US": 7,
-      "en": 447,
-      "ja": 164,
-      "tr": 10,
-      "sv": 198,
-      "nb": 98,
-      "pt": 40,
-      "no": 15,
-      "de": 14,
-      "es": 11,
-      "fr": 14,
-      "sk": 1,
-      "cs": 5,
-      "id": 4,
-      "nl": 6,
-      "nn": 8,
-      "ko": 4,
-      "en-GB": 1,
-      "pl": 1,
-      "sl": 1,
-      "is": 1,
-      "ar": 1,
-      "zh": 1,
-      "ca": 1,
-      "fi": 1,
-      "fy": 1,
-      "ff": 1
-    }
-  },
   "2026-08-31": {
-    "volume": 2024,
+    "volume": 2027,
     "sentiment": {
-      "neutral": 1797,
+      "neutral": 1800,
       "positive": 78,
       "negative": 149
     },
     "emotion": {
-      "fear": 844,
-      "neutral": 739,
+      "fear": 845,
+      "neutral": 740,
       "joy": 122,
       "surprise": 121,
-      "sadness": 91,
+      "sadness": 92,
       "anger": 93,
       "disgust": 14
     },
@@ -101,15 +55,15 @@
     }
   },
   "2026-09-01": {
-    "volume": 2587,
+    "volume": 2589,
     "sentiment": {
-      "neutral": 2294,
+      "neutral": 2296,
       "negative": 196,
       "positive": 97
     },
     "emotion": {
-      "neutral": 1003,
-      "fear": 1063,
+      "neutral": 1004,
+      "fear": 1064,
       "sadness": 100,
       "anger": 98,
       "joy": 151,
@@ -155,16 +109,16 @@
     }
   },
   "2026-09-02": {
-    "volume": 2232,
+    "volume": 2234,
     "sentiment": {
       "negative": 210,
-      "neutral": 1906,
+      "neutral": 1908,
       "positive": 116
     },
     "emotion": {
       "anger": 126,
       "joy": 150,
-      "fear": 835,
+      "fear": 837,
       "surprise": 174,
       "neutral": 810,
       "sadness": 127,
@@ -210,16 +164,16 @@
     }
   },
   "2026-09-03": {
-    "volume": 2088,
+    "volume": 2090,
     "sentiment": {
-      "neutral": 1803,
+      "neutral": 1805,
       "positive": 104,
       "negative": 181
     },
     "emotion": {
       "surprise": 134,
-      "neutral": 748,
-      "fear": 841,
+      "neutral": 749,
+      "fear": 842,
       "joy": 166,
       "sadness": 104,
       "anger": 90,
@@ -255,16 +209,16 @@
     }
   },
   "2026-09-04": {
-    "volume": 2231,
+    "volume": 2233,
     "sentiment": {
-      "neutral": 1934,
+      "neutral": 1936,
       "positive": 101,
       "negative": 196
     },
     "emotion": {
       "neutral": 824,
       "joy": 158,
-      "fear": 890,
+      "fear": 892,
       "sadness": 117,
       "surprise": 142,
       "anger": 89,
@@ -308,15 +262,15 @@
     }
   },
   "2026-09-05": {
-    "volume": 1905,
+    "volume": 1907,
     "sentiment": {
-      "neutral": 1655,
-      "negative": 174,
+      "neutral": 1656,
+      "negative": 175,
       "positive": 76
     },
     "emotion": {
-      "sadness": 105,
-      "neutral": 694,
+      "sadness": 106,
+      "neutral": 695,
       "fear": 755,
       "joy": 133,
       "anger": 80,
@@ -353,6 +307,53 @@
       "it": 1,
       "id": 1,
       "ja-JP": 1
+    }
+  },
+  "2026-09-06": {
+    "volume": 1729,
+    "sentiment": {
+      "neutral": 1499,
+      "negative": 148,
+      "positive": 82
+    },
+    "emotion": {
+      "neutral": 621,
+      "fear": 708,
+      "surprise": 105,
+      "sadness": 96,
+      "anger": 60,
+      "joy": 133,
+      "disgust": 6
+    },
+    "language": {
+      "sv": 212,
+      "en": 438,
+      "pt": 45,
+      "nn": 7,
+      "nb": 130,
+      "ja": 122,
+      "zh": 3,
+      "fr": 11,
+      "sv-FI": 5,
+      "sv-SE": 5,
+      "no": 23,
+      "cs": 1,
+      "tr": 8,
+      "uk": 3,
+      "ko": 8,
+      "sk": 3,
+      "ar": 1,
+      "de": 5,
+      "en-US": 17,
+      "es": 7,
+      "ja-JP": 2,
+      "fi": 2,
+      "da": 2,
+      "it": 2,
+      "ca": 13,
+      "pl": 1,
+      "id": 1,
+      "es-ES": 2
     }
   }
 }
