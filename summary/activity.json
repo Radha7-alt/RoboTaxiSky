@@ -1,59 +1,4 @@
 {
-  "2026-09-02": {
-    "volume": 2234,
-    "sentiment": {
-      "negative": 210,
-      "neutral": 1908,
-      "positive": 116
-    },
-    "emotion": {
-      "anger": 126,
-      "joy": 150,
-      "fear": 837,
-      "surprise": 174,
-      "neutral": 810,
-      "sadness": 127,
-      "disgust": 10
-    },
-    "language": {
-      "en": 656,
-      "en-US": 27,
-      "sv": 231,
-      "fr": 15,
-      "no": 27,
-      "nb-NO": 3,
-      "no-NO": 3,
-      "tr": 19,
-      "ca": 10,
-      "nb": 134,
-      "ja": 200,
-      "es": 12,
-      "it": 3,
-      "sk": 2,
-      "de": 13,
-      "mi": 1,
-      "nn": 8,
-      "ko": 4,
-      "pt": 36,
-      "nl": 4,
-      "ro": 1,
-      "fi": 5,
-      "sk-SK": 1,
-      "zh": 1,
-      "uk": 3,
-      "ru": 3,
-      "fa": 2,
-      "sv-FI": 1,
-      "sv-SE": 1,
-      "th": 2,
-      "sq": 1,
-      "hr": 1,
-      "cs": 2,
-      "pl": 1,
-      "id": 2,
-      "da": 1
-    }
-  },
   "2026-09-03": {
     "volume": 2090,
     "sentiment": {
@@ -338,6 +283,62 @@
       "en-GB": 1,
       "it": 4,
       "cs": 1
+    }
+  },
+  "2026-09-09": {
+    "volume": 1846,
+    "sentiment": {
+      "neutral": 1627,
+      "negative": 139,
+      "positive": 80
+    },
+    "emotion": {
+      "neutral": 656,
+      "joy": 114,
+      "sadness": 104,
+      "fear": 757,
+      "surprise": 121,
+      "anger": 82,
+      "disgust": 12
+    },
+    "language": {
+      "en": 473,
+      "fr": 14,
+      "sv": 249,
+      "es": 13,
+      "nb": 158,
+      "nn": 15,
+      "en-GB": 3,
+      "ja": 122,
+      "pt": 29,
+      "ca": 20,
+      "no": 22,
+      "fi": 3,
+      "en-US": 21,
+      "cs": 3,
+      "sv-FI": 5,
+      "sv-SE": 5,
+      "tr": 7,
+      "nl": 3,
+      "sk": 1,
+      "sl": 3,
+      "ko": 9,
+      "de": 11,
+      "ro": 1,
+      "pl": 1,
+      "fa": 1,
+      "id": 1,
+      "it": 1,
+      "gl": 1,
+      "fi-FI": 1,
+      "is": 1,
+      "ru": 1,
+      "es-ES": 1,
+      "nb-NO": 1,
+      "no-NO": 1,
+      "uk": 2,
+      "he": 1,
+      "ja-JP": 1
     }
   }
 }
