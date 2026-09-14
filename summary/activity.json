@@ -1,51 +1,4 @@
 {
-  "2026-09-06": {
-    "volume": 1729,
-    "sentiment": {
-      "neutral": 1499,
-      "negative": 148,
-      "positive": 82
-    },
-    "emotion": {
-      "neutral": 621,
-      "fear": 708,
-      "surprise": 105,
-      "sadness": 96,
-      "anger": 60,
-      "joy": 133,
-      "disgust": 6
-    },
-    "language": {
-      "sv": 212,
-      "en": 438,
-      "pt": 45,
-      "nn": 7,
-      "nb": 130,
-      "ja": 122,
-      "zh": 3,
-      "fr": 11,
-      "sv-FI": 5,
-      "sv-SE": 5,
-      "no": 23,
-      "cs": 1,
-      "tr": 8,
-      "uk": 3,
-      "ko": 8,
-      "sk": 3,
-      "ar": 1,
-      "de": 5,
-      "en-US": 17,
-      "es": 7,
-      "ja-JP": 2,
-      "fi": 2,
-      "da": 2,
-      "it": 2,
-      "ca": 13,
-      "pl": 1,
-      "id": 1,
-      "es-ES": 2
-    }
-  },
   "2026-09-07": {
     "volume": 1937,
     "sentiment": {
@@ -295,15 +248,15 @@
     }
   },
   "2026-09-12": {
-    "volume": 1772,
+    "volume": 1773,
     "sentiment": {
-      "neutral": 1541,
+      "neutral": 1542,
       "negative": 156,
       "positive": 75
     },
     "emotion": {
       "neutral": 654,
-      "fear": 729,
+      "fear": 730,
       "sadness": 83,
       "surprise": 109,
       "joy": 119,
@@ -342,6 +295,54 @@
       "af": 1,
       "fa": 1,
       "ca": 1
+    }
+  },
+  "2026-09-13": {
+    "volume": 1824,
+    "sentiment": {
+      "neutral": 1601,
+      "positive": 66,
+      "negative": 157
+    },
+    "emotion": {
+      "neutral": 640,
+      "fear": 746,
+      "surprise": 114,
+      "anger": 75,
+      "joy": 135,
+      "sadness": 103,
+      "disgust": 11
+    },
+    "language": {
+      "sv": 261,
+      "en": 467,
+      "no": 16,
+      "nb": 108,
+      "de": 10,
+      "uk": 1,
+      "ja": 120,
+      "pt": 28,
+      "sv-FI": 1,
+      "sv-SE": 1,
+      "en-US": 15,
+      "fr": 11,
+      "zh": 3,
+      "en-GB": 1,
+      "nn": 8,
+      "ko": 10,
+      "sk": 4,
+      "es": 6,
+      "ak": 1,
+      "nb-NO": 1,
+      "no-NO": 1,
+      "cs": 5,
+      "fi": 1,
+      "tr": 11,
+      "tr-TR": 1,
+      "nl": 2,
+      "sl": 1,
+      "ca": 2,
+      "pl": 1
     }
   }
 }
