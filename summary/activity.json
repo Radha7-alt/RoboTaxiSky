@@ -1,60 +1,4 @@
 {
-  "2026-09-09": {
-    "volume": 1846,
-    "sentiment": {
-      "neutral": 1627,
-      "negative": 139,
-      "positive": 80
-    },
-    "emotion": {
-      "neutral": 656,
-      "joy": 114,
-      "sadness": 104,
-      "fear": 757,
-      "surprise": 121,
-      "anger": 82,
-      "disgust": 12
-    },
-    "language": {
-      "en": 473,
-      "fr": 14,
-      "sv": 249,
-      "es": 13,
-      "nb": 158,
-      "nn": 15,
-      "en-GB": 3,
-      "ja": 122,
-      "pt": 29,
-      "ca": 20,
-      "no": 22,
-      "fi": 3,
-      "en-US": 21,
-      "cs": 3,
-      "sv-FI": 5,
-      "sv-SE": 5,
-      "tr": 7,
-      "nl": 3,
-      "sk": 1,
-      "sl": 3,
-      "ko": 9,
-      "de": 11,
-      "ro": 1,
-      "pl": 1,
-      "fa": 1,
-      "id": 1,
-      "it": 1,
-      "gl": 1,
-      "fi-FI": 1,
-      "is": 1,
-      "ru": 1,
-      "es-ES": 1,
-      "nb-NO": 1,
-      "no-NO": 1,
-      "uk": 2,
-      "he": 1,
-      "ja-JP": 1
-    }
-  },
   "2026-09-10": {
     "volume": 2130,
     "sentiment": {
@@ -353,6 +297,65 @@
       "jv": 1,
       "gl": 1,
       "zh-TW": 1
+    }
+  },
+  "2026-09-16": {
+    "volume": 2027,
+    "sentiment": {
+      "neutral": 1767,
+      "negative": 177,
+      "positive": 83
+    },
+    "emotion": {
+      "neutral": 709,
+      "fear": 802,
+      "anger": 82,
+      "joy": 149,
+      "surprise": 160,
+      "sadness": 115,
+      "disgust": 10
+    },
+    "language": {
+      "en": 522,
+      "sv": 247,
+      "nb": 131,
+      "sv-FI": 5,
+      "sv-SE": 5,
+      "fr": 18,
+      "de": 8,
+      "ja": 118,
+      "da": 2,
+      "es": 16,
+      "en-US": 59,
+      "ca": 12,
+      "no": 21,
+      "sk": 6,
+      "pt": 39,
+      "tr": 20,
+      "en-gb": 1,
+      "se": 1,
+      "ja-JP": 1,
+      "nn": 6,
+      "is": 1,
+      "ro": 2,
+      "fi": 6,
+      "th": 2,
+      "ko": 12,
+      "it": 3,
+      "nl": 2,
+      "cs": 6,
+      "sl": 2,
+      "ak": 1,
+      "sq": 1,
+      "el": 1,
+      "nb-NO": 1,
+      "no-NO": 1,
+      "zh": 1,
+      "ru": 1,
+      "he": 1,
+      "yi": 1,
+      "fi-FI": 1,
+      "uk": 1
     }
   }
 }
