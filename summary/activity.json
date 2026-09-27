@@ -1,53 +1,4 @@
 {
-  "2026-09-19": {
-    "volume": 1775,
-    "sentiment": {
-      "negative": 167,
-      "neutral": 1532,
-      "positive": 76
-    },
-    "emotion": {
-      "sadness": 104,
-      "fear": 708,
-      "neutral": 664,
-      "joy": 114,
-      "surprise": 110,
-      "anger": 66,
-      "disgust": 9
-    },
-    "language": {
-      "en": 469,
-      "tr": 24,
-      "sv": 203,
-      "nb": 134,
-      "ja": 120,
-      "en-US": 11,
-      "fi": 2,
-      "uk": 2,
-      "de": 11,
-      "pt": 44,
-      "ak": 2,
-      "sq": 2,
-      "se": 1,
-      "no": 10,
-      "sv-FI": 4,
-      "sv-SE": 4,
-      "es": 6,
-      "fr": 13,
-      "ko": 15,
-      "it": 2,
-      "da": 1,
-      "nl": 2,
-      "ru": 1,
-      "ja-JP": 3,
-      "pl": 1,
-      "nn": 1,
-      "et": 1,
-      "sk": 2,
-      "ca": 2,
-      "cs": 3
-    }
-  },
   "2026-09-20": {
     "volume": 1716,
     "sentiment": {
@@ -205,23 +156,23 @@
     }
   },
   "2026-09-23": {
-    "volume": 1978,
+    "volume": 1984,
     "sentiment": {
-      "neutral": 1679,
-      "negative": 189,
+      "neutral": 1683,
+      "negative": 191,
       "positive": 110
     },
     "emotion": {
-      "fear": 781,
+      "fear": 783,
       "joy": 173,
       "sadness": 133,
       "surprise": 164,
-      "neutral": 641,
-      "anger": 74,
+      "neutral": 644,
+      "anger": 75,
       "disgust": 12
     },
     "language": {
-      "en": 524,
+      "en": 525,
       "cs-CZ": 1,
       "pt": 37,
       "es": 15,
@@ -355,6 +306,53 @@
       "sv-FI": 4,
       "sv-SE": 4,
       "en-AU": 1
+    }
+  },
+  "2026-09-26": {
+    "volume": 1816,
+    "sentiment": {
+      "negative": 164,
+      "neutral": 1597,
+      "positive": 55
+    },
+    "emotion": {
+      "anger": 84,
+      "neutral": 679,
+      "fear": 735,
+      "sadness": 97,
+      "surprise": 101,
+      "joy": 110,
+      "disgust": 10
+    },
+    "language": {
+      "en": 458,
+      "nb": 116,
+      "sv": 219,
+      "ja": 148,
+      "no": 14,
+      "pt": 51,
+      "es": 6,
+      "nn": 2,
+      "it": 6,
+      "fr": 13,
+      "tr": 29,
+      "ko": 10,
+      "en-GB": 2,
+      "lv": 2,
+      "ca": 3,
+      "en-US": 14,
+      "ro": 2,
+      "ru": 2,
+      "de": 7,
+      "nl": 1,
+      "sv-FI": 1,
+      "sv-SE": 1,
+      "cs": 4,
+      "us": 1,
+      "sl": 1,
+      "es-ES": 2,
+      "uk": 3,
+      "he": 1
     }
   }
 }
