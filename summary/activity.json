@@ -1,51 +1,4 @@
 {
-  "2026-10-06": {
-    "volume": 1891,
-    "sentiment": {
-      "neutral": 1628,
-      "positive": 95,
-      "negative": 168
-    },
-    "emotion": {
-      "neutral": 691,
-      "surprise": 118,
-      "joy": 140,
-      "fear": 759,
-      "sadness": 104,
-      "anger": 69,
-      "disgust": 10
-    },
-    "language": {
-      "en": 486,
-      "ja": 129,
-      "sv": 160,
-      "nb": 149,
-      "no": 38,
-      "pt": 38,
-      "ca": 21,
-      "fr": 17,
-      "sv-FI": 5,
-      "sv-SE": 5,
-      "ko": 14,
-      "es": 20,
-      "ja-JP": 2,
-      "cs": 5,
-      "ru": 2,
-      "en-US": 18,
-      "it": 3,
-      "tr": 11,
-      "fi": 6,
-      "nb-NO": 9,
-      "no-NO": 9,
-      "de": 3,
-      "nn": 4,
-      "da": 2,
-      "zh": 1,
-      "uk": 2,
-      "es-ES": 1,
-      "th": 1
-    }
-  },
   "2026-10-07": {
     "volume": 2334,
     "sentiment": {
@@ -255,14 +208,14 @@
     }
   },
   "2026-10-11": {
-    "volume": 1944,
+    "volume": 1945,
     "sentiment": {
-      "neutral": 1686,
+      "neutral": 1687,
       "negative": 162,
       "positive": 96
     },
     "emotion": {
-      "neutral": 769,
+      "neutral": 770,
       "fear": 664,
       "surprise": 144,
       "anger": 122,
@@ -346,6 +299,54 @@
       "no-NO": 1,
       "se": 1,
       "fi": 1
+    }
+  },
+  "2026-10-13": {
+    "volume": 1954,
+    "sentiment": {
+      "neutral": 1675,
+      "positive": 111,
+      "negative": 168
+    },
+    "emotion": {
+      "neutral": 675,
+      "sadness": 138,
+      "fear": 680,
+      "surprise": 199,
+      "anger": 79,
+      "joy": 173,
+      "disgust": 10
+    },
+    "language": {
+      "en": 516,
+      "ja": 168,
+      "nb": 134,
+      "sv": 166,
+      "cs": 6,
+      "eu": 1,
+      "ro": 1,
+      "no": 32,
+      "ko": 9,
+      "nl": 3,
+      "pt": 45,
+      "es": 16,
+      "en-US": 12,
+      "tr": 13,
+      "fr": 10,
+      "de": 11,
+      "ca": 4,
+      "en-GB": 1,
+      "nn": 3,
+      "sk": 2,
+      "sk-SK": 1,
+      "sv-FI": 4,
+      "sv-SE": 4,
+      "es-ES": 4,
+      "es-PR": 2,
+      "da": 1,
+      "pt-BR": 3,
+      "nb-NO": 2,
+      "no-NO": 2
     }
   }
 }
