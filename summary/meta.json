@@ -1,31 +1,31 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "complete": {
-    "total_posts": 306922,
+    "total_posts": 308867,
     "total_sentiments": 6,
     "total_emotions": 7,
     "total_languages": 132,
     "total_topics": 8,
-    "total_hashtags": 42023,
-    "total_emojis": 870
+    "total_hashtags": 42216,
+    "total_emojis": 872
   },
   "last_week": {
-    "total_posts": 14052,
+    "total_posts": 13663,
     "total_sentiments": 3,
     "total_emotions": 7,
-    "total_languages": 51,
+    "total_languages": 47,
     "total_topics": 8,
-    "total_hashtags": 4022,
-    "total_emojis": 414
+    "total_hashtags": 3956,
+    "total_emojis": 399
   },
   "averages": {
-    "avg_posts_per_day": 2007.43,
-    "avg_hashtags_per_day": 2242.86,
-    "avg_emojis_per_day": 966.57
+    "avg_posts_per_day": 1951.86,
+    "avg_hashtags_per_day": 2180.14,
+    "avg_emojis_per_day": 903.29
   },
   "top": {
     "sentiment": "neutral",
-    "emotion": "fear",
+    "emotion": "neutral",
     "language": "en",
     "hashtag": "#privatejet",
     "emoji": "👇"
