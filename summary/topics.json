@@ -1,92 +1,149 @@
 {
-  "topic_3": {
+  "topic_7": {
     "label": [
-      "new",
-      "watch",
-      "title",
-      "video",
-      "details"
+      "stalled",
+      "la",
+      "reason",
+      "waymo",
+      "por"
     ],
-    "count": 865,
+    "count": 1498,
     "daily": {
-      "2026-10-13": 114,
-      "2026-10-14": 106,
-      "2026-10-15": 95,
-      "2026-10-16": 81,
-      "2026-10-17": 222,
-      "2026-10-18": 125,
-      "2026-10-19": 122
+      "2026-10-14": 251,
+      "2026-10-15": 286,
+      "2026-10-16": 209,
+      "2026-10-17": 94,
+      "2026-10-18": 231,
+      "2026-10-19": 159,
+      "2026-10-20": 268
     },
     "sentiment": {
-      "neutral": 745,
-      "negative": 85,
-      "positive": 35
+      "neutral": 1280,
+      "negative": 181,
+      "positive": 37
     },
     "emotion": {
-      "neutral": 534,
-      "joy": 58,
-      "surprise": 36,
-      "sadness": 49,
-      "fear": 146,
-      "anger": 41,
-      "disgust": 1
+      "sadness": 151,
+      "joy": 99,
+      "anger": 118,
+      "fear": 582,
+      "surprise": 149,
+      "neutral": 391,
+      "disgust": 8
     },
     "hashtags": [
-      "#PR",
       "#celebplanes",
       "#celebjettracking",
       "#privatejet",
       "#avgeek",
+      "#PR",
       "#FANZA",
       "#AV女優",
-      "#AV",
       "#CazandoGangas",
-      "#Halloween"
+      "#Halloween",
+      "#AV"
     ],
     "emojis": [
       "👇",
       "💰",
-      "🔻",
       "🔥",
-      "🎃",
       "👉",
       "🔔",
+      "🎃",
       "🔗",
-      "♡",
+      "🔻",
+      "🚨",
+      "♡"
+    ]
+  },
+  "topic_1": {
+    "label": [
+      "cruise",
+      "gal",
+      "just",
+      "tom",
+      "ship"
+    ],
+    "count": 2624,
+    "daily": {
+      "2026-10-14": 496,
+      "2026-10-15": 488,
+      "2026-10-16": 458,
+      "2026-10-17": 323,
+      "2026-10-18": 84,
+      "2026-10-19": 414,
+      "2026-10-20": 361
+    },
+    "sentiment": {
+      "neutral": 2104,
+      "negative": 283,
+      "positive": 237
+    },
+    "emotion": {
+      "fear": 836,
+      "neutral": 643,
+      "anger": 135,
+      "sadness": 222,
+      "surprise": 462,
+      "joy": 310,
+      "disgust": 16
+    },
+    "hashtags": [
+      "#celebplanes",
+      "#celebjettracking",
+      "#privatejet",
+      "#avgeek",
+      "#PR",
+      "#FANZA",
+      "#AV女優",
+      "#Halloween",
+      "#CazandoGangas",
+      "#AV"
+    ],
+    "emojis": [
+      "👇",
+      "💰",
+      "👉",
+      "🔥",
+      "🎃",
+      "🔔",
+      "🔗",
+      "🚨",
+      "🔻",
       "★"
     ]
   },
   "topic_0": {
     "label": [
       "av",
-      "cruise",
       "på",
-      "det",
-      "og"
+      "og",
+      "en",
+      "som"
     ],
-    "count": 4294,
+    "count": 4549,
     "daily": {
-      "2026-10-13": 563,
       "2026-10-14": 606,
       "2026-10-15": 560,
       "2026-10-16": 810,
       "2026-10-17": 663,
       "2026-10-18": 442,
-      "2026-10-19": 650
+      "2026-10-19": 650,
+      "2026-10-20": 818
     },
     "sentiment": {
-      "neutral": 3632,
-      "positive": 278,
-      "negative": 384
+      "neutral": 4010,
+      "negative": 330,
+      "positive": 209
     },
     "emotion": {
-      "sadness": 239,
-      "fear": 1349,
-      "neutral": 1778,
-      "joy": 415,
-      "surprise": 331,
-      "anger": 161,
-      "disgust": 21
+      "fear": 1620,
+      "joy": 339,
+      "anger": 146,
+      "neutral": 1876,
+      "sadness": 243,
+      "surprise": 302,
+      "disgust": 23
     },
     "hashtags": [
       "#avgeek",
@@ -115,149 +172,35 @@
   },
   "topic_5": {
     "label": [
-      "autonomy",
-      "bodily",
-      "ai",
-      "people",
-      "eu"
+      "en",
+      "som",
+      "det",
+      "att",
+      "på"
     ],
-    "count": 1172,
+    "count": 1053,
     "daily": {
-      "2026-10-13": 344,
       "2026-10-14": 162,
       "2026-10-15": 145,
       "2026-10-16": 162,
       "2026-10-17": 61,
       "2026-10-18": 144,
-      "2026-10-19": 154
+      "2026-10-19": 154,
+      "2026-10-20": 225
     },
     "sentiment": {
-      "neutral": 845,
-      "negative": 244,
-      "positive": 83
+      "neutral": 815,
+      "negative": 174,
+      "positive": 64
     },
     "emotion": {
-      "sadness": 113,
-      "fear": 294,
-      "surprise": 116,
-      "anger": 158,
-      "neutral": 371,
-      "joy": 113,
-      "disgust": 7
-    },
-    "hashtags": [
-      "#celebplanes",
-      "#celebjettracking",
-      "#privatejet",
-      "#avgeek",
-      "#PR",
-      "#FANZA",
-      "#AV女優",
-      "#Halloween",
-      "#CazandoGangas",
-      "#AV"
-    ],
-    "emojis": [
-      "👇",
-      "💰",
-      "👉",
-      "🔥",
-      "🎃",
-      "🔔",
-      "🔗",
-      "★",
-      "💕",
-      "♡"
-    ]
-  },
-  "topic_7": {
-    "label": [
-      "por",
-      "oferta",
-      "si",
-      "comprar",
-      "baja"
-    ],
-    "count": 1451,
-    "daily": {
-      "2026-10-13": 221,
-      "2026-10-14": 251,
-      "2026-10-15": 286,
-      "2026-10-16": 209,
-      "2026-10-17": 94,
-      "2026-10-18": 231,
-      "2026-10-19": 159
-    },
-    "sentiment": {
-      "neutral": 1285,
-      "positive": 36,
-      "negative": 130
-    },
-    "emotion": {
-      "surprise": 238,
-      "neutral": 328,
-      "fear": 533,
-      "joy": 104,
-      "sadness": 149,
-      "anger": 95,
-      "disgust": 4
-    },
-    "hashtags": [
-      "#celebplanes",
-      "#celebjettracking",
-      "#privatejet",
-      "#avgeek",
-      "#PR",
-      "#FANZA",
-      "#CazandoGangas",
-      "#Halloween",
-      "#AV女優",
-      "#AV"
-    ],
-    "emojis": [
-      "👇",
-      "💰",
-      "🔥",
-      "👉",
-      "🔔",
-      "🎃",
-      "🔻",
-      "🔗",
-      "♡",
-      "🚨"
-    ]
-  },
-  "topic_1": {
-    "label": [
-      "cruise",
-      "gal",
-      "ship",
-      "tom",
-      "gulfstream"
-    ],
-    "count": 2738,
-    "daily": {
-      "2026-10-13": 475,
-      "2026-10-14": 496,
-      "2026-10-15": 488,
-      "2026-10-16": 458,
-      "2026-10-17": 323,
-      "2026-10-18": 84,
-      "2026-10-19": 414
-    },
-    "sentiment": {
-      "neutral": 2310,
-      "negative": 229,
-      "positive": 199
-    },
-    "emotion": {
+      "neutral": 334,
       "anger": 125,
-      "fear": 1122,
-      "neutral": 666,
-      "disgust": 18,
-      "surprise": 378,
-      "sadness": 180,
-      "joy": 249
+      "joy": 88,
+      "fear": 345,
+      "surprise": 89,
+      "sadness": 64,
+      "disgust": 8
     },
     "hashtags": [
       "#celebplanes",
@@ -265,53 +208,53 @@
       "#privatejet",
       "#avgeek",
       "#PR",
-      "#FANZA",
       "#AV女優",
+      "#FANZA",
+      "#AV",
       "#Halloween",
-      "#CazandoGangas",
-      "#AV"
+      "#CazandoGangas"
     ],
     "emojis": [
       "👇",
       "💰",
       "👉",
-      "🎃",
       "🔥",
+      "🎃",
       "🔔",
       "🔗",
-      "🚨",
-      "★",
-      "🔻"
+      "📍",
+      "🔻",
+      "★"
     ]
   },
   "topic_2": {
     "label": [
       "人間制作avでは絶対に実現できんのよ",
       "僕と同じjcjkフェチは",
-      "video",
-      "new",
-      "watch"
+      "購入pr",
+      "女優判定",
+      "av女優判定ai"
     ],
-    "count": 879,
+    "count": 926,
     "daily": {
-      "2026-10-13": 76,
       "2026-10-14": 82,
       "2026-10-15": 82,
       "2026-10-16": 79,
       "2026-10-17": 78,
       "2026-10-18": 403,
-      "2026-10-19": 79
+      "2026-10-19": 79,
+      "2026-10-20": 123
     },
     "sentiment": {
-      "neutral": 874,
+      "neutral": 921,
       "negative": 5
     },
     "emotion": {
-      "neutral": 540,
-      "anger": 5,
+      "neutral": 578,
+      "anger": 8,
       "joy": 5,
-      "sadness": 6,
-      "fear": 314,
+      "sadness": 7,
+      "fear": 319,
       "surprise": 3,
       "disgust": 6
     },
@@ -337,96 +280,153 @@
       "🎃",
       "🔗",
       "💕",
-      "♡"
+      "★"
     ]
   },
   "topic_4": {
     "label": [
-      "詳細視聴",
-      "動画",
-      "fanza新作情報",
-      "min",
-      "女優判定"
+      "new",
+      "watch",
+      "details",
+      "video",
+      "release"
     ],
-    "count": 724,
+    "count": 738,
     "daily": {
-      "2026-10-13": 94,
       "2026-10-14": 98,
       "2026-10-15": 137,
       "2026-10-16": 146,
       "2026-10-17": 64,
       "2026-10-18": 85,
-      "2026-10-19": 100
+      "2026-10-19": 100,
+      "2026-10-20": 108
     },
     "sentiment": {
-      "neutral": 693,
-      "negative": 18,
-      "positive": 13
+      "neutral": 691,
+      "negative": 27,
+      "positive": 20
     },
     "emotion": {
-      "fear": 161,
-      "neutral": 508,
-      "anger": 7,
-      "surprise": 13,
-      "sadness": 22,
-      "joy": 13
+      "fear": 149,
+      "neutral": 509,
+      "anger": 11,
+      "surprise": 17,
+      "sadness": 25,
+      "joy": 27
     },
     "hashtags": [
+      "#PR",
       "#celebplanes",
       "#celebjettracking",
       "#privatejet",
       "#avgeek",
-      "#PR",
-      "#FANZA",
       "#AV女優",
+      "#FANZA",
       "#AV",
       "#Halloween",
-      "#CazandoGangas"
+      "#エロ動画"
     ],
     "emojis": [
       "👇",
       "💰",
-      "🔥",
       "🔻",
+      "🔥",
       "👉",
       "🎃",
       "🔔",
       "🔗",
-      "🕳",
-      "🚨"
+      "🚨",
+      "♡"
     ]
   },
   "topic_6": {
     "label": [
-      "det",
-      "att",
-      "som",
-      "en",
-      "och"
+      "autonomy",
+      "bodily",
+      "ai",
+      "just",
+      "way"
     ],
-    "count": 1576,
+    "count": 1648,
     "daily": {
-      "2026-10-13": 68,
       "2026-10-14": 145,
       "2026-10-15": 352,
       "2026-10-16": 296,
       "2026-10-17": 287,
       "2026-10-18": 146,
-      "2026-10-19": 282
+      "2026-10-19": 282,
+      "2026-10-20": 140
     },
     "sentiment": {
-      "neutral": 1456,
-      "negative": 100,
-      "positive": 20
+      "negative": 156,
+      "neutral": 1462,
+      "positive": 30
     },
     "emotion": {
-      "neutral": 426,
-      "joy": 40,
-      "sadness": 52,
-      "fear": 936,
-      "surprise": 38,
-      "anger": 71,
-      "disgust": 13
+      "sadness": 69,
+      "fear": 972,
+      "neutral": 390,
+      "joy": 58,
+      "surprise": 51,
+      "anger": 90,
+      "disgust": 18
+    },
+    "hashtags": [
+      "#PR",
+      "#celebplanes",
+      "#celebjettracking",
+      "#privatejet",
+      "#avgeek",
+      "#AV女優",
+      "#FANZA",
+      "#AV",
+      "#CazandoGangas",
+      "#Halloween"
+    ],
+    "emojis": [
+      "👇",
+      "💰",
+      "🔻",
+      "👉",
+      "🔥",
+      "🎃",
+      "🔔",
+      "🔗",
+      "💕",
+      "★"
+    ]
+  },
+  "topic_3": {
+    "label": [
+      "動画",
+      "詳細視聴",
+      "fanza新作情報",
+      "min",
+      "作品紹介"
+    ],
+    "count": 833,
+    "daily": {
+      "2026-10-14": 106,
+      "2026-10-15": 95,
+      "2026-10-16": 81,
+      "2026-10-17": 222,
+      "2026-10-18": 125,
+      "2026-10-19": 122,
+      "2026-10-20": 82
+    },
+    "sentiment": {
+      "neutral": 723,
+      "negative": 80,
+      "positive": 30
+    },
+    "emotion": {
+      "neutral": 517,
+      "fear": 162,
+      "anger": 41,
+      "surprise": 28,
+      "sadness": 42,
+      "joy": 42,
+      "disgust": 1
     },
     "hashtags": [
       "#PR",
@@ -442,14 +442,14 @@
     ],
     "emojis": [
       "👇",
-      "🔻",
       "💰",
-      "👉",
+      "🔻",
       "🔥",
       "🎃",
+      "👉",
       "🔔",
+      "♡",
       "🔗",
-      "💕",
       "★"
     ]
   }
