@@ -1,50 +1,4 @@
 {
-  "2026-10-25": {
-    "volume": 1705,
-    "sentiment": {
-      "neutral": 1507,
-      "negative": 137,
-      "positive": 61
-    },
-    "emotion": {
-      "fear": 664,
-      "neutral": 626,
-      "joy": 114,
-      "anger": 94,
-      "surprise": 127,
-      "sadness": 71,
-      "disgust": 9
-    },
-    "language": {
-      "ja": 201,
-      "en": 406,
-      "tr": 16,
-      "uk": 14,
-      "sv": 145,
-      "nb": 124,
-      "no": 15,
-      "pt": 93,
-      "ru": 3,
-      "de": 3,
-      "nn": 4,
-      "es": 8,
-      "it": 1,
-      "fr": 22,
-      "ca": 1,
-      "vi": 1,
-      "fi": 1,
-      "en-US": 11,
-      "ko": 13,
-      "pt-BR": 1,
-      "nl": 2,
-      "zh": 6,
-      "da": 1,
-      "ja-JP": 1,
-      "ku": 1,
-      "se": 1,
-      "es-ES": 2
-    }
-  },
   "2026-10-26": {
     "volume": 1923,
     "sentiment": {
@@ -199,16 +153,16 @@
     }
   },
   "2026-10-29": {
-    "volume": 2010,
+    "volume": 2012,
     "sentiment": {
-      "neutral": 1645,
+      "neutral": 1647,
       "negative": 269,
       "positive": 96
     },
     "emotion": {
-      "neutral": 675,
+      "neutral": 676,
       "anger": 85,
-      "fear": 787,
+      "fear": 788,
       "sadness": 197,
       "disgust": 6,
       "joy": 128,
@@ -353,6 +307,52 @@
       "hr": 1,
       "ga": 1,
       "ru": 1
+    }
+  },
+  "2026-11-01": {
+    "volume": 1535,
+    "sentiment": {
+      "neutral": 1346,
+      "negative": 128,
+      "positive": 61
+    },
+    "emotion": {
+      "neutral": 532,
+      "fear": 662,
+      "anger": 53,
+      "surprise": 86,
+      "joy": 104,
+      "sadness": 94,
+      "disgust": 4
+    },
+    "language": {
+      "es": 8,
+      "sk": 4,
+      "en": 353,
+      "nb": 149,
+      "tr": 15,
+      "sv": 132,
+      "ja": 172,
+      "no": 13,
+      "pt": 28,
+      "en-US": 4,
+      "fr": 15,
+      "nn": 7,
+      "zh": 8,
+      "sv-FI": 3,
+      "sv-SE": 3,
+      "cs": 4,
+      "ko": 8,
+      "lv": 2,
+      "ca": 5,
+      "th": 1,
+      "de": 2,
+      "nl": 2,
+      "it": 1,
+      "de-ch": 1,
+      "es-ES": 1,
+      "da": 1,
+      "gl": 1
     }
   }
 }
