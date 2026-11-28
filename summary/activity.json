@@ -1,55 +1,4 @@
 {
-  "2026-11-20": {
-    "volume": 2408,
-    "sentiment": {
-      "neutral": 2012,
-      "negative": 309,
-      "positive": 87
-    },
-    "emotion": {
-      "fear": 1037,
-      "neutral": 716,
-      "joy": 129,
-      "surprise": 202,
-      "sadness": 172,
-      "anger": 141,
-      "disgust": 11
-    },
-    "language": {
-      "ja": 203,
-      "fr": 23,
-      "en": 779,
-      "tr": 20,
-      "sv": 184,
-      "nb": 138,
-      "pt": 23,
-      "no": 36,
-      "ca": 3,
-      "en-US": 48,
-      "de": 13,
-      "sk": 3,
-      "lt": 1,
-      "zh": 7,
-      "ko": 13,
-      "sv-FI": 7,
-      "sv-SE": 7,
-      "nl": 2,
-      "es": 14,
-      "en-AU": 1,
-      "nn": 6,
-      "uk": 19,
-      "ro": 2,
-      "ru": 3,
-      "hu": 1,
-      "id": 1,
-      "fi": 3,
-      "cs": 1,
-      "pl": 1,
-      "nl-NL": 1,
-      "da": 1,
-      "is": 1
-    }
-  },
   "2026-11-21": {
     "volume": 1850,
     "sentiment": {
@@ -151,14 +100,14 @@
     }
   },
   "2026-11-23": {
-    "volume": 2116,
+    "volume": 2117,
     "sentiment": {
-      "neutral": 1830,
+      "neutral": 1831,
       "positive": 109,
       "negative": 177
     },
     "emotion": {
-      "neutral": 652,
+      "neutral": 653,
       "fear": 857,
       "joy": 217,
       "surprise": 157,
@@ -343,6 +292,52 @@
       "cs-CZ": 1,
       "ja-JP": 1,
       "ro": 2
+    }
+  },
+  "2026-11-27": {
+    "volume": 2017,
+    "sentiment": {
+      "neutral": 1759,
+      "negative": 139,
+      "positive": 119
+    },
+    "emotion": {
+      "neutral": 652,
+      "fear": 961,
+      "joy": 140,
+      "sadness": 87,
+      "anger": 70,
+      "surprise": 100,
+      "disgust": 7
+    },
+    "language": {
+      "nb": 158,
+      "en": 471,
+      "sv": 292,
+      "ja": 197,
+      "de": 8,
+      "ru": 1,
+      "ro": 1,
+      "ko": 10,
+      "nl": 3,
+      "no": 12,
+      "pt": 39,
+      "sv-FI": 9,
+      "sv-SE": 9,
+      "tr": 7,
+      "en-US": 35,
+      "es": 9,
+      "nn": 7,
+      "fr": 10,
+      "pt-BR": 3,
+      "sk": 2,
+      "gl": 1,
+      "fi": 1,
+      "cs": 4,
+      "zh": 3,
+      "ja-JP": 1,
+      "ca": 1,
+      "uk": 2
     }
   }
 }
